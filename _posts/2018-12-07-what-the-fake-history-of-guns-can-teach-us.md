@@ -1,0 +1,34 @@
+---
+title: "What the fake history of guns can teach us"
+tags:
+- One Armed Man
+layout: post
+categories:
+- Information
+---
+
+In 2000, Emory University history professor Michael Bellesiles published the book Arming America: The Origins of a National Gun Culture. The central argument of the book was that the culture of American gun ownership does not date back to the colonial era and, instead, emerged in the middle of the nineteenth century when technological advances made firearms more affordable.
+
+Among the academic left, the book was wildly popular. Scholars gave glowing reviews of the book, and Columbia University awarded Billesiles one of the most coveted prizes in the history profession: The Bancroft. Enhancing his newfound academic fame were the enemies he made, namely the National Rifle Association. Charlton Heston, to the glee of anti-gun academics, vocally criticized the book. Bellesile reveled in the attention, telling Heston that he should earn his PhD before criticizing anybody who has one.
+
+Leftist scholars were thrilled to have an academic book that appeared to thoroughly demolish the notion, so cherished by American gun owners, that the country was founded on a culture of widespread gun ownership. They even admitted as much, with the publisher saying that it was "ecstatic" about publishing it "because the book knocked the gun lobby." \[1\]
+
+But even amidst the ideological bias that plagues academia, there are still many scholars who value honesty and good scholarship more than politically appealing arguments. Even before the book was published, several historians were questioning the data upon which Bellesiles's argument was made, which was originally published in a 1996 article for the Journal of American History. Trying to follow his calculations, nobody had been able to reproduce his results. The data was vague, the calculations of percentages seemed incorrect, and he left out relevant quantitative information, such as the base number of cases.
+
+As praise turned to criticism, more historians began to look into his research. Bellesiles was now on the defensive, not just from people like the NRA, whose enmity only enhanced his academic celebreté, but now from sympathetic academics who would have liked nothing more than for his argument to be true. So Bellesiles started offering excuses for the problems critics kept discovering. He didn't keep a record of his visits to the archives, so he couldn't point critics to the appropriate sources. The notes he took on yellow legal pads were destroyed in an office flood. But when the paperback edition of the book came out in 2001, Bellesiles apparently found the flood-destroyed data again to add new numbers to the tables, only to (apparently) lose them once more. They'd just have to trust him, as he was unable to replicate his own research.
+
+Finally, Emory University hired a committee to investigate their rising star. Confirming what critics had already said, the investigating scholars were unable to duplicate his data tables, and they found significant evidence of ethical violations, including the outright fabrication of data. This including the citation of data that didn't exist (such as wills that were never actually left behind, or probate records that had been destroyed a century before in a fire), and even the records that he did use were grossly misrepresented. He also disingenuously quoted historical figures, including George Washington, that so egregiously took statements out of historical context that nobody was willing to argue as having been unintentional.
+
+In short, Bellesiles had committed fraud. Columbia University rescinded the Bancroft Prize (the only time that has been done to date), and under the mounting criticism, Bellesiles resigned his position at Emory University.
+
+The lessons about academia from this story are mixed. On the one hand, as many people quickly point out, it is encouraging to note that there are still many legitimate scholars who, even though they may agree with Bellesiles's political positions, were willing to bring scholarly fraud to light. This is, of course, exactly how academia should operate.
+
+However, the initial praise of the book still indicates the problems of academia's political biases. It would be one thing if historians simply praised a book whose data and methods were not carefully scrutinized --- something that is, frankly, unavoidable in book reviews, as such levels of scrutiny cannot realistically be conducted by every reviewer for every book. But even after the scandal was exposed, some of the reviewers who praised him indicated that their disappointment in his dishonesty was political. Roger Lane, who gave the book high praise in his review for the Journal of American History, said after the scandal that he "betrayed the cause."
+
+Jon Weiner, author of the 2005 book Historian's Trouble: Plagiarism, Fraud and Politics in the Ivory Tower acknowledges that Bellesiles's book is an example of academic fraud, but he argues that this and other left-biased cases of fraud only come about when historians come under attack by right-wing interest groups. With Nancy McLean's recent book Democracy in Chains, which is essentially a hatchet job against libertarians, Weiner's roundabout defense of Bellesiles and other fraudulent scholars effectively provided a ready-made (if laughably partisan) defense of her own scholarly dishonesty.
+
+The question, then, is how this kind of dishonesty is supported by the confirmation bias of left-liberal academics. The Bellesiles case genuinely does demonstrate that there are honest scholars, as do the pranksters responsible for the "grievance studies" scandals, in which they are publishing hoax papers in order to expose the ability to get intellectually vapid research published by appealing to current political trends. But these academics, who are clearly trying to combat the very environment that allowed Bellesiles work to be published in the first place, are being treated as pariahs. Bellesiles is considered as an outlier --- an embarrassment to the profession, but potentially less because of his fraud, per se, and more because he conducted his dishonesty so blatantly that he couldn't avoid exposure. The academic trends since Arming America was published give some indication for optimism, such as the "grievance studies" professors and the legitimate critics of Bellesiles, but they also demonstrate just how far academia has fallen (or, alternatively, how bad it has always been) in the name of fashionable political agendas.
+
+1. Quote found in Peter Charles Hoffer, Past Imperfect: Facts, Fictions, Fraud --- American History from Bancroft and Parkman to Ambrose, Bellesiles, Ellis and Goodwin (New York: Public Affairs, 2004), 161.
+
+Source: Chris Calton, [The Mises Institute](https://mises.org/wire/what-fake-history-guns-can-teach-us)
