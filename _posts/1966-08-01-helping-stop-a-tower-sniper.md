@@ -1,8 +1,8 @@
 ---
 title: "Helping stop a tower sniper"
+layout: post
 tags:
 - Life magazine
-layout: post
 categories:
 - Situations
 ---
