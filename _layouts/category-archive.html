@@ -4,24 +4,10 @@ layout: base
 
 <h1> Categories </h1>
 
-{% assign categories_sorted = site.categories | sort %}
-{% assign posts_sorted = site.posts | sort: 'title' %}
-
-{% for category in categories_sorted %}
-<!-- for each category, create an anchor by using the category name as an id -->
-<div id="{{ category[0] }}">
-  <h2> {{ category[0] }} </h2> <!-- create a category heading -->
-
-  <ul> <!-- create the list of posts -->
-    <!-- iterate through all the posts on the site sorted by alphabet-->
-    {% for post in posts_sorted %}
-      <!-- list only those which contain the current category -->
-      {% if post.categories contains category[0] %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title | smartify }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-</div>
-{% endfor %}
+<ul class="posts">
+  {% for post in page.posts %}
+  <li>
+    <a class="post-links" href="{{ post.url }}">{{ post.title | smartify }}</a>
+  </li>
+  {% endfor %}
+</ul>
