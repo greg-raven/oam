@@ -1,8 +1,8 @@
 ---
 title: "Murder in California"
+layout: post
 tags:
 - Clayton E. Cramer
-layout: post
 categories:
 - Information
 ---
@@ -61,13 +61,13 @@ The desire to reduce murder is, of course, both understandable and laudable. The
 
 There are people who have put tremendous energy and money into lobbying for restrictive gun laws, in the hopes that they will reduce the murder rate. I would submit that the evidence from California shows that these individuals are misdirected. By focusing on restrictive gun laws, they are, in effect, attempting to empty the lake with an eyedropper.
 
-**Note**s
+**Notes**
 
 1. Bureau of Justice Statistics, *Report to the Nation: on Crime and Justice, 1st ed.,* (Washington, D.C.: Government Printing Office, 1983), p. 14.
 2. "Still unsafe on the streets," *The Economist,* March 21, 1987, p. 56.
 3. Federal Bureau of Investigation, *Uniform Crime Reports for the United States 1987,* (Washington, D.C.: Government Printing Office, 1988), p. 14.
 4. "Still unsafe on the streets," *The Economist,* March 21, 1987, p. 56.
-5. Federal Bureau of Investigation, *Uniform Crime Reports for the United States 1988,* (Washington, D.C.: Government Printing Office, 1989), p. 8
+5. Federal Bureau of Investigation, *Uniform Crime Reports for the United States 1988,* (Washington, D.C.: Government Printing Office, 1989), p. 8.
 6. Ibid., p. 12.
 7. Mark S. Hoffman, ed., *World Almanac and Book of Facts 1989,* (New York, N.Y.: Pharos Books, 1988), p. 615.
 8. Ibid., p. 616.

@@ -1,8 +1,8 @@
 ---
 title: "Gun Rights"
+layout: post
 tags:
 - Don B. Kates
-layout: post
 categories:
 - Information
 ---

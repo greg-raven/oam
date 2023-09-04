@@ -1,8 +1,8 @@
 ---
 title: "Right to Bear Arms"
+layout: post
 tags:
 - Charley Reese
-layout: post
 categories:
 - Information
 ---
