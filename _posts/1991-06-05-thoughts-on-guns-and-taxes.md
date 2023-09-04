@@ -1,8 +1,8 @@
 ---
 title: "Thoughts on Guns and Taxes"
+layout: post
 tags:
 - John J. Bethune
-layout: post
 categories:
 - Information
 ---
