@@ -1,7 +1,7 @@
 ---
 title: "Foundation uncovers report that defies anti-gun agenda"
 tags:
-- One Armed Man
+- WorldNetDaily.com
 layout: post
 categories:
 - Information
@@ -39,4 +39,4 @@ In that report, American Medical Association chief Barb McAneny added, "We see t
 
 "Essentially, the study's authors, the AMA, and the Post appear incapable of seriously entertaining the possibility that sweeping gun control legislation might not have produced the results desired and expected: fewer deaths," FEE reported.
 
-Source: [World Net Daily](https://www.wnd.com/2018/12/foundation-uncovers-report-that-defies-anti-gun-agenda/)
+Source: World Net Daily, wnd.com/2018/12/foundation-uncovers-report-that-defies-anti-gun-agenda/

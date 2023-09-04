@@ -1,7 +1,7 @@
 ---
 title: "Judge keeps California gun fight alive"
 tags:
-- One Armed Man
+- WorldNetDaily
 layout: post
 categories:
 - Information
@@ -47,4 +47,4 @@ Guns.com said that one owner, for example, "documented 50 attempts which either 
 
 "Many people, including our clients, did everything they could to comply with the law and avoid criminal liability," said George M. Lee, a lawyer on the case. "They used updated web browsers, hardware, different devices, and even did internet speed tests to make sure it wasn't a problem on their end."
 
-Source: WorldNetDaily (WND.com)
+Source: wnd.com/2019/06/judge-keeps-california-gun-fight-alive/

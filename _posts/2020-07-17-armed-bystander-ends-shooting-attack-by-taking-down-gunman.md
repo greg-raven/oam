@@ -1,7 +1,7 @@
 ---
 title: "Armed bystander ends shooting attack by taking down gunman"
 tags:
-- One Armed Man
+- WorldNetDaily.com
 layout: post
 categories:
 - Situations
@@ -47,4 +47,4 @@ The lawyer said police quickly "determined my client acted completely lawfully a
 
 Relford said he helped write and get passed a 2019 Indiana law that protects people who are justified in shooting someone from frivolous lawsuits.
 
-Source: [WorldNetDaily.com](https://www.wnd.com/2020/07/bystander-ends-mass-shooting-attack-taking-gunman/)
+Source: World Net Daily, https://www.wnd.com/2020/07/bystander-ends-mass-shooting-attack-taking-gunman/

@@ -1,7 +1,7 @@
 ---
 title: "Federal judge strikes down city's ban on open-carry firearms"
 tags:
-- One Armed Man
+- Johnathan Jones
 layout: post
 categories:
 - 'Open carry'
@@ -41,4 +41,4 @@ The group celebrated the win Wednesday.
 
 "We hope city officials can find a way to effectively address violent crime in Jackson, but they must do so in a way that respects the right of individuals to protect themselves."
 
-Source: Johnathan Jones, [World Net Daily](https://www.wnd.com/2020/06/federal-judge-strikes-jacksons-ban-open-carry-firearms/)
+Source: Johnathan Jones, wnd.com/2020/06/federal-judge-strikes-jacksons-ban-open-carry-firearms/

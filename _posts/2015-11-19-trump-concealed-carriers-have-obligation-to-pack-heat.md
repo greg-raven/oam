@@ -1,7 +1,7 @@
 ---
 title: "Trump: Concealed carriers have 'obligation' to pack heat"
 tags:
-- One Armed Man
+- Cheryl Chumley
 layout: post
 categories:
 - CCW
@@ -17,7 +17,7 @@ Get the hottest, most important news stories on the Internet --- delivered FREE 
 
 He went on, acknowledging that "carrying a weapon is not always feasible or appropriate," but tensions around the world demand it be considered.
 
-"Each permit holder must make the deicsion to carry or not carry," Trump said. "I will carry more often than I have in the past and I am sure other concealed permit holders will do the same. Do we have an obilgation to carry? The answer is 'yes,' but we must do it in such a way as to raise serious doubts in the minds of those who might be considering violence in America."
+"Each permit holder must make the decision to carry or not carry," Trump said. "I will carry more often than I have in the past and I am sure other concealed permit holders will do the same. Do we have an obilgation to carry? The answer is 'yes,' but we must do it in such a way as to raise serious doubts in the minds of those who might be considering violence in America."
 
 And his main point?
 
@@ -25,4 +25,4 @@ And his main point?
 
 Breitbart also reported Nashville talk radio host Ralph Bristol claiming similarly over the weekend. During a Saturday show, he said, "concealed carry permit holders have a duty to be armed," given especially the terror attacks in Paris, the news outlet reported.
 
-Source: Cheryl Chumley, [WND](https://www.wnd.com/2015/11/trump-concealed-carriers-have-obligation-to-pack-heat/)
+Source: Cheryl Chumley, wnd.com/2015/11/trump-concealed-carriers-have-obligation-to-pack-heat/

@@ -1,7 +1,7 @@
 ---
 title: "Supremes asked to open door to interstate handgun sales"
 tags:
-- One Armed Man
+- Bob Unruh
 layout: post
 categories:
 - Information
@@ -57,4 +57,4 @@ The new case concerns the fact that "federal law bars consumers from acquiring h
 
 "The question presented is whether prohibiting interstate handgun sales ... violates the Second Amendment and the equal protection component of the Fifth Amendment's Due Process Clause," the filing explains.
 
-Source: Bob Unruh, World Net Daily (wnd.com)
+Source: Bob Unruh, wnd.com/2018/11/supremes-asked-to-open-door-to-interstate-handgun-sales/

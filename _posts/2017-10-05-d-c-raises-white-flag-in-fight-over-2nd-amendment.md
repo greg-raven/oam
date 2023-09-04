@@ -1,7 +1,7 @@
 ---
 title: "D.C. raises white flag in fight over 2nd Amendment"
 tags:
-- One Armed Man
+- Bob Unruh
 layout: post
 categories:
 - Information
@@ -45,5 +45,4 @@ He was the lawyer who won at the Supreme Court in both the 2008 District of Colu
 
 There's more to responsible and effective gun ownership than possession --- more than a few trips to the local gun range. Once you've made the decision to arm yourself, you need "Armed Response: A Comprehensive Guide to Using Firearms for Self-Defense."
 
-Source: Bob Unruh, World Net Daily  
-wnd.com/2017/10/d-c-raises-white-flag-in-fight-over-2nd-amendment/
+Source: Bob Unruh, World Net Daily, wnd.com/2017/10/d-c-raises-white-flag-in-fight-over-2nd-amendment/

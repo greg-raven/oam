@@ -1,7 +1,7 @@
 ---
 title: "New bull's-eye on Obama's 'unconstitutional' gun grab"
 tags:
-- One Armed Man
+- Bob Unruh
 layout: post
 categories:
 - Information
@@ -53,4 +53,4 @@ Klayman contends that even if the White House wanted to impose new rules, Obama'
 
 \[...\]
 
-Source: Bob Unruh, [WND.com](https://www.wnd.com/2016/02/new-bulls-eye-on-obamas-unconstitutional-gun-grab/)
+Source: Bob Unruh, wnd.com/2016/02/new-bulls-eye-on-obamas-unconstitutional-gun-grab/

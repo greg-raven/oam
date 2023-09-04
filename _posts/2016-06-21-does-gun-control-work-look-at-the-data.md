@@ -1,13 +1,11 @@
 ---
 title: "Does gun control work? Look at the data"
 tags:
-- One Armed Man
+- Thomas Sowell
 layout: post
 categories:
 - Information
 ---
-
-By Thomas Sowell
 
 Surely murder is a serious subject, which ought to be examined seriously. Instead, it is almost always examined politically in the context of gun control controversies, with stock arguments on both sides that have remained the same for decades. And most of those arguments are irrelevant to the central question: Do tighter gun control laws reduce the murder rate?
 
@@ -39,4 +37,4 @@ In both England and the United States, those people most zealous for tighter gun
 
 The facts are too plain to be ignored. Moreover, the consequences are too dangerous to law-abiding citizens, whose lives are put in jeopardy on the basis of fact-free assumptions and unexamined dogmas. Such arguments are a farce, but not the least bit funny.
 
-Source: [WorldNetDaily.com](https://www.wnd.com/2016/06/does-gun-control-work-look-at-the-data/)
+Source: Thomas Sowell, wnd.com/2016/06/does-gun-control-work-look-at-the-data/

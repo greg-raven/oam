@@ -1,7 +1,7 @@
 ---
 title: "New Zealand gun-crime rate reaches 10-year high despite strict gun control"
 tags:
-- One Armed Man
+- Ryan Foley
 layout: post
 categories:
 - Information
@@ -37,8 +37,8 @@ According to Reuters, New Zealand implemented a gun registry earlier this month.
 
 It might seem tempting to dismiss the idea of such wide-reaching gun control ever taking effect in the United States. After all, the right to keep and bear arms is explicitly protected in the Second Amendment to the Constitution.
 
-However, liberals have made it clear that they see abolishing the Second Amendment as part of their long-range plan. The late Supreme Court Justice John Paul Stevens wrote as much in a 2018 New York Times Op-Ed titled "Repeal the Second Amendment."
+However, liberals have made it clear that they see abolishing the Second Amendment as part of their long-range plan. The late Supreme Court Justice John Paul Stevens wrote as much in a 2018 *New York Times* Op-Ed titled "Repeal the Second Amendment."
 
 Liberals and Democrats should look at the statistics in New Zealand and here at home before moving ahead with their gun-control agenda --- even though these statistics probably will have the New Zealand effect, causing liberals at home to push for more gun control, not less.
 
-Source: Ryan Foley, The Western Journal. H/T [WND.com](https://www.wnd.com/2020/06/new-zealand-gun-crime-rate-reaches-10-year-high-despite-strict-gun-control/)
+Source: Ryan Foley, *The Western Journal.* H/T wnd.com/2020/06/new-zealand-gun-crime-rate-reaches-10-year-high-despite-strict-gun-control/

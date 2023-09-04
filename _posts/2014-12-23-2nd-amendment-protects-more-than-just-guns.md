@@ -1,7 +1,7 @@
 ---
 title: "2nd Amendment protects more than just guns"
 tags:
-- One Armed Man
+- Bob Unruh
 layout: post
 categories:
 - Information
@@ -27,5 +27,5 @@ He appealed, and the Connecticut Supreme Court unanimously wrote: "The defendant
 
 \[...\]
 
-Source: Bob Unruh  
+Source: Bob Unruh
 wnd.com/2014/12/2nd-amendment-protects-more-than-just-guns/

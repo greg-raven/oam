@@ -1,7 +1,7 @@
 ---
 title: "Target's gun ban backfires: Here come the robbers"
 tags:
-- One Armed Man
+- Leo Hohmann
 layout: post
 categories:
 - Information
@@ -43,4 +43,4 @@ In fact, there have been four robbery reports in the few weeks after the change 
 
 \[...\]
 
-Read more at https://www.wnd.com/2014/07/armed-robbers-shopping-for-victims-at-target/#wjaU94lUMW531Qm8.99
+Source: Leo Hohmann, wnd.com/2014/07/armed-robbers-shopping-for-victims-at-target/#wjaU94lUMW531Qm8.99
