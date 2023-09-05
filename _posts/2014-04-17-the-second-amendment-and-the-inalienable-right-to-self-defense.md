@@ -1,14 +1,15 @@
 ---
 title: "The Second Amendment and the Inalienable Right to Self-Defense"
 tags:
-- One Armed Man
+- Nelson Lund
 layout: post
 categories:
 - Information
 ---
 
 > A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.
-> ---Amendment II
+>
+> <cite>Amendment II</cite>
 
 Modern debates about the meaning of the Second Amendment have focused on whether it protects a private right of individuals to keep and bear arms or a right that can be exercised only through militia organizations like the National Guard. This question, however, was apparently never even raised until long after the Bill of Rights was adopted. Early discussions took the basic meaning of the amendment for granted and focused instead on whether it added anything significant to the original Constitution. The debate later shifted because of changes in the Constitution and in constitutional law and because legislatures began to regulate firearms in ways undreamed of in our early history.
 
@@ -64,5 +65,5 @@ A ban (or severe restrictions) on both concealed and open carry would seem to co
 
 A more general question concerns the scope of the government's power to inhibit the possession and use of firearms through regulations that impose onerous conditions and qualifications on gun owners. In the analogous area of free speech, courts have struggled endlessly to draw lines that allow governments to serve what they see as the public interest without allowing undue suppression of individual liberties. If the Supreme Court is serious about treating the right to arms as an important part of the constitutional fabric, we should expect the Justices to encounter similar challenges in its emerging gun control jurisprudence.
 
-Source: Nelson Lund, is University Professor at George Mason University School of Law
+Source: Nelson Lund, is University Professor at George Mason University School of Law,
 heritage.org/the-constitution/report/the-second-amendment-and-the-inalienable-right-self-defense

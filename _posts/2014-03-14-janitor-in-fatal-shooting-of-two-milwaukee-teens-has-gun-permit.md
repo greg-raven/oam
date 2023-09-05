@@ -7,8 +7,8 @@ categories:
 - Situations
 ---
 
-The attorney for a maintenance worker who fatally shot two teens police say were attacking him with a baseball bat Wednesday said his client carried a gun because of the nature and location of his work, but is not a gun rights activist or even a hunter.  
-  
+The attorney for a maintenance worker who fatally shot two teens police say were attacking him with a baseball bat Wednesday said his client carried a gun because of the nature and location of his work, but is not a gun rights activist or even a hunter.
+
 "He considers it an occupational necessity" to carry a gun and has a permit to do so, the lawyer, David Geraghty, said Friday. He represents Jeremy Rossetto, 39, of Cudahy, who was released from jail Friday after initially being arrested on possible homicide charges after the incident.
 
 Prosecutors ordered Rossetto released without bail, but they will continue investigating the circumstances and don't expect a decision soon on whether Rossetto will face formal charges.
@@ -27,4 +27,4 @@ Miller was a student at Milwaukee Public Schools' Transition High School, 2610 W
 
 \[...\]
 
-[Read the full story here](https://www.jsonline.com/news/crime/janitor-suspected-of-killing-milwaukee-teens-is-released-from-jail-b99225538z1-250355061.html).
+Source: By Bruce Vielmetti, [Journal Sentinel](https://www.jsonline.com/news/crime/janitor-suspected-of-killing-milwaukee-teens-is-released-from-jail-b99225538z1-250355061.html).
