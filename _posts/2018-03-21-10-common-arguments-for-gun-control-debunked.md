@@ -1,7 +1,7 @@
 ---
 title: "10 common arguments for gun control, debunked"
 tags:
-- One Armed Man
+- Ryan Cleckner
 layout: post
 categories:
 - Information

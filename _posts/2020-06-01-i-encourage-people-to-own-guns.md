@@ -1,7 +1,7 @@
 ---
 title: "'I encourage people to own guns'"
 tags:
-- One Armed Man
+- Ken Suarez
 layout: post
 categories:
 - Situations
@@ -21,6 +21,6 @@ Judd said there were rumblings on social media that rioters planned to bring vio
 
 \[...\]
 
-Source: Ken Suarez, [Fox13News.com](https://www.fox13news.com/news/peaceful-protesters-gather-in-polk-county-curfew-in-effect-at-8-p-m)
+Source: Ken Suarez, fox13news.com/news/peaceful-protesters-gather-in-polk-county-curfew-in-effect-at-8-p-m
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kQF2SFz0A0I" title="Sheriff Grady Judd has message for criminals"></iframe>

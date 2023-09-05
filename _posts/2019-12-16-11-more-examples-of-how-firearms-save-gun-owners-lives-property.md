@@ -1,8 +1,9 @@
 ---
 title: "11 more examples of how firearms save gun owners' lives, property"
-tags:
-- One Armed Man
 layout: post
+tags:
+- Amy Swearer
+- Cooper Conway
 categories:
 - CCW
 - Information
