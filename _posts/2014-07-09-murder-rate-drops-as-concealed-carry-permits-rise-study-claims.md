@@ -1,7 +1,7 @@
 ---
 title: "Murder rate drops as concealed carry permits rise, study claims"
 tags:
-- Fox News
+- FoxNews.com
 layout: post
 categories:
 - CCW
