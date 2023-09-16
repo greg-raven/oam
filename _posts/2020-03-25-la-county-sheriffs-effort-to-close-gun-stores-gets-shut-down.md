@@ -1,5 +1,5 @@
 ---
-title: "LA County Sheriff's effort to close gun stores gets shut down"
+title: "L.A. County Sheriff's effort to close gun stores gets shut down"
 tags:
 - AWR Hawkins
 layout: post

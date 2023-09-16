@@ -1,5 +1,5 @@
 ---
-title: "LA County: Only 197 Concealed Carry Permits for 10.2 Million Residents"
+title: "L.A. County: Only 197 Concealed Carry Permits for 10.2 Million Residents"
 tags:
 - AWR Hawkins
 layout: post

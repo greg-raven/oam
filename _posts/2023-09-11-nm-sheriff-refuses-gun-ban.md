@@ -7,7 +7,7 @@ tags:
 - Susan Montoya Bryan
 ---
 
-ALBUQUERQUE, N.M. (AP) — [...]
+ALBUQUERQUE, N.M. (AP) --- [...]
 
 Democratic New Mexico Gov. Michelle Lujan Grisham said she would welcome a fight after announcing an emergency order to suspend the right to carry firearms in most public places around Albuquerque. That's exactly what she's getting.
 
@@ -35,7 +35,7 @@ The head of the lobbying arm of the National Rifle Association, Randy Kozuch, is
 
 The order applies to open and concealed carry in most public places and is tied to a threshold for violent crime rates currently only met in metropolitan Albuquerque. Police and licensed security guards are exempt.
 
-Violators could face civil penalties and a fine of up to $5,000, gubernatorial spokeswoman Caroline Sweeney said. Residents still could transport guns to some private locations such as a gun range or gun store, but only with a trigger lock — a container or mechanism making it impossible to discharge.
+Violators could face civil penalties and a fine of up to $5,000, gubernatorial spokeswoman Caroline Sweeney said. Residents still could transport guns to some private locations such as a gun range or gun store, but only with a trigger lock --- a container or mechanism making it impossible to discharge.
 
 [...]
 
