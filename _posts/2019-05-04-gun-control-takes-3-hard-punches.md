@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 - Second Amendment Foundation: Restrictions 'should be down for the count'

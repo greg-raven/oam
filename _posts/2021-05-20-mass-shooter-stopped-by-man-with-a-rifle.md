@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xevjBGos0uU" title="Attempted Mass Shooter Stopped By Man With Rifle Ignored By Mainstream Media"></iframe>

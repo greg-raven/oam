@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Today, Commissioners passed a resolution declaring Nye County a 2nd Amendment Sanctuary and calling on Gov Sisolak to "veto any legislation which infringes on the right of the people to keep and bear arms."

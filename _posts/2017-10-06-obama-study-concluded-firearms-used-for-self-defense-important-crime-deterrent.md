@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 "Self-defense can be an important crime deterrent," concluded a study by the Centers for Disease Control (CDC) mandated via executive order by President Barack Obama. The findings also question the effectiveness of gun-control measures.

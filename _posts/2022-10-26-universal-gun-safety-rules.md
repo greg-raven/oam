@@ -4,7 +4,7 @@ tags:
 - USCCA
 layout: post
 categories:
-- Information
+- information
 ---
 
 Universal Gun Safety Rule #1: Treat all guns as though they are always loaded and always perform a clearance check every time you pick one up.

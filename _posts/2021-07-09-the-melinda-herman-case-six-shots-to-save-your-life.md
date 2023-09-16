@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 Donnie Herman owned two guns for home defense. One was a .38 revolver, and Donnie took his wife Melinda to the range to learn how to fire it in case she'd ever have to use it to protect herself or her 9-year-old twins. That circumstance arose just two weeks later when, home alone with her children, Melinda was confronted by an intruder.

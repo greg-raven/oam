@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 At least 69 mass shootings have been stopped by armed civilians since 1990, data collected by the Crime Prevention Research Center shows. This flies in the face of the media (examples here, here, and here) arguing mass shootings are caused by lack of gun control. The truth is, armed civilians stop mass shootings regularly, and one major way to dampen the amount of mass shootings is to allow people to carry guns wherever they go.

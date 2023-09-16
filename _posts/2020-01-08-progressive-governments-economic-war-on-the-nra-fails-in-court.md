@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 - In California and New York, efforts to target the gun-rights group's business relationships are failing on First Amendment grounds.

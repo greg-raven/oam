@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Eric Pratt, executive director of Gun Owners of America, counters the limited viewpoint of CNN host Carol Costelo, offering the full picture.

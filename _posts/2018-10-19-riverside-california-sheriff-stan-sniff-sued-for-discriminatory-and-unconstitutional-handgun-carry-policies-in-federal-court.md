@@ -5,7 +5,7 @@ tags:
 layout: post
 categories:
 - CCW
-- Information
+- information
 ---
 
 RIVERSIDE, CA --- Today, attorneys for a Riverside County resident and five public interest organizations filed a new federal lawsuit against the Sheriff Stanley Sniff and the County of Riverside over handgun carry license policies and practices that, the plaintiffs allege, are unconstitutional. A copy of the complaint for van Nieuwenhuyzen v. Sniff can be viewed at [calgunsfoundation.org/sniff](http://www.calgunsfoundation.org/sniff).

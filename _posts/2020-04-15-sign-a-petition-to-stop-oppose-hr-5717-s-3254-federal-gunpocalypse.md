@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Under the guise of "Community Safety," H.R. 5717 and S. 3254 would:

@@ -4,7 +4,7 @@ tags:
 - Front Sight
 layout: post
 categories:
-- Information
+- information
 ---
 
 Courtesy of Front Sight.

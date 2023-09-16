@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Since its inception, the Second Amendment has served as a firewall against tyranny. The colonists were all too familiar with the consequences of living beneath an overbearing monarch, so they drafted specific protections to ensure their God-given freedoms wouldn't be stolen by leaders poisoned by power.

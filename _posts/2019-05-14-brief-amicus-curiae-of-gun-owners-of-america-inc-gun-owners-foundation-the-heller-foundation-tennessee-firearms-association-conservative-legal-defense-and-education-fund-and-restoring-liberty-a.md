@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 [20190514-GOA-GOF-Amicus-Brief](/assets/pdf/20190514-GOA-GOF-Amicus-Brief.pdf)

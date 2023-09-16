@@ -4,7 +4,7 @@ tags:
 - WTVM
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 ORRVILLE, Ala. (AP) --- Dallas County sheriffs say a man accused of trying to rob a dollar store in Orrville at gunpoint was fatally shot by a customer.

@@ -3,7 +3,7 @@ title: "California can't challenge ruling on concealed guns, court says"
 layout: post
 categories:
 - CCW
-- Information
+- information
 tags:
 - Maura Dolan
 ---

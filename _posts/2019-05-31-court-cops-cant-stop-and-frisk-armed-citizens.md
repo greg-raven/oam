@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- 'Open carry'
+- open carry
 ---
 
 - 'Government may not target and seize specific individuals without any particular suspicion'

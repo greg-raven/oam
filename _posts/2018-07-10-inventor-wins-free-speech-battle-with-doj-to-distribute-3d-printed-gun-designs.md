@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 Cody Wilson's Defense Distributed and Second Amendment Foundation (SAF) reached a settlement with the Department of Justice allowing unfettered publication of 3D gun files and other information in a case centered on free speech.

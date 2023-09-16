@@ -4,7 +4,7 @@ tags:
 - Johnathan Jones
 layout: post
 categories:
-- 'Open carry'
+- open carry
 ---
 
 A controversial gun ban in Mississippi has been overturned by a judge, ending a two-month legal battle between gun rights advocates and the city's Democratic mayor.

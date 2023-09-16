@@ -4,7 +4,7 @@ tags:
 - Stephen Halbrook
 layout: post
 categories:
-- Information
+- information
 ---
 
 - Carl Bogus invented the fiction that the purpose of the Second Amendment was slave control.

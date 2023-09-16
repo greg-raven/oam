@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 LOUISVILLE, Ky. --- The drugmaker that produces Prozac, the antidepressant that Joseph Wesbecker's victims blamed for his deadly shooting rampage 30 years ago at Standard Gravure, secretly paid the victims $20 million to help ensure a verdict exonerating the drug company.

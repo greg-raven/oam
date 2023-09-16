@@ -4,7 +4,7 @@ tags:
 - Huffington Post
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 A Marionville, Mo., liquor store clerk was working his shift on Sunday night when a would-be robber walked in smoking a cigarette, according to WUSA.

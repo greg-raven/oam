@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Property crimes are on the decline in the High Desert but violent crime rose last year in some local communities, according to annual county crime statistics released by First District Supervisor Robert Lovingood's office Tuesday.

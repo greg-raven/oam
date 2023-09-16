@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 A study on state-level gun control laws in the U.S. shows that bans on "high-capacity" magazines and "assault weapons" do not lower homicide rates.

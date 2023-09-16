@@ -4,7 +4,7 @@ tags:
 - L. Neil Smith
 layout: post
 categories:
-- Information
+- information
 ---
 
 > "Guns cause crime like flies cause garbage."

@@ -4,7 +4,7 @@ tags:
 - Tori Gaines
 layout: post
 categories:
-- Information
+- information
 ---
 
 A new interactive map lays out the number of gun homicides in California since 2014, and the numbers are staggering. \[...\]

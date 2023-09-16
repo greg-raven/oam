@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 During an interview with the NRA's 1st Freedom, President Donald Trump said he would sign national reciprocity legislation for concealed carry if it reaches his desk.

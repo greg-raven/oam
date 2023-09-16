@@ -4,7 +4,7 @@ tags:
 - Donald J. Trump
 layout: post
 categories:
-- Information
+- information
 ---
 
 > Responsible gun ownership saves lives. The right to self-defense is essential to public safety.

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Dark Storm Industries LLC, a federally-licensed firearms manufacturer currently located in New York, will relocate to Titusville, FL and expand its advanced manufacturing facility. The project is expected to create 50 new jobs with an average annual salary of $50,000 and a capital investment of approximately $3.2 million. Products manufactured by the company are shipped across the United States.

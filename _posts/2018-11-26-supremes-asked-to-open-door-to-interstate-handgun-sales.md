@@ -4,7 +4,7 @@ tags:
 - Bob Unruh
 layout: post
 categories:
-- Information
+- information
 ---
 
 - 'The time is right for the court to resolve this matter'

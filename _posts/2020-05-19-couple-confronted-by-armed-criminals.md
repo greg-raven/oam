@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 ‪As a criminal pointed a gun directly at him and his girlfriend, B. J. Baldwin had to make a split-second decision.‬‬ ‪That's when his firearms training kicked in.‬ He fired 10 shots. All 10 shots hit the target.‬

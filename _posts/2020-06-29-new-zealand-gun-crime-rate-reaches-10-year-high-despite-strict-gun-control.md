@@ -4,7 +4,7 @@ tags:
 - Ryan Foley
 layout: post
 categories:
-- Information
+- information
 ---
 
 It's been more than a year since New Zealand instituted strict gun confiscation in the wake of a mass shooting in Christchurch in March 2019. So according to liberal logic, gun crime in New Zealand should be at an all-time low now.

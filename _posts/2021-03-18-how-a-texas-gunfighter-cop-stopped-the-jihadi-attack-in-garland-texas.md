@@ -4,7 +4,7 @@ tags:
 - Dean Weingarten
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 In Garland, Texas, on 3 May 2015, Gregory Stevens, a veteran police officer with the Garland Police Department, was working off-duty as armed security for the "Draw the Prophet" cartoon contest event.

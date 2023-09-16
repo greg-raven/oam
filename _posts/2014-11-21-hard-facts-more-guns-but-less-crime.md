@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Jeff Knox looks at recent stats that belie controllers' anti-firearm rhetoric

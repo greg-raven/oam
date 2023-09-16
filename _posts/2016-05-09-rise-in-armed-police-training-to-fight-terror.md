@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 - A leading police firearms unit has revealed it was "inundated" with requests from unarmed officers to retrain after the Paris terror attacks last November.

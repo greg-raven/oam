@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 - In other words, gun-free zones or gun-restricted zones were the targets of choice.

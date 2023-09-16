@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 - About 50 officers still carry the storied six-shot revolver that became the standard department firearm in 1895, but the weapon is being phased out.

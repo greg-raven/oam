@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 - *Retired Supreme Court Justice admits he went all out to limit our firearms freedom*

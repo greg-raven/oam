@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Berlin (CNSNews.com) --- The Czech Republic has resisted calls by the European Union's executive Commission to tighten gun controls in response to terror attacks, forcing the E.C. to alter its proposals, allowing for the private ownership of semi-automatic weapons.

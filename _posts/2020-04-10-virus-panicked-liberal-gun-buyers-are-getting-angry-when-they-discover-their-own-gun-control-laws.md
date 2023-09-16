@@ -4,7 +4,7 @@ tags:
 - Kira Davis
 layout: post
 categories:
-- Information
+- information
 ---
 
 I was chatting with a friend of mine recently and the topic of gun sales came up. My friend's father owns a gun range near me and she said he's seen a huge amount of liberals coming in to purchase weapons in recent weeks.

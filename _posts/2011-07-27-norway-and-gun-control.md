@@ -4,7 +4,7 @@ tags:
 - Charlie Cooke
 layout: post
 categories:
-- Information
+- information
 ---
 
 - Gun laws do not hit their target.

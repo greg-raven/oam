@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 West Virginia Attorney General Patrick Morrisey (R) is advising sheriffs in his state to stay on task processing concealed carry permit applications and issuing those permits for applicants legally able to carry a gun.

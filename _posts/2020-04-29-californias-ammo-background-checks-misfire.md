@@ -4,7 +4,7 @@ tags:
 - John R. Lott Jr.
 layout: post
 categories:
-- Information
+- information
 ---
 
 - 'Criminals, tyrants, and terrorists don't do background checks,' said the judge who blocked the law.

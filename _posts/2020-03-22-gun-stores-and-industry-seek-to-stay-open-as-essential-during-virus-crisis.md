@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Citing the supply needs of the police and military, and self-defense by the public, the gun industry is seeking to be included as "critical infrastructure" by the federal government, a designation that would allow stores and manufacturing plants to stay open and supplied during the coronavirus crisis.

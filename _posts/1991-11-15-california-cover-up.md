@@ -4,7 +4,7 @@ tags:
 - Tom Wyld
 layout: post
 categories:
-- Information
+- information
 ---
 
 Months before the California legislature passed the "Assault Weapon" Control Act of 1989, key administrators in the state's Dept. of Criminal Justice (DOJ) concluded that military-style semi-automatic rifles were not a crime problem. This fact was revealed in recently obtained DOJ internal documents.

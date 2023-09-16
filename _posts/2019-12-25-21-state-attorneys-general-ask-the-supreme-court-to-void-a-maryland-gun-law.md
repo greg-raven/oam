@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 West Virginia Attorney General Patrick Morrisey, a Republican, and the other state officials filed a friend-of-the-court brief with the Supreme Court on Dec. 18 in a case cited as Malpasso v. Pallozzi. Morrisey and the others want to expand the scope of protection afforded to gun-ownership rights after the high court ruled in [District of Columbia v. Heller (2008)]({% post_url 2008-06-06-syllabus-in-district-of-columbia-et-al-v-heller %}), that the right to possess a firearm is an individual right, and in McDonald v. Chicago (2012), that the right of an individual to "keep and bear arms" applies to the states.

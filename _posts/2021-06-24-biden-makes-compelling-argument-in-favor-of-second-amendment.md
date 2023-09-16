@@ -4,7 +4,7 @@ tags:
 - Babylon Bee
 layout: post
 categories:
-- Other
+- other
 ---
 
 WASHINGTON, D.C. --- In a speech yesterday, President Joe Biden made a compelling and powerful argument in defense of the Second Amendment. The president ranted on and on about how if people were to rebel against his iron-fisted rule, he would nuke them and send F-15 fighter jets to attack them in their homes. These statements alone were enough to convince millions of Americans the Second Amendment is still desperately needed to protect their natural right to defend themselves.

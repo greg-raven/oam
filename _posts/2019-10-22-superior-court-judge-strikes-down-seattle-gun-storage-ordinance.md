@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 Superior Court Judge Anita Farris struck down Seattle's gun storage ordinance Monday, ruling it violates the state's 36-year-old preemption law.

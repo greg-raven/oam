@@ -4,7 +4,7 @@ tags:
 - Paul H. Blackman
 layout: post
 categories:
-- Information
+- information
 ---
 
 An FBI report that 1990 saw the fewest slayings of law officers in any year since 1968 undermines the media campaign that the streets are becoming deadier for cops because of so-called "assault weapons."

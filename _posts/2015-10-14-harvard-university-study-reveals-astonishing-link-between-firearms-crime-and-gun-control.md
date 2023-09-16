@@ -4,7 +4,7 @@ tags:
 - Rob Kerby
 layout: post
 categories:
-- Information
+- information
 ---
 
 According to a study in the Harvard Journal of Law & Public Policy, which cites the Centers for Disease Control, the U.S. National Academy of Sciences and the United Nations International Study on Firearms Regulation, the more guns a nation has, the less criminal activity.

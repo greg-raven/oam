@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 - The Second Amendment was supposed to protect us from the government by dispersing its coercive power among the people. We still adhere to that system today.

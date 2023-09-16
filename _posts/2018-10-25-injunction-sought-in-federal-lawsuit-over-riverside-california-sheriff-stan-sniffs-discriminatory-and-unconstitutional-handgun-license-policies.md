@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 RIVERSIDE, CA --- Counsel for a Riverside County resident and five public interest litigation organizations filed a new motion to seek an injunction against Riverside, California Sheriff Stanley Sniff and the County of Riverside over a "discriminatory and unconstitutional" policy that prohibits legal U.S. residents from applying for a handgun carry license. A copy of the court filings for van Nieuwenhuyzen v. Sniff can be viewed at [www.calgunsfoundation.org/sniff](http://www.calgunsfoundation.org/sniff).

@@ -2,7 +2,7 @@
 title: "Ruling in Silvester v. Harris"
 layout: post
 categories:
-- Information
+- information
 tags:
 - Silvester v. Harris
 ---

@@ -4,7 +4,7 @@ tags:
 - GunGoddess.com
 layout: post
 categories:
-- Other
+- other
 ---
 
 Carrying a gun doesn't make me a stupid or reckless person. It makes me prepared.

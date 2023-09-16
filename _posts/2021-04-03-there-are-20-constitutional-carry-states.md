@@ -4,7 +4,7 @@ tags:
 - John R. Lott Jr.
 layout: post
 categories:
-- Information
+- information
 ---
 
 You will now be able to carry a concealed handgun from West Virginia to Idaho or from Arizona to Montana without a permit.

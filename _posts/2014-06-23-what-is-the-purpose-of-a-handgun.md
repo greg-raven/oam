@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 If you watch any cop shows or movies, you might forget --- as you watch the good guys storming a building with their [Glock](https://us.glock.com/) 19s at the ready --- what the purpose is of having a handgun.

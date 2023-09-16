@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 - The judge's action marks the latest victory for Rocky Mountain Gun Owners in its fight against gun restrictions across Colorado

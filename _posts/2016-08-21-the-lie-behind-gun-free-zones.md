@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Over 90% of public mass shooters commit their acts of violence in [Gun Free Zones](https://bit.ly/2bdpM2O). And while the national media frequently covers these tragic stories, they rarely cover the overwhelming number of examples where armed citizens use guns to protect themselves and others.

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 For those who do not understand the meaning of our Second Amendment rights, let us make it clear once and for all:

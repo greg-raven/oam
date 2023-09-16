@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Tonight, we learned that the California DOJ will drop its defense of SB 1327. This is the law that attempts to shift attorney fees to force parties and attorneys who challenge gun control measures to pay the State's legal fees. CRPA and others filed a lawsuit to challenge the fee shifting provisions of the law (South Bay Rod and Gun Club v. Bonta).

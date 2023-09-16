@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 Mexico has "restrictive" gun control --- including comprehensive background checks --- and a homicide rate over five times higher than the rate in the U.S.

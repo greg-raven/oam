@@ -4,7 +4,7 @@ tags:
 - WorldNetDaily.com
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 A legally armed Indiana man is credited with saving lives when he shot and killed a 22-year-old gunman who had fatally shot a cemetery worker and was about to kill another.

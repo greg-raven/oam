@@ -4,7 +4,7 @@ tags:
 - Thomas Sowell
 layout: post
 categories:
-- Information
+- information
 ---
 
 Surely murder is a serious subject, which ought to be examined seriously. Instead, it is almost always examined politically in the context of gun control controversies, with stock arguments on both sides that have remained the same for decades. And most of those arguments are irrelevant to the central question: Do tighter gun control laws reduce the murder rate?

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Make sure you know --- memorize, review, and practice --- the four cardinal rules of firearms safety

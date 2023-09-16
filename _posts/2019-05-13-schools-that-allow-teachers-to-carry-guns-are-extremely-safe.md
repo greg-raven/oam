@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 After the Columbine school shooting 20 years ago, one of the more significant changes in how we protect students has been the advance of legislation that allows teachers to carry guns at schools.

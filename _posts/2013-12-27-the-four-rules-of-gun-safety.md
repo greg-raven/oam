@@ -4,7 +4,7 @@ tags:
 - Glock
 layout: post
 categories:
-- Information
+- information
 ---
 
 1. Treat all firearms as if they are loaded.

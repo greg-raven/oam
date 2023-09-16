@@ -5,7 +5,7 @@ tags:
 layout: post
 categories:
 - CCW
-- Information
+- information
 ---
 
 [Brevard County Sheriff](https://www.brevardsheriff.com/) Wayne Ivey's recommendations on how to defend yourself in the event of a violent attack.

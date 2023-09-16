@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Other
+- other
 ---
 
 - Inland Empire Gun Owners PAC battles new gun laws, helps get concealed weapons permits

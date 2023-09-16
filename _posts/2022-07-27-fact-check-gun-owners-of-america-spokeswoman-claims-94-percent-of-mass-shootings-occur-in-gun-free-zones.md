@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 CLAIM: During Wednesday's congressional testimony before the House Committee on Oversight and Reform, Gun Owners of America's (GOA) Antonia Okafor said, "94 percent of mass shootings occur in gun-free zones."

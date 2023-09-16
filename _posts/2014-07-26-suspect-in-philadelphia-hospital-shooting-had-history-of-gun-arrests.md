@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 A psychiatric patient who killed his caseworker --- and grazed his psychiatrist before the doctor pulled out his own weapon and fired back --- has a lengthy history of gun arrests, violence and mental health problems, authorities said.

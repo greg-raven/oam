@@ -4,7 +4,7 @@ tags:
 - CRPA
 layout: post
 categories:
-- Information
+- information
 ---
 
 [Read](/assets/pdf/20190514-GOC-CRPA-Amici-Brief.pdf)

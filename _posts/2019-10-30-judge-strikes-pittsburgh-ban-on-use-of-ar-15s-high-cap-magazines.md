@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 The Allegheny Court of Common Pleas on Monday struck down Pittsburgh's ban on the use of AR-15s inside city limits.

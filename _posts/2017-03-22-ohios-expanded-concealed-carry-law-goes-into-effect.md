@@ -4,7 +4,7 @@ tags:
 - Christen Smith
 layout: post
 categories:
-- Information
+- information
 ---
 
 A law expanding concealed carry went into effect Monday in Ohio.

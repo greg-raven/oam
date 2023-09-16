@@ -2,7 +2,7 @@
 title: 'The four boxes of liberty'
 layout: post
 categories:
-- Information
+- information
 tag:
 - Ed Howdershelt
 ---

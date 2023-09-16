@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 LOS ANGELES (AP) --- A U.S. appeals court ruled Wednesday that California's ban on the sale of semiautomatic weapons to adults under 21 is unconstitutional.

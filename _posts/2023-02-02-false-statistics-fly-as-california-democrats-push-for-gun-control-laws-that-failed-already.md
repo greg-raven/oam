@@ -4,7 +4,7 @@ tags:
 - John R. Lott Jr.
 layout: post
 categories:
-- Information
+- information
 ---
 
 - The per capita rate of mass shootings was much higher in California than in the rest of the U.S., despite the state having the strictest gun control laws in the country.

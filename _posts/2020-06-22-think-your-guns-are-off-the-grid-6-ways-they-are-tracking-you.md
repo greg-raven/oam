@@ -4,7 +4,7 @@ tags:
 - Liston Matthews
 layout: post
 categories:
-- Information
+- information
 ---
 
 - We've all seen that [Elmer]({% post_url 2020-06-10-yep-they-want-to-take-our-guns %})

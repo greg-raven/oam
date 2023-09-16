@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 The US trails many other advanced nations in mass shooting frequency and death rate.

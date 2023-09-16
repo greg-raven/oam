@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Republican Georgia Governor Brian Kemp announced Monday that America's oldest firearms manufacturer, Remington Firearms, will locate its global headquarters from New York to Georgia and open both a manufacturing operation and a world-class research and development center in LaGrange, Georgia.

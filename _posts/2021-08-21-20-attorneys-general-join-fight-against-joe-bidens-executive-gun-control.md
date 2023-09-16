@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 Republican attorneys general from 20 states are taking up the fight against President Joe Biden's executive gun control regarding firearm parts and kits.

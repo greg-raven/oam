@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Pursuant to California Penal Code section 26840, any person who acquires a firearm must have a Firearm Safety Certificate (FSC), unless they are statutorily exempt from the FSC requirement (see below). To obtain an FSC, a person must pass a Department of Justice (DOJ) written test on firearm safety. The test is administered by DOJ Certified Instructors, who are often located at firearms dealerships. This certificate supersedes previous certificates that were required by the state.

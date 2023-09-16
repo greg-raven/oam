@@ -4,7 +4,7 @@ tags:
 - John R. Lott Jr.
 layout: post
 categories:
-- Information
+- information
 ---
 
 President Biden's press conference on guns was filled with inaccuracies and false claims. Ironically, during the campaign last year, Biden disparaged the use of executive orders, "if you can't get the votes ... you can't \[legislate\] by executive order unless you're a dictator. We're a democracy." Even more importantly, the changes are arbitrary and won't make Americans safer.

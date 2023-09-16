@@ -2,7 +2,7 @@
 title: "Federal court throws out interstate handgun transfer ban"
 layout: post
 categories:
-- Information
+- information
 tags:
 - Mance v. Holder
 ---

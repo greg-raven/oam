@@ -5,7 +5,7 @@ tags:
 - Gary Mauser
 layout: post
 categories:
-- Information
+- information
 ---
 
 Prime Minister Justin Trudeau has unveiled a ban on the sale of 1,500 models and variants of firearms.

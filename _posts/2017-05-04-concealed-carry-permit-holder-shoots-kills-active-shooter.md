@@ -5,7 +5,7 @@ tags:
 layout: post
 categories:
 - CCW
-- Situations
+- situations
 ---
 
 The incident occurred around 6:15 pm. WFAA reported, "A man opened fire at the Zona Caliente Sports Bar ... but police say a customer with a gun of his own put a stop to it."

@@ -4,7 +4,7 @@ tags:
 - Chris Eger
 layout: post
 categories:
-- Information
+- information
 ---
 
 Lawmakers in Nevada and Missouri are joining the push to bring lawful concealed handgun carry without a permit to their states.

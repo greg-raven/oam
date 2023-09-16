@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 There seemingly is no end to gun violence; and at the end of each incident, there are the usual cries for "more gun control."

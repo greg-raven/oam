@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 JEFFERSON CITY --- This year could see gun owners in Missouri legally assembling into a state-sanctioned militia.

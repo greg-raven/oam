@@ -3,7 +3,7 @@ title: "Atty. Gen. Kamala Harris appeals gun ruling involving San Diego County"
 layout: post
 categories:
 - CCW
-- Information
+- information
 tags:
 - Tony Perry
 ---

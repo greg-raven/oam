@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 The millennial generation might be surprised to learn that theirs is the first without guns in school. Just 30 years ago, high school kids rode the bus with rifles and shot their guns at high school rifle ranges.

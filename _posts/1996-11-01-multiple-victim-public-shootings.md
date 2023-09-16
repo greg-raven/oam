@@ -4,7 +4,7 @@ tags:
 - John R. Lott Jr.
 layout: post
 categories:
-- Information
+- information
 ---
 
 John Lott looks at multiple victim public shootings, and shows that the data supports conceal carry.

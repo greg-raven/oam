@@ -4,7 +4,7 @@ tags:
 - Steve Pomper
 layout: post
 categories:
-- Information
+- information
 ---
 
 - Robust defense of Second Amendment rights reiterates the key point that no inanimate object commits a crime --- some people using one do

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 The attorney for a maintenance worker who fatally shot two teens police say were attacking him with a baseball bat Wednesday said his client carried a gun because of the nature and location of his work, but is not a gun rights activist or even a hunter.

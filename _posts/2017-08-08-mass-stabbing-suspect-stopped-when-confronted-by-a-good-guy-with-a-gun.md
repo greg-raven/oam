@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 The incident occurred Sunday afternoon in broad daylight.

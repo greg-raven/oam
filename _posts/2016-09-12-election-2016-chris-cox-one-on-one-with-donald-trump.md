@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 This year's race for the White House is like no other in our history. Hillary Clinton has made it clear that if elected, she will come after our firearms freedom on her very first day in office. So it's no exaggeration to say that the Second Amendment is on the ballot this November. Recently, I had the opportunity to sit down with Donald Trump, the Republican presidential nominee, to discuss our right to keep and bear arms and what's at stake in this election for America's gun owners.

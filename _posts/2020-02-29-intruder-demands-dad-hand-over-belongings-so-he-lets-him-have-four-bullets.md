@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 There are few deterrents to home intruders quite as strong as the Second Amendment. The idea is simple: You have no idea who has a firearm next to their bed, ready to be used.

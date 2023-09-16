@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 Violent crime fell during the first six months of 2013 --- at the same time the number of gun purchases was expanding.

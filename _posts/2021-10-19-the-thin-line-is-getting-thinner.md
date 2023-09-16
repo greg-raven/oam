@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Other
+- other
 ---
 
 > Be prepared to defend yourself and your family because it's going to be a long time before a cop can get there. That's not alarmist talk. That's a reality.

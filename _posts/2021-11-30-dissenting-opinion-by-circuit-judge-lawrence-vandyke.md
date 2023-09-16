@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 - Duncan v. Bonta (United States Court of Appeals for the Ninth Circuit, Case No. 19-55376)

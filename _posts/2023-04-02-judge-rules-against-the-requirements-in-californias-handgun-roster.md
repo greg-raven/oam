@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 Judge Dana M. Sabraw issued a [preliminary injunction](https://storage.courtlistener.com/recap/gov.uscourts.casd.692378/gov.uscourts.casd.692378.80.0.pdf) against the chamber loaded indicator (CLI), magazine disconnect mechanism (MDM), and microstamping requirements for California's Unsafe Handgun Act (UHA), the act under which the state's handgun roster is overseen.

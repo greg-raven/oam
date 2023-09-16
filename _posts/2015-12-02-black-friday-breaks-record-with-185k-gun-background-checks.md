@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 More Americans had their backgrounds checked purchasing guns on Black Friday than any day in the on record, according to data released by the FBI this week. The National Instant Criminal Background Check System processed 185,345 requests on Nov. 27. USA TODAY

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PBSzm5ns5TU" title="Officer Almost Loses Firearm to Deranged Man | Active Self Protection"></iframe>

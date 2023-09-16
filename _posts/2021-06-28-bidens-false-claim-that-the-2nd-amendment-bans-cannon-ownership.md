@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 > "And I might add: The Second Amendment, from the day it was passed, limited the type of people who could own a gun and what type of weapon you could own. You couldn't buy a cannon."

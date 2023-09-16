@@ -4,7 +4,7 @@ tags:
 - Alissa Tabirian
 layout: post
 categories:
-- Information
+- information
 ---
 
 (CNSNews.com) --- "Self-defense can be an important crime deterrent," says a new report by the Centers for Disease Control (CDC). The $10 million study was commissioned by President Barack Obama as part of 23 executive orders he signed in January.

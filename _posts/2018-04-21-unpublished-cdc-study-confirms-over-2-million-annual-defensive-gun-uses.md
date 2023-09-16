@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 An unpublished Centers for Disease Control and Prevention (CDC) study confirms Florida State University criminologist Gary Kleck's findings of more than two million defensive handgun uses (DGUs) per year.

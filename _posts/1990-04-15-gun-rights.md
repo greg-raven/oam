@@ -4,7 +4,7 @@ layout: post
 tags:
 - Don B. Kates
 categories:
-- Information
+- information
 ---
 
 - Hard evidence shows handguns are effective in defeating an unlawful life-threatening attack.

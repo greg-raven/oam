@@ -5,7 +5,7 @@ tags:
 - Raymond Joseph Teller
 layout: post
 categories:
-- Information
+- information
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uEvLrdXz72o" title="What Is The Second Amendment (as told by Penn and Teller)"></iframe>

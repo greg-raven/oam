@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 The Arkansas state Senate voted this week to block federal law enforcement officials enforcing certain gun laws and regulations, sending a bill to the state House in the midst of congressional gun-control proposals.

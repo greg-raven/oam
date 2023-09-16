@@ -4,7 +4,7 @@ tags:
 - GunGoddess.com
 layout: post
 categories:
-- Other
+- other
 ---
 
 Any place I carry my gun is my safe space.

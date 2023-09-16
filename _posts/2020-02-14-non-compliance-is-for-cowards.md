@@ -4,7 +4,7 @@ tags:
 - James Yeager
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sbEz1qauINM" title="Non-Compliance is for COWARDS"></iframe>

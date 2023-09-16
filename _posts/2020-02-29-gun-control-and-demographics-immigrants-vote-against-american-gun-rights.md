@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 So Virginia gun owners just dodged a legislative bullet in the form of a proposed ban on so-called assault weapons. But a demographic bullet is still aimed right where it can do the most damage: the ballot box. The Great Replacement that Leftists celebrate --- even as they call it a racist conspiracy theory --- is the primary reason gun rights are in the crosshairs in Virginia and throughout the country. Immigration has consequences, meaning foreign-origin voters, and if the GOP doesn't figure that out soon, gun rights will go the way of Confederate statues, along with other American rights currently undreamt of.

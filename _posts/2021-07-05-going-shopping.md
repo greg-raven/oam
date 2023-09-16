@@ -4,7 +4,7 @@ tags:
 - The Patriot Post
 layout: post
 categories:
-- Other
+- other
 ---
 
 Biden: You'd need F-15s and nukes to take on the government.

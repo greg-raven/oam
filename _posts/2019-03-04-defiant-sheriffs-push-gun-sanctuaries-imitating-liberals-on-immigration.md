@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 A rapidly growing number of counties in at least four states are declaring themselves Second Amendment sanctuaries, refusing to enforce gun-control laws that they consider to be infringements on the U.S. constitutional right to keep and bear arms.

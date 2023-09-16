@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 The Centers for Disease Control and Prevention (CDC) death statistics for 2010 show that Americans are 51 times more likely to die an accidental poisoning death versus an accidental shooting death.

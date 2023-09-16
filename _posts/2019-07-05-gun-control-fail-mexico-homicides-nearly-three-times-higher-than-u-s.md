@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 Mexico has one gun store, stringent gun controls, and nearly three times the number of homicides witnessed in the U.S.

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 As Executive Director of Gun Owners of America, Inc., and Executive Vice President of Gun Owners Foundation, and on behalf of our over 300,000 members and supporters, I respectfully bring to your attention a matter that requires your immediate action.

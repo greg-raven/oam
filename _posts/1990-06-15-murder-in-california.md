@@ -4,7 +4,7 @@ layout: post
 tags:
 - Clayton E. Cramer
 categories:
-- Information
+- information
 ---
 
 - If lax gun laws spawn violent crime, as anti-gunners claim, why the vast disparity in homicide rates among Golden State cities that had uniform gun laws?

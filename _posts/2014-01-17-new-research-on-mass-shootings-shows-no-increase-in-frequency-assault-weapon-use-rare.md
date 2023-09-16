@@ -4,7 +4,7 @@ tags:
 - Chris Eger
 layout: post
 categories:
-- Information
+- information
 ---
 
 A recently completed study at Northeastern University finds that many of the 'facts' circulated by gun control groups about mass shootings in the US are far from it. In fact, the study contends that mass murders rarely use 'assault weapons,' cannot be prevented with background checks and gun bans, and that the rates of these shootings as well as their toll is not increasing.

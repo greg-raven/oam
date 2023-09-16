@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Other
+- other
 ---
 
 LOS ANGELES --- Gun rights groups Friday filed suit in Los Angeles seeking to block the further implementation of a new law banning the marketing of guns to minors by manufacturers and others in the firearms industry.

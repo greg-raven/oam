@@ -4,7 +4,7 @@ tags:
 - Rich Logis
 layout: post
 categories:
-- Information
+- information
 ---
 
 Before she blocked me last week on Twitter, I frequently read the posts of Shannon Watts, the founder of Moms Demand Action for Gun Sense in America, as well as tweets from former New York mayor Michael Bloomberg and his Everytown for Gun Safety, which is her organization's chief financial backer. Combined, the two gun control groups are front and center in the U.S.'s anti-gun cult, with 4 million members, which is about the same number of members as the National Rifle Association.

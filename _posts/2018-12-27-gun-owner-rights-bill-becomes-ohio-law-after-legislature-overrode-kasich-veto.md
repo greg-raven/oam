@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 COLUMBUS --- A bill broadening gun-owner rights has become law in Ohio, after the Republican-led state Legislature overrode GOP Gov. John Kasich's veto.

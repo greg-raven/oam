@@ -4,8 +4,8 @@ tags:
 - Lia Eustachewich
 layout: post
 categories:
-- Information
-- 'Open carry'
+- information
+- open carry
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&#39;Armed rednecks&#39; defend stores from looters amid George Floyd protests <a href="https://t.co/EFVK89dF39">https://t.co/EFVK89dF39</a> <a href="https://t.co/IbXspPhgFQ">pic.twitter.com/IbXspPhgFQ</a></p>&mdash; New York Post (@nypost) <a href="https://twitter.com/nypost/status/1265982579456520197?ref_src=twsrc%5Etfw">May 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

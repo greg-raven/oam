@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 While I am not an attorney and cannot give formal legal advice, a 1943 U.S. Supreme Court decision, Murdock v. Pennsylvania, may give Second Amendment--supporters an overwhelming legal weapon with which to destroy every single firearm ownership (although not necessarily concealed carry) licensing scheme in the country. This includes those that require licenses to own or purchase firearms.

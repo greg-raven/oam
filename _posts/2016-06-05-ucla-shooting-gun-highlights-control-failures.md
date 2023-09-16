@@ -4,7 +4,7 @@ tags:
 - CRPA
 layout: post
 categories:
-- Information
+- information
 ---
 
 On Wednesday June 1, 2016, a deranged doctrinal student at UCLA stormed into a small office in the school's engineering building and fatally shot his mechanical and aerospace engineering professor, William S. Klug, before turning the firearm on himself. According to recent reports from the Los Angeles Police Department, the murderer legally purchased a handgun from Minnesota, passed a background check, and then took that gun and shot his wife in Minnesota before driving to California where he shot his professor.

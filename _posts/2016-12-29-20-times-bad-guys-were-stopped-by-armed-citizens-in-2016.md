@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 What follows is a list containing examples of everyday Americans doing exactly what the left decries as a fabrication of the mind --- namely, using firearms to defend their own lives and the lives of others.

@@ -5,7 +5,7 @@ tags:
 layout: post
 categories:
 - CCW
-- 'Open carry'
+- open carry
 ---
 
 | Docket No. | Op. Below | Argument | Opinion | Vote | Author | Term |

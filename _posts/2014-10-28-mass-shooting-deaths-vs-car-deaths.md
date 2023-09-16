@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 Numbers from the Centers for Disease Control and Prevention (CDC), the National Highway Traffic Safety Administration (NHTSA), and the FBI, show that Americans are roughly 159 times more likely to be struck by a car and killed than shot and killed in a mass shooting.

@@ -4,7 +4,7 @@ tags:
 - Randy Kozuch
 layout: post
 categories:
-- Information
+- information
 ---
 
 It sees that every time President Biden finds himself in front of a microphone these days, he tries to blame some aspect of his administration's failure to address violent crime on law-abiding American gun owners. Most often, this then leads him to call for a ban on "assault weapons" and claims that "\[he's\] the guy" responsible for the 1994 federal ban on "assault weapons."

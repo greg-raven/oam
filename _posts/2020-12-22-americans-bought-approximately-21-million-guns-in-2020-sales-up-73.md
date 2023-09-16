@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 At this point in December it is already apparent Americans bought approximately 21 million guns this year, an increase of 73 percent over the number purchased in 2019.

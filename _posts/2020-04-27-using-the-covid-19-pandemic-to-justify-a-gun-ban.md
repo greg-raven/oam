@@ -4,7 +4,7 @@ tags:
 - John R. Lott Jr.
 layout: post
 categories:
-- Information
+- information
 ---
 
 - Gun control activists claim to seek 'reasonable gun control laws,' but don't fall for it

@@ -4,7 +4,7 @@ tags:
 - Oliver Darcy
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 An off-duty California police officer is being hailed as a hero after he foiled the plans of an armed individual who walked into a restaurant on Valentine's Day and allegedly threatened to kill everyone inside.

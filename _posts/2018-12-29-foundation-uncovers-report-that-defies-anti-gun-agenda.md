@@ -4,7 +4,7 @@ tags:
 - WorldNetDaily.com
 layout: post
 categories:
-- Information
+- information
 ---
 
 - *California's control attempts resulted in 'no change' in death rates*

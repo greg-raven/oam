@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Former New York City mayor Michael Bloomberg has successfully blocked video from a controversial talk he gave at the Aspen Institute last week from being posted online.

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 <figure class="wp-block-embed is-type-wp-embed is-provider-michael-scheuer-non-intervention wp-block-embed-michael-scheuer-non-intervention">> [China Joe, are you really this eager for great big trouble?](https://www.non-intervention2.com/2021/03/23/china-joe-are-you-really-this-eager-for-great-big-trouble/)

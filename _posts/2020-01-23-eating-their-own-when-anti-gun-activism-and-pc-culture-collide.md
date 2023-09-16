@@ -4,7 +4,7 @@ tags:
 - CRPA
 layout: post
 categories:
-- Information
+- information
 ---
 
 According to Vigilant Holsters, an Ohio-based maker of Kydex, leather, and hybrid holsters, the Sanford, Florida, Police Department's recent publication of a "gun buyback" event has been censored as a violation of Facebook's "community standards." The alleged violation? Describing "the purchase or sale of drugs, guns, or regulated products."

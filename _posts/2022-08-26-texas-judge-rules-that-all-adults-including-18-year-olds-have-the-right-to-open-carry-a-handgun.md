@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 A Texas judge has struck down a recent state law that prohibits adult civilians between the ages of 18 and 20 from carrying a handgun, claiming that such a law is unconstitutional.

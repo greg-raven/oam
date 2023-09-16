@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 By a margin of 52 percent to 46 percent, Americans say protecting the rights of gun owners is more important than gun control, according to a survey by the Pew Research Center released Wednesday. It is the first time Pew found more support for gun ownership than gun control in more than two decades of surveys on the issue.

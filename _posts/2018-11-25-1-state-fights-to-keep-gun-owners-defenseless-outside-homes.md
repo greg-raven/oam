@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- 'Open carry'
+- open carry
 ---
 
 - Appeals decision allowing open carry of weapons

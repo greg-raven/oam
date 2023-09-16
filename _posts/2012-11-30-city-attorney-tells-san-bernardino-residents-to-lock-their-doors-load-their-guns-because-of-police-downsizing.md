@@ -4,7 +4,7 @@ layout: post
 tags:
 - CBSLA.com
 categories:
-- Information
+- information
 ---
 
 SAN BERNARDINO (CBSLA.com) --- The city attorney of San Bernardino is under scrutiny for telling residents to "lock their doors and load their guns" during a city council meeting.

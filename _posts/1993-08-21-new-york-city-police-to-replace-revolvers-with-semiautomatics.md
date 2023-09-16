@@ -4,7 +4,7 @@ tags:
 - Craig Wolff
 layout: post
 categories:
-- Information
+- information
 ---
 
 New York City police officers will begin this fall to phase out their .38-caliber revolvers for 9-millimeter semiautomatic handguns, Police Commissioner Raymond W. Kelly said yesterday.

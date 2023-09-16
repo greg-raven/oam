@@ -4,7 +4,7 @@ tags:
 - The Patriot Post
 layout: post
 categories:
-- Other
+- other
 ---
 
 <q>Son, one day you'll be a man.</q>

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 BULLHEAD CITY --- A resident has asked the Bullhead City Council to consider declaring the city a Second Amendment Sanctuary location.

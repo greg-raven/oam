@@ -4,8 +4,8 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
-- Situations
+- information
+- situations
 ---
 
 - Hint: Democrats will be shocked and horrified.

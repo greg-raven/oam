@@ -4,7 +4,7 @@ tags:
 - GunGoddess.com
 layout: post
 categories:
-- Other
+- other
 ---
 
 If someone tells you you have enough ammo, ignore them. You don't need that kind of negativity in your life.

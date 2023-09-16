@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 We're sending assault weapons to rebels in Syria to confront a regime that does not represent them.

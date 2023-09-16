@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 BAKERSFIELD, Calif. --- Televisions, tablets and smart phones weren't the only items people looked for on Black Friday.

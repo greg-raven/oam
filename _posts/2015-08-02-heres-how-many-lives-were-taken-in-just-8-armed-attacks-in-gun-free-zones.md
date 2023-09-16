@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 Gun Free Zones Claim 100+ Victims in Only 8 Attacks

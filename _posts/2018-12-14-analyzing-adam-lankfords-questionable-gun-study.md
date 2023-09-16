@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Think the U.S. has the most mass shooters in the world? The media constantly report this, but it's a myth, says John R. Lott Jr.

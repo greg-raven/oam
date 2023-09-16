@@ -4,7 +4,7 @@ tags:
 - Jake Dima
 layout: post
 categories:
-- Information
+- information
 ---
 
 Colorado Congresswoman-elect Lauren Boebert, alongside 83 other Representatives, have countered an effort by Democratic legislators to disallow politicians from carrying firearms in the Capitol.

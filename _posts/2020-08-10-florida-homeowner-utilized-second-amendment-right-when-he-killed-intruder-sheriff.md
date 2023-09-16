@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 A homeowner was "utilizing his Second Amendment right to protect himself and his family" when he shot dead a man who broke into his home with a gun, a Florida sheriff said.

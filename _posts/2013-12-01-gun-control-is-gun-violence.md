@@ -4,7 +4,7 @@ tags:
 - Josie the Outlaw
 layout: post
 categories:
-- Information
+- information
 ---
 
 > "Saying 'I don't want a firearm because I don't want violence and bloodshed,' is no more rational than saying 'I don't want an airbag, because I don't want to crash.'"

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 A Florida man said two armed men invaded his home and were beating him when his wife, eight months pregnant, saved the day by shooting one of the intruders with a semiautomatic rifle, CNN affiliate Bay News 9 reported.

@@ -4,7 +4,7 @@ tags:
 - Paul Bedard
 layout: post
 categories:
-- Information
+- information
 ---
 
 A top financial advisor, worried that Obamacare, the NSA spying scandal and spiraling national debt is increasing the chances for a fiscal and social disaster, is recommending that Americans prepare a "bug-out bag" that includes food, a gun and ammo to help them stay alive.

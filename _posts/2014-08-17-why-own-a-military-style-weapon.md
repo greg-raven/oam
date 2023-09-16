@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 Here's one reason why someone may need an AR-15 with 30-round magazines.

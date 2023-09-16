@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 <figure class="wp-block-embed is-type-wp-embed is-provider-michael-scheuer-non-intervention wp-block-embed-michael-scheuer-non-intervention">> [Resolved: Keep buying guns, especially AR-15s and like weapons, ammunition, and high-capacity magazines](https://www.non-intervention2.com/2021/04/18/resolved-keep-buying-guns-especially-ar-15s-and-like-weapons-ammunition-and-high-capacity-magazines/)

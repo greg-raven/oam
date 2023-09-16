@@ -15,7 +15,7 @@ tags:
 - Thomas Paine
 layout: post
 categories:
-- Information
+- information
 ---
 
 ![Thomas Jefferson](/assets/img/20200120-EOvTs85WoAASSvA.jpg)

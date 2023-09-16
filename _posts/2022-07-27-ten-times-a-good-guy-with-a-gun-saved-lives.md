@@ -4,7 +4,7 @@ tags:
 - Mia Cathell
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 Last weekend, a law-abiding citizen with a gun quickly ended a mass shooting in progress at an Indiana mall as soon as the gunman began firing. Less than three weeks after the state's constitutional carry law took effect, the armed bystander, identified as 22-year-old Elisjsha Dicken, delivered the kill shot that stopped the active shooter who is accused of murdering three victims and wounding two others, including a little girl who suffered minor injuries.

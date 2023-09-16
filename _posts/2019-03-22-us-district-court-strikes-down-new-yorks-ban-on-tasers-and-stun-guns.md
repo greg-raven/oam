@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 New York, being opposed to citizens having the ability to adequately defend themselves, either within our outside their homes, has had a longtime ban on the possession of electronic dart (TASER) and stun guns. Owning one is a misdemeanor and displaying or threatening to use one is a felony.

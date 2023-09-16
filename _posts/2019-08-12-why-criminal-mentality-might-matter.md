@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Tom Givens recommended in the Rangemaster 2018 Three-Day Firearms Instructor Development and Certification Class a book on criminal psychology titled *Inside the Criminal Mind,* by Stanton E. Samenow, Ph.D. I recently acquired this book and found it to be hard to put down. Having some idea of how violent criminals might look at the world and what they are capable of constitutes useful knowledge for the concealed carrier. Please be advised that this article addresses only a few of the points made in this book. I have intentionally avoided using terms like "always" and "will" in favor of "possibly" and "may" in an attempt to avoid blanket generalizations, but I personally would always attempt to be prepared for the worst-case scenario when it comes to an interaction or confrontation with another person whose mentality and intent is questionable.

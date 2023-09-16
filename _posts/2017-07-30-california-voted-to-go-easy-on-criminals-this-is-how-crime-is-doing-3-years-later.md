@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 In 2014 the voters of California went to the polls and approved a proposition that would ease the overpopulation in jails and prisons by loosening law enforcement standards on crime. They were told this would have little effect on crime itself. That's not what happened.

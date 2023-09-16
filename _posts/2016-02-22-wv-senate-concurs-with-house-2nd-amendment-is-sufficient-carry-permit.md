@@ -5,7 +5,7 @@ tags:
 layout: post
 categories:
 - CCW
-- 'Open carry'
+- open carry
 ---
 
 On February 22, the West Virgina Senate voted 24-9 in support of legislation removing the requirement for a license to carry a concealed handgun in the state.

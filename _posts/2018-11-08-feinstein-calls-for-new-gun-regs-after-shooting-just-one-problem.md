@@ -4,7 +4,7 @@ tags:
 - Tom Knighton
 layout: post
 categories:
-- Information
+- information
 ---
 
 Senator Dianne Feinstein is never and will never be a friend to gun owners. She despises the things, though she's been known to carry herself. Of course, like so many other anti-gunners, gun regulations are for the little people, not the special class such as herself.

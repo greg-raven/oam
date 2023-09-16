@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Never before has there been such a stark contrast between presidential candidates over the future of the Second Amendment. With Donald Trump, the nation's firearms owners have a true champion who has repeatedly pledged to preserve the Second Amendment by assuring that impending U.S. Supreme Court vacancies will be filled with justices who will preserve our unique liberty.

@@ -4,7 +4,7 @@ tags:
 - Reed Williams
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 A man entered the Golden Market in Richmond, VA, with his revolver out, told everyone to get on the floor, and then walked over to the store's owner and shot him twice without provocation. The shooter then moved over to a teenager and raised his gun to shoot him when another customer pulled out his concealed weapon and fired. The bad guy ran to the back of the store and found another innocent man lying prone and attempted to shoot him, until the hero distracted him and shot at him again.

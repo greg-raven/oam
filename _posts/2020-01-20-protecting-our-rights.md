@@ -4,7 +4,7 @@ tags:
 - Donald J. Trump
 layout: post
 categories:
-- Information
+- information
 ---
 
 > "I will NEVER allow our great Second Amendment to go unprotected, not even a little bit!"

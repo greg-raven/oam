@@ -5,7 +5,7 @@ tags:
 layout: post
 categories:
 - CCW
-- Information
+- information
 ---
 
 D.C. Circuit Court of Appeals: 'Law-abiding citizen's right to bear common arms must enable the typical citizen to carry a gun'

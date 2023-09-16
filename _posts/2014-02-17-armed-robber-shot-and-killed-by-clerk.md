@@ -4,7 +4,7 @@ tags:
 - Dan Cannon
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 This is the second story we’ve reported this month in which a suspected armed robber armed with a stun gun was shot and killed by his would-be victim.

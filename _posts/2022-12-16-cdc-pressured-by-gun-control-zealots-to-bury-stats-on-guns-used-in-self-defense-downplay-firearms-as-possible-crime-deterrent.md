@@ -4,7 +4,7 @@ tags:
 - Joseph MacKinnon
 layout: post
 categories:
-- Information
+- information
 ---
 
 A study commissioned by the Centers for Disease Control and Prevention found that guns were used defensively between 60,000 and 2.5 million times a year.

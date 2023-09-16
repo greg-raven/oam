@@ -4,7 +4,7 @@ tags:
 - Kaelan Deese
 layout: post
 categories:
-- Information
+- information
 ---
 
 A Washington, D.C. regulatory limit on how much ammunition a concealed carry handgun permit holder can carry was removed after a local resident filed a lawsuit in federal court this summer.

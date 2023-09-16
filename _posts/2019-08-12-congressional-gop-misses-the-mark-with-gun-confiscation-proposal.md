@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Some Republicans in Congress are seeking to pass a "red flag law," which would grant law enforcement to do what legal precedent has rarely permitted --- forcefully enter homes and confiscate lawful firearms without any evidence of a crime.

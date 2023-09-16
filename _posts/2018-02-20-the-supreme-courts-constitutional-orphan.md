@@ -4,7 +4,7 @@ tags:
 - Clarence Thomas
 layout: post
 categories:
-- Information
+- information
 ---
 
 The Second Amendment protects "the right of the people to keep and bear Arms," and the Fourteenth Amendment requires the States to respect that right, McDonald v. Chicago, 561 U. S. 742, 749--750 (2010) (plurality opinion); id., at 805 (THOMAS, J., concurring in part and concurring in judgment). Because the right to keep and bear arms is enumerated in the Constitution, courts cannot subject laws that burden it to mere rational-basis review. District of Columbia v. Heller, 554 U. S. 570, 628, n. 27 (2008).

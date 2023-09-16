@@ -4,7 +4,7 @@ tags:
 - Donald J. Trump
 layout: post
 categories:
-- Information
+- information
 ---
 
 The Second Amendment to our Constitution is clear. The right of the people to keep and bear Arms shall not be infringed upon. Period.

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 - If gun control laws actually worked, Chicago would be as peaceful as Mayberry, USA.

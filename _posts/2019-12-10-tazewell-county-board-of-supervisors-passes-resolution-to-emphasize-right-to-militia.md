@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 TAZEWELL COUNTY, Va. (WJHL) --- Several Southwest Virginia communities have passed resolutions to become Second Amendment sanctuaries, but Tazewell County took it a step further.

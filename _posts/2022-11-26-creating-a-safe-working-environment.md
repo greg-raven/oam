@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Other
+- other
 ---
 
 Criminals love gun control. It gives them a safe work environment.

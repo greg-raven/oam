@@ -4,8 +4,8 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
-- Situations
+- information
+- situations
 ---
 
 President Biden asked the most salient question following the Uvalde school massacre. "When in God's name will we do what we all know in our gut needs to be done?" asked the president, after a rare reference to scripture. He's exactly right. We all know that 100% of school shootings in recent years have taken place where everyone except for the attacker was barred from being armed with a gun or rifle. The time has come to ban the ban on guns at school.

@@ -4,7 +4,7 @@ tags:
 - John R. Lott Jr.
 layout: post
 categories:
-- Information
+- information
 ---
 
 These days, television entertainment shows depict gun owners either as buffoons or criminals. They never portray regular civilians using guns to save lives, and instead, like to show firearms falling into the wrong hands.

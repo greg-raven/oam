@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1pQuVHAHuEY" title="Four arrested in brutal beating, carjacking father at Milwaukee park"></iframe>

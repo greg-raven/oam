@@ -4,7 +4,7 @@ tags:
 - U. S. Department of Justice
 layout: post
 categories:
-- Information
+- information
 ---
 
 "The Second Amendment secures a right of individuals generally, not a right of States or a right restricted to persons serving in militias."

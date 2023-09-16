@@ -4,7 +4,7 @@ tags:
 - Jeff Cooper
 layout: post
 categories:
-- Information
+- information
 ---
 
 > "Owning a handgun doesn't make you armed any more than owning a guitar makes you a musician."

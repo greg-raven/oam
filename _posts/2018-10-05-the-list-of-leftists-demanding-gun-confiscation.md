@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Once again proving that the Liberty grabber claim that 'No one is talking about gun confiscation' is a lie.

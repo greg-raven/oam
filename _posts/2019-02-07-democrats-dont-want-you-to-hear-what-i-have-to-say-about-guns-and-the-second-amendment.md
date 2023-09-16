@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Democrats on the House Judiciary Committee held a hearing Wednesday on new gun control legislation Democrats plan to push on the American people. The top Republican on the committee, Doug Collins, R-Ga., asked committee Democrats if I could testify about this legislation in an appropriate setting to offer another perspective as both a survivor of a shooting attack and strong supporter of our Second Amendment rights. But the Democrats said no. While liberals may try to silence conservative voices, I will not be silenced. The American people deserve to hear all perspectives. Here is the testimony I planned to give:

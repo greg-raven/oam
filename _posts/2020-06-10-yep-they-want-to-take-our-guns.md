@@ -4,7 +4,7 @@ tags:
 - Elmer Fudd
 layout: post
 categories:
-- Information
+- information
 ---
 
 > They took my gun. Are you all awake now?

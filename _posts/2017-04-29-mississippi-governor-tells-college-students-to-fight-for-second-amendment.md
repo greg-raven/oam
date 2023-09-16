@@ -4,7 +4,7 @@ tags:
 - Jared Morgan
 layout: post
 categories:
-- Information
+- information
 ---
 
 ATLANTA --- Mississippi Gov. Phil Bryant on Saturday urged a small group of college students and others to take up arms in defense of the Second Amendment.

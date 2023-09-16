@@ -4,8 +4,8 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
-- Situations
+- information
+- situations
 ---
 
 The FBI announced Monday that citizens stopped six active shooters in 2021, according to a report on active shooting incidents.

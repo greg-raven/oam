@@ -4,7 +4,7 @@ layout: post
 tags:
 - John R. Lott Jr.
 categories:
-- Information
+- information
 ---
 
 Last Friday marked the 20th anniversary of the so-called Brady Law, a federal gun control in honor of James Brady, Ronald Reagan's former press secretary who was wounded in John Hinckley's assassination attempt.

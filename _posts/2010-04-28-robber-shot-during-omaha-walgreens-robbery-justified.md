@@ -7,7 +7,7 @@ tags:
 - Juan Perez Jr.
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 - Police officers investigate after Monday night's shooting at the Walgreens drugstore at 6101 Northwest Radial. When two robbers entered the store, a 32-year-old customer shot one of them to death. He caught the other one in the store and held him for police.

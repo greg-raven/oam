@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Other
+- other
 ---
 
 Happy Valentine's Day!

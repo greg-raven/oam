@@ -5,7 +5,7 @@ tags:
 layout: post
 categories:
 - CCW
-- Information
+- information
 ---
 
 If you don't exercise your rights, they become weak and flabby.

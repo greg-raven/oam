@@ -4,7 +4,7 @@ tags:
 - The Patriot Post
 layout: post
 categories:
-- Information
+- information
 ---
 
 The government can't keep gangs off the streets or drugs out of schools and prisons, but the left wants to disarm me and <q>trust</q> the government will keep guns out of the hands of criminals.

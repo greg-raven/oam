@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 In an order issued last night, [Judge Roger Benitez enjoined the fee shifting provisions of SB 1327](https://www.trigger-treat.com/20221219-benitez-opinion-and-order/), a law Governor Newsom patterned after a Texas law banning abortion. This is a HUGE WIN for California's lawful gun owners as it stops the state's attempt to make its laws impervious to legal challenge.

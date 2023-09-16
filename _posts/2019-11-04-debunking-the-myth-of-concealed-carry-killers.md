@@ -5,7 +5,7 @@ tags:
 layout: post
 categories:
 - CCW
-- Information
+- information
 ---
 
 The Violence Policy Center --- a gun control advocacy group --- released a study last month it wrongly claims shows that "too many concealed-carry permit holders are a direct threat to public safety."

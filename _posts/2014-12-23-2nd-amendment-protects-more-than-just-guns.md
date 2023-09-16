@@ -4,7 +4,7 @@ tags:
 - Bob Unruh
 layout: post
 categories:
-- Information
+- information
 ---
 
 The Connecticut Supreme Court has reversed the conviction of a man who was found to have war memorabilia in his car, including a dirk knife and a police baton, while he was moving from one residence to another.

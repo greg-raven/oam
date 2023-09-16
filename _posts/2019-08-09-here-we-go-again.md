@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 In the aftermath of another deranged killer using a gun as the tool to commit his homicidal and suicidal acts of violence, the hand-wringing gun grabbers are at it again. They are wasting no time in exploiting the deaths of innocent people by pointing their finger at GUNS as the cause of the carnage and wanting to ban them.

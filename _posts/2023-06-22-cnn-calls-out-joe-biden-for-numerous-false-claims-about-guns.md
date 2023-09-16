@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 CNN fact-checked two weeks of President Joe Biden's statements on guns and found at least six false claims on June 21, 2023.

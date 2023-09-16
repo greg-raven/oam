@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 On July 29, Tennessee Attorney General Herbert Slatery issued an opinion in which he said private companies sponsoring events in Tennessee parks cannot ban citizens with concealed carry permits from carrying guns.

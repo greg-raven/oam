@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 A study released by the Johns Hopkins Bloomberg School of Public Health declares there is no evidence "assault weapon" bans lead to a lower "incidence of fatal mass shootings."

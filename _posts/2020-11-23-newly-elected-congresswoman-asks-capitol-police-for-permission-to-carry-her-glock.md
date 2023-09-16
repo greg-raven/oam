@@ -4,7 +4,7 @@ tags:
 - Samuel Mangold-Lenett
 layout: post
 categories:
-- Information
+- information
 ---
 
 Newly-elected Republican Colorado Rep. Lauren Boebert, who is set to represent the state's 3rd congressional district, has reportedly reached out to Capitol Police inquiring whether or not she can carry a firearm on her person while on Capitol Hill, according to The Associated Press (AP).

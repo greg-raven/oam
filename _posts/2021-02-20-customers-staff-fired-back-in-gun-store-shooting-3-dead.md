@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 METAIRIE, La. (AP) --- A person entered a gun store and shooting range in a New Orleans suburb and fatally shot two people Saturday, prompting customers and staff to open fire on the shooter, a sheriff said. The shooter also died.

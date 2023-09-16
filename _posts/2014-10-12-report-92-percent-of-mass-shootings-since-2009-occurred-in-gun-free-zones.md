@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 On October 9, the Crime Prevention Research Center (CPRC) released a revised report showing that 92% of mass public shootings between January 2009 and July 2014 took place in gun-free zones.

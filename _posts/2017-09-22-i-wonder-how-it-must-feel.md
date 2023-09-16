@@ -4,7 +4,7 @@ tags:
 - Alec Baldwin
 layout: post
 categories:
-- Information
+- information
 ---
 
 > I wonder how it must feel to wrongfully kill someone ...

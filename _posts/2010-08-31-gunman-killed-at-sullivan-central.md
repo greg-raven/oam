@@ -5,7 +5,7 @@ tags:
 - Claire Galofaro
 - Daniel Gilbert
 categories:
-- Situations
+- situations
 ---
 
 On Monday morning, Thomas Richard Cowan loaded 13 bullets into two handguns, left his German shepherd chained to the fence and drove eight miles from his home in Kingsport to Sullivan Central High School. \[...\]

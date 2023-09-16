@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Commonly used and unregulated internet discussions and videos about guns and ammo could be closed down under rules proposed by the State Department, amounting to a "gag order on firearm-related speech," the National Rifle Association is warning.

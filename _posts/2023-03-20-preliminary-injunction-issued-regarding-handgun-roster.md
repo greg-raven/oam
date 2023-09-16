@@ -4,7 +4,7 @@ tags:
 - CRPA
 layout: post
 categories:
-- Information
+- information
 ---
 
 U.S. District Court judge Cormac J. Carney has issued a preliminary injunction against continuing enforcement of the California handgun roster, ruling that the roster is unconstitutional. The court grants Preliminary Injunctions when the trial judge is satisfied that the plaintiff will prevail after the trial. Kudos to the [California Rifle and Pistol Association](https://crpa.org) (CRPA) for filing the suit ... and for prevailing.

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 - Multistate coalition is asking the justices to uphold Hawaiians' Second Amendment rights to bear arms outside their homes and overturn a federal appeals court.

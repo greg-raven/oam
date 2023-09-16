@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 > RT if you agree that now more than ever you understand the need for the second amendment. <https://t.co/X18a2qfQHF>--- Donald Trump Jr. (@DonaldJTrumpJr) [June 1, 2020](https://twitter.com/DonaldJTrumpJr/status/1267443005734236160?ref_src=twsrc%5Etfw)

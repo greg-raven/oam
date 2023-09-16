@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 It is a bit misleading to call our current national discussion about gun control a "debate." Simply put, politicians and the media directing the discussion aren't interested in evidence or conclusions contrary to those that they have a vested interest in disseminating. They are interested merely in silencing any opposition, and they rely on their devoted acolytes to continue empowering them to do so.

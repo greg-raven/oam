@@ -4,7 +4,7 @@ tags:
 - National Firearms Association
 layout: post
 categories:
-- Information
+- information
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I87KE8uiraU" title="Leading Firearms Stats Expert to Liberals: 'This Doesn't Make Sense'"></iframe>

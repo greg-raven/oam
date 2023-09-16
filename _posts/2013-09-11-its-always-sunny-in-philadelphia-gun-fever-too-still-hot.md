@@ -4,7 +4,7 @@ tags:
 - It's Always Sunny in Philadelphia
 layout: post
 categories:
-- Other
+- other
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qe1zEPEyERM" title="It's Always Sunny in Philadelphia - Dee and Dennis try to buy a rifle."></iframe>

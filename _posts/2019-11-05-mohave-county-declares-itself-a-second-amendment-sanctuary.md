@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 KINGMAN --- The Mohave County Board of Supervisors on Monday voted unanimously for a resolution declaring the \[Arizona\] county a Second Amendment sanctuary location.

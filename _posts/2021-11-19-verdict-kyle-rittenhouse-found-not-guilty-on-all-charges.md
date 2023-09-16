@@ -4,9 +4,9 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
-- 'Open carry'
-- Situations
+- information
+- open carry
+- situations
 ---
 
 A jury in Kenosha, Wisconsin, found 18-year-old Kyle Rittenhouse not guilty of all charges on Friday.

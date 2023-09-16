@@ -4,8 +4,8 @@ tags:
 - Orange County Register
 layout: post
 categories:
-- Information
-- Situations
+- information
+- situations
 ---
 
 Did you hear about the man who fired back at an attacker who had shot him and two of his friends at a New Orleans gas station in January, hitting the perpetrator and potentially saving his life and those of several others? Or the Uber driver who likewise shot and wounded a man who had opened fire on a crowd of people in Chicago last April?

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 NEEDLES, Calif. (AP) --- The Old West desert town of Needles, California, is where the beleaguered Joad family crossed the Colorado River into California in John Steinbeck's classic novel "The Grapes of Wrath" and was a boyhood home to "Peanuts" creator Charles Schulz.

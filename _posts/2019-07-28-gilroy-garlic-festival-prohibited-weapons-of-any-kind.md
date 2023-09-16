@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 As gun-control advocates seize the Gilroy Garlic Festival shooting to justify even more gun control it should be noted that the festival prohibited "weapons of any kind."

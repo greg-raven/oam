@@ -4,7 +4,7 @@ tags:
 - Donald J. Trump
 layout: post
 categories:
-- Information
+- information
 ---
 
 > "Your 2nd Amendment is under very serious attack in the Great Commonwealth of Virginia. That's what happens when you vote for Democrats, they will take your guns away. Republicans will win Virginia in 2020. Thank you Dems!"

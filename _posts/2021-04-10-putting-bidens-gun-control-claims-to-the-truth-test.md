@@ -5,7 +5,7 @@ tags:
 - Thomas Massie
 layout: post
 categories:
-- Information
+- information
 ---
 
 There were so many lies in Vice President Kamala Harris' and President Joe Biden's presentations on guns Thursday that it is hard to know where to start. One thing is certain, though: The media fact-checkers won't question their claims. Here are just a few of the false ones:

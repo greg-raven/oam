@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 - LOS ANGELES JUDGE PERMITS $30 MILLION LAWSUIT TO PROCEED AGAINST CALIFORNIA DEPARTMENT OF JUSTICE

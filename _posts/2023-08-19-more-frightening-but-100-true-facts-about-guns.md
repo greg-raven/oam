@@ -4,7 +4,7 @@ layout: post
 tags:
 - Babylon Bee
 categories:
-- Other
+- other
 ---
 
 Guns. What are they? Why do they even exist? When they do nothing but murder? Fact: We lose 93 million Americans a day to gun violence.

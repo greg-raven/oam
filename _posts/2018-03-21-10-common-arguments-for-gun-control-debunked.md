@@ -4,7 +4,7 @@ tags:
 - Ryan Cleckner
 layout: post
 categories:
-- Information
+- information
 ---
 
 - An attorney and former sniper team leader for the U.S. Army explains why 10 of the most common gun control arguments don't make sense.

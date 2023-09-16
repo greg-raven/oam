@@ -4,7 +4,7 @@ tags:
 - Bob Unruh
 layout: post
 categories:
-- Information
+- information
 ---
 
 - Refuses to appeal pro-gun ruling, hoping to limit damage from judges' opinion

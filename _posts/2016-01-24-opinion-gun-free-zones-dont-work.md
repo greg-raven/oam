@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 The Enquirer editorial "Gun rights or gun control?" (Jan. 17) was unfortunately predictable and, equally unfortunate, elicited the usual, predictable comments. Those in favor of additional limitations to our Second Amendment rights were dismissive, condescending and generally unproductive for the debate one Enquirer editor said she wanted to have.

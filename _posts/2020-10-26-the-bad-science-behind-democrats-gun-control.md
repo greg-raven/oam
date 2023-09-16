@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 From 2017 to 2019, America averaged 11 mass shootings per year; nearly double the rate of the three prior years. Although still a statistical rarity when it comes to crime, the uptick in mass shootings was cause for concern and attention by those on the right and the left. Yet, in 2020 America has endured only one such tragedy, not only running counter to the supposedly grim "new normal" painted by Democrats as a way to shame Second Amendment supporters, but shattering the data trends altogether.

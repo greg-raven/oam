@@ -4,7 +4,7 @@ tags:
 - Chris Eger
 layout: post
 categories:
-- Information
+- information
 ---
 
 The Citizens Committee for the Rights to Keep and Bear Arms (CCRKBA) filed suit Tuesday in federal court against Attorney General Eric Holder and the Bureau of Alcohol, Tobacco, Firearms, and Explosives (BATFE) director over current law that bars cross-state handgun transfers.

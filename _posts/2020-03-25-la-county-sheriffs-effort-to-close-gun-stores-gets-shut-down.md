@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 Los Angeles County Sheriff Alex Villanueva's efforts to close all gun stores in the county have been suspended pending Gov. Gavin Newsom's (D) reconsideration of what constitutes an "essential business."

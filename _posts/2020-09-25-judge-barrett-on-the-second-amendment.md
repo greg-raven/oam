@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Judge Amy Coney Barrett's impressive dissent in Kanter v. Barr (pp. 27-64) illustrates both her fidelity to the Supreme Court's landmark Second Amendment ruling in [District of Columbia v. Heller (2008)]({% post_url 2008-06-06-syllabus-in-district-of-columbia-et-al-v-heller %}) and her masterful application of the constitutional methodology of originalism.

@@ -4,7 +4,7 @@ tags:
 - NationalGunRights.org
 layout: post
 categories:
-- Information
+- information
 ---
 
 If you can't defend your rights, you don't have any.

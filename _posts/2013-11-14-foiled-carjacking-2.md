@@ -4,7 +4,7 @@ tags:
 - Palm Beach Post
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 A man driving with his vehicle's windows down was stopped at a red light when he was approached by another man he did not know.

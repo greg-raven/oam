@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Arizona's most populous county on Wednesday joined a growing national movement in which areas are declaring themselves Second Amendment sanctuaries and proclaiming support for gun ownership rights.

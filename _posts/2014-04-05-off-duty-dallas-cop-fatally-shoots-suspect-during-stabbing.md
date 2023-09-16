@@ -4,7 +4,7 @@ tags:
 - Jennifer Cruz
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 An off-duty Dallas cop fatally shot a man who was stabbing another individual at a downtown business Friday morning.

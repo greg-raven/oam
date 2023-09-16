@@ -4,7 +4,7 @@ tags:
 - Dan Roberts
 layout: post
 categories:
-- Information
+- information
 ---
 
 Manasquan, NJ --- (Ammoland.com) --- Nearly every mass shooting incident in the last twenty years, and multiple other instances of suicide and isolated shootings all share one thing in common, and it's not the weapons used.

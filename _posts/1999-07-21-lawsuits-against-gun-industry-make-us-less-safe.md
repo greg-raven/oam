@@ -4,7 +4,7 @@ tags:
 - H. Sterling Burnett
 layout: post
 categories:
-- Information
+- information
 ---
 
 Guns are used for self-defense somewhere between 800,000 and 3.6 million times per year ...

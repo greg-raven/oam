@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Other
+- other
 ---
 
 The gun business is booming as the rich and famous flock to Beverly Hills' only gun store, Beverly Hills Guns, for protection from the craziness that has overtaken day-to-day life in Los Angeles.

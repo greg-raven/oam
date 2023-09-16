@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 NYPD recruits will receive guns that are easier to fire under a new initiative to improve accuracy, the Daily News has learned.

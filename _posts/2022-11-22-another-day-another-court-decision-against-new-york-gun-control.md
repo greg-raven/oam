@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 United States District Court Judge John L. Sinatra Jr. granted a temporary injunction against a New York gun control barring the licensed carry of a concealed weapon on private property.

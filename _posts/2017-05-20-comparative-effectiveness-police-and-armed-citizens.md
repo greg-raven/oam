@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 ![Comparative effectiveness: Police and armed citizens](/assets/img/20170520-police-vs-armed-citizens.jpg)

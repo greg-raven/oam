@@ -4,7 +4,7 @@ tags:
 - The Patriot Post
 layout: post
 categories:
-- Other
+- other
 ---
 
 I support the 2nd Amendment, but ...

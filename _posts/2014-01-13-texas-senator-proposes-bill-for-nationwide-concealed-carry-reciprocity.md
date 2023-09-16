@@ -5,7 +5,7 @@ tags:
 layout: post
 categories:
 - CCW
-- Information
+- information
 ---
 
 On Friday, a Texas senator introduced the Constitutional Concealed Carry Reciprocity Act of 2014 which would treat concealed carry permits similar to drivers' licenses, allowing permit holders to legally carry a concealed firearm between states without requiring a different permit for each state.

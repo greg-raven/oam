@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 Rep. Chris Collins (R-NY) introduced legislation Monday aimed at nullifying state-level gun controls that exceed gun controls put in place by the federal government.

@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 While Oregon Democrats stood with Gabby Giffords and the Brady Campaign to Prevent Gun Violence to push expanded background checks on April 1, Grant County Sheriff Glenn Palmer stood for the law-abiding citizens whom the checks will target by describing the gun control push as "borderline treasonous."

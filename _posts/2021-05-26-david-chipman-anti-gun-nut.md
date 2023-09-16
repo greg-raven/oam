@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Gun-control advocate David Chipman, President Joe Biden's nominee for director of the Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF), was in front of a Senate Judiciary Committee today. Questions were limited to five minutes per senator, which was good call by Democrats.

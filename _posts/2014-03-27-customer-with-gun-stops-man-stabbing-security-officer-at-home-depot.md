@@ -4,7 +4,7 @@ tags:
 - WVEC Staff
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 A customer with a handgun stopped a shoplifting suspect from slashing a security officer with a contaminated needle and syringe outside a Home Depot store in Roseville, police said.

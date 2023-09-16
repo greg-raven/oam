@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Today, an Illinois judge in the Nineteenth Judicial Circuit Court for Lake County, IL, ruled for gun owners in the case of Guns Save Life, Inc. v. Village of Deerfield. The order issued today permanently blocks enforcement the Village of Deerfield's gun ban.

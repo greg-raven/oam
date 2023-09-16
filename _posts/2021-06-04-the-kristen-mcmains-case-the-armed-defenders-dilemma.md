@@ -5,7 +5,7 @@ tags:
 layout: post
 categories:
 - CCW
-- Situations
+- situations
 ---
 
 The Kristen McMains case is the story of a young woman who used her concealed firearm to end a vicious, life-threatening attack. On the evening of January 26, 2016, the 25-year-old attorney left her office and stepped into a parking garage elevator. A suspicious man had followed her across the skywalk and joined her. As the elevator doors closed, McMains' fear spiked when the stranger didn't push a button. "I had the instinctive feeling I was going to die tonight," she said, "unless I did something."

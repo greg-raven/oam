@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 In the wake of the tragic murder of 17 innocent students and teachers at Marjory Stoneman Douglas High School in Parkland, Florida, students, educators, politicians, and activists are searching for solutions to prevent future school shootings.

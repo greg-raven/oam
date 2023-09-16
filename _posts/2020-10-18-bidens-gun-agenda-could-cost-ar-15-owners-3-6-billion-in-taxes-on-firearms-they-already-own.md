@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Democrat presidential nominee Joe Biden's proposed gun control policy includes a provision that could require every AR-15 rifle be registered under the National Firearms Act of 1934. Unless there were some form of carve-out, this could mandate that American gun owners pay a $200 federal tax per AR-15 that they own.

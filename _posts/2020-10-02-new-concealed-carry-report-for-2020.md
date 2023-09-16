@@ -4,7 +4,7 @@ tags:
 - John R. Lott Jr.
 layout: post
 categories:
-- Information
+- information
 ---
 
 - 19.48 Million Permit Holders, 820,000 More Than Last Year Despite Many States Shutting Down Issuing Permits Because Of The Coronavirus

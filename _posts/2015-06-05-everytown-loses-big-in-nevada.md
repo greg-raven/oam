@@ -4,7 +4,7 @@ tags:
 - NRA
 layout: post
 categories:
-- Information
+- information
 ---
 
 Say goodbye to handgun registration in and around Las Vegas, Nevada. On Monday, Nevada Governor Brian Sandoval signed Senate Bill 175, abolishing Clark County's "blue card" handgun registration system while ushering in a host of other pro-gun changes to state law.

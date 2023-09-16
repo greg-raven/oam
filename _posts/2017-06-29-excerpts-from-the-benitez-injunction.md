@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 \[...\] \[a\]s Heller explains, the Second Amendment takes certain policy choices and removes them beyond the realm of debate. Disarming California's law-abiding citizenry is not a constitutionally-permissible policy choice.

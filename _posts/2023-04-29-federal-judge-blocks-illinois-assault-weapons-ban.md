@@ -4,7 +4,7 @@ tags:
 - John Crump
 layout: post
 categories:
-- Information
+- information
 ---
 
 EAST ST. LOUIS, Illinois --- An Illinois District Court Judge in East St. Louis blocked the state's new "assault weapons" ban. The decision came after Illinois successfully petitioned the court to combine four different lawsuits challenging the new law into a single case. The state claimed since the cases were all arguing against the ban, it would save the state money in litigation fees.

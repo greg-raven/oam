@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 A Congressional Research Service (CRS) report shows that while gun ownership climbed from 192 million firearms in 1994 to 310 million firearms in 2009, crime fell --- and fell sharply.

@@ -4,7 +4,7 @@ layout: post
 tags:
 - Charley Reese
 categories:
-- Information
+- information
 ---
 
 More often than not Americans are propagandized rather than informed.

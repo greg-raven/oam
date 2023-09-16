@@ -2,7 +2,7 @@
 title: "Important briefs filed in Peruta"
 layout: post
 categories:
-- Information
+- information
 tags:
 - Peruta v. San Diego
 ---

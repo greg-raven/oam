@@ -4,7 +4,7 @@ tags:
 - Gun Owners of America
 layout: post
 categories:
-- Information
+- information
 ---
 
 **A. Guns save more lives than they take; prevent more injuries than they inflict**

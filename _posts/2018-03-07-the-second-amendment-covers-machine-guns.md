@@ -4,7 +4,7 @@ tags:
 - The Patriot Post
 layout: post
 categories:
-- Information
+- information
 ---
 
 The puckle machine gun was patented in 1718 --- 73 years before the 2nd Amendment. This invalidates the argument that The Founders couldn't envision firearms more advanced than muskets.

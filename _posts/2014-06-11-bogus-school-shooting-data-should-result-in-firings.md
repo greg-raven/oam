@@ -4,7 +4,7 @@ tags:
 - Bob Owens
 layout: post
 categories:
-- Information
+- information
 ---
 
 Michael Bloomberg, you have some explaining to do.

@@ -2,7 +2,7 @@
 title: 'Democratic New Mexico AG refuses to defend governor in gun-order lawsuits'
 layout: post
 categories:
-- Information
+- information
 tag:
 - Caroline Downey
 ---

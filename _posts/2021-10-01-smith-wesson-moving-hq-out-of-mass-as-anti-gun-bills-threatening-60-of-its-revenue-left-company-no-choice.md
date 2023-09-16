@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 After more than a hundred and fifty years in Massachusetts, iconic gun manufacturer Smith & Wesson is moving its headquarters to Tennessee in order to escape new anti-gun legislation that would cost the company approximately sixty percent of its annual revenue.

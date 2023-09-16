@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Like never before in our lifetimes, our personal safety and security is in danger on Election Day.

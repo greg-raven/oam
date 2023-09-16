@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 Ohio concealed permit holder Dylan DeBoard received a commendation July 27 for intervening to save the life of a Mount Vernon Police Officer who was under attack.

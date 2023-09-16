@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 There is some great work being done to advance the state of the art in self-defense-specific handgun ammunition. One thing that hasn't changed, though, is the price: It's always expensive. Yet in using it you are trusting your life to it. So, how to you test it for function and reliability without breaking the bank? It doesn't matter how many new features your ammunition has if it won't cycle through your gun.  

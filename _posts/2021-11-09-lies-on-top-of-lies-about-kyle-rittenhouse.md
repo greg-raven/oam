@@ -4,9 +4,9 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
-- 'Open carry'
-- Situations
+- information
+- open carry
+- situations
 ---
 
 Media: Why Do Reporting When We Already Know Rittenhouse Is a Terrorist? \[supercut\]

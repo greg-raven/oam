@@ -4,7 +4,7 @@ tags:
 - CalGuns Foundation
 layout: post
 categories:
-- Information
+- information
 ---
 
 SAN FRANCISCO --- Earlier today, the Ninth Circuit Court of Appeals granted a motion to prioritize the Second Amendment lawsuit [Silvester v. Harris]({% post_url 2014-08-23-ruling-in-silvester-v-harris %}), a challenge to California's 10-day waiting period laws.

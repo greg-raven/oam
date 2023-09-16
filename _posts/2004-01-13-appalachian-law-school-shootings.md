@@ -4,7 +4,7 @@ tags:
 - Theodore E. Lang
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 Both Dr. John R. Lott, Jr., in his book The Bias Against Guns \[© 2003, Regnery --- Washington, D.C.\] and Bernard Goldberg in his most recent book, Arrogance \[© 2003, Warner --- New York, N.Y.\] discuss the shocking media bias and factual manipulation used by the Second Amendment-hating press to advance false information to fool the public. Both authors focused upon the same astonishing media manipulation that became evident in the case of the Appalachian Law School shootings back in 2002.

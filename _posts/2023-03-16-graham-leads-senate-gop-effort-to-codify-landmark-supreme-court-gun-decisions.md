@@ -4,7 +4,7 @@ tags:
 - Kaelan Deese
 layout: post
 categories:
-- Information
+- information
 ---
 
 Sen. Lindsey Graham (R-SC) and other Republican members of the Judiciary Committee are leading the charge to codify the Supreme Court's landmark Second Amendment decisions, arguing Democrats are committing a "frontal assault" on the constitutional amendment.

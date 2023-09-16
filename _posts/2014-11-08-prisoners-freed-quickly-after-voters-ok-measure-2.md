@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 SACRAMENTO, Calif. (AP) --- A ballot measure passed by voters is already freeing California suspects from jail as their felony charges are reduced to misdemeanors.

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Actor Vince Vaughn says he supports gun owner's rights, "We don't have the right to bear arms because of burglars; we have the right to bear arms to resist the supreme power of a corrupt and abusive government," Vaughn recently told a magazine.

@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 A judge in Southern California on Friday declared the state's ban on high-capacity magazines unconstitutional.

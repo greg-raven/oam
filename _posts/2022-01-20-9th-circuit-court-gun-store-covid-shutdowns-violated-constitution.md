@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 The Ninth Circuit federal appeals court ruled Thursday that the coronavirus lockdowns of gun stores in Ventura County, California, violated constitutional rights.

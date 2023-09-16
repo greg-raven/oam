@@ -6,7 +6,7 @@ tags:
 layout: post
 categories:
 - CCW
-- Information
+- information
 ---
 
 "... \[T\]he Yolo County policy impermissibly infringes on the Second Amendment right to bear arms in lawful self-defense."

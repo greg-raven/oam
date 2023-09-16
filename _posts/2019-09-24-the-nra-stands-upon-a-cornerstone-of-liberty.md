@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 The NRA isn't just under attack in the opening salvo of this political season because it stands steadfastly in defense of our right to keep and bear arms. The NRA also is under an unprecedented assault right now because, by stubbornly refusing to give up this most fundamental of rights, the NRA is taking a stand upon a cornerstone of individual liberty that, by default, also protects the very nature of American freedom.

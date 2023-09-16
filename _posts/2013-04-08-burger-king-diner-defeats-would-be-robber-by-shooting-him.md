@@ -4,7 +4,7 @@ tags:
 - Cheryl K. Chumley
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 A father who was trying to eat with his family at Burger King was able to defeat an armed robber by pulling his own weapon and shooting at him, Miami police said.

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 The shooting that killed three people and injured another at a Greenwood, Indiana, mall on July 17 drew broad national attention because of how it ended --- when 22-year-old Elisjsha Dicken, carrying a licensed handgun, fatally shot the attacker.

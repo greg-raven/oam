@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 Florida Gov. Ron DeSantis (R) signed legislation Wednesday that will allow teachers to be armed for classroom defense.

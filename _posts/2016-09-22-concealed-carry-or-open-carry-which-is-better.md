@@ -5,7 +5,7 @@ tags:
 layout: post
 categories:
 - CCW
-- 'Open carry'
+- open carry
 ---
 
 What is better concealed carry or open carry? Captain Jim Pope makes his case on why concealed weapons are better.

@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- 'Open carry'
+- open carry
 ---
 
 With the Texas open carry law set to go into effect January 1, 2016, there are now 45 states with open carry laws, and Florida is vying to be number 46.

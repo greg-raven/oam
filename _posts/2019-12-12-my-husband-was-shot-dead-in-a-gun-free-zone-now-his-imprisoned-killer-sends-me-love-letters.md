@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 My stalker just won't go away. Ten years ago, he murdered my husband, Ben, right in front of me in the middle of a busy restaurant. But my nightmare didn't end with my stalker's incarceration, as I recently found out that he is writing me letters from prison. The letters show absolutely no remorse and profess his twisted love for me.

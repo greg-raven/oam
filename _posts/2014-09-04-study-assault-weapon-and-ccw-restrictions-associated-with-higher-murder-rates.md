@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 In a new study, Mark Gius, of Quinnipiac University's Department of Economics, has found that between 1980 and 2009, "states with more restrictive CCW laws had gun-related murder rates that were 10% higher" than those of other states. Gius also concluded that state "murder rates were 19.3% higher when the Federal \['assault weapon' and 'large' magazine\] ban was in effect." Gius says that more research is needed to determine whether these gun control laws contributed to, or merely coincided with, higher rates of crime.

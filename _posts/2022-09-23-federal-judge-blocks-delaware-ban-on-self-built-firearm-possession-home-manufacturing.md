@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 WILMINGTON, DE --- Today, Firearms Policy Coalition (FPC) announced that United States District Judge Maryellen Noreika issued an order enjoining Delaware's bans on self-manufacturing and possession of home-built firearms in its Rigby v. Jennings lawsuit. The opinion and order can be viewed at FPCLaw.org.

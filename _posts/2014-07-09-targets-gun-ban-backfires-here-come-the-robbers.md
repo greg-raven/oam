@@ -4,7 +4,7 @@ tags:
 - Leo Hohmann
 layout: post
 categories:
-- Information
+- information
 ---
 
 - Major retailer's firearms policy creates danger for customers

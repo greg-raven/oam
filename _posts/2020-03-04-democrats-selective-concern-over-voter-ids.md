@@ -6,7 +6,7 @@ tags:
 layout: post
 categories:
 - CCW
-- Information
+- information
 ---
 
 Last week, the House Committee on Oversight and Reform conducted a hearing that purported to examine the history and current state of voting rights in America. Witnesses testified that Texas's free voter ID cards, for example, are too burdensome on the poor and on minority communities, particularly blacks.

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 North Carolina's state legislature has voted to override Gov. Roy Cooper's (D) veto and repeal the state's requirement for a resident to obtain a permit from a local sheriff before legally purchasing a handgun.

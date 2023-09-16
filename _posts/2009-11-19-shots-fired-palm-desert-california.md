@@ -4,7 +4,7 @@ tags:
 - Dean Scoville
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 - A quiet shopping trip ended in a furious gun battle when Dep. Jason Hendrix tried to stop an angry man from killing several hostages.

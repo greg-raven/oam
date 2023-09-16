@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Brevard County Sheriff Wayne Ivey offers these four tips for dealing with violent situations: Awareness, avoidance, arm, attack.

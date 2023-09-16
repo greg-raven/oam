@@ -4,7 +4,7 @@ tags:
 - Bob Unruh
 layout: post
 categories:
-- Information
+- information
 ---
 
 The lawyer who brought the first legal challenge to the brand-new gun limits announced by President Obama last month now is asking a judge for a quick ruling, insisting there's really nothing to argue over.

@@ -4,7 +4,7 @@ tags:
 - The Patriot Post
 layout: post
 categories:
-- Information
+- information
 ---
 
 Armed citizens help end or limit the damage during active shooting events 94% of the time.

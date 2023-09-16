@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 - Original title: "More misleading information from Bloomberg's Everytown for Gun Safety on guns: 'Analysis of Recent Mass Shootings,' Showing how mass public shootings keep occurring in gun-free zones" Originally posted on September 9, 2014.

@@ -4,9 +4,9 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
-- 'Open carry'
-- Situations
+- information
+- open carry
+- situations
 ---
 
 - The truth is that, according to the FBI, rifles like the AR-15 kill far fewer times than hands and feet, and fewer times than knives.

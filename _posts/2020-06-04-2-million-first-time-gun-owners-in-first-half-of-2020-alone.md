@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 As concerns over self-defense became more pronounced in 2020, initially during the cornonavirus hysteria and then during the current spate of protests and riots, two million Americans became first-time gun owners.

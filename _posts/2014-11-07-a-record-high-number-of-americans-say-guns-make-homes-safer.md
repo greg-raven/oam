@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Six in 10 Americans believe having a gun in the house makes it a safer place to be, a percentage that has nearly doubled since 2000, according to a new Gallup poll.

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 So now we have heard the Democrats' eternally adolescent, presidential candidate Beto O'Rourke promise that, if elected, he will order the national government's police and military forces to seize AR-15s and other incorrectly described "assault weapons" from law-abiding U.S. citizens. It is an odd and, perhaps, even a dangerous decision to tell Americans that you will strip them of inalienable rights as soon as you can, but there you are.

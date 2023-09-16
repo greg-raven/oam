@@ -4,7 +4,7 @@ tags:
 - Jake Fogleman
 layout: post
 categories:
-- Other
+- other
 ---
 
 California's attempt to impede gun-rights plaintiffs by heightening the threat they would have to fork over legal fees to the state has backfired.

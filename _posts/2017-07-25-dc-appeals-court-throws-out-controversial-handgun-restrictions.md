@@ -5,7 +5,7 @@ tags:
 layout: post
 categories:
 - CCW
-- Information
+- information
 ---
 
 The U.S. Court of Appeals for the D.C. Circuit on Tuesday put a hold on Washington, D.C.'s attempt to keep residents from carrying concealed handguns for self-defense, a move gun rights activists are considering a win.

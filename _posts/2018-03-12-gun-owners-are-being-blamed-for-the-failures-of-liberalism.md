@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Liberalism is largely a process of adopting illogical and factually invalid positions and then artificially placing blame on its opponents when policies based on those positions inevitably fail. For the blame to bear fruit, it is necessary for people of good conscience to be fooled into believing that their actions and beliefs are bad for society and have brought about shameful consequences. At the same time, it is necessary for people whose consciences have already been deformed and co-opted by the faux morality of liberalism to be conditioned to think fellow citizens, who have caused no actual harm but hold contrary views, are evil.

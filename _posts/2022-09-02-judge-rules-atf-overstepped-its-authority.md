@@ -4,7 +4,7 @@ tags:
 - VanDerStok v. Garland
 layout: post
 categories:
-- Information
+- information
 ---
 
 United States District Judge Reed O'Connor has ruled that the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) overstepped the boundaries established by Congress in changing the 1978 definition of "frame or receiver."

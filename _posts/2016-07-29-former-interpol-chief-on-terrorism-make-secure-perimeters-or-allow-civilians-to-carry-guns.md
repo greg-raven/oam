@@ -5,7 +5,7 @@ tags:
 layout: post
 categories:
 - CCW
-- 'Open carry'
+- open carry
 ---
 
 As INTERPOL general secretary, Ronald Noble said in 2013 that the ways to battle terrorism in "soft target" areas, such as shopping malls or movie theaters, is to erect secure safety perimeters or allow the citizens to carry their own guns, an "armed citizenry."

@@ -3,7 +3,7 @@ title: "Ninth Circuit strikes California's restrictive rule against licensed car
 layout: post
 categories:
 - CCW
-- Information
+- information
 tags:
 - Peruta v. San Diego
 ---

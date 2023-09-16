@@ -5,7 +5,7 @@ tags:
 layout: post
 categories:
 - CCW
-- Information
+- information
 ---
 
 - Federal appeals courts strikes down California's concealed weapons permit rules

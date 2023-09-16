@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 ALBUQUERQUE, N.M. --- William McKinley woke up to his dogs barking around 5 a.m. Saturday and went outside his Four Hills home to see what was going on.

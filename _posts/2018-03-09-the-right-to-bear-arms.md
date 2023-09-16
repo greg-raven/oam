@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 The right is general. It may be supposed from the phraseology of this provision that the right to keep and bear arms was only guaranteed to the militia; but this would be an interpretation not warranted by the intent.

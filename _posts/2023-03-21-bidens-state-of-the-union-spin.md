@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 As the old saying goes, there are three kinds of lies: lies, damned lies, and statistics.

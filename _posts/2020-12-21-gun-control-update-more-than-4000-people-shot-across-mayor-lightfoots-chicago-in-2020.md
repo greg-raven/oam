@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 Over 4,000 people were shot in Mayor Lori Lightfoot's (D) Chicago starting January 1, 2020, through to December 16, 2020.

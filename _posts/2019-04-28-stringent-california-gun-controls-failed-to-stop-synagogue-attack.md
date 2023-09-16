@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 California has every gun law the Democrats are pushing on the federal level but none of it prevented 19-year-old John Earnest from allegedly opening fire in Congregation Chabad in Poway.

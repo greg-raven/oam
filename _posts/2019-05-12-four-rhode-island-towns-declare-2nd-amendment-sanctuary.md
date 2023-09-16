@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 Four Rhode Island towns have declared themselves Second Amendment Sanctuaries in the last two weeks.

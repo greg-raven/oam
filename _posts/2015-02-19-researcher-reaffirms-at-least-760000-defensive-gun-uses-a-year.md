@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 On February 17 Florida State University criminology professor Gary Kleck responded to recent criticism of his past studies on defensive gun uses (DGUs) by showing why the criticism is wrong and why a minimum of 760,000 DGUs each year is still a viable claim.

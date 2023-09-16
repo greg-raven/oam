@@ -4,7 +4,7 @@ tags:
 - GSSF.pro
 layout: post
 categories:
-- Other
+- other
 ---
 
 Summer is now in full swing and it's getting hotter everyday. We have to take special precautions when we are outside on the range. Always make sure you are aware of the expected forecast for your area. Take plenty of water and a sports drink or two, especially if you can't buy it at the range. Freezing your drinks at home when they are ½ to ¾ full helps, then on range day, take them out and add water to the bottles before you leave for the range. This way you don't need to bring an ice chest and the drinks stay cool.

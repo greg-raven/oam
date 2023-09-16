@@ -4,7 +4,7 @@ tags:
 - Ammoland.com
 layout: post
 categories:
-- Information
+- information
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SswiEjjTp0U" title="Fact: Guns Save More Lives Than They Take"></iframe>

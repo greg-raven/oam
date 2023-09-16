@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Other
+- other
 ---
 
 > "When you disarm your subjects, however, you offend them by showing that either from cowardliness or lack of faith, you distrust them; and either conclusion will induce them to hate you."

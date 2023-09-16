@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 On December 3, *The Washington Post* reported that gun crime has been on the decline for about 20 years, except for high-profile shootings in gun-free zones; WaPo claims those shootings are on the increase.

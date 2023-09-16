@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 American Voters overwhelming prefer living in a neighborhood where they have the option of owning a gun than to live where nobody is allowed to be armed.

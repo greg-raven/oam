@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 COMMERCE CITY, Colo. (CBS4) --- Two months after Gov. Jared Polis signed the state's "red flag" gun bill into law, another Colorado community has declared itself a Second Amendment sanctuary city. Five members on the Commerce City Council voted for the resolution Tuesday night, two voted against and two abstained from the vote.

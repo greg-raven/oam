@@ -5,7 +5,7 @@ tags:
 - Lynnea Lombardo
 - Katie Lucia
 categories:
-- Information
+- information
 ---
 
 - Sen. Runner: Prison realignment may adversely affect low-income neighborhoods

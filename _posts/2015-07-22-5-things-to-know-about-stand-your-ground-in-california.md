@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Think the George Zimmerman verdict couldn't have happened under California law? Not necessarily. Florida may have a so-called "stand-your-ground" policy written into its laws, but it is possible that a California jury under very similar circumstances could have also handed down an acquittal.

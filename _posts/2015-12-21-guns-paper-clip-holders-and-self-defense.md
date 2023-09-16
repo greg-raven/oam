@@ -4,7 +4,7 @@ tags:
 - Orange County Register
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 The horrific shooting in San Bernardino has prompted local governments across the nation to evaluate how to deal with such crises. Of course, some approaches are better than others.

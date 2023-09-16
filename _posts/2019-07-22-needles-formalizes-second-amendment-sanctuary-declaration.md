@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 NEEDLES --- The city council inspired serious and apparently widespread discussion with consideration of declaring Needles to be a Second Amendment Sanctuary City during its regular meeting of June 11.

@@ -5,7 +5,7 @@ tags:
 - Gary Mauser
 layout: post
 categories:
-- Information
+- information
 ---
 
 - A Review of International and Some Domestic Evidence

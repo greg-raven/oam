@@ -5,7 +5,7 @@ tags:
 - Gun Owners Foundation
 layout: post
 categories:
-- Information
+- information
 ---
 
 Today, Gun Owners of America (GOA) and Gun Owners Foundation (GOF) [secured a preliminary injunction in federal district court]({% post_url 2022-11-07-trump-appointee-blocks-ny-gun-law-says-dem-legislature-may-not-eviscerate-the-bill-of-rights %}) against most of New York's poorly named "Concealed Carry Improvement Act." This follows GOA and GOF securing a temporary restraining order against the law in October, which was frustratingly blocked by a federal appeals court.

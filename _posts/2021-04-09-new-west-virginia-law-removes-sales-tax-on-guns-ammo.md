@@ -4,7 +4,7 @@ tags:
 - Cam Edwards
 layout: post
 categories:
-- Information
+- information
 ---
 
 While California Democrats are looking to jack up the taxes on guns and ammunition in their latest attempt to punish those exercising their Second Amendment rights, the Republicans in charge of the West Virginia legislature are moving in the opposite direction. On Thursday, Gov. Jim Justice signed H.R. 2499 into law, which will remove the state's sales tax on firearms and ammunition starting on July 1st.

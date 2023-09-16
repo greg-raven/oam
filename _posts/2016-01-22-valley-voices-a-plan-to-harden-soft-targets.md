@@ -4,7 +4,7 @@ tags:
 - Robert A. Lovingood
 layout: post
 categories:
-- Information
+- information
 ---
 
 By Robert A. Lovingood

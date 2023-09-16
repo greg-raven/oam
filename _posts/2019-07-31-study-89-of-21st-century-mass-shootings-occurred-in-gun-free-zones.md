@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 A study from the Crime Prevention Research Center (CPRC) shows 89 percent of mass shootings between 1998 and June 2019 occurred in gun-free zones.

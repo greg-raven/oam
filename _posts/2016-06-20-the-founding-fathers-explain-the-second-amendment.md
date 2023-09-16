@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 There's a lot going around about the Second Amendment. Some on the left have been spreading a little rumor that it isn't necessarily about protecting any right of the individual. Some say it doesn't hold water compared to the government's ideas on ensuring public safety.

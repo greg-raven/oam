@@ -4,7 +4,7 @@ tags:
 - Howard Nemerov
 layout: post
 categories:
-- Information
+- information
 ---
 
 After the Newtown, Connecticut mass murder, anti-rights politicians and media shifted into high gear. The only "solution" for such a tragedy was another gun ban; within two days, Senator Dianne Feinstein introduced her version. Pundits like the Washington Post's Ezra Klein politicized the tragedy by claiming that America is an unusually violent place, with the only answer being more gun control.

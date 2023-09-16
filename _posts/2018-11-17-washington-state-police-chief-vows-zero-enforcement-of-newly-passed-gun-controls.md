@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 On September 25, 2018, Breitbart News reported that I-1639 would put in place enhanced background checks for the purchase of semiautomatic rifles, would place a ten-day wait on completion of a semiautomatic rifle sale, and would require purchasers to pass a gun safety course. The initiative also contained new gun storage laws for every type of firearm, including penalties for gun owners whose guns were stolen and used in crimes, among other things.

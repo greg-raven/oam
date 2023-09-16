@@ -4,7 +4,7 @@ tags:
 - Chris Eger
 layout: post
 categories:
-- Information
+- information
 ---
 
 A recently released statistical report on unintentional injuries produced by the National Safety Council found that fatal accidental gun deaths are at the lowest levels since data has been collected.

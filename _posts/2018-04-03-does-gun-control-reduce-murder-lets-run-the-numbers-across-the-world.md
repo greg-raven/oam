@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 - After I thought about it, I realized the question of whether reducing guns in a society will lead to fewer murders is a testable hypothesis.

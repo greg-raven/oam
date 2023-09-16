@@ -4,7 +4,7 @@ tags:
 - Carolyn D. Meadows
 layout: post
 categories:
-- Information
+- information
 ---
 
 On November 3, millions of Americans will exercise their constitutional right to vote for their candidate for president of the United States in possibly the most consequential election of modern times. Most certainly for the Second Amendment. It is therefore critical that every NRA member ensures that they have a plan to vote --- whether in person at the polling place or in advance by absentee ballot. You have my deepest appreciation for your active patriotism, and may God keep you safe and healthy as you participate in the electoral process.

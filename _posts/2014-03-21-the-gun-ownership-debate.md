@@ -4,7 +4,7 @@ tags:
 - USA Today
 layout: post
 categories:
-- Information
+- information
 ---
 
 \[...\] The nation has debated gun ownership and resolved it in gun owners' favor, politically, and in the nation's highest court."

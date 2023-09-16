@@ -5,7 +5,7 @@ tags:
 layout: post
 categories:
 - CCW
-- Situations
+- situations
 ---
 
 In another Democrat narrative-debunking situation, a law-abiding citizen carrying a firearm stopped a shooting in progress at a mall food court in Indiana over the weekend --- and is likely to be ignored by most within the mainstream media despite overwhelming praise from leaders in the community.

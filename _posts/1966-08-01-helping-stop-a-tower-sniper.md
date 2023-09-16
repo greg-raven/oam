@@ -4,7 +4,7 @@ layout: post
 tags:
 - Life magazine
 categories:
-- Situations
+- situations
 ---
 
 Charles Joseph Whitman was a Marine and had been a student at the University of Texas at Austin. On August 1st, 1966, after killing his mother and wife with a knife, he went to the top of the University clock tower, which he used as a sniper's perch. When it was over, he had shot and killed 14 people, and wounded 31 others before being shot by Austin police.

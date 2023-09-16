@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 As they proudly acknowledge, Democratic presidential nominee Joseph Biden and vice presidential nominee Kamala Harris represent a clear and present danger to liberty, freedom, the Constitution, and the values that have made America the greatest country in the world. Because they pose a uniquely grave threat to all that we hold dear, Firearms Policy Coalition expressly and unequivocally opposes Mr. Biden and Ms. Harris in the strongest possible terms. If elected, the Democratic nominees would:

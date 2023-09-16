@@ -4,7 +4,7 @@ tags:
 - John R. Lott Jr.
 layout: post
 categories:
-- Information
+- information
 ---
 
 For once, a gun control claim was too much for even the media fact-checkers. During last night's Democratic presidential debate in Charleston, South Carolina, former Vice President Joe Biden bizarrely declared: "A hundred and fifty million people have been killed since 2007, when Bernie voted to exempt the gun manufacturers from liability."

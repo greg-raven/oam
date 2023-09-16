@@ -4,7 +4,7 @@ layout: post
 tags:
 - John J. Bethune
 categories:
-- Information
+- information
 ---
 
 In its support for the individual's right to own weapons --- and therefore, in its opposition to gun control proposals being made nationwide --- the National Rifle Association takes what many view as extreme or radical positions. On closer examination, however, its approach does not strike me as unreasonable, but rather as a rational response to a serious threat against liberty.

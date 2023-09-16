@@ -2,7 +2,7 @@
 title: "California judge: No more delay to enforce gun ruling"
 layout: post
 categories:
-- Information
+- information
 tags:
 - Associated Press
 ---

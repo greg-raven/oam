@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 The U.S. Constitution has been in the spotlight for years now, and debates surrounding certain amendments continue to rage.

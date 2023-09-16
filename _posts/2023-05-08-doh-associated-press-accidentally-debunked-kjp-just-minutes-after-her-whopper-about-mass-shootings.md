@@ -4,7 +4,7 @@ tags:
 - Doug P.
 layout: post
 categories:
-- Information
+- information
 ---
 
 White House press secretary Karine Jean-Pierre and her Big Book of Bogus Talking Points held another briefing today, and this one was business as usual. And by "business as usual" we mean it was filled to the brim with lies and gaslighting. For example, did you know a border wall is ineffective because it can't even withstand heavy winds?

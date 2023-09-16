@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 In 1929, the Soviet Union established gun control. From 1929 to 1953, about 20 million dissidents, unable to defend themselves, were rounded up and exterminated.  

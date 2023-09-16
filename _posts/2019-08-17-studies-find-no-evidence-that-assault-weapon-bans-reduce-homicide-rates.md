@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 - The studies, data, and examination of the available evidence by scholars suggest that assault weapon bans or buybacks will have little if any effect on rates of violent crime and gun violence.

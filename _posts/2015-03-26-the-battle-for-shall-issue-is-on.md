@@ -2,7 +2,7 @@
 title: "The battle for 'shall issue' is on"
 layout: post
 categories:
-- Information
+- information
 tags:
 - CRPA
 ---

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Minneapolis and other major cities have finally re-opened, at least to looters and arsonists. For three days, police in Minneapolis and St. Paul were ordered to stand down as rioters destroyed their cities. In New York City and Washington, D.C., on Monday night, police stood by as looters destroyed parts of those cities.

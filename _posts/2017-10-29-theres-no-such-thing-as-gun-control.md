@@ -4,7 +4,7 @@ tags:
 - Stefan Molyneux
 layout: post
 categories:
-- Information
+- information
 ---
 
 > ... There is only centralizing gun ownership in the hands of a small political elite and their minions.

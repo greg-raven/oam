@@ -5,7 +5,7 @@ tags:
 layout: post
 categories:
 - CCW
-- 'Open carry'
+- open carry
 ---
 
 A federal judge in New York has struck down major parts of the state's sweeping gun control law as unconstitutional.

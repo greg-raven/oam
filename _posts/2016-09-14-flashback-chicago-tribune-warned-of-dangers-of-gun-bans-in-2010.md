@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 On March 4, 2010, the Chicago Tribune reported that the hallmark of municipal gun bans was a sharp increase in death rates, and it suggested the reason for the rise in fatalities was because bans affect law-abiding citizens rather than criminals.

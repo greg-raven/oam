@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 Visa chairman and CEO Alfred Kelly says his company will continue to process gun sales as long as buying guns is a legal activity.

@@ -4,7 +4,7 @@ tags:
 - WorldNetDaily
 layout: post
 categories:
-- Information
+- information
 ---
 
 - State imposed registration demand, but failed to provide system that worked

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Possession of firearms by law-abiding citizens reduces crime and is key to deterring gun violence, a newly released report says.

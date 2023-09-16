@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 https://youtu.be/FgQVP5jQACQ?t=1h16m50s

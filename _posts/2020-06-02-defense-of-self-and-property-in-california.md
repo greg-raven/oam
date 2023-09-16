@@ -4,8 +4,8 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
-- Situations
+- information
+- situations
 ---
 
 by John Dillon and Michael Schwartz

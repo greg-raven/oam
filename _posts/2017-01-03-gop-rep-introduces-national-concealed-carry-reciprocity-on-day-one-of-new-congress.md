@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 On January 3 --- the first day of the 115th Congress --- Representative Richard Hudson (R-NC-8) introduced national concealed carry reciprocity legislation.

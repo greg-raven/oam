@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gb1MVFDy_tw?si=--2RdILzAXUbTsQg" title="ATF Agent tased, arrested at gunpoint by Columbus Police - new bodycam footage"></iframe>

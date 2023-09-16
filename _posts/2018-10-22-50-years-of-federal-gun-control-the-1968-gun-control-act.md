@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Today marks the 50th anniversary of the passage of the Gun Control Act of 1968. The GCA is the main federal law that governs interstate commerce of firearms in the United States. Specifically, the GCA prohibits firearms commerce across state lines except between licensed manufactures, dealers, and importers. Under the GCA, any individual or company that wants to partake in commercial activity dealing with the manufacture or importation of firearms and ammunition, or the interstate and intrastate sale of firearms must possess a Federal Firearms License (FFL).

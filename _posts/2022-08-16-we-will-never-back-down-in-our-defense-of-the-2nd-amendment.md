@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 A number of politicians and their lobbying partners in the media have recently sought to disparage Smith & Wesson. Some have had the audacity to suggest that after they have vilified, undermined and defunded law enforcement for years, supported prosecutors who refuse to hold criminals accountable for their actions, overseen the decay of our country's mental health infrastructure, and generally promoted a culture of lawlessness, Smith & Wesson and other firearm manufacturers are somehow responsible for the crime wave that has predictably resulted from these destructive policies. But they are the ones to blame for the surge in violence and lawlessness, and they seek to avoid any responsibility for the crisis of violence they have created by attempting to shift the blame to Smith & Wesson, other firearm manufacturers and law-abiding gun owners.

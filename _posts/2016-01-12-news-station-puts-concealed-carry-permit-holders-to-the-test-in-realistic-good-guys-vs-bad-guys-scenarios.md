@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 Active shooter situations are usually quick and surprising --- so just how prepared are concealed carry holders?

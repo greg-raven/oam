@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 A judge has ruled that a federal law banning guns that have had their serial numbers removed is unconstitutional.

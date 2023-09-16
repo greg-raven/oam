@@ -5,7 +5,7 @@ tags:
 layout: post
 categories:
 - CCW
-- Situations
+- situations
 ---
 
 - 'If I didn't have my gun, everyone in the house would have died'

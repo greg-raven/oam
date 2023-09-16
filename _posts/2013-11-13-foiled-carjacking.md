@@ -4,7 +4,7 @@ tags:
 - WSB
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 Tariq Bell and his 13-year-old daughter had just left a music store when they were approached by a 40-year-old stranger.

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 > "Ban guns because shootings happen a lot, but don't let good guys carry guns because shootings are rare."

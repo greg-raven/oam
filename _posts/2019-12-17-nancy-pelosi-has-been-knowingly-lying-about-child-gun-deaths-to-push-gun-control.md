@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 When even the left-leaning Washington Post calls a Democratic talking point a lie, you know it must be a doozy. And thanks to fact-checker Glenn Kessler, we now know that Speaker of the House Nancy Pelosi has repeatedly and knowingly lied about the rates of child gun death to push an agenda.

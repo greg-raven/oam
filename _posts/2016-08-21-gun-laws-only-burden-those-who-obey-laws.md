@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 -- It's time to ask some really tough questions about gun control --- an issue that generates angst, raw emotion and even anger. It's time to look at it differently --- not through the lens of fear, but rather through one of objectivity and common sense.

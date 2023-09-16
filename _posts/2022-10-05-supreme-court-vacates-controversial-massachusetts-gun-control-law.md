@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 - The Massachusetts gun control law places strict restrictions on the ability to purchase and possess handguns

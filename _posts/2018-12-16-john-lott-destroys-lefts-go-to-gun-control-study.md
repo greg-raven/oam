@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 The study, which claims the U.S. leads the world in mass shootings, was put together by University of Alabama's Adam Lankford and released in 2013.

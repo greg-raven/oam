@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 SAN DIEGO, CA --- Today, Firearms Policy Coalition (FPC) announced that Judge Roger T. Benitez of the Southern District of California has issued an opinion in Miller v. Bonta (previously Miller v. Becerra), holding that California's tyrannical ban on so-called "assault weapons" is unconstitutional under the Second Amendment. The opinion, along with other filings in this case, can be viewed at [AssaultWeaponLawsuit.com](https://www.firearmspolicy.org/miller).

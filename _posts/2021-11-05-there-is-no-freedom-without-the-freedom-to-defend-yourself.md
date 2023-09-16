@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 All of human history shows us that a disarmed populace is a vulnerable populace. Vulnerable to tyrants. Vulnerable to criminals.

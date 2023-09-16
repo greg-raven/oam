@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Washington, D.C. --- U.S. Senator Marco Rubio (R-FL) today introduced the Firearms Manufacturers and Dealers Protection Act of 2015, legislation to protect the 2nd Amendment rights of law-abiding citizens, and firearms and ammunition manufacturers by terminating Operation Choke Point.

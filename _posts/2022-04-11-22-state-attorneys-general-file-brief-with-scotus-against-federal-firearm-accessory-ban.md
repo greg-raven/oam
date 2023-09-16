@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 - ATF is attempting to regulate bump-stock accessories by claiming that they transform the firearms they attach to into machine guns.

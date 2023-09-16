@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 In the wake of Wednesday's shooting of two journalists in Virginia, one crime expert is calling out people who claim banning firearms helps reduce violence.

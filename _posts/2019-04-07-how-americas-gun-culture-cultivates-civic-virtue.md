@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 *From the colonists winning independence from Great Britain to African-Americans vindicating their civil rights, the role of the gun is inseparable from American identity.*

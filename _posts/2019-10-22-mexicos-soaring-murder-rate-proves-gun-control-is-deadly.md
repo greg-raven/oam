@@ -4,7 +4,7 @@ tags:
 - John R. Lott Jr.
 layout: post
 categories:
-- Information
+- information
 ---
 
 - Its laws are among the world's least permissive. And most criminals don't get weapons from the U.S.

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 A Virginia Beach employee is circulating a petition to abolish the city's policy barring personnel from bringing guns into work if they are properly permitted.

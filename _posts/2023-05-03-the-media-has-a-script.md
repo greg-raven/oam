@@ -4,7 +4,7 @@ tags:
 - CRPA
 layout: post
 categories:
-- Information
+- information
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wccfWerb7Qc" title="The Media has a Script"></iframe>

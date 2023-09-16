@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 North Butler Community Schools and Clarksville Community Schools in Iowa are introducing classes in firearms safety for 7th and 8th graders starting this spring.

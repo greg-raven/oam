@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 In the recall election to oust Gavin Newsom, a real contender has emerged to become the next Governor of California: Larry Elder.

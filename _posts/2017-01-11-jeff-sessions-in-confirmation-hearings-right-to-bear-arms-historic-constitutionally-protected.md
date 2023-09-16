@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 C-SPAN reported that Sen. John Kennedy (R-LA) said, "In Louisiana, Senator, we believe that love is the answer. But we also believe that we have the right under the Constitution to own a gun, just in case. Could you share with me your thoughts on the Second Amendment?"

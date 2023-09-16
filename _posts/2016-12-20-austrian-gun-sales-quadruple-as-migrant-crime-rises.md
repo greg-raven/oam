@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 Gun sales in Austria have "quadrupled" as citizens of that nation seek to secure means of self-defense in response to the "immigrant crisis" that has enveloped Europe.

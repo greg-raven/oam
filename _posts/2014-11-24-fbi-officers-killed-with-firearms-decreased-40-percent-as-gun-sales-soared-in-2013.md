@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 On November 24 the FBI released stats showing the number of officers killed in the line of duty during 2013 decreased by approximately 40 percent at a time when private gun sales were breaking records.

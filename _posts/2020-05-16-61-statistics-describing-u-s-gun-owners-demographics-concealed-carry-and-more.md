@@ -5,8 +5,8 @@ tags:
 layout: post
 categories:
 - CCW
-- Information
-- 'Open carry'
+- information
+- open carry
 ---
 
 There are more gun owners now than ever before. It's not just my opinion, it's a matter of scientific fact. This article is going to discuss some excellent research on gun owners including: demographics, how they use them, how often they carry, as well as much more.

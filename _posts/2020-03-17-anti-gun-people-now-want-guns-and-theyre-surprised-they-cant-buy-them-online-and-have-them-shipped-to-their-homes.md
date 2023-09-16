@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 This \[Wuhan coronavirus\] pandemic is creating all sorts of problems for many people, but one of the problems is not the lack of purchases made for guns and ammo. The gun industry is seeing record sales across the board, and it's really only the beginning.

@@ -4,7 +4,7 @@ tags:
 - Ken Suarez
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 - Polk County Sheriff Grady Judd had a message for those who would rather loot than peacefully protest.

@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 A three-judge panel for the United States Court of Appeals for the Ninth Circuit struck down California's ban on semiautomatic rifle sales to 18-20 year-olds on Wednesday.

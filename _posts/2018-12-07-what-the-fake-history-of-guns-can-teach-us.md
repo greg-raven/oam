@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 In 2000, Emory University history professor Michael Bellesiles published the book Arming America: The Origins of a National Gun Culture. The central argument of the book was that the culture of American gun ownership does not date back to the colonial era and, instead, emerged in the middle of the nineteenth century when technological advances made firearms more affordable.

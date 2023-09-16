@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 In the wee hours last night, as the two-year legislative session was coming to a close in Sacramento, CRPA's legislative team helped bring home two critical victories. [SB 918](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220SB918), a bill that would have made it virtually impossible to carry a gun outside your home, and [AB 1227](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220AB1227), a bill to add 10-11% taxes to all new gun purchases, were defeated.

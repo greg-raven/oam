@@ -4,7 +4,7 @@ tags:
 - Jennifer Cruz
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 The family of a suspect who was shot by an armed customer while attempting to rob a Family Dollar store in Mobile, Alabama earlier this month told Fox 10 that the Good Samaritan should not have gotten involved and "just left the store."

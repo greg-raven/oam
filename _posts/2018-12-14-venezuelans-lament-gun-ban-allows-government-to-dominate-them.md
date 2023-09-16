@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 Fox News reports that the gun ban was passed in 2012, at which time "there were only around eight gun stores in the entire country." Now, remaining stores that once sold guns are in the business of selling fishing tackle.

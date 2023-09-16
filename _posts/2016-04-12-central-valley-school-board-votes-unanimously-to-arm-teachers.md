@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 On April 11 the Kingsburg Joint Union High School District's board voted unanimously to adopt a policy allowing teachers and staff with concealed carry permits to be armed on campus for self-defense.

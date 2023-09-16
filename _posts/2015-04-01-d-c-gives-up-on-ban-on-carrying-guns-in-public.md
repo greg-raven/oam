@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Washington, D.C., will drop its appeal of a federal court ruling that overturned the city's ban on carrying handguns in public, Attorney General Karl Racine announced Wednesday.

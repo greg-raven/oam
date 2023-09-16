@@ -6,7 +6,7 @@ tags:
 - Cooper Conway
 categories:
 - CCW
-- Information
+- information
 ---
 
 At a time when some gun control advocates appear intent on painting lawful gun ownership as a danger to society, and the Second Amendment as little more than an outdated protection of a person's right to hunt, it's important to remember the regular role armed citizens play in defending inalienable rights.

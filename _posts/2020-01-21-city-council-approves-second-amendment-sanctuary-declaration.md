@@ -4,7 +4,7 @@ tags:
 - Terri Harber
 layout: post
 categories:
-- Information
+- information
 ---
 
 BULLHEAD CITY --- At least 60 people were in the audience on Tuesday evening to watch the City Council unanimously approve a resolution declaring Bullhead City to be Arizona's first Second Amendment Sanctuary City.

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Liberty University is planning to open a state-of-the-art shooting range on campus next fall as part of the conservative Evangelical Christian School's commitment to promoting gun ownership and firearm sports.

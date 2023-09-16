@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 CNN used misleading data from the Gun Violence Archive to claim Monday "the U.S. has surpassed 100 mass shootings in 2023."

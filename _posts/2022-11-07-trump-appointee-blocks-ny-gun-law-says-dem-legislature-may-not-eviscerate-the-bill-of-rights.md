@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 New York gun control advocates are enraged after a Trump-appointed judge blocked an unconstitutional gun law from taking effect and then raked Democrats over the coals for attempting to "eviscerate the Bill of Rights."

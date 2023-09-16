@@ -4,7 +4,7 @@ tags:
 - Jennifer Cruz
 layout: post
 categories:
-- Information
+- information
 ---
 
 Colorado State Sen. Ted Harvey introduced a bill which would allow teachers and other staff to carry concealed guns on school property and, although the bill was introduced before the Arapahoe High School shooting in Centennial, Colorado, last month, Harvey claims that the introduction of yet another tragedy only reiterates the need for armed staff in our schools.

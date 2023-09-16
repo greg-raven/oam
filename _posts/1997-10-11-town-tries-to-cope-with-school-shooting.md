@@ -5,7 +5,7 @@ tags:
 - Lubbock Avalanche-Journal
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 PEARL, Miss. (AP) --- Stan Harrell swears he'll never fuss at his daughter, 16-year-old Kelly, for being late to school again. If she had been on time on Wednesday, Oct. 1, she would have been in the line of fire when the shooting started.

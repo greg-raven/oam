@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 There are now 1,930 counties that are protected by Second Amendment Sanctuary legislation at either the state or county level. This represents 61.39% of all of the counties in the United States of America. Strangely, as was recently pointed out by Lee Williams, The Gun Writer, the media seems to be ignoring this movement still, for the most part. We have seen plenty of news about Constitutional Carry, which is another movement that we are actually quite supportive of. Yet the mainstream news has remained relatively silent regarding the massive Second Amendment Sanctuary movement, which leads us to a few questions.

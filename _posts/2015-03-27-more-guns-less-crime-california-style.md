@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 Very little is predictable in crazy California. But anyone familiar with gun control advocate spin tactics could have predicted that the civilian disarmament groups would be spewing their morning lattes after learning that last year the Golden State actually had way more handguns, and much less crime.

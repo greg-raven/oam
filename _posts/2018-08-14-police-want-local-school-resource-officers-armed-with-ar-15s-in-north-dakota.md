@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 A North Dakota police department wants to make sure school resource officers are on equal footing with anyone who may try to harm students, so it has requested some upgraded weapons, according to the Associated Press.

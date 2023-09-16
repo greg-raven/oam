@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 He spoke often --- and highly --- of concealed carry, guns for self-defense, the importance of the Second Amendment, and the importance of an armed citizenry. And he stressed that we must maintain the Second Amendment "it its strongest form." During the October 9 presidential debate, Trump went so far as to say he was running to save the Second Amendment from "people like Hillary Clinton."

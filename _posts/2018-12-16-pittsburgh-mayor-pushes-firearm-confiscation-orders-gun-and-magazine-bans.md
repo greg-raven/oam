@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 Following the October 27 attack on the gun and security-free Tree of Life Synagogue, Peduto voiced opposition to hiring armed guards to protect congregants. Eleven innocents were killed when a gunman entered the synagogue and no one could shoot back.

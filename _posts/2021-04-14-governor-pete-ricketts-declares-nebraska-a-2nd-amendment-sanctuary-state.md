@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 On Wednesday, Gov. Pete Ricketts (R-NE) declared Nebraska a "2nd Amendment Sanctuary State."

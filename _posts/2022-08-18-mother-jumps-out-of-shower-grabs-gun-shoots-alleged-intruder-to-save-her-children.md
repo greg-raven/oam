@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 A Milwaukee mother jumped out of the shower after hearing her children scream, grabbed a gun, and shot and killed an alleged intruder Monday morning.

@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 In response to Governor Newsom and Attorney General Bonta's announcement of new efforts to advance critical "gun safety" legislation, Gun Owners of California is boldly challenging the direction their policies will take the state of California.

@@ -4,7 +4,7 @@ tags:
 - Joe Biden
 layout: post
 categories:
-- Information
+- information
 ---
 
 Vice-President Joe Biden appeared at an online town hall on gun control and offered advice on his weapon of choice.

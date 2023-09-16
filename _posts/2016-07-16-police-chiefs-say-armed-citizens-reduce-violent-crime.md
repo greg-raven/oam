@@ -4,7 +4,7 @@ tags:
 - AWR Hawkins
 layout: post
 categories:
-- Information
+- information
 ---
 
 The 28th Annual National Survey of Police Chiefs shows that "76 percent" of respondents believe armed citizens reduce violent crime.

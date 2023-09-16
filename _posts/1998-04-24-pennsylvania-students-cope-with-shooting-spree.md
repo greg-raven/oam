@@ -4,7 +4,7 @@ tags:
 - CNN
 layout: post
 categories:
-- Situations
+- situations
 ---
 
 - 1 dead; 3 wounded; 14-year-old charged

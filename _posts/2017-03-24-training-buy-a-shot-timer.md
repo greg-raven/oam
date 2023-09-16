@@ -4,7 +4,7 @@ tags:
 - Andy C
 layout: post
 categories:
-- Information
+- information
 ---
 
 Why do we spend time shooting? There's plenty of reasons: self-defense, competition, hunting, pure recreation, maybe even as part of a job. But a common thread that underlies all these reasons to shoot is that just about everyone who pulls triggers "practices" at some point with the hopes of improving their skills. After all, we all want better scores, more meat on the table, or to be able to protect ourselves and the people we care about as proficiently as we can within reason.

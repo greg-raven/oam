@@ -4,7 +4,7 @@ tags:
 - Don't Walk, Run! Productions
 layout: post
 categories:
-- Information
+- information
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5O3wlUlPcq4" title="Lawmaker Doesn't Understand Laws (I know; You're shocked)"></iframe>

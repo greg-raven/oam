@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 TROY, Alabama --- Less than three years after selecting a site in Troy for a firearms manufacturing plant, Kimber Mfg Inc. announced plans to move its corporate headquarters to the Alabama city.

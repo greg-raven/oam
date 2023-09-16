@@ -4,7 +4,7 @@ tags:
 - Wayne LaPierre
 layout: post
 categories:
-- Information
+- information
 ---
 
 When thoughtful people consider the concept of "gun-free zones," words like "futility" come to mind. But in light of recent horrific events, there is another word that more accurately sums it up: "dangerous."

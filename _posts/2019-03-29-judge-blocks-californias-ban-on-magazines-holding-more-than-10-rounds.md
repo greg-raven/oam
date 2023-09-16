@@ -4,7 +4,7 @@ tags:
 - One Armed Man
 layout: post
 categories:
-- Information
+- information
 ---
 
 A federal judge in California on Friday ruled against the Golden State's ban on gun magazines that are able to hold more than 10 rounds.
