@@ -15,7 +15,7 @@ Pittman also examined history and determined that prohibiting adults, though you
 
 "The undisputed historical evidence establishes that 18-to-20-year-olds were understood to be a part of the militia in the Founding Era," Pittman wrote in the opinion.
 
-The lawsuit against the state ban was first filed last November by two unnamed adults between the ages of 18 and 20, as well as the Firearms Policy Coalition, a self-described "next generation" gun-rights advocacy group that engages in "litigation, research, scholarly publications, amicus briefing, legislative and regulatory action, grassroots activism, education, outreach, and other programs" to achieve its aims.
+The lawsuit against the state ban was first filed last November by two unnamed adults between the ages of 18 and 20, as well as the [Firearms Policy Coalition](https://www.firearmspolicy.org), a self-described "next generation" gun-rights advocacy group that engages in "litigation, research, scholarly publications, amicus briefing, legislative and regulatory action, grassroots activism, education, outreach, and other programs" to achieve its aims.
 
 This decision in Texas is believed to be the first major Second Amendment judicial ruling since the Supreme Court of the United States struck down stringent gun restriction laws in New York state in June. In his opinion on behalf of the 6-3 majority, Justice Clarence Thomas wrote, "We know of no other constitutional right that an individual may exercise only after demonstrating to government officers some special need," thus gesturing to a broad understanding of the Second Amendment.
 

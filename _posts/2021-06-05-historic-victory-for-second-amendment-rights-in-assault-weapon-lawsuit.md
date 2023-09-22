@@ -7,7 +7,7 @@ categories:
 - information
 ---
 
-SAN DIEGO, CA --- Today, Firearms Policy Coalition (FPC) announced that Judge Roger T. Benitez of the Southern District of California has issued an opinion in Miller v. Bonta (previously Miller v. Becerra), holding that California's tyrannical ban on so-called "assault weapons" is unconstitutional under the Second Amendment. The opinion, along with other filings in this case, can be viewed at [AssaultWeaponLawsuit.com](https://www.firearmspolicy.org/miller).
+SAN DIEGO, CA --- Today, [Firearms Policy Coalition](https://www.firearmspolicy.org) (FPC) announced that Judge Roger T. Benitez of the Southern District of California has issued an opinion in Miller v. Bonta (previously Miller v. Becerra), holding that California's tyrannical ban on so-called "assault weapons" is unconstitutional under the Second Amendment. The opinion, along with other filings in this case, can be viewed at [AssaultWeaponLawsuit.com](https://www.firearmspolicy.org/miller).
 
 In 2019, FPC developed and filed Miller v. Becerra, a federal Second Amendment challenge to California's Assault Weapons Control Act (AWCA) ban on common semiautomatic arms with certain characteristics, including those with ammunition magazines that can hold more than 10 rounds. Throughout the lawsuit, FPC argued that the State's ban prohibits arms that are constitutionally protected, no more lethal than other certain arms that are not banned, and commonly possessed and used for lawful purposes in the vast majority of the United States.
 

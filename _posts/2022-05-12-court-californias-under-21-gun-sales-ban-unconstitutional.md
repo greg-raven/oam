@@ -11,7 +11,7 @@ LOS ANGELES (AP) --- A U.S. appeals court ruled Wednesday that California's ban 
 
 In a 2-1 ruling, a panel of the San Francisco-based 9th U.S. Circuit Court of Appeals said Wednesday the law violates the Second Amendment right to bear arms and a San Diego judge should have blocked what it called "an almost total ban on semiautomatic centerfire rifles" for young adults. "America would not exist without the heroism of the young adults who fought and died in our revolutionary army," Judge Ryan Nelson wrote. "Today we reaffirm that our Constitution still protects the right that enabled their sacrifice: the right of young adults to keep and bear arms."
 
-The Firearms Policy Coalition, which brought the case, said the ruling makes it optimistic age-based gun bans will be overturned in other courts.
+The [Firearms Policy Coalition](https://www.firearmspolicy.org), which brought the case, said the ruling makes it optimistic age-based gun bans will be overturned in other courts.
 
 Adam Winkler, a law professor at the University of California, Los Angeles, said the decision is a clear sign of how courts, including the U.S. Supreme Court which has a major gun case before it, are expanding gun rights.
 

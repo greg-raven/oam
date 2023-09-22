@@ -9,7 +9,7 @@ categories:
 
 - 'Government may not target and seize specific individuals without any particular suspicion'
 
-The Firearms Policy Coalition on Friday issue a statement praising a ruling from the Pennsylvania State Supreme Court that overturned a precedent that allowed police to "stop and frisk" individuals based on the fact they were carrying a firearm, and thus presumably potentially dangerous.
+The [Firearms Policy Coalition](https://www.firearmspolicy.org) on Friday issue a statement praising a ruling from the Pennsylvania State Supreme Court that overturned a precedent that allowed police to "stop and frisk" individuals based on the fact they were carrying a firearm, and thus presumably potentially dangerous.
 
 The court's ruling said "the government may not target and seize specific individuals without any particular suspicion of wrongdoing, then force them to prove that they are not committing crimes."
 

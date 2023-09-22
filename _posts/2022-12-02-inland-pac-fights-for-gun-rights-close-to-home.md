@@ -55,7 +55,7 @@ The PAC holds classes to help people get permits to carry concealed weapons.
 
 The PAC also helps other gun rights groups suing to stop new gun laws.
 
-"A lot of times the Firearms Policy Coalition says 'Hey, we're gonna file this lawsuit but we need plaintiffs,'" Talley said, adding that the PAC helps by seeking members who meet the criteria to join the suit.
+"A lot of times the [Firearms Policy Coalition](https://www.firearmspolicy.org) says 'Hey, we're gonna file this lawsuit but we need plaintiffs,'" Talley said, adding that the PAC helps by seeking members who meet the criteria to join the suit.
 
 The PAC runs a program to help women, especially those who are victims of sexual assault or domestic violence, get firearms training and apply for concealed carry permits.
 

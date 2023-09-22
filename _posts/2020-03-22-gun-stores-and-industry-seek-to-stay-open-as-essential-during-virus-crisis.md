@@ -29,6 +29,6 @@ And the public deserve the right to protect themselves, he added.
 
 During the virus crisis, gun stores have cited record sales of weapons and ammunition.
 
-The Firearms Policy Coalition said this weekend that ammo sales had popped nearly 300%, the FBI background check system has been slowed by a huge wave of gun purchase applications and guns are "flying off the shelves."
+The [Firearms Policy Coalition](https://www.firearmspolicy.org) said this weekend that ammo sales had popped nearly 300%, the FBI background check system has been slowed by a huge wave of gun purchase applications and guns are "flying off the shelves."
 
 Source: Paul Bedard, [Washington Examiner](https://www.washingtonexaminer.com/washington-secrets/gun-stores-industry-seek-to-stay-open-as-essential-during-virus-crisis)

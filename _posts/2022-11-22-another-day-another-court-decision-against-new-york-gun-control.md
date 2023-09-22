@@ -13,7 +13,7 @@ Sinatra's decision marks at least the third decision against New York gun contro
 
 Breitbart News noted the second decision against New York gun control on October 21, 2022, when District Judge John L. Sinatra Jr. issued a temporary restraining order blocking New York's prohibition against concealed carry in places of worship.
 
-And now this third decision, issued November 22, 2022, also by Sinatra, comes in a suit filed by the Second Amendment Foundation and the Firearms Policy Coalition on behalf of Brett Christian, a private citizen.
+And now this third decision, issued November 22, 2022, also by Sinatra, comes in a suit filed by the Second Amendment Foundation and the [Firearms Policy Coalition](https://www.firearmspolicy.org) on behalf of Brett Christian, a private citizen.
 
 The three decisions have each struck at a different aspect of a larger body of gun controls signed by New York Gov. Kathy Hochul (D) in reaction to the Supreme Court of the United States' June 23, 2022, decision in NYSRPA v. Bruen. That decision struck down New York's proper cause requirement for concealed carry permit issuance.
 

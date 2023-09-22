@@ -11,7 +11,7 @@ California's attempt to impede gun-rights plaintiffs by heightening the threat t
 
 U.S. District Judge Roger Benitez ordered the government of California to pay more than $550,000 to four different law firms representing multiple gun-rights organizations on Monday. The money will be used as restitution after the groups successfully challenged the state's Second Amendment "fee-shifting" law, which would have made plaintiffs and their lawyers financially responsible for the state's legal expenses if they challenged a gun law and didn't win on every single claim --- even if they won on most of them.
 
-The Firearms Policy Coalition (FPC), one of the victorious plaintiffs, said the law "was intended from the onset to chill the exercise of constitutional rights by threatening to bankrupt those that sought to protect them." The group cheered the Court's decision.
+The [Firearms Policy Coalition](https://www.firearmspolicy.org) (FPC), one of the victorious plaintiffs, said the law "was intended from the onset to chill the exercise of constitutional rights by threatening to bankrupt those that sought to protect them." The group cheered the Court's decision.
 
 "The irony is not lost on us that now it is the state of California paying our legal bills as a result of their attempted unconstitutional trickery," Bill Sack, the group's Director of Legal Operations, said in a press release.
 

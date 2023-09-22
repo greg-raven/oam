@@ -7,7 +7,7 @@ categories:
 - information
 ---
 
-WILMINGTON, DE --- Today, Firearms Policy Coalition (FPC) announced that United States District Judge Maryellen Noreika issued an order enjoining Delaware's bans on self-manufacturing and possession of home-built firearms in its Rigby v. Jennings lawsuit. The opinion and order can be viewed at FPCLaw.org.
+WILMINGTON, DE --- Today, [Firearms Policy Coalition](https://www.firearmspolicy.org) (FPC) announced that United States District Judge Maryellen Noreika issued an order enjoining Delaware's bans on self-manufacturing and possession of home-built firearms in its Rigby v. Jennings lawsuit. The opinion and order can be viewed at FPCLaw.org.
 
 "These statutes burden constitutionally protected conduct because possession of firearms and firearm frames and receivers is within the scope of the Second Amendment's right to 'keep and bear Arms' and Defendant has not shown that these firearms and components are not commonly owned by law-abiding citizens for lawful purposes," wrote Judge Noreika in her opinion. "Further, Defendant has offered no evidence that these statutes are consistent with the nation's history of firearm regulation."
 
