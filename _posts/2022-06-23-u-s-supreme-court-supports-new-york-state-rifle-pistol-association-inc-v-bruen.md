@@ -16,4 +16,4 @@ Holding: New York's proper-cause requirement for obtaining an unrestricted licen
 
 Judgment: Reversed and remanded, 6-3, in an opinion by Justice Thomas on June 23, 2022. Justice Alito filed a concurring opinion. Justice Kavanaugh filed a concurring opinion, in which Chief Justice Roberts joined. Justice Barrett filed a concurring opinion. Justice Breyer filed a dissenting opinion, in which Justices Sotomayor and Kagan joined.
 
-[See the full ruling here](https://www.trigger-treat.com/20220623-nysrpa-v-bruen/).
+[See the full ruling here](https://www.trigger-treat.com/20220623-nysrpa-v-bruen/index.html).

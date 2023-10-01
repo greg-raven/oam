@@ -31,4 +31,4 @@ Source: AWR Hawkins, Breitbart.com
 
 ---
 
-[Click here to see the text of the decision](https://www.trigger-treat.com/20221122-christian-v-nigrelli/).
+[Click here to see the text of the decision](https://www.trigger-treat.com/20221122-christian-v-nigrelli/index.html).

@@ -37,11 +37,11 @@ layout: page
 
 ## Front Sight reviews
 
-- [Two-Day Defensive Handgun course](https://www.trigger-treat.com/20110920-front-sight/) (2011)
-- [Four-Day Defensive Handgun course](https://www.trigger-treat.com/20130503-front-sight-4-day/) (critique, 2013)
-- [Four-Day Defensive Handgun course](https://www.trigger-treat.com/20130506-front-sight-2013/) (report, 2013)
-- [CCW course](https://www.trigger-treat.com/20130507-front-sight-ccw/) (2013)
-- [Glock Armorer's course](https://www.trigger-treat.com/20220223-fs-glock-armorer-course/) (2022)
+- [Two-Day Defensive Handgun course](https://www.trigger-treat.com/front-sight/20110920-front-sight-2-day/) (2011)
+- [Four-Day Defensive Handgun course](https://www.trigger-treat.com/front-sight/20130503-front-sight-4-day/) (critique, 2013)
+- [Four-Day Defensive Handgun course](https://www.trigger-treat.com/front-sight/20130506-front-sight-2013/) (report, 2013)
+- [CCW course](https://www.trigger-treat.com/front-sight/20130507-front-sight-ccw/) (2013)
+- [Glock Armorer's course](https://www.trigger-treat.com/front-sight/20220223-fs-glock-armorer-course/) (2022)
 
 ## My other sites
 

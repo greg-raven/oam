@@ -1,5 +1,5 @@
 ---
-title: "Syllabus: District of Columbia et al v. Heller"
+title: "District of Columbia et al v. Heller"
 tags:
 - District of Columbia et al v. Heller
 layout: post
@@ -38,4 +38,4 @@ District of Columbia law bans handgun possession by making it a crime to carry a
 
 SCALIA, J., delivered the opinion of the Court, in which ROBERTS, C. J., and KENNEDY, THOMAS, and ALITO, JJ., joined. STEVENS, J., filed a dissenting opinion, in which SOUTER, GINSBURG, and BREYER, JJ., joined. BREYER, J., filed a dissenting opinion, in which STEVENS, SOUTER, and GINSBURG, JJ., joined.
 
-[See a copy of the actual ruling here](https://www.trigger-treat.com/20080626-dc-v-heller/).
+[See a copy of the actual ruling here](https://www.trigger-treat.com/20080626-dc-v-heller/index.html).

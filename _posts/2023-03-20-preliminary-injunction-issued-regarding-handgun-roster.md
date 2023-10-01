@@ -9,11 +9,11 @@ categories:
 
 U.S. District Court judge Cormac J. Carney has issued a preliminary injunction against continuing enforcement of the California handgun roster, ruling that the roster is unconstitutional. The court grants Preliminary Injunctions when the trial judge is satisfied that the plaintiff will prevail after the trial. Kudos to the [California Rifle and Pistol Association](https://crpa.org) (CRPA) for filing the suit ... and for prevailing.
 
-This injunction invalidating the handgun roster will not take effect until April 3, 2023, to allow State of California Attorney General Rob Bonta to appeal. Thanks to the [2022 Bruen decision](https://www.trigger-treat.com/20220831-antonyuk-v-bruen/), it is no longer a sure thing that the Ninth Circuit Court of Appeals will issue such a stay.
+This injunction invalidating the handgun roster will not take effect until April 3, 2023, to allow State of California Attorney General Rob Bonta to appeal. Thanks to the [2022 Bruen decision](https://www.trigger-treat.com/20220831-antonyuk-v-bruen/index.html), it is no longer a sure thing that the Ninth Circuit Court of Appeals will issue such a stay.
 
 If the Ninth Circuit Court of Appeals does stay this injunction, then nothing will change until the completion of the trial, which can take weeks to months.
 
-[Read Preliminary Injunction Document Here](https://www.trigger-treat.com/20230320-borland-v-bonta/)
+[Read Preliminary Injunction Document Here](https://www.trigger-treat.com/20230320-borland-v-bonta/index.html)
 
 This decision is certain to rock California's anti-gun politicians. United States District Judge Cormac J. Carney's decision declares that "Californians have the constitutional right to acquire and use state-of-the-art handguns to protect themselves. They should not be forced to settle for decade-old models of handguns to ensure that they remain safe inside or outside the home."
 
