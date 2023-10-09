@@ -4,7 +4,7 @@ layout: post
 categories:
 - Second Amendment
 tags:
-- Colin Noir
+- Colion Noir
 ---
 
 This video is for all the people in the U.S. who think they have a *right* to feel safe and use this idea to justify restrictive gun control in America.
