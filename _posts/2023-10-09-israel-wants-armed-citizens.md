@@ -2,7 +2,7 @@
 title: "Israel now wants armed citizens"
 layout: post
 categories:
-- Second Amendment
+- information
 tags:
 - Colion Noir
 ---
