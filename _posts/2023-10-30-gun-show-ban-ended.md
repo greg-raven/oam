@@ -1,5 +1,5 @@
 ---
-title: "Federal Court issues injunction in Gun Show Ban case"
+title: "Federal court issues injunction in Gun Show Ban case"
 layout: post
 categories:
 - information
