@@ -1,10 +1,10 @@
 ---
 title: "Armed citizens stop massacres"
-tags:
-- One Armed Man
 layout: post
 categories:
 - situations
+tags:
+- One Armed Man
 ---
 
 August 1995 --- Muskegon, Michigan: Plans to slay everyone in the Muskegon, Michigan, store and steal enough cash and jewelry to feed their "gnawing hunger for crack cocaine" fell apart for a band of would-be killers after one of their victims fought back. Store owner Clare Cooper was returning behind the counter after showing three of the four conspirators some jewelry, when one of the group pulled out a gun and shot him four times in the back. Stumbling for the safety of his bullet-proof glass-encased counter, Cooper managed to grab his shotgun and fire as the suspects fled.

@@ -1,8 +1,8 @@
 ---
 title: "I carry a gun"
-tags:
-- One Armed Man
 layout: page
+tags:
+- Urban Carry Holsters
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1alljvP_org?si=Fcf_r0-ad77OL_4q" title="I Carry A Gun - Ultimate 2nd Amendment Gun Control Video"></iframe>

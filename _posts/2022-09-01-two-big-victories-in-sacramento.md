@@ -1,7 +1,7 @@
 ---
 title: "Two big victories in Sacramento"
 tags:
-- One Armed Man
+- CRPA
 layout: post
 categories:
 - information
@@ -19,4 +19,4 @@ These victories are certainly cause for celebration. SB 918 and AB 1227 were cen
 
 While we are thrilled to report these wins, we know that nothing is ever truly "dead" in Sacramento, and legislators have already pledged to bring SB 918 back in the new year. AB 1227 has already been introduced and defeated several times, so there's no reason to think it won't be back as well.
 
-Source: [CRPA](https://crpa.org/news/blogs/two-big-victories-in-sacramento/)
+Source: [California Rifle and Pistol Association](https://crpa.org/news/blogs/two-big-victories-in-sacramento/)

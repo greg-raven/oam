@@ -1,7 +1,7 @@
 ---
 title: "Trump-appointee blocks NY gun law, says Dem legislature 'may not eviscerate the Bill of Rights'"
 tags:
-- One Armed Man
+- Terresa Monroe-Hamilton
 layout: post
 categories:
 - information

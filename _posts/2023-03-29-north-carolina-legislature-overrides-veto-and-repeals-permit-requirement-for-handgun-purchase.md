@@ -1,10 +1,10 @@
 ---
 title: "North Carolina legislature overrides veto and repeals permit requirement for handgun purchase"
-tags:
-- One Armed Man
 layout: post
 categories:
 - information
+tags:
+- Olafimihan Oshin
 ---
 
 North Carolina's state legislature has voted to override Gov. Roy Cooper's (D) veto and repeal the state's requirement for a resident to obtain a permit from a local sheriff before legally purchasing a handgun.

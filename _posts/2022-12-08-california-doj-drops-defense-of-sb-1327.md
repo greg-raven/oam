@@ -1,7 +1,7 @@
 ---
 title: "California DOJ drops defense of SB 1327"
 tags:
-- One Armed Man
+- CRPA
 layout: post
 categories:
 - information

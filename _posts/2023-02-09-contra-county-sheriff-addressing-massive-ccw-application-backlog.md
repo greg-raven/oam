@@ -1,7 +1,7 @@
 ---
 title: "Contra County Sheriff addressing massive CCW application backlog"
 tags:
-- One Armed Man
+- CRPA
 layout: post
 categories:
 - CCW

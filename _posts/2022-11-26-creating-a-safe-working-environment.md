@@ -1,7 +1,7 @@
 ---
 title: "Creating a safe working environment"
 tags:
-- One Armed Man
+- Patriot Post
 layout: post
 categories:
 - other

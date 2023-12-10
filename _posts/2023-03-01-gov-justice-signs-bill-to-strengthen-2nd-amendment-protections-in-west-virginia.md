@@ -1,7 +1,7 @@
 ---
 title: "Gov. Justice signs bill to strengthen 2nd Amendment protections in West Virginia"
 tags:
-- One Armed Man
+- Jim Justice
 layout: post
 categories:
 - CCW

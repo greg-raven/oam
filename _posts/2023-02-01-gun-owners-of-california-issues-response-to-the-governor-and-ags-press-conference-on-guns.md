@@ -1,7 +1,7 @@
 ---
 title: "Gun Owners of California issues response to the Governor and AG's press conference on guns"
 tags:
-- One Armed Man
+- Gun Owners of California
 layout: post
 categories:
 - information

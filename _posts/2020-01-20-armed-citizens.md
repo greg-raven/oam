@@ -130,4 +130,4 @@ You can make whatever argument you'd like about the Constitution being antiquate
 
 This protest \[in Virginia on January 20, 2020\] is necessary for the preservation of liberty. End of discussion.
 
-Source: @birdarchist via [&#120143;](https://twitter.com)
+Source: @birdarchist via [𝕏](https://x.com)

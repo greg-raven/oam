@@ -19,4 +19,4 @@ The Order also instructs state facilities to provide dates to promoters immediat
 
 One thing to note is that this injunction does not apply to the Del Mar Fairgrounds, which still has its own law (AB 893) on appeal in the Ninth Circuit.
 
-Source: [CRPA](https://crpa.org/news/blogs/crpa-wins-injunction-in-gun-show-ban-case/)
+Source: [California Rifle and Pistol Association](https://crpa.org/news/blogs/crpa-wins-injunction-in-gun-show-ban-case/)

@@ -1,7 +1,7 @@
 ---
 title: "Biden's State of The Union spin"
 tags:
-- One Armed Man
+- Wayne LaPierre
 layout: post
 categories:
 - information

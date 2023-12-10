@@ -1,7 +1,7 @@
 ---
 title: "California's SB 1327 fee shifting provisions stopped"
 tags:
-- One Armed Man
+- CRPA
 layout: post
 categories:
 - information
@@ -21,4 +21,4 @@ We could not agree more heartily and are grateful for Judge Benitez' righteous d
 
 "Governor Newsom's gambit to rig the legal system against Second Amendment advocates is as unconstitutional as many of the gun control laws he has advocated," stated California Rifle and Pistol Association President & General Counsel Chuck Michel. "We will now turn back to the pending challenges to some of those laws."
 
-Source: [CRPA](https://crpa.org/news/blogs/breaking-sb-1327-fee-shifting-provisions-stopped/)
+Source: [California Rifle and Pistol Association](https://crpa.org/news/blogs/breaking-sb-1327-fee-shifting-provisions-stopped/)

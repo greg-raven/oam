@@ -1,7 +1,7 @@
 ---
 title: "Inland PAC fights for gun rights close to home"
 tags:
-- One Armed Man
+- Jeff Horseman
 layout: post
 categories:
 - other
