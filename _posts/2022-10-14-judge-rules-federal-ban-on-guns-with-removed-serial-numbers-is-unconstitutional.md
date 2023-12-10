@@ -1,7 +1,7 @@
 ---
 title: "Judge rules federal ban on guns with removed serial numbers is unconstitutional"
 tags:
-- One Armed Man
+- Mimi Nguyen Ly
 layout: post
 categories:
 - information

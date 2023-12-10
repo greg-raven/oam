@@ -1,7 +1,7 @@
 ---
 title: "Supreme Court vacates controversial Massachusetts gun control law"
 tags:
-- One Armed Man
+- Michael Lee
 layout: post
 categories:
 - information

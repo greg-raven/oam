@@ -1,7 +1,7 @@
 ---
 title: "Federal judge declares major parts of sweeping New York gun control law unconstitutional"
 tags:
-- One Armed Man
+- Chris Pandolfo
 layout: post
 categories:
 - CCW

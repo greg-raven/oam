@@ -1,7 +1,7 @@
 ---
 title: "Federal judge blocks Delaware ban on self-built firearm possession, home manufacturing"
 tags:
-- One Armed Man
+- FPC
 layout: post
 categories:
 - information

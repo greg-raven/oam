@@ -1,7 +1,7 @@
 ---
 title: "Judge issues ruling to save California magazine owners from government confiscation and prosecution"
 tags:
-- One Armed Man
+- Gun Owners of California
 layout: post
 categories:
 - other
@@ -38,3 +38,5 @@ As we've said time and time again, Judge Benitez doesn't pussy-foot around; he w
 Bottom line? We are free to own, possess and in many cases use our 10+ magazines (as long as they are not used on "California Compliant Semi-Autos").
 
 What happens next? The entire convoluted process is set to begin again, but with one huge difference: lower courts MUST follow the rules for deciding Second Amendment case as established by the Supreme Court in the Bruen decision. This changes everything. Both SCOTUS and Judge Benitez have come to the rescue, not only of citizens who abide by the law, but of the Constitution itself.
+
+Source: [Gun Owners of California](https://www.gunownersca.com/news/13801/)

@@ -1,7 +1,7 @@
 ---
 title: "Concealed-carry hero takes out shooter who seriously wounded him, killed two at party"
 tags:
-- One Armed Man
+- Dave Urbanski
 layout: post
 categories:
 - CCW
