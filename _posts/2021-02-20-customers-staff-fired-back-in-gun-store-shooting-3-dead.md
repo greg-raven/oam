@@ -17,4 +17,4 @@ Guns and ammunition are sold in the front of the outlet that faces a main thorou
 
 \[...\]
 
-Source: [Associated Press](https://apnews.com/article/us-news-shootings-new-orleans-metairie-louisiana-d2688cf8a0471ba3a035547b89e4645b)
+Source: Associated Press, apnews.com/article/us-news-shootings-new-orleans-metairie-louisiana-d2688cf8a0471ba3a035547b89e4645b

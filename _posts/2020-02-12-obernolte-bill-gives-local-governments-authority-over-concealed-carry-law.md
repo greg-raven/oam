@@ -1,13 +1,13 @@
 ---
 title: "Obernolte bill gives local governments authority over concealed carry law"
 tags:
-- One Armed Man
+- Victor Valley News
 layout: post
 categories:
 - CCW
 ---
 
-SACRAMENTO --- Assemblyman [Jay Obernolte](https://electjay.com/) (R-Hesperia) introduced a bill today to ensure that local governments in California have the ability to recognize concealed carried weapon permits from other states.
+SACRAMENTO --- Assemblyman Jay Obernolte (R-Hesperia) introduced a bill today to ensure that local governments in California have the ability to recognize concealed carried weapon permits from other states.
 
 "This is a common sense proposal that gives local governments the authority to respect neighboring states concealed carry laws without hindering public safety," said Assemblyman Obernolte. "Many bordering states recognize California CCW law and this bill would provide that same reciprocity. Ultimately, cities and counties should have the power to determine what is suitable for their residents."
 
@@ -17,4 +17,4 @@ In the event that a local jurisdiction makes a declaration allowing another stat
 
 This bill would allow sister communities that are divided by a state border to freely conduct travel without unnecessary restrictions that place a burden on local residents.
 
-Source: [Victor Valley News](https://www.vvng.com/obernolte-bill-gives-local-governments-authority-over-concealed-carry-law/)
+Source: Victor Valley News, vvng.com/obernolte-bill-gives-local-governments-authority-over-concealed-carry-law/
