@@ -1,7 +1,7 @@
 ---
 title: "Campus Carry: What is the danger to allowing concealed handguns on University property?"
 tags:
-- One Armed Man
+- Crime Prevention Resource Center
 layout: post
 categories:
 - CCW

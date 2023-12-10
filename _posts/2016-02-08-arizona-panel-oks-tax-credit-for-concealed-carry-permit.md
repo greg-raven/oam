@@ -1,7 +1,7 @@
 ---
 title: "Arizona panel OKs tax credit for concealed carry permit"
 tags:
-- One Armed Man
+- Associated Press
 layout: post
 categories:
 - CCW

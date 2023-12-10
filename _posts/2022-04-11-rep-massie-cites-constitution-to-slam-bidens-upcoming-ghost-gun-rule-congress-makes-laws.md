@@ -1,7 +1,7 @@
 ---
 title: "Rep. Massie cites Constitution to slam Biden's upcoming 'ghost gun' rule: 'Congress makes laws'"
 tags:
-- One Armed Man
+- Emma Colton
 layout: post
 categories:
 - information

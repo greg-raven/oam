@@ -1,7 +1,8 @@
 ---
 title: "California town wants to be a sanctuary ... for gun owners"
 tags:
-- One Armed Man
+- John Locher
+- John Rogers
 layout: post
 categories:
 - information

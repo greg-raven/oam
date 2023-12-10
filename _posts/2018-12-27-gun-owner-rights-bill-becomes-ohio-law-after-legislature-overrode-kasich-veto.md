@@ -1,7 +1,7 @@
 ---
 title: "Gun-owner rights bill becomes Ohio law after legislature overrode Kasich veto"
 tags:
-- One Armed Man
+- Associated Press
 layout: post
 categories:
 - information

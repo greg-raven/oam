@@ -1,7 +1,7 @@
 ---
 title: "Florida law shifts burden of proof in 'stand your ground'"
 tags:
-- One Armed Man
+- Associated Press
 layout: post
 categories:
 - information

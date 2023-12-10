@@ -1,7 +1,7 @@
 ---
 title: "Customers, staff fired back in gun store shooting; 3 dead"
 tags:
-- One Armed Man
+- Associated Press
 layout: post
 categories:
 - situations

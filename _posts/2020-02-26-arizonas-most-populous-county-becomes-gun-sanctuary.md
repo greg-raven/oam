@@ -1,7 +1,7 @@
 ---
 title: "Arizona's most populous county becomes gun 'sanctuary'"
 tags:
-- One Armed Man
+- Associated Press
 layout: post
 categories:
 - information

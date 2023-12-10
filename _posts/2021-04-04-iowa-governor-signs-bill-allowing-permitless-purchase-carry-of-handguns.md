@@ -1,7 +1,7 @@
 ---
 title: "Iowa governor signs bill allowing permitless purchase, carry of handguns"
 tags:
-- One Armed Man
+- Mychael Schnell
 layout: post
 categories:
 - CCW
@@ -27,8 +27,8 @@ The bill does, however, require courts to report to a state law enforcement data
 
 According to the AP, 22 states currently have laws in place that require background checks for all gun sales. The other states, including Kansas, Minnesota, Missouri and Wisconsin, however, do not require background checks on all purchases.
 
-Pennsylvania governor vetoes GOP-backed elections bill  
-Iowa Supreme Court overturns $1.5M gay bias verdict against ex-...  
+Pennsylvania governor vetoes GOP-backed elections bill
+Iowa Supreme Court overturns $1.5M gay bias verdict against ex-...
 The bill passed in the Iowa House of Representatives last month in a 60-37 vote. Only one Democrat joined Republicans in support of the legislation. On March 22, the bill made it through the state Senate along party lines in a 31-17 vote.
 
 On March 11, days before a combined 18 people were killed in shootings in Atlanta and Boulder, Colo., the House passed two bills aimed at strengthening background checks on firearm sales and transfers.

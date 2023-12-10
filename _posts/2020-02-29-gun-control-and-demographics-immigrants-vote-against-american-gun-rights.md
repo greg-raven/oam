@@ -1,7 +1,7 @@
 ---
 title: "Gun control and demographics: Immigrants vote against American gun rights"
 tags:
-- One Armed Man
+- Jack Dalton
 layout: post
 categories:
 - information

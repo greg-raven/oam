@@ -1,7 +1,7 @@
 ---
 title: "Oklahoma judge rejects challenge to 'permitless carry' law"
 tags:
-- One Armed Man
+- Associated Press
 layout: post
 categories:
 - CCW
@@ -37,4 +37,4 @@ Spencer and other gun rights advocates plan to hold a rally at the state Capitol
 
 A similar bill was vetoed last year by then-Gov. Mary Fallin, who cited opposition from the business community and law enforcement.
 
-Source: The Associated Press (NewsMax.com)
+Source: Associated Press (NewsMax.com)

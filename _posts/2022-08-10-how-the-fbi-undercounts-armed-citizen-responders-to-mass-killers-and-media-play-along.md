@@ -2,7 +2,7 @@
 title: "How the FBI undercounts armed citizen responders to mass killers --- and media play along"
 layout: post
 tags:
-- One Armed Man
+- John R. Lott Jr.
 categories:
 - information
 ---

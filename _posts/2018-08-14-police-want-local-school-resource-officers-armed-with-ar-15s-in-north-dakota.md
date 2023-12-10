@@ -1,7 +1,7 @@
 ---
 title: "Police want local school resource officers armed with AR-15s in North Dakota"
 tags:
-- One Armed Man
+- Aaron Cohen
 layout: post
 categories:
 - information
