@@ -2,9 +2,9 @@
 title: "ACLU: We are representing the NRA"
 layout: post
 categories:
-- ACLU
-tags:
 - information
+tags:
+- ACLU
 ---
 
 BREAKING: We're representing the NRA at the Supreme Court in their case against New York's Department of Financial Services for abusing its regulatory power to violate the NRA's First Amendment rights.

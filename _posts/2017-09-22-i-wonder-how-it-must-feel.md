@@ -15,4 +15,4 @@ Editor's note: Referring to this story --- [Video showing Huntington Beach offic
 
 ![I wonder how it must feel to wrongfully kill someone](/assets/img/20170922-alec-baldwin.png)
 
-Source: Alec Baldwin via Twitter
+Source: Alec Baldwin via &#120143;

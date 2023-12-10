@@ -1,11 +1,10 @@
 ---
 title: "Judge obliterates Oregon's newest gun grab"
 layout: post
-tags:
-- Victoria Taft
 categories:
 - information
-
+tags:
+- Victoria Taft
 ---
 
 It turns out that bullets are an essential part of a gun, and limiting the number of rounds in a gun violates the Oregon constitution. A county judge in Oregon made that decision on Tuesday overturning Measure 114, a citizen-passed measure that outlawed what gun grabbers call "high capacity magazines" and required that Oregon serfs get a permit to be allowed to purchase a gun.
