@@ -1,8 +1,8 @@
 ---
 title: "Donald Trump to NRA: Concealed carry can thwart heinous attacks"
+layout: post
 tags:
 - AWR Hawkins
-layout: post
 categories:
 - CCW
 ---

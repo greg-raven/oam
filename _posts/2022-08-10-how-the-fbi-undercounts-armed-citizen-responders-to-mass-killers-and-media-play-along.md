@@ -1,8 +1,8 @@
 ---
 title: "How the FBI undercounts armed citizen responders to mass killers --- and media play along"
+layout: post
 tags:
 - One Armed Man
-layout: post
 categories:
 - information
 ---

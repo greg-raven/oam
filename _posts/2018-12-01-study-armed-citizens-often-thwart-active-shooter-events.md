@@ -1,8 +1,8 @@
 ---
 title: "Study: Armed citizens often thwart 'active shooter events'"
+layout: post
 tags:
 - The Patriot Post
-layout: post
 categories:
 - information
 ---

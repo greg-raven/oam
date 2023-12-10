@@ -1,8 +1,8 @@
 ---
 title: "Reality Check: Could licensed gun owners help thwart mass shootings?"
-tags:
-- One Armed Man
 layout: post
+tags:
+- Ben Swann
 categories:
 - CCW
 ---
@@ -57,4 +57,4 @@ And while at least one Facebook commenter asked why the sheriff wants people to 
 
 That's Reality Check. Let's talk about that on Twitter @BenSwann\_
 
-Source: https://truthinmedia.com/reality-check-gun-owners-mass-shootings/
+Source: Ben Swann, [https://truthinmedia.com/reality-check-gun-owners-mass-shootings/](https://web.archive.org/web/20160723030327/https://truthinmedia.com/reality-check-gun-owners-mass-shootings/)

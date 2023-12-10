@@ -1,8 +1,8 @@
 ---
 title: "Ten times a good guy with a gun saved lives"
+layout: post
 tags:
 - Mia Cathell
-layout: post
 categories:
 - situations
 ---
