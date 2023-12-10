@@ -41,7 +41,7 @@ But demographics are what mattered in the election and will matter long term, as
 
 Tweeted the ex-conservative:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Democrats have won the popular vote 6 of the last 7 elections. <br>They won a record landslide in 2018. Demographics are a freight train carrying them into the future. The GOPs actions will accelerate their collapse. The future belongs to Democrats if they work hard & focus on 2020. <a href="https://t.co/Rrvm39xi4n">https://t.co/Rrvm39xi4n</a></p>&mdash; Joe Scarborough (@JoeNBC) <a href="https://x.com/JoeNBC/status/1226906496170102795">February 10, 2020</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Democrats have won the popular vote 6 of the last 7 elections. <br>They won a record landslide in 2018. Demographics are a freight train carrying them into the future. The GOPs actions will accelerate their collapse. The future belongs to Democrats if they work hard & focus on 2020. <a href="https://t.co/Rrvm39xi4n">https://t.co/Rrvm39xi4n</a></p>&mdash; Joe Scarborough (@JoeNBC) <a href="https://twitter.com/JoeNBC/status/1226906496170102795">February 10, 2020</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 And more than gun rights are at stake, thanks to The Great Replacement taking place before our very eyes.
 

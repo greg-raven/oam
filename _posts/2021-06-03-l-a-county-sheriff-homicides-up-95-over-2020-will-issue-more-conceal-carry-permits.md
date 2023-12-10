@@ -11,7 +11,7 @@ Los Angeles County Sheriff Alex Villanueva revealed Wednesday that homicides wer
 
 In an Instagram Live post, Villanueva revealed the grim numbers, as the region joined America's ongoing crime wave:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sheriff Villanueva said LASD will not move to a shall issue standard where “anyone who can fog a mirror” gets a CCW, but LASD will be increasing staffing to process “good cause” CCW permits in recognition of increasing danger to public. <br>Remarks here : <a href="https://t.co/L0zTDa6Ir7">https://t.co/L0zTDa6Ir7</a></p>&mdash; Bill Melugin (@BillMelugin_) <a href="https://x.com/BillMelugin_/status/1400174701331111937">June 2, 2021</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sheriff Villanueva said LASD will not move to a shall issue standard where “anyone who can fog a mirror” gets a CCW, but LASD will be increasing staffing to process “good cause” CCW permits in recognition of increasing danger to public. <br>Remarks here : <a href="https://t.co/L0zTDa6Ir7">https://t.co/L0zTDa6Ir7</a></p>&mdash; Bill Melugin (@BillMelugin_) <a href="https://twitter.com/BillMelugin_/status/1400174701331111937">June 2, 2021</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 The county ended 2020 with a 36% increase overall in violent crime, Villanueva said, making the increase in violent crimes thus far in 2021 all the more striking. "All huge numbers, all very, very troublesome." He said that the rise in crime was an "existential threat," along with homelessness and the passage of poorly conceived criminal justice reform.
 

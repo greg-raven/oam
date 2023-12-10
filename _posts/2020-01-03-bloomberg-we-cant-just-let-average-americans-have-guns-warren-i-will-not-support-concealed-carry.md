@@ -16,7 +16,7 @@ Billionaire Michael Bloomberg, who has a mini-army of bodyguards around him when
 
 "You just do not want the average American carrying a gun in a crowded place," the former New York mayor said in Alabama. The presidential candidate said that it's the "job of law enforcement to have guns and decide when to shoot."
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bloomberg criticizes Texas church hero who saved 200 lives. <br>“It’s the job of law enforcement to carry guns that .kill. We just can’t “let” the average American have guns in a crowded place ... gun control saves lives ...”<a href="https://t.co/d1Trc5xBrr">https://t.co/d1Trc5xBrr</a></p>&mdash; Tosca Austen (@ToscaAusten) <a href="https://x.com/ToscaAusten/status/1212776199774179328">January 2, 2020</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bloomberg criticizes Texas church hero who saved 200 lives. <br>“It’s the job of law enforcement to carry guns that .kill. We just can’t “let” the average American have guns in a crowded place ... gun control saves lives ...”<a href="https://t.co/d1Trc5xBrr">https://t.co/d1Trc5xBrr</a></p>&mdash; Tosca Austen (@ToscaAusten) <a href="https://twitter.com/ToscaAusten/status/1212776199774179328">January 2, 2020</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 Bloomberg's comments came after a shooting at the West Freeway Church of Christ in White Settlement, Texas, in which an "average" American shot and killed a crazed gunman who had begun firing in the church.
 
