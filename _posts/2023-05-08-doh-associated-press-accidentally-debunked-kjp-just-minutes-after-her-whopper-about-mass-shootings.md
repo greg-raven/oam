@@ -11,11 +11,11 @@ White House press secretary Karine Jean-Pierre and her Big Book of Bogus Talking
 
 Up next came Jean-Pierre's claim about mass shootings:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">KJP: &quot;We witnessed the 201st mass shooting in this country this year. That means we are averaging more than one a day ...&quot; <a href="https://t.co/LbjQUNNIfH">pic.twitter.com/LbjQUNNIfH</a></p>&mdash; Townhall.com (@townhallcom) <a href="https://twitter.com/townhallcom/status/1655648806271082517?ref_src=twsrc%5Etfw">May 8, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">KJP: &quot;We witnessed the 201st mass shooting in this country this year. That means we are averaging more than one a day ...&quot; <a href="https://t.co/LbjQUNNIfH">pic.twitter.com/LbjQUNNIfH</a></p>&mdash; Townhall.com (@townhallcom) <a href="https://x.com/townhallcom/status/1655648806271082517">May 8, 2023</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 This is where the Associated Press comes in, albeit unintentionally. The AP is always willing to do their share of water-carrying for the Biden administration and all its failings, but after KJP made that claim the AP was spotted putting out a story that sunk her latest lie:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">AMAZING <br><br>11 minutes apart. 🤦🏻‍♀️ <a href="https://t.co/zoIOO18vIZ">pic.twitter.com/zoIOO18vIZ</a></p>&mdash; Kristi (@TheyCallMeNans) <a href="https://twitter.com/TheyCallMeNans/status/1655660650113146895?ref_src=twsrc%5Etfw">May 8, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">AMAZING <br><br>11 minutes apart. 🤦🏻‍♀️ <a href="https://t.co/zoIOO18vIZ">pic.twitter.com/zoIOO18vIZ</a></p>&mdash; Kristi (@TheyCallMeNans) <a href="https://x.com/TheyCallMeNans/status/1655660650113146895">May 8, 2023</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 \[...\]
 

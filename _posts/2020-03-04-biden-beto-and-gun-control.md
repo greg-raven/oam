@@ -20,7 +20,7 @@ Last year, many Democrats worried that O'Rourke's aggressive position would alie
 
 After O'Rourke's comments, President Donald Trump tweeted that O'Rourke had "convinced many that Dems just want to take your guns away." Biden has now locked himself into that position.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dummy Beto made it much harder to make a deal. Convinced many that Dems just want to take your guns away. Will continue forward! <a href="https://t.co/87jvaYUkyn">https://t.co/87jvaYUkyn</a></p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1174290744057589761?ref_src=twsrc%5Etfw">September 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dummy Beto made it much harder to make a deal. Convinced many that Dems just want to take your guns away. Will continue forward! <a href="https://t.co/87jvaYUkyn">https://t.co/87jvaYUkyn</a></p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://x.com/realDonaldTrump/status/1174290744057589761">September 18, 2019</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 In every campaign rally, Trump declares his unwavering support for the Second Amendment. It appears to be one of his most popular lines.
 

@@ -15,7 +15,7 @@ The sheriff attempted to justify the store closures by intimating that all the f
 
 On March 25, 2020, the Los Angles Times reported that Villanueva's effort to close gun stores was halted by news that Newsom would be rethinking whether such stores fell under the "essential business" protections.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LA County Sheriff’s Dept. Enforcement efforts to close non-essential businesses have been suspended. CA Gov. Gavin Newsom to determine what qualifies as a non-essential business. Please click to view story <a href="https://t.co/HrRD8VKcUG">https://t.co/HrRD8VKcUG</a></p>&mdash; Alex Villanueva (@LACoSheriff_33) <a href="https://twitter.com/LACoSheriff_33/status/1242750540158603265?ref_src=twsrc%5Etfw">March 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LA County Sheriff’s Dept. Enforcement efforts to close non-essential businesses have been suspended. CA Gov. Gavin Newsom to determine what qualifies as a non-essential business. Please click to view story <a href="https://t.co/HrRD8VKcUG">https://t.co/HrRD8VKcUG</a></p>&mdash; Alex Villanueva (@LACoSheriff_33) <a href="https://x.com/LACoSheriff_33/status/1242750540158603265">March 25, 2020</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 Breitbart News reported on Villanueva's gun store closure order, pointing to the Fox 11 report showing that the sheriff's effort coincided with his release of 1,700 inmates.
 

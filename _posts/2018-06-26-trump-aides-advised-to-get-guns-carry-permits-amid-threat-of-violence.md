@@ -17,9 +17,11 @@ Now voices as disparate as actor James Woods, law professor John Banzhaf, and Cr
 
 Woods tweeted:
 
-> Buy guns. Vote. Violence is the next stop on the [\#MadMaxine](https://twitter.com/hashtag/MadMaxine?src=hash&ref_src=twsrc%5Etfw) slippery slope. We WILL fight back. <https://t.co/BRBXAgXi5u>
+> Buy guns. Vote. Violence is the next stop on the [\#MadMaxine](https://x.com/hashtag/MadMaxine?src=hash&ref_src=twsrc%5Etfw) slippery slope. We WILL fight back. <https://t.co/BRBXAgXi5u>
 >
-> <cite>James Woods (@RealJamesWoods) [June 25, 2018](https://twitter.com/RealJamesWoods/status/1011317438221152257?ref_src=twsrc%5Etfw)</cite>
+> <cite>James Woods (@RealJamesWoods) [June 25, 2018](https://x.com/RealJamesWoods/status/1011317438221152257)</cite>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Buy guns. Vote. Violence is the next stop on the <a href="https://x.com/hashtag/MadMaxine?src=hash&amp;ref_src=twsrc%5Etfw">#MadMaxine</a> slippery slope. We WILL fight back. <a href="https://t.co/BRBXAgXi5u">https://t.co/BRBXAgXi5u</a></p>&mdash; James Woods (@RealJamesWoods) <a href="https://x.com/RealJamesWoods/status/1011317438221152257">June 25, 2018</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 The *Washington Examiner* quoted professor Banzhaf making a similar argument but addressing it more specifically to aides of Trump. Banzhaf said:
 
