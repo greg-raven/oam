@@ -13,4 +13,4 @@ Update from SF - the Sheriff has finally approved the very first CCW permit post
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Update from SF - the Sheriff has finally approved the very first CCW permit post-Bruen (and the first in years in general). Once the applicant does the training, a permit will issue. <a href="https://twitter.com/CRPAnews?ref_src=twsrc%5Etfw">@CRPAnews</a> will keep the pressure on so that SF gets processing into a reasonable timeframe.</p>&mdash; Kostas Moros (@MorosKostas) <a href="https://twitter.com/MorosKostas/status/1619421295598522369?ref_src=twsrc%5Etfw">January 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Source: Kostas Moros via Twitter
+Source: Kostas Moros via &Xopf;

@@ -57,6 +57,4 @@ And while at least one Facebook commenter asked why the sheriff wants people to 
 
 That's Reality Check. Let's talk about that on Twitter @BenSwann\_
 
-Ben Swann is an investigative journalist working tirelessly to dissolve the left/right paradigm prevalent in most mainstream media narratives. As a news reporter and anchor in the earlier days of his career, he has gained a wealth of experience while earning two Emmy Awards and two Edward R. Murrow awards. In addition to heading the Truth In Media Project, Ben is the prime anchor at WGCL-TV in Atlanta, GA. He can be seen anchoring live at 4 p.m., 5:30 p.m., 6 p.m., and 11 p.m. EST, Monday through Friday. A stream is available at cbs46.com.
-
 Source: https://truthinmedia.com/reality-check-gun-owners-mass-shootings/
