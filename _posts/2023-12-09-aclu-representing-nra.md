@@ -1,5 +1,5 @@
 ---
-title: "ACLU: We are representing the NRA"
+title: "We are representing the NRA"
 layout: post
 categories:
 - information
