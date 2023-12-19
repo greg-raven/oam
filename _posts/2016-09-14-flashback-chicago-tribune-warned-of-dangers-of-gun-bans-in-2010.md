@@ -29,4 +29,4 @@ July 2016 was the deadliest July Chicago has witnessed in 10 years, August was t
 
 In 2010, the Tribune noted that criminals only have to get their hands on a "tiny percentage" of the overall number of available firearms in order to hold sway when a ban is in place. With Chicago as the example, it appears that even after a ban is lifted, criminals need but a "tiny percentage" of available firearms to cause death and mayhem on an unbelievable level; especially when local and state politicians work to keep the spirit of the ban alive via every gun control scheme they can conceive.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/2nd-amendment/2016/09/13/flashback-chicago-tribune-warned-dangers-gun-bans-2010/)
+Source: AWR Hawkins, breitbart.com/2nd-amendment/2016/09/13/flashback-chicago-tribune-warned-dangers-gun-bans-2010/

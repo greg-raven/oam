@@ -1,7 +1,7 @@
 ---
 title: "Federal judge issues temporary restraining order, blocking Boulder County's ban of some semi-automatic weapons"
 tags:
-- One Armed Man
+- Olivia Prentzel
 layout: post
 categories:
 - information
@@ -37,4 +37,4 @@ Last month, the National Foundation for Gun Rights also sued Gov. Jared Polis, c
 
 The Boulder County restraining order remains in effect for 14 days and a status conference is scheduled for Sept. 8.
 
-Source: Olivia Prentzel, https://coloradosun.com/2022/08/30/judge-blocks-boulder-countys-assault-weapon-ban/
+Source: Olivia Prentzel, coloradosun.com/2022/08/30/judge-blocks-boulder-countys-assault-weapon-ban/

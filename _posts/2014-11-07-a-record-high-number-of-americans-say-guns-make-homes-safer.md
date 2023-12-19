@@ -1,7 +1,7 @@
 ---
 title: "A record-high number of Americans say guns make homes safer"
 tags:
-- One Armed Man
+- Kelly Cohen
 layout: post
 categories:
 - information
@@ -21,4 +21,4 @@ Violent crime rates have fallen significantly from 1993 to 2012, and while it ma
 
 \[...\]
 
-Source: washingtonexaminer.com/a-record-high-number-of-americans-say-guns-make-homes-safer/article/2555885
+Source: Kelly Cohen, washingtonexaminer.com/a-record-high-number-of-americans-say-guns-make-homes-safer/article/2555885

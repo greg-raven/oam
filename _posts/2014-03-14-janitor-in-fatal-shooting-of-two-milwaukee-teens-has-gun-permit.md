@@ -1,7 +1,7 @@
 ---
 title: "Janitor in fatal shooting of two Milwaukee teens has gun permit"
 tags:
-- One Armed Man
+- Bruce Vielmetti
 layout: post
 categories:
 - situations
@@ -27,4 +27,4 @@ Miller was a student at Milwaukee Public Schools' Transition High School, 2610 W
 
 \[...\]
 
-Source: By Bruce Vielmetti, [Journal Sentinel](https://www.jsonline.com/news/crime/janitor-suspected-of-killing-milwaukee-teens-is-released-from-jail-b99225538z1-250355061.html).
+Source: Bruce Vielmetti, jsonline.com/news/crime/janitor-suspected-of-killing-milwaukee-teens-is-released-from-jail-b99225538z1-250355061.html

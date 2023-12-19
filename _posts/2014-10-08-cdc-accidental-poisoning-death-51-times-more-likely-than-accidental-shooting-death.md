@@ -1,7 +1,7 @@
 ---
 title: "CDC: Accidental poisoning death 51 times more likely than accidental shooting death"
 tags:
-- One Armed Man
+- AWR Hawkins
 layout: post
 categories:
 - information
@@ -15,4 +15,4 @@ Moreover, the CDC shows that Americans are approximately 10 times as likely to d
 
 \[...\]
 
-See the full story here: https://www.breitbart.com/Big-Government/2014/10/08/CDC-Accidental-Poisoning-Death-51-Times-More-Likely-Than-Accidental-Shooting-Death
+Source: AWR Hawkins, breitbart.com/Big-Government/2014/10/08/CDC-Accidental-Poisoning-Death-51-Times-More-Likely-Than-Accidental-Shooting-Death

@@ -1,11 +1,11 @@
 ---
 title: "Reasons for requesting a CCW"
-tags:
-- One Armed Man
 layout: post
 categories:
 - CCW
 - information
+tags:
+- One Armed Man
 ---
 
 If you don't exercise your rights, they become weak and flabby.

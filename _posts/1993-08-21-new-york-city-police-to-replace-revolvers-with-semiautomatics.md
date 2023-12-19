@@ -53,4 +53,4 @@ Even so, Mr. Kelly said his decision had been influenced by his own experiences 
 
 Standing behind a conference table at One Police Plaza yesterday, Mr. Kelly displayed the new weapons and struck an unlikely pose for a Police Commissioner, cocking a variety of guns in combat position. The .38 revolver with its wood handle looked like a relic next to the sleek metal 9-millimeter models, the American-made Smith & Wesson, the German Sig Sauer and the Austrian-made [Glock](https://us.glock.com/) 19.
 
-Source: Craig Wolff, [The New York Times](https://www.nytimes.com/1993/08/21/nyregion/new-york-city-police-to-replace-revolvers-with-semiautomatics.html)
+Source: Craig Wolff, nytimes.com/1993/08/21/nyregion/new-york-city-police-to-replace-revolvers-with-semiautomatics.html

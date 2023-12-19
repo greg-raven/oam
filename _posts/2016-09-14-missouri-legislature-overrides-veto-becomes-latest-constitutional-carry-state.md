@@ -11,4 +11,4 @@ categories:
 
 And with that, Missouri becomes the eleventh (some say the 12th) constitutional carry state, allowing law-abiding citizens to avoid unconstitutional training and permitting requirement for concealed carry. \[...\]
 
-Source: Dan Zimmerman, [TheTruthAboutGuns.com](https://www.thetruthaboutguns.com/breaking-missouri-legislature-overrides-veto-becomes-latest-constitutional-carry-state/)
+Source: Dan Zimmerman, thetruthaboutguns.com/breaking-missouri-legislature-overrides-veto-becomes-latest-constitutional-carry-state/

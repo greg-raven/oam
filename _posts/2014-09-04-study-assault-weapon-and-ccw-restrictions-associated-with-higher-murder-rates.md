@@ -1,7 +1,7 @@
 ---
 title: "Study: 'Assault Weapon' and CCW restrictions associated with higher murder rates"
 tags:
-- One Armed Man
+- NRA ILA
 layout: post
 categories:
 - information
