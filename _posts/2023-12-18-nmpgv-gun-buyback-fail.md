@@ -7,6 +7,8 @@ tags:
 - Daniel J. Chacón
 ---
 
+> Pictured are unwanted firearms from one household in Farmington, NM. Our gun buyback was cancelled by the City, but local residents asked us to show up anyway. So, we spent today dismantling guns house by house.
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Pictured are unwanted firearms from one household in Farmington, NM. Our gun buyback was cancelled by the City, but local residents asked us to show up anyway. So, we spent today dismantling guns house by house. <a href="https://twitter.com/hashtag/GunsToGardens?src=hash&amp;ref_src=twsrc%5Etfw">#GunsToGardens</a> <a href="https://twitter.com/vivarioarriba?ref_src=twsrc%5Etfw">@vivarioarriba</a> <a href="https://t.co/YlgwT9qaxV">pic.twitter.com/YlgwT9qaxV</a></p>&mdash; NMPGV (@NMPGVnow) <a href="https://twitter.com/NMPGVnow/status/1736238935175557462?ref_src=twsrc%5Etfw">December 17, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This post on X, the social media platform formerly known as Twitter, by New Mexicans to Prevent Gun Violence led to calls for an investigation into whether the anti-gun group violated laws requiring background checks before gun transactions. The group says the door-to-door transactions are legal and it has "been doing this for years."
