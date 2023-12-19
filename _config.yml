@@ -11,6 +11,8 @@ description: The right of the people to keep and bear arms shall not be infringe
 
 theme: minima
 
+url: "https://www.one-armed-man.com" # the base hostname & protocol for your site
+
 plugins:
   - jekyll-archives
   - jekyll-feed
