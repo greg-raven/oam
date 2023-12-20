@@ -1,7 +1,7 @@
 ---
 title: "Researcher reaffirms: At least 760,000 defensive gun uses a year"
 tags:
-- One Armed Man
+- AWR Hawkins
 layout: post
 categories:
 - information
@@ -27,5 +27,5 @@ Kleck then explained that he stands by the DGU estimates he and Gertz published 
 
 With that said, the estimated minimal number of times a gun is used for defensive purposes in the United States each year remains at 760,000.
 
-Source:  
+Source: AWR Hawkins,
 breitbart.com/big-government/2015/02/19/researcher-reaffirms-at-least-760000-defensive-gun-uses-a-year/

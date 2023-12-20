@@ -11,7 +11,7 @@ categories:
 
 Rough transcript:
 
-<q>The sharing of biased and false news has become all too common.</q>
+"The sharing of biased and false news has become all too common."
 
 Stop. Stop.
 

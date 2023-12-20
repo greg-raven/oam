@@ -1,7 +1,7 @@
 ---
 title: "Gun control has turned Australia into a nation of defenseless victims, says senator"
 tags:
-- One Armed Man
+- Australian Associated Press
 layout: post
 categories:
 - CCW
@@ -39,5 +39,5 @@ Treasurer Joe Hockey said the fact that Monis appeared to have slipped under the
 
 \[...\]
 
-Source:  
+Source:
 theguardian.com/australia-news/2014/dec/18/sydney-siege-australia-nation-defenceless-victims-senator

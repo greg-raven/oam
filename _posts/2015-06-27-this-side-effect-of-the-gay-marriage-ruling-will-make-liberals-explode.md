@@ -1,7 +1,7 @@
 ---
 title: "This side-effect of the gay marriage ruling will make liberals EXPLODE"
 tags:
-- One Armed Man
+- Allen B. West
 layout: post
 categories:
 - CCW

@@ -1,7 +1,7 @@
 ---
 title: "NRA: Gun blogs, videos, web forums threatened by new Obama regulation"
 tags:
-- One Armed Man
+- Paul Bedard
 layout: post
 categories:
 - information
@@ -13,4 +13,4 @@ In updating regulations governing international arms sales, State is demanding t
 
 \[...\]
 
-Source: Paul Bedard, the Washington Examiner, washingtonexaminer.com/nra-gun-blogs-videos-web-forums-threatened-by-new-obama-regulation/article/2565762
+Source: Paul Bedard, washingtonexaminer.com/nra-gun-blogs-videos-web-forums-threatened-by-new-obama-regulation/article/2565762

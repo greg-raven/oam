@@ -1,7 +1,7 @@
 ---
 title: "California Firearm Safety Certificate study guide (January 2015)"
 tags:
-- One Armed Man
+- California DoJ
 layout: post
 categories:
 - information

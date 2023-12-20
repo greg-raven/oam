@@ -7,7 +7,7 @@ categories:
 - CCW
 ---
 
-According to The Detroit News, around 10:15 a.m. in Detroit, Michigan, the 91-year-old man parked and exited his car. He was "heading into the Rite Aid on Gratiot near Nine Mile" when a man with <q>erratic</q> behavior confronted him. The elderly men issued numerous warnings that he was armed and would shoot, but the man continued with the robbery attempt.
+According to The Detroit News, around 10:15 a.m. in Detroit, Michigan, the 91-year-old man parked and exited his car. He was "heading into the Rite Aid on Gratiot near Nine Mile" when a man with "erratic" behavior confronted him. The elderly men issued numerous warnings that he was armed and would shoot, but the man continued with the robbery attempt.
 
 Sergeant Martin Campbell says the suspect then "pointed an unknown object at the victim," and the 91-year-old man opened fire, striking the suspect in the neck.
 

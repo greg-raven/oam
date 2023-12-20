@@ -1,7 +1,7 @@
 ---
 title: "Maine to allow carrying of concealed guns without a permit"
 tags:
-- One Armed Man
+- Alanna Durkin
 layout: post
 categories:
 - CCW
@@ -23,4 +23,4 @@ Under Maine's permit process, residents have to pay a fee, pass a background che
 
 \[...\]
 
-Read the full story at [The Washington Times](https://www.washingtontimes.com/news/2015/jul/8/lepage-to-sign-bill-nixing-concealed-gun-permit-re/)
+Source: Alanna Durkin, washingtontimes.com/news/2015/jul/8/lepage-to-sign-bill-nixing-concealed-gun-permit-re/

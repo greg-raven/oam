@@ -19,7 +19,7 @@ Number one is basic safety. At the very least you should know the top four funda
 
 Number two the instructor local laws should inform you of what the local laws are. Not only should you know state laws but also what the laws are within your county.
 
-Number three is understanding what <q>deadly force</q> means. <q>Deadly force</q> does not mean that you use whatever force is necessary so it results in death. You want to use the least amount of force necessary to stop the threat. Once the threat stops, that's when you stop using deadly force.
+Number three is understanding what "deadly force" means. "Deadly force" does not mean that you use whatever force is necessary so it results in death. You want to use the least amount of force necessary to stop the threat. Once the threat stops, that's when you stop using deadly force.
 
 Number four is realizing that even though you took this concealed carry class, or maybe you can shoot well, it does not mean that you're professional. I highly recommend that you continue training and continue to educate yourself.
 

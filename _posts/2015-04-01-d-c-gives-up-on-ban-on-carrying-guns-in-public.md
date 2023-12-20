@@ -1,7 +1,7 @@
 ---
 title: "D.C. gives up on ban on carrying guns in public"
 tags:
-- One Armed Man
+- Andrea Noble
 layout: post
 categories:
 - information
@@ -21,5 +21,4 @@ The Attorney General's office is already defending two challenges to the permitt
 
 Plaintiffs in the Palmer case have asked Judge Scullin to review the city's concealed carry permitting scheme to determine whether it complies with his order. Meanwhile, gun owners who were denied concealed carry licenses have also filed a lawsuit challenging the city's rules on the matter.
 
-Read more: https://www.washingtontimes.com/news/2015/apr/1/dc-gives-ban-carrying-guns-public/  
-By Andrea Noble --- The Washington Times --- Wednesday, April 1, 2015
+Source: Andrea Noble, washingtontimes.com/news/2015/apr/1/dc-gives-ban-carrying-guns-public/

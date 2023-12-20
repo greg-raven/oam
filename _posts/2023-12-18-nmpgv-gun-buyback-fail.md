@@ -37,21 +37,7 @@ The organization also came under fire by the New Mexico Shooting Sports Associat
 
 "Shoutout to [New Mexicans to Prevent Gun Violence] for joining forces with the 'rogue sheriffs' and 'bad-faith critics' by refusing to comply with laws criminalizing private firearm transfers in NM," the group wrote, referring to past opposition from law enforcement officials to various gun-control measures the Legislature has considered.
 
-In response, New Mexicans to Prevent Gun Violence denied a firearm transfer had taken place in Farmington.
-
-"We have been doing this for years," the organization wrote. "Often, police give people our phone number when they want to turn in an unwanted firearm. This doesn't violate any background check laws as there is no transfer of firearms. We simply dismantle them. All that is left is wood and metal."
-
-In recent years, New Mexicans to Prevent Gun Violence has hosted numerous buyback events --- including several in Santa Fe --- in partnership with law enforcement agencies. People disposing of weapons often are offered gift cards in exchange for their guns. Police officers check each firearm collected --- to ensure it is unloaded and determine whether it was stolen --- before handing it over to the group for destruction.
-
-In an interview Monday, Miranda Viscoli, co-president of New Mexicans to Prevent Gun Violence, reiterated transfers didn't occur in Farmington.
-
-"The majority of participants did not even want a gift card," she said. "The one that did received a gift card after all guns were completely dismantled and destroyed."
-
-Viscoli said she didn't understand the dispute.
-
-"I find it curious that out of the over 2,000 guns we have destroyed, with 40% being semi-automatic firearms, that these nine guns would cause such an uproar," she said.
-
-"It is ironic that people are talking more about nine unwanted working firearms being destroyed in Farmington but not talking about the very real problem of gun violence in Farmington," Viscoli added.
+[...]
 
 At issue is a bill passed by the Legislature in 2019.
 

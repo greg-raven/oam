@@ -1,7 +1,7 @@
 ---
 title: "Crime stats released"
 tags:
-- One Armed Man
+- Anneli Fogt
 layout: post
 categories:
 - information
@@ -21,4 +21,4 @@ Apple Valley's 1 percent violent crime increase came from a 50 percent jump in r
 
 \[...\]
 
-Source: Anneli Fogt, [Daily Press](https://www.vvdailypress.com/article/20150414/NEWS/150419867)
+Source: Anneli Fogt, vvdailypress.com/article/20150414/NEWS/150419867

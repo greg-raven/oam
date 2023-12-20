@@ -1,7 +1,7 @@
 ---
 title: "Prisoners freed quickly after voters OK measure"
 tags:
-- One Armed Man
+- KFI
 layout: post
 categories:
 - information

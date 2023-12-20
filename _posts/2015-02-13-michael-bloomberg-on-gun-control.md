@@ -1,7 +1,7 @@
 ---
 title: "Michael Bloomberg on gun control"
 tags:
-- One Armed Man
+- Chuck Ross
 layout: post
 categories:
 - information
@@ -23,7 +23,7 @@ Bloomberg's comments prompted a response from the New York State Rifle & Pistol 
 
 "If a politician said this about anything other than guns, the mainstream media would be all over them," King added. "Michael Bloomberg isn't just any politician, he is the leading voice for gun control in America. He should be held accountable for this slander."
 
-Source:  
+Source: Chuck Ross,
 dailycaller.com/2015/02/13/michael-bloomberg-blocks-video-of-pro-gun-control-talk-from-being-published/
 
 Webmaster comment: Even a blind pig finds a truffle once in awhile. Bloomberg is wrong almost all of the time, so it's ironic that he's being criticized for speaking the truth ... finally. If you don't believe me, check out the [FBI crime statistics](https://www.colorofcrime.com "The Color of Crime").

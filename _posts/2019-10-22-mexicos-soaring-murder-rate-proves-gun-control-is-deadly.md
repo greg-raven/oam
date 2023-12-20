@@ -27,7 +27,7 @@ According to data from the Bureau of Alcohol, Tobacco, Firearms and Explosives, 
 
 Strict gun-control laws and high homicide rates often go together. Other developed countries that fit this pattern include Brazil and Russia. If you look across all countries or all developed countries, the ones with the highest gun-ownership rates tend to have the lowest homicide rates and the lowest murder rates from mass shootings.
 
-Gun laws, no matter how draconian, don't solve crime problems. It's pretty simple-the only way to stop a bad guy with a gun, is a good guy with a gun. Disarming the latter emboldens the former.
+Gun laws, no matter how draconian, don't solve crime problems. It's pretty simple --- the only way to stop a bad guy with a gun, is a good guy with a gun. Disarming the latter emboldens the former.
 
 Source: John R. Lott Jr., The Wall Street Journal
 

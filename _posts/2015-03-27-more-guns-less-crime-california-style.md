@@ -1,7 +1,7 @@
 ---
 title: "More Guns = Less Crime; California Style"
 tags:
-- One Armed Man
+- C. D. Michel
 layout: post
 categories:
 - information
@@ -11,33 +11,91 @@ Very little is predictable in crazy California. But anyone familiar with gun con
 
 Imagine that.
 
+<table>
+<caption>
 Table 1: California Firearm Sales, DOJ
-| Year | Handguns | Long Guns | All Guns |
-|---|---|---|---|
-| 1991 | 329,133 | 160,300 | 489,433 |
-| 1992 | 382,122 | 177,486 | 559,608 |
-| 1993 | 433,822 | 208,375 | 642,197 |
-| 1994 | 382,085 | 217,587 | 599,672 |
-| 1995 | 254,626 | 157,042 | 411,668 |
-| 1996 | 215,804 | 138,068 | 353,872 |
-| 1997 | 204,409 | 150,727 | 355,136 |
-| 1998 | 189,481 | 153,059 | 342,540 |
-| 1999 | 244,569 | 268,849 | 513,418 |
-| 2000 | 201,865 | 184,345 | 386,210 |
-| 2001 | 155,203 | 198,519 | 353,722 |
-| 2002 | 169,469 | 182,956 | 352,425 |
-| 2003 | 126,233 | 164,143 | 290,376 |
-| 2004 | 145,335 | 169,730 | 315,065 |
-| 2005 | 160,990 | 183,857 | 344,847 |
-| 2006 | 169,629 | 205,944 | 375,573 |
-| 2007 | 180,190 | 190,438 | 370,628 |
-| 2008 | 208,312 | 216,932 | 425,244 |
-| 2009 | 228,368 | 255,504 | 483,872 |
-| 2010 | 236,086 | 262,859 | 498,945 |
-| 2011 | 293,429 | 307,814 | 601,243 |
-| 2012 | 388,006 | 429,732 | 817,738 |
-| 2013 | 422,030 | 538,149 | 960,179 |
-| 2014 | 512,174 | 418,863 | 931,037 |
+</caption>
+<thead>
+<tr>
+<th>Year </th> <th>Handguns </th> <th>Long Guns </th> <th>All Guns </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1991 </td> <td>329,133 </td> <td>160,300 </td> <td>489,433 </td>
+</tr>
+<tr>
+<td>1992 </td> <td>382,122 </td> <td>177,486 </td> <td>559,608 </td>
+</tr>
+<tr>
+<td>1993 </td> <td>433,822 </td> <td>208,375 </td> <td>642,197 </td>
+</tr>
+<tr>
+<td>1994 </td> <td>382,085 </td> <td>217,587 </td> <td>599,672 </td>
+</tr>
+<tr>
+<td>1995 </td> <td>254,626 </td> <td>157,042 </td> <td>411,668 </td>
+</tr>
+<tr>
+<td>1996 </td> <td>215,804 </td> <td>138,068 </td> <td>353,872 </td>
+</tr>
+<tr>
+<td>1997 </td> <td>204,409 </td> <td>150,727 </td> <td>355,136 </td>
+</tr>
+<tr>
+<td>1998 </td> <td>189,481 </td> <td>153,059 </td> <td>342,540 </td>
+</tr>
+<tr>
+<td>1999 </td> <td>244,569 </td> <td>268,849 </td> <td>513,418 </td>
+</tr>
+<tr>
+<td>2000 </td> <td>201,865 </td> <td>184,345 </td> <td>386,210 </td>
+</tr>
+<tr>
+<td>2001 </td> <td>155,203 </td> <td>198,519 </td> <td>353,722 </td>
+</tr>
+<tr>
+<td>2002 </td> <td>169,469 </td> <td>182,956 </td> <td>352,425 </td>
+</tr>
+<tr>
+<td>2003 </td> <td>126,233 </td> <td>164,143 </td> <td>290,376 </td>
+</tr>
+<tr>
+<td>2004 </td> <td>145,335 </td> <td>169,730 </td> <td>315,065 </td>
+</tr>
+<tr>
+<td>2005 </td> <td>160,990 </td> <td>183,857 </td> <td>344,847 </td>
+</tr>
+<tr>
+<td>2006 </td> <td>169,629 </td> <td>205,944 </td> <td>375,573 </td>
+</tr>
+<tr>
+<td>2007 </td> <td>180,190 </td> <td>190,438 </td> <td>370,628 </td>
+</tr>
+<tr>
+<td>2008 </td> <td>208,312 </td> <td>216,932 </td> <td>425,244 </td>
+</tr>
+<tr>
+<td>2009 </td> <td>228,368 </td> <td>255,504 </td> <td>483,872 </td>
+</tr>
+<tr>
+<td>2010 </td> <td>236,086 </td> <td>262,859 </td> <td>498,945 </td>
+</tr>
+<tr>
+<td>2011 </td> <td>293,429 </td> <td>307,814 </td> <td>601,243 </td>
+</tr>
+<tr>
+<td>2012 </td> <td>388,006 </td> <td>429,732 </td> <td>817,738 </td>
+</tr>
+<tr>
+<td>2013 </td> <td>422,030 </td> <td>538,149 </td> <td>960,179 </td>
+</tr>
+<tr>
+<td>2014 </td> <td>512,174 </td> <td>418,863 </td> <td>931,037 </td>
+</tr>
+</tbody>
+</table>
+
 
 The California Department of Justice (DOJ) keeps statistics of the number of guns sold at retail in the state. According to its most recent reports, around the time California started requiring a written test to buy a handgun (2003) the rate of handguns being sold started escalating, and have been going up ever since. This happened despite laws passed during that same time period that ban handguns that don't pass a pretextual performance test, require buyers to take a written test and get a "Safety Certificate" to buy a handgun, and mandate that all new handguns be equipped to microstamp spent shell cases (though the technology doesn't work).
 

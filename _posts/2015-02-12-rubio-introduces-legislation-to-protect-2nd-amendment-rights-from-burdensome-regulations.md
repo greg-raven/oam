@@ -1,7 +1,7 @@
 ---
 title: "Rubio introduces legislation to protect 2nd Amendment rights from burdensome regulations"
 tags:
-- One Armed Man
+- Marco Rubio
 layout: post
 categories:
 - information
@@ -19,5 +19,5 @@ This legislation is endorsed by the National Rifle Association (NRA) and the Gun
 
 A PDF of the legislation is available at rubio.senate.gov/public/index.cfm/files/serve/?File\_id=330c0261-77d1-4cb4-a71f-9a8e1792c219
 
-Source:  
+Source:
 rubio.senate.gov/public/index.cfm/press-releases?ID=852ec5d2-6597-4021-af79-6f14e7529ad6

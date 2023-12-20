@@ -1,13 +1,11 @@
 ---
-title: "Want to carry a concealed gun without a permit? You can do that in this state now"
+title: "Kansas to allow carrying of concealed guns without permit"
 tags:
-- One Armed Man
+- Associated Press
 layout: post
 categories:
 - CCW
 ---
-
-This is great news for anyone who wants to carry. Kansas is the fifth state to sign a bill ending the permit requirement. Alaska, Arizona, Vermont and Wyoming are the other states with the same policy. Good to know!
 
 Kansas will become the fifth state to allow its residents to carry concealed firearms without a permit throughout the state.
 
@@ -21,4 +19,4 @@ Brownback said gun owners have shown they are responsible.
 
 But Democratic state Sen. Oletha Faust-Goudeau of Wichita said the state still should require some training.
 
-Source: 100percentfedup.com/want-to-carry-a-concealed-gun-without-a-permit-you-can-do-that-in-this-state-now/#
+Source: Associated Press, apnews.com/3e924a671bee4f9c936321a34801e1f2/kansas-allow-carrying-concealed-guns-without-permit

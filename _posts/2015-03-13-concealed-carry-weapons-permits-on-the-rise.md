@@ -1,13 +1,13 @@
 ---
 title: "Concealed carry weapons permits on the rise"
 tags:
-- One Armed Man
+- Anneli Fogt
 layout: post
 categories:
 - CCW
 ---
 
-Authorities: Prison realignment, Prop. 47 leading to increase in CCW applications
+- Authorities: Prison realignment, Prop. 47 leading to increase in CCW applications
 
 San Bernardino County Sheriff's Department officials say prison realignment and lighter jail terms for some offenders have led to more county residents seeking concealed carry weapons permits.
 
@@ -25,6 +25,5 @@ In 2013, which Bell said was most recent year with statistics available, the dep
 
 According to Bell, there are currently 4,000 CCW permit holders in the county, less than one percent of the county's roughly 2 million people.
 
-Source:  
-vvdailypress.com/article/20150313/NEWS/150319874  
-ANNELI FOGTSTAFF WRITER
+Source: Anneli Fogt,
+vvdailypress.com/article/20150313/NEWS/150319874

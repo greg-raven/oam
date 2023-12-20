@@ -89,4 +89,4 @@ Gun control ... It's not a new idea ... Just a bad one!
 
 The D.C. gun ban works --- just ask James Brady.
 
-When seconds count, the cops are just minutes away &hellip;
+When seconds count, the cops are just minutes away ...

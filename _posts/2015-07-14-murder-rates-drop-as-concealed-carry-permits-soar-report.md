@@ -1,7 +1,7 @@
 ---
 title: "Murder rates drop as concealed carry permits soar: report"
 tags:
-- One Armed Man
+- Kellan Howell
 layout: post
 categories:
 - CCW
@@ -35,5 +35,4 @@ Between 1999 and 2007 the number of permits increased by about 240,000 per year.
 
 \[...\]
 
-Source: Kellan Howell, The Washington Times, Tuesday, July 14, 2015
-washingtontimes.com/news/2015/jul/14/murder-rates-drop-as-concealed-carry-permits-soar-/
+Source: Kellan Howell, washingtontimes.com/news/2015/jul/14/murder-rates-drop-as-concealed-carry-permits-soar-/

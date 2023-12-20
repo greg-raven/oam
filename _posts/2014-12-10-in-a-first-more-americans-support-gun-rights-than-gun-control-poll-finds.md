@@ -1,7 +1,7 @@
 ---
 title: "In a first, more Americans support gun rights than gun control, poll finds"
 tags:
-- One Armed Man
+- Linda Feldmann
 layout: post
 categories:
 - information

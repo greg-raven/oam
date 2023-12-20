@@ -1,7 +1,7 @@
 ---
 title: "The conversation that made veteran cop change his views on concealed carry: 'They schooled me'"
 tags:
-- One Armed Man
+- Jason Howerton
 layout: post
 categories:
 - CCW
@@ -31,6 +31,5 @@ When he tried to discredit the study, McCauley said he failed. Since retiring, h
 
 (H/T: Bearing Arms)
 
-Source:  
-Jason Howerton  
-theblaze.com/stories/2015/03/16/former-commander-of-md-gun-licensing-thought-concealed-carry-would-be-scary-but-listen-to-what-hes-now-telling-senate/
+Source: Jason Howerton,
+theblaze.com/news/2015/03/16/former-commander-of-md-gun-licensing-thought-concealed-carry-would-be-scary-but-listen-to-what-hes-now-telling-senate

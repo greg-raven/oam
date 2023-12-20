@@ -1,7 +1,7 @@
 ---
 title: "Americans prefer living in neighborhoods with guns"
 tags:
-- One Armed Man
+- Rasmussen Reports
 layout: post
 categories:
 - information

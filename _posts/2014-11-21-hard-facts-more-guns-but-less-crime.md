@@ -1,13 +1,13 @@
 ---
 title: "Hard facts: More guns but less crime"
 tags:
-- One Armed Man
+- Jeff Knox
 layout: post
 categories:
 - information
 ---
 
-Jeff Knox looks at recent stats that belie controllers' anti-firearm rhetoric
+- Recent stats that belie controllers' anti-firearm rhetoric
 
 \[...\]
 

@@ -1,7 +1,7 @@
 ---
 title: "Ten quotes that show how radical the Founding Fathers were about gun ownership"
 tags:
-- One Armed Man
+- Austin Petersen
 layout: post
 categories:
 - information
@@ -9,25 +9,33 @@ categories:
 
 ## \#1. George Washington
 
-> "A free people ought not only to be armed, but disciplined ..." --- George Washington First Annual Address, 1790
+> "A free people ought not only to be armed, but disciplined ..."
+>
+> <cite>George Washington First Annual Address, 1790</cite>
 
 Washington's First State of the Union address on January 8th, 1790 [featured a section](https://avalon.law.yale.edu/18th_century/washs01.asp) where the first president argued in favor of individuals arming themselves, and the need for the country to be self sufficient in being able to create military supplies to defend against threats.
 
 ## \#2. Thomas Jefferson
 
-> "No free man shall ever be debarred the use of arms." --- Thomas Jefferson, First Draft of the Virginia Constitution, 1776
+> "No free man shall ever be debarred the use of arms."
+>
+> <cite>Thomas Jefferson, First Draft of the Virginia Constitution, 1776</cite>
 
 Jefferson's drafting of the Virginia Constitution went through three different edits. His first was the most radical opinion, but [it was watered down ](https://www.monticello.org/site/jefferson/no-freeman-shall-be-debarred-use-arms-quotation)through subsequent edits, and unfortunately never adopted into Virginia law.
 
 ## \#3. Benjamin Franklin
 
-> "Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety." --- Benjamin Franklin, 1755
+> "Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety."
+>
+> <cite>Benjamin Franklin, 1755</cite>
 
 Benjamin Franklin's 1755 letter to the Governor of Pennsylvania [was in respons](https://founders.archives.gov/documents/Franklin/01-06-02-0107)e to the governor's rejection of a bill that would have provided arms to frontiersmen in order to protect them from Indian attacks. This simple phrase resonates throughout history and, at least tangentially, applies to the idea that a free individual must not sacrifice their individual rights such as those later codified in the constitution, specifically the 2nd Amendment.
 
 ## \#4. George Mason
 
-> "To disarm the people ... \[i\]s the most effectual way to enslave them." --- George Mason, 1788
+> "To disarm the people ... \[i\]s the most effectual way to enslave them."
+>
+> <cite>George Mason, 1788</cite>
 
 George Mason was George Washington's hunting buddy, and a strong defender of the right to bear arms. Mason's quote here in context was given in an address to the Virginia Ratifying Convention in 1788, when Virginia adopted the federal constitution. Mason told the story of how the governor of Pennsylvania, William Keith, sought to weaken the American people by removing their right to bear arms.
 
@@ -37,13 +45,17 @@ The [full statement](https://www.wwnorton.com/college/history/archive/resources/
 
 ## \#5. George Mason
 
-> "... who are the militia, if they be not the people?" \[ ... \] I ask who are the militia? They consist now of the whole people, except a few public officers. But I cannot say who will be the militia of the future day." --- George Mason
+> "... who are the militia, if they be not the people?" \[ ... \] I ask who are the militia? They consist now of the whole people, except a few public officers. But I cannot say who will be the militia of the future day."
+>
+> <cite>George Mason</cite>
 
 Mason was quite the libertarian for his day. A strong anti-slavery proponent, Mason knew that it was impossible to tell what the future held for Americans. He did know that protecting the right to bear arms for the people was the correct mindset. He also draws an important distinction in this statement by saying "except a few public officers," which means that guns are not just to be held by government officials, but by the whole people. He also argues that they cannot know who will be the militia of the future, which is why we must retain an individual right to bear arms.
 
 ## \#6. Noah Webster
 
-> "Before a standing army can rule, the people must be disarmed; as they are in almost every kingdom in Europe. The supreme power in America cannot enforce unjust laws by the sword; because the whole body of the people are armed, and constitute a force superior to any band of regular troops that can be, on any pretence, raised in the United States." --- Noah Webster, *An Examination of the Leading Principles of the Federal Constitution*
+> "Before a standing army can rule, the people must be disarmed; as they are in almost every kingdom in Europe. The supreme power in America cannot enforce unjust laws by the sword; because the whole body of the people are armed, and constitute a force superior to any band of regular troops that can be, on any pretence, raised in the United States."
+>
+> <cite>Noah Webster, *An Examination of the Leading Principles of the Federal Constitution*</cite>
 
 Noah Webster was known as the father of American scholarship and secular education. Webster's [quote explains](https://www.potowmack.org/2noahweb.html) how the right to bear arms is an important check on government power, giving the people of America more individual liberty than any other nation on earth.
 
@@ -53,13 +65,17 @@ Patrick Henry was the Rand Paul of his day, a hardcore libertarian with the gift
 
 ## \#8. Samuel Adams
 
-> "The Constitution shall never be construed ... to prevent the people of the United States who are peaceable citizens from keeping their own arms." --- Samuel Adams, Massachusetts Ratifying Convention, 1788
+> "The Constitution shall never be construed ... to prevent the people of the United States who are peaceable citizens from keeping their own arms."
+>
+> <cite>Samuel Adams, Massachusetts Ratifying Convention, 1788</cite>
 
 There you have it plain as day. In the debates to ratify the constitution in 1788, Samuel Adams gave [a forcible defense](https://www.samuel-adams-heritage.com/quotes/popular.html) of the right to bear arms.
 
 ## \#9. Thomas Paine
 
-> "... arms, like law, discourage and keep the invader and the plunderer in awe, and preserve order in the world as well as property. The balance of power is the scale of peace." --- Thomas Paine, "Thoughts on Defensive War," 1775
+> "... arms, like law, discourage and keep the invader and the plunderer in awe, and preserve order in the world as well as property. The balance of power is the scale of peace."
+>
+> <cite>Thomas Paine, "Thoughts on Defensive War," 1775</cite>
 
 Thomas Paine's argument for the individual right to bear arms is applicable today as it was then. He knew that it was more than just a need for defense against government, tyranny, but for home defense as well. Later someone would coin the phrase, god made man, Sam Colt made them equal. The gun is the great equalizer, creating a balance of power between those who would be oppressed, and those who would try to oppress.
 
@@ -69,7 +85,9 @@ The full quote in context:
 
 ## \#10. Alexander Hamilton
 
-> "\[I\]f circumstances should at any time oblige the government to form an army of any magnitude that army can never be formidable to the liberties of the people while there is a large body of citizens, little, if at all, inferior to them in discipline and the use of arms, who stand ready to defend their own rights and those of their fellow-citizens. This appears to me the only substitute that can be devised for a standing army, and the best possible security against it, if it should exist." --- Alexander Hamilton, *Federalist No. 29*
+> "\[I\]f circumstances should at any time oblige the government to form an army of any magnitude that army can never be formidable to the liberties of the people while there is a large body of citizens, little, if at all, inferior to them in discipline and the use of arms, who stand ready to defend their own rights and those of their fellow-citizens. This appears to me the only substitute that can be devised for a standing army, and the best possible security against it, if it should exist."
+>
+> <cite>Alexander Hamilton, *Federalist No. 29*</cite>
 
 Hamilton was being a bit of a hypocrite here, considering that later he would urge George Washington to brutally put down the Whiskey Rebellion. Still, here he argues that it was impractical to expect that the whole body of people (the yeomanry) could be expected to a part of the militia. At the time, Hamilton argued that the people could protect themselves from a standing army in the United States by having the right to bear arms.
 

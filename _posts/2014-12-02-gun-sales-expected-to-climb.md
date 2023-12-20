@@ -1,7 +1,7 @@
 ---
 title: "Gun sales expected to climb"
 tags:
-- One Armed Man
+- Carlos Correa
 layout: post
 categories:
 - information

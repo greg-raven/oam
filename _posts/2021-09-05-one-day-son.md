@@ -7,11 +7,11 @@ categories:
 - other
 ---
 
-<q>Son, one day you'll be a man.</q>
+"Son, one day you'll be a man."
 
-<q>Dad, I'm 32 years old.</q>
+"Dad, I'm 32 years old."
 
-<q>You don't own a gun.</q>
+"You don't own a gun."
 
 ![One day, son](/assets/img/20210905-one-day-son.jpg)
 

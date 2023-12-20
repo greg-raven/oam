@@ -1,13 +1,13 @@
 ---
 title: "Immigration out of control"
 tags:
-- One Armed Man
+- Washington Times
 layout: post
 categories:
 - information
 ---
 
-The government can't even deport the alien criminals
+- The government can't even deport the alien criminals
 
 Statistics can be a cure for insomnia, but sometimes they can deliver the jolt of a thunderclap. Here's a thunderclap with a number on it: 165,527. That's the number of illegals in the United States who have been convicted of a crime and were turned loose by the U.S. Immigration and Customs Enforcement, an agency of the Department of Homeland Security.
 
@@ -23,5 +23,5 @@ Rather than release them, deportation would be the logical end for the sneakers 
 
 \[...\]
 
-Source:  
+Source:
 washingtontimes.com/news/2015/mar/23/editorial-immigration-out-of-control/#ixzz3VR8JWFek

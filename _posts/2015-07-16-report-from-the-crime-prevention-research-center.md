@@ -1,13 +1,11 @@
 ---
-title: "Report from the Crime Prevention Research Center"
+title: "Concealed Carry Permit Holders Across the United States"
 tags:
-- One Armed Man
+- Crime Prevention Research Center
 layout: post
 categories:
 - CCW
 ---
-
-Concealed Carry Permit Holders Across the United States
 
 Since President Obama's election the number of concealed handgun permits has soared, growing from 4.6 million in 2007 to over 12.8 million this year. Among the findings in our report:
 
@@ -21,4 +19,4 @@ Since President Obama's election the number of concealed handgun permits has soa
 - Regression estimates show that even after accounting for the per capita number of police and people admitted to prison and demographics, the adult population with permits is significantly associated with a drop in murder and violent crime rates.
 - Concealed handgun permit holders are extremely law-abiding. In Florida and Texas, permit holders are convicted of misdemeanors or felonies at one-sixth the rate that police officers are convicted.
 
-\[scribd id=271664127 key=key-HwCuNvVbYfHxZlZffb3V mode=scroll\]
+Source: Crime Prevention Research Center, crimeresearch.org/wp-content/uploads/2015/07/2015-Report-from-the-Crime-Prevention-Research-Center-Final.pdf

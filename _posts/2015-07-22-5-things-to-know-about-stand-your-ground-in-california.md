@@ -1,7 +1,7 @@
 ---
 title: "5 things to know about 'Stand Your Ground' in California"
 tags:
-- One Armed Man
+- Joshua Johnson
 layout: post
 categories:
 - information
@@ -27,4 +27,4 @@ So in California, not only could you stay and fight, you can even chase your att
 
 5\) To those assessing stand-your-ground laws based on the Zimmerman trial, some have complained that Zimmerman never actually invoked the law, even though it seems to have helped his acquittal. In California, as in Florida, a defense team does not have to actually invoke it: the judge is responsible for giving the jury this instruction on his or her own if the facts of the case warrant it.
 
-Read the full story at [KQED](https://ww2.kqed.org/news/2013/07/22/5-things-to-know-about-stand-your-ground-in-california)
+Source: Joshua Johnson, kqed.org/news/2013/07/22/5-things-to-know-about-stand-your-ground-in-california)

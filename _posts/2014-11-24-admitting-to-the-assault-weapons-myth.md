@@ -1,15 +1,13 @@
 ---
 title: "Admitting to the 'Assault Weapons Myth'"
 tags:
-- One Armed Man
+- James W. Porter II
 layout: post
 categories:
 - information
 ---
 
-By James W. Porter II, President, National Rifle Association
-
-When the New York Times published an op-ed thoroughly exposing the "Assault Weapons Myth," the major players in the gun-ban movement blithely said they were moving on, that a federal gun-ban was a "non-starter."
+When *The New York Times* published an op-ed thoroughly exposing the "Assault Weapons Myth," the major players in the gun-ban movement blithely said they were moving on, that a federal gun-ban was a "non-starter."
 
 With that myth shattered, gun banners have simply regrouped to concentrate on their new big lie --- "universal background checks."
 
@@ -25,7 +23,7 @@ Since all of this is and has been a "myth," what the hell has the last 30 years'
 
 What about the loss of freedom of peaceable individual citizens in states like New York, Connecticut, Colorado, California and Maryland where the "assault weapons myth" led to real confiscatory bans with Draconian criminal penalties? What about all those formerly law-abiding citizens who are now potential felons? These good citizens are paying a heavy price for a "myth."
 
-Beckett should go a few steps further and put human faces on victims of the "Assault Weapons Myth."  
+Beckett should go a few steps further and put human faces on victims of the "Assault Weapons Myth."
 Neither the Times, nor other major media that consistently amplified the big lie of "assault weapons" over decades, even blinked over Beckett's revelations.
 
 Huge damage has been done to countless citizens and the gun-ban crowd wants to simply walk away saying, "Nevermind"?
@@ -48,4 +46,4 @@ Because of the ban, because of the big lie and because of the likes of Dianne Fe
 
 As the new effort of the gun-ban lobby to back away from their "myth" expands, so will our opportunity to take back lost ground. We must never let up in our efforts to free all American gun owners from the tyranny of the "assault weapons" big-lie in those states where gun owners suffer against its anvil.
 
-Source: *American Rifleman* magazine, americanrifleman.org, December 2014, page 14
+Source: James W. Porter II, President, National Rifle Association, via *American Rifleman* magazine, americanrifleman.org, December 2014, page 14

@@ -1,7 +1,7 @@
 ---
 title: "Judge's ruling allows concealed-carry for D.C. gun owners, shoots down police objections"
 tags:
-- One Armed Man
+- Andrea Noble
 layout: post
 categories:
 - CCW
@@ -21,4 +21,4 @@ To comply with the ruling, Chief Lanier said the department would not deny any p
 
 The police department had received 107 concealed carry applications as of May 9, including 52 from D.C. residents and 55 from non-residents. The department reported denying 42 applications and approving 26. The remainder were either withdrawn or pending.
 
-Source: washingtontimes.com/news/2015/may/28/judges-ruling-allows-concealed-carry-for-dc-gun-ow/#ixzz3cIoP70Iq
+Source: Andrea Noble, washingtontimes.com/news/2015/may/28/judges-ruling-allows-concealed-carry-for-dc-gun-ow/#ixzz3cIoP70Iq

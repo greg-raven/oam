@@ -1,7 +1,7 @@
 ---
 title: "Federal judge says DC gun carry law is unconstitutional"
 tags:
-- One Armed Man
+- Stephen Gutowski
 layout: post
 categories:
 - CCW
@@ -31,4 +31,4 @@ If D.C. decides to fight the court's ruling, the plaintiffs will continue with t
 
 "We will take this case all the way to the U.S. Supreme Court."
 
-Source: Stephen Gutowski, AP freebeacon.com/issues/federal-judge-says-dc-gun-carry-law-is-unconstitutional/
+Source: Stephen Gutowski, AP, freebeacon.com/issues/federal-judge-says-dc-gun-carry-law-is-unconstitutional/
