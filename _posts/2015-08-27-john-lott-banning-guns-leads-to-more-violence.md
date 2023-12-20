@@ -1,7 +1,7 @@
 ---
 title: "John Lott: Banning guns leads to more violence"
 tags:
-- One Armed Man
+- Jason Devaney
 layout: post
 categories:
 - information
@@ -33,4 +33,4 @@ Lott said those types of laws wouldn't do much to stop violence.
 
 "The bottom line is just to try to have some type of law that would reduce gun ownership rather than something that would go and have any real effect on crime rates or these types of horrible incidences."
 
-Read the full story at [Newsmax](https://www.newsmax.com/Newswidget/john-lott-gun-control-more/2015/08/27/id/672293/)
+Source: Jason Devaney, newsmax.com/Newswidget/john-lott-gun-control-more/2015/08/27/id/672293/)

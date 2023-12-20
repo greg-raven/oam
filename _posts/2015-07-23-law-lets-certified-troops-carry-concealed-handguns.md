@@ -1,7 +1,7 @@
 ---
 title: "Law lets certified troops carry concealed handguns"
 tags:
-- One Armed Man
+- Oriana Pawlyk
 layout: post
 categories:
 - CCW
@@ -27,4 +27,4 @@ When LEOSA was extended to service members in 2013, Sen. Patrick Leahy, D-Vt., s
 
 Leahy said qualified service members "are no less deserving or worthy of this privilege."
 
-Source: https://www.wtsp.com/story/military/2015/07/22/law-lets-certified-troops-carry-concealed-handguns/30464093/
+Source: Oriana Pawlyk, militarytimes.com/news/your-military/2015/07/22/law-lets-certified-troops-carry-concealed-handguns/

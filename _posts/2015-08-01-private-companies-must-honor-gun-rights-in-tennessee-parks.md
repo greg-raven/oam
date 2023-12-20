@@ -1,7 +1,7 @@
 ---
 title: "Private companies must honor gun rights in Tennessee parks"
 tags:
-- One Armed Man
+- AWR Hawkins
 layout: post
 categories:
 - information
@@ -19,4 +19,4 @@ Slatery wrote:
 
 \[...\]
 
-Read the full story on [Breitbart.com](https://www.breitbart.com/big-government/2015/08/01/private-companies-must-honor-gun-rights-in-tennessee-parks/)
+Source: AWR Hawkins, breitbart.com/big-government/2015/08/01/private-companies-must-honor-gun-rights-in-tennessee-parks/

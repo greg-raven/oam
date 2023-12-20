@@ -135,13 +135,9 @@ Here is another accidental discharge at college by a professor in Tennessee
 
 Here are some recent data on revocation rates by year of age of permit holder from Students for Concealed Carry for Texas.
 
-<figure class="wp-block-table">| AGE GROUP | 18\* to 23 years old | 21 to 23 years old | 38 to 43 years old |
-|---|---|---|---|
-| 2014 REVOCATION RATE | 0.189% | 0.186% | 0.196% |
-| 2015 REVOCATION RATE | 0.147% | 0.150% | 0.155% |
-| 2016 REVOCATION RATE | 0.118% | 0.120% | 0.160% |
+<table><tbody><tr><td><strong>AGE GROUP</strong></td><td>18<sup>*</sup> to 23 years old</td><td>21 to 23 years old</td><td>38 to 43 years old</td></tr><tr><td><strong>2014 REVOCATION RATE</strong></td><td>0.189%</td><td>0.186%</td><td>0.196%</td></tr><tr><td><strong>2015 REVOCATION RATE</strong></td><td>0.147%</td><td>0.150%</td><td>0.155%</td></tr><tr><td><strong>2016 REVOCATION RATE</strong></td><td>0.118%</td><td>0.120%</td><td>0.160%</td></tr></tbody></table>
 
-</figure>*\* A person age 18-20 can obtain a Texas LTC only if they are a member or veteran of the U.S. Armed Forces or if they get special approval from a judge based on them facing some threat (such as the threat of stalking).*
+<sup>*</sup> A person age 18-20 can obtain a Texas LTC only if they are a member or veteran of the U.S. Armed Forces or if they get special approval from a judge based on them facing some threat (such as the threat of stalking).
 
 Crimes committed by permit holders?
 

@@ -1,13 +1,11 @@
 ---
 title: "Front Sight Member awarded Medal of Valor"
 tags:
-- One Armed Man
+- Becca Pesquera
 layout: post
 categories:
 - situations
 ---
-
-Dr. Piazza,
 
 On August 22, 2014, the lives of two families were forever changed.
 

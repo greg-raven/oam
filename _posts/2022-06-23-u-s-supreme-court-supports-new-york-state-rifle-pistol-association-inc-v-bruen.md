@@ -1,16 +1,25 @@
 ---
 title: "U.S. Supreme Court supports New York State Rifle & Pistol Association Inc. v. Bruen"
 tags:
-- One Armed Man
+- U.S. Supreme Court
 layout: post
 categories:
 - CCW
 - open carry
 ---
 
-| Docket No. | Op. Below | Argument | Opinion | Vote | Author | Term |
-|---|---|---|---|---|---|---|
-| 20-843 | 2nd Cir. | Nov 3, 2021 | Jun 23, 2022 | 6-3 | Thomas | OT 2021 |
+<table>
+	<thead>
+	<tr>
+		<th>Docket No.</th> <th>Op. Below</th> <th>Argument</th> <th>Opinion</th> <th>Vote</th> <th>Author</th> <th>Term</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td>20-843</td> <td>2nd Cir.</td> <td>Nov 3, 2021</td> <td>Jun 23, 2022</td> <td>6-3</td> <td>Thomas</td> <td>OT 2021</td>
+	</tr>
+	</tbody>
+</table>
 
 Holding: New York's proper-cause requirement for obtaining an unrestricted license to carry a concealed firearm violates the Fourteenth Amendment in that it prevents law-abiding citizens with ordinary self-defense needs from exercising their Second Amendment right to keep and bear arms.
 

@@ -1,7 +1,7 @@
 ---
 title: "With all the concern about assault weapons, how has the share of murders with rifles changed over time?"
 tags:
-- One Armed Man
+- Crime Prevention Research Center
 layout: post
 categories:
 - information
@@ -13,10 +13,8 @@ The average rate of firearm murders committed with rifles after the assault weap
 
 There are similar drops over time if one looks at the share of total murders committed with rifles.
 
-For the full story, see:
+\[...\]
 
-<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-crime-prevention-research-center">> [With all the concern about assault weapons, how has the share of murders with rifles changed over time?](https://crimeresearch.org/2019/11/with-all-the-concern-about-assault-weapons-how-has-the-share-of-murders-with-rifles-changed-over-time/)
-
-<iframe width="560" height="315" src="https://crimeresearch.org/2019/11/with-all-the-concern-about-assault-weapons-how-has-the-share-of-murders-with-rifles-changed-over-time/embed/#?secret=ml1SvX2fsu" title="With all the concern about assault weapons, how has the share of murders with rifles changed over time? --- Crime Prevention Research Center"></iframe>
+For the full story, see: [With all the concern about assault weapons, how has the share of murders with rifles changed over time?](https://crimeresearch.org/2019/11/with-all-the-concern-about-assault-weapons-how-has-the-share-of-murders-with-rifles-changed-over-time/)
 
 Source: [CrimeResearch.org](https://crimeresearch.org/2019/11/with-all-the-concern-about-assault-weapons-how-has-the-share-of-murders-with-rifles-changed-over-time/)

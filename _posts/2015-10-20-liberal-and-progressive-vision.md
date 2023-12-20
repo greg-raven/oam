@@ -1,13 +1,11 @@
 ---
 title: "Liberal and progressive vision"
 tags:
-- One Armed Man
+- Walter Williams
 layout: post
 categories:
 - information
 ---
-
-By Walter Williams
 
 Here's my question to you: If an evil person is guaranteed that he can inflict physical pain upon others and guaranteed to never suffer pain himself, what happens to his willingness to inflict pain?
 
@@ -35,4 +33,4 @@ Liberals and progressives express alarm that there are an estimated 300 million 
 
 You say: "Williams, that's preposterous! A dictator or a foreign force could never take over our nation!" During the 1930s, the Germans or the French people might have said the same thing. Before 1945, the Japanese people would have said the same thing. By the way, yesteryear's Japanese were far tougher than today's soft Americans. It took only two relatively small atomic bombs to bring them to their knees. If a couple of our major cities were destroyed, a weak-kneed liberal/progressive president would surrender in a New York minute.
 
-Source: [CNSnews.com](https://cnsnews.com/commentary/walter-e-williams/liberal-and-progressive-vision)
+Source: Walter Williams, [CNSnews.com](https://cnsnews.com/commentary/walter-e-williams/liberal-and-progressive-vision)

@@ -1,7 +1,7 @@
 ---
 title: "Armed citizens deter terrorist attacks in Detroit, police chief says"
 tags:
-- One Armed Man
+- Christy Strawser
 layout: post
 categories:
 - CCW
@@ -25,4 +25,4 @@ More than 30,000 of Detroit's 688,000 residents are legally armed, according to 
 
 \[...\]
 
-Source: detroit.cbslocal.com/2015/12/01/armed-citizens-deter-terrorist-attacks-in-detroit-police-chief-says/
+Source: Christy Strawser, detroit.cbslocal.com/2015/12/01/armed-citizens-deter-terrorist-attacks-in-detroit-police-chief-says/
