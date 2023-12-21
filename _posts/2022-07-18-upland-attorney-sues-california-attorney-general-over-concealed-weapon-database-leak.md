@@ -1,7 +1,7 @@
 ---
 title: "Upland attorney sues California attorney general over concealed weapon database leak"
 tags:
-- One Armed Man
+- Beau Yarbrough
 layout: post
 categories:
 - CCW
@@ -53,6 +53,6 @@ Hannemann believes the worst, however.
 
 "Bonta does not admit whether or not he has proof that the data was accessed by someone on the web," he said. "When someone doesn't deny it, that means the opposite is true."
 
-Source: Beau Yarbrough, [SBSun.com](https://www.sbsun.com/2022/07/18/upland-attorney-sues-california-attorney-general-over-concealed-weapon-database-leak/)
+Source: Beau Yarbrough,  sbsun.com/2022/07/18/upland-attorney-sues-california-attorney-general-over-concealed-weapon-database-leak/
 
 <iframe class="scribd_iframe_embed" data-aspect-ratio="0.7729220222793488" data-auto-height="true" frameborder="0" height="600" loading="lazy" scrolling="no" src="https://www.scribd.com/embeds/583095431/content?start_page=1&view_mode=scroll&access_key=key-U4Jhh81ctIO0cli4ro16" tabindex="0" title="Lawsuit against AG Bonta over CCW database leak" width="100%"></iframe>[Lawsuit against AG Bonta over CCW database leak](https://www.scribd.com/document/583095431/Lawsuit-against-AG-Bonta-over-CCW-database-leak#from_embed "View Lawsuit against AG Bonta over CCW database leak on Scribd") by [Beau Yarbrough](https://www.scribd.com/user/233633383/Beau-Yarbrough#from_embed "View Beau Yarbrough's profile on Scribd")

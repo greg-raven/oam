@@ -1,7 +1,7 @@
 ---
 title: "San Bernardino County Sheriff's Department opens High Desert location for CCW permit processing"
 tags:
-- One Armed Man
+- Victor Valley News Group
 layout: post
 categories:
 - CCW
@@ -31,4 +31,4 @@ The office will be open Tuesdays and Thursdays, from 8:00 a.m. to 3:00 p.m., and
 
 For additional information and questions, please visit https://wp.sbcounty.gov/sheriff/ccw-faq/ or call (909) 473-3893.
 
-Source: [Victor Valley News Group](https://www.vvng.com/san-bernardino-county-sheriffs-department-opens-ccw-permit-processing-location-in-victorville/)
+Source: vvng.com/san-bernardino-county-sheriffs-department-opens-ccw-permit-processing-location-in-victorville/

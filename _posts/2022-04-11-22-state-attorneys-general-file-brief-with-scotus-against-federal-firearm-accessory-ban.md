@@ -1,7 +1,7 @@
 ---
 title: "22 state attorneys general file brief with SCOTUS against federal firearm accessory ban"
 tags:
-- One Armed Man
+- Bethany Blankley
 layout: post
 categories:
 - information

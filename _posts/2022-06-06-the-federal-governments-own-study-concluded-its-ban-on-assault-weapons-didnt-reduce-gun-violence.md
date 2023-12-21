@@ -1,7 +1,7 @@
 ---
 title: "The federal government's own study concluded its ban on 'assault weapons' didn't reduce gun violence"
 tags:
-- One Armed Man
+- Jon Miltimore
 layout: post
 categories:
 - information

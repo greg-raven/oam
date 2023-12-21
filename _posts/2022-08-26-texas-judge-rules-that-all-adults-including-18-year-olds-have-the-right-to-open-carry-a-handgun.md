@@ -1,7 +1,7 @@
 ---
 title: "Texas judge rules that all adults, including 18-year-olds, have the right to open-carry a handgun"
 tags:
-- One Armed Man
+- Cortney Weil
 layout: post
 categories:
 - information
@@ -27,4 +27,4 @@ That case marks the second time in less than a year that a ruling from Pittman h
 
 The Fifth Circuit Court of Appeals has since overturned that decision.
 
-Source: Cortney Weil, https://www.theblaze.com/news/texas-judge-law-open-cary
+Source: Cortney Weil, theblaze.com/news/texas-judge-law-open-cary

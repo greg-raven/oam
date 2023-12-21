@@ -1,7 +1,7 @@
 ---
 title: "We will never back down in our defense of the 2nd Amendment"
 tags:
-- One Armed Man
+- Mark Smith
 layout: post
 categories:
 - information
@@ -17,5 +17,6 @@ We are proud of our 170-year history. We are proud of the commitment of our empl
 
 We will continue to work alongside law enforcement, community leaders and lawmakers who are genuinely interested in creating safe neighborhoods. We will engage those who genuinely seek productive discussions, not a means of scoring political points. We will continue informing law-abiding citizens that they have a Constitutionally-protected right to defend themselves and their families. We will never back down in our defense of the 2nd Amendment.
 
-Mark Smith, President & CEO  
+Mark Smith, President & CEO
+
 Smith & Wesson Brands, Inc.

@@ -1,7 +1,7 @@
 ---
 title: "FBI reveals how many active shooters were stopped by citizens"
 tags:
-- One Armed Man
+- Harold Hutchinson
 layout: post
 categories:
 - information

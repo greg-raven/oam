@@ -1,7 +1,7 @@
 ---
-title: "Lies on top of lies about Kyle Rittenhouse"
+title: "Media: Why Do Reporting When We Already Know Rittenhouse Is a Terrorist?"
 tags:
-- One Armed Man
+- Grabien
 layout: post
 categories:
 - information
@@ -9,8 +9,6 @@ categories:
 - situations
 ---
 
-Media: Why Do Reporting When We Already Know Rittenhouse Is a Terrorist? \[supercut\]
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g_4fdK8GB0o" title="Media: Why Do Reporting When We Already Know Rittenhouse Is a Terrorist? [Supercut]"></iframe>
 
-Source: Grabien / https://youtu.be/g\_4fdK8GB0o
+Source: Grabien, youtube.com/watch?v=g_4fdK8GB0o

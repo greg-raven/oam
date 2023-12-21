@@ -1,7 +1,7 @@
 ---
 title: "With restrictions lifted, Sheriff Villanueva says gun permits will rise in L.A. County"
 tags:
-- One Armed Man
+- Alene Tchekmedyian
 layout: post
 categories:
 - CCW
@@ -43,6 +43,6 @@ Other agencies are also seeing an influx of applications. Riverside County Sheri
 
 "My policy and county of Riverside policy was more of a 'shall issue' anyway," Bianco told The Times on Wednesday. "The ruling didn't really change much about how we do business."
 
-Source: Alene Tchekmedyian, [L.A. Times](https://www.latimes.com/california/story/2022-06-30/sheriff-villanueva-gun-permits)
+Source: Alene Tchekmedyian, latimes.com/california/story/2022-06-30/sheriff-villanueva-gun-permits
 
 Times staff writer Hannah Wiley contributed to this report.

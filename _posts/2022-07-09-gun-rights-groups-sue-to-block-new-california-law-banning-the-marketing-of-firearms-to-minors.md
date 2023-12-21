@@ -1,7 +1,7 @@
 ---
 title: "Gun rights groups sue to block new California law banning the marketing of firearms to minors"
 tags:
-- One Armed Man
+- City News Service
 layout: post
 categories:
 - other
@@ -19,4 +19,4 @@ The lawsuit filed in federal court against state Attorney General Rob Bonta alle
 
 Representatives from Bonta's office could not be reached for immediate comment.
 
-Source: [The Sun](https://www.sbsun.com/2022/07/09/gun-rights-groups-sue-to-block-new-california-law-on-marketing-of-firearms-to-minors/)
+Source: City News Service, sbsun.com/2022/07/09/gun-rights-groups-sue-to-block-new-california-law-on-marketing-of-firearms-to-minors/

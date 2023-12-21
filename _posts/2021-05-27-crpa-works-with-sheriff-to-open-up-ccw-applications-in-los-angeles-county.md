@@ -1,7 +1,7 @@
 ---
 title: "CRPA works with Sheriff to open up CCW Applications in Los Angeles County"
 tags:
-- One Armed Man
+- CRPA
 layout: post
 categories:
 - CCW
@@ -13,7 +13,7 @@ The County of Los Angeles is one of those agencies that has decided to make chan
 
 [Announcement from Sheriff Villanueva](https://youtu.be/dnpE1_BwaQ8)
 
-[Helpful Guide- How to Apply for CCW in Los Angeles](https://crpa.org/wp-content/uploads/2020/10/Resource-2126808_Info-Bulletin-LA-County-CCW-Application-Guide.pdf)
+[Helpful Guide --- How to Apply for CCW in Los Angeles](https://crpa.org/wp-content/uploads/2020/10/Resource-2126808_Info-Bulletin-LA-County-CCW-Application-Guide.pdf)
 
 [Link to Los Angeles Sheriff Concealed Carry Site](https://lasd.org/ccw/)
 

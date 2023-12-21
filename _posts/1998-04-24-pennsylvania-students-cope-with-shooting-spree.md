@@ -27,4 +27,7 @@ The restaurant's owner, James Strand, armed with a shotgun, pursued Wurst and pe
 
 \[...\]
 
-[Read the full story here](https://www.cnn.com/US/9804/25/school.shooting.pm/).
+Source: cnn.com/US/9804/25/school.shooting.pm/
+
+Reuters contributed to this report.
+

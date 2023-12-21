@@ -1,7 +1,7 @@
 ---
 title: "It's time to ban 'gun-free' death zones"
 tags:
-- One Armed Man
+- Daniel Horowitz
 layout: post
 categories:
 - information

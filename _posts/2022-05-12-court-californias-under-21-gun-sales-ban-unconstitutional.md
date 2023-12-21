@@ -1,7 +1,7 @@
 ---
 title: "Court: California's under-21 gun sales ban unconstitutional"
 tags:
-- One Armed Man
+- Brian Melley
 layout: post
 categories:
 - information
@@ -59,4 +59,4 @@ Democratic Sen. Anthony Portantino of La Cañada Flintridge, who wrote both laws
 
 Attorney General Rob Bonta's office said it was reviewing the decision. In a statement, a spokesperson said it was committed to "defending California's commonsense gun laws."
 
-Source: Brian Melley, [AP News](https://apnews.com/article/california-gun-politics-san-diego-b9a81a718cd16085604b9acaf3046f35?utm_source=Twitter&utm_medium=AP&utm_campaign=SocialFlow)
+Source: Brian Melley, apnews.com/article/california-gun-politics-san-diego-b9a81a718cd16085604b9acaf3046f35

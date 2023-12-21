@@ -1,7 +1,7 @@
 ---
 title: "Judge blasts New York gun laws"
 tags:
-- One Armed Man
+- Glenn T. Suddaby
 layout: post
 categories:
 - information
