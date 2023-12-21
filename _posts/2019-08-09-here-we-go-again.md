@@ -1,7 +1,7 @@
 ---
 title: "Here we go again ..."
 tags:
-- One Armed Man
+- Ignatius Piazza
 layout: post
 categories:
 - information
@@ -158,7 +158,7 @@ Founder and Director
 Front Sight Firearms Training Institute
 1 Front Sight Road
 Pahrump, NV 89061
-https://www.frontsight.com
+frontsight.com
 info@frontsight.com
 1.800.987.7719
 
