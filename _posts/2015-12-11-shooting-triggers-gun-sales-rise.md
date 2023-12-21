@@ -1,13 +1,13 @@
 ---
 title: "Shooting triggers gun sales rise"
 tags:
-- One Armed Man
+- Paola Baker
 layout: post
 categories:
 - CCW
 ---
 
-Sheriff's Department sees big jump in CCW permit applications, too
+- Sheriff's Department sees big jump in CCW permit applications, too
 
 Sales of guns and ammunition throughout the country have spiked in the wake of the San Bernardino shooting last week, and San Bernardino County Sheriff's Department officials said they fully support the legal ownership of firearms throughout the county.
 
@@ -39,6 +39,6 @@ Any applicants approved must attend training for the shooting and handling of a 
 
 \[...\]
 
-Visit the San Bernardino County Sheriff's Department website at cms. sbcounty.gov/sheriff for further information on applying for a CCW permit and the requirements needed to be approved.
+Visit the San Bernardino County Sheriff's Department website at cms.sbcounty.gov/sheriff for further information on applying for a CCW permit and the requirements needed to be approved.
 
-Source: Paola Baker, Daily Press (Victorville)
+Source: Paola Baker, vvdailypress.com/story/news/local/desert-dispatch/2015/12/10/shooting-triggers-gun-sales-spike/32892064007/

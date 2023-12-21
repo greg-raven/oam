@@ -23,7 +23,7 @@ Obama's post-2008 boast of "fundamentally transforming the United States of Amer
 
 Transformation? Look no further than all of the unconstitutional executive orders designed to disarm Americans.
 
-Who would have ever thought that the Social Security Administration would be leading e orts to disarm older Americans who rely on family members or friends to help handle their personal a airs?
+Who would have ever thought that the Social Security Administration would be leading efforts to disarm older Americans who rely on family members or friends to help handle their personal a airs?
 
 Who would have ever envisioned the Department of Veterans A airs using the same rationale to outlaw firearms ownership by men and women who served and fought for this nation? Who would have ever thought that agencies of the federal government would be denigrating and usurping the role of local police --- men and women who every day put their lives on the line for our safety?
 

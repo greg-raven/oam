@@ -1,13 +1,11 @@
 ---
-title: "The right to defend yourself"
+title: "'Imminent threat' key in residents protecting against home invasion"
 tags:
-- One Armed Man
+- Paola Baker
 layout: post
 categories:
 - information
 ---
-
-**'Imminent threat' key in residents protecting against home invasion**
 
 Residents have the right to defend themselves in the event of a home invasion, local authorities say, but stressed the need to know the criteria behind those rights.
 
@@ -33,4 +31,4 @@ Lupear said home invasions and shootings, like the one that occurred Wednesday w
 
 Contact the Sheriff's Department for more information on self-defense laws.
 
-Source: Paola Baker, [Daily Press](https://www.vvdailypress.com/)
+Source: Paola Baker, vvdailypress.com/story/news/crime/2016/03/19/imminent-threat-key-in/32370268007/

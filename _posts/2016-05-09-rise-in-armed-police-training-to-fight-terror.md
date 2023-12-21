@@ -1,7 +1,7 @@
 ---
 title: "Rise in armed police training to fight terror"
 tags:
-- One Armed Man
+- Sky News
 layout: post
 categories:
 - information
@@ -41,4 +41,4 @@ West Midlands Police Chief Constable Dave Thompson told Sky News: "I am very com
 
 "I think we've still got a relatively modest amount of armed officers, I don't think it will change what's taking place either in terms of criminals or terrorists and it does improve our ability to respond."
 
-Source: Sky News (news.sky.com/story/1692581/rise-in-armed-police-training-to-fight-terror)
+Source: news.sky.com/story/1692581/rise-in-armed-police-training-to-fight-terror

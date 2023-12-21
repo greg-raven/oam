@@ -13,10 +13,20 @@ President Obama commissioned the Centers for Disease Control to study gun violen
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ILPJwkpQckA" title="The Lie Behind Gun Free Zones"></iframe>
 
-> "I don't want to *feel* safe, I want to *be* safe. I want to be able to protect myself, I want other people to be able to protect themselves, and going into a gun free zone is definitely not the way to protect anybody." --- Larry Pratt
+> "I don't want to *feel* safe, I want to *be* safe. I want to be able to protect myself, I want other people to be able to protect themselves, and going into a gun free zone is definitely not the way to protect anybody."
+>
+> <cite>Larry Pratt</cite>
 
-> "There's a whole list of places where killers have actually targeted the places where people can't protect themselves." --- Erich Pratt
+> "There's a whole list of places where killers have actually targeted the places where people can't protect themselves."
+>
+> <cite>Erich Pratt</cite>
 
-> "We're not going to make people safe by trying to restrict access to guns. Because bad guys, we have found, get access to guns no matter what. You'll impede it for the good guys, bad guys will \[still\] be armed." --- Larry Pratt
+> "We're not going to make people safe by trying to restrict access to guns. Because bad guys, we have found, get access to guns no matter what. You'll impede it for the good guys, bad guys will \[still\] be armed."
+>
+> <cite>Larry Pratt</cite>
 
-> "In places where the government makes it illegal or very difficult to own a firearm for protection. Those are typically the most dangerous places--like Baltimore, like Washington DC, like Chicago. That is where people typically are waiting for police; that's almost their only option and sadly, a lot of people pay the ultimate price." --- Erich Pratt
+> "In places where the government makes it illegal or very difficult to own a firearm for protection. Those are typically the most dangerous places --- like Baltimore, like Washington DC, like Chicago. That is where people typically are waiting for police; that's almost their only option and sadly, a lot of people pay the ultimate price."
+>
+> <cite>Erich Pratt</cite>
+
+Source: Gun Owners of America, youtube.com/watch?v=ILPJwkpQckA

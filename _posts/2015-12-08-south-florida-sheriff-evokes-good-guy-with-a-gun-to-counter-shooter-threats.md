@@ -1,7 +1,7 @@
 ---
 title: "South Florida Sheriff evokes 'good guy with a gun' to counter shooter threats"
 tags:
-- One Armed Man
+- Peter Schorsch
 layout: post
 categories:
 - CCW
@@ -41,4 +41,4 @@ And he encouraged the media to stop giving airtime to terrorists looking for the
 
 "Together we can make a difference," Ivey said. "One good person at the right place and the right time will make the difference."
 
-Source: [Saint Peters Blog](https://www.saintpetersblog.com/archives/246962)
+Source: Peter Schorsch, saintpetersblog.com/archives/246962

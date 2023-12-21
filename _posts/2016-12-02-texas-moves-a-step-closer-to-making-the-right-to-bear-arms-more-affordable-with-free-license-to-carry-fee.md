@@ -1,7 +1,7 @@
 ---
 title: "Texas moves a step closer to making the right to bear arms more affordable with free license to carry fee"
 tags:
-- One Armed Man
+- Antonia Okafor
 layout: post
 categories:
 - CCW
@@ -31,7 +31,7 @@ Students who just gained the right to carry on campus on August 1st of this year
 
 One group that helped pass the "campus carry" bill in 2015, Students for Concealed Carry on Campus (SCCC), says it "welcome efforts" to decrease permit costs.
 
-In an exclusive interview for Independent Journal Review, Brian Bensimon, a junior at the University of Texas at Austin who's the SCCC Southwest Regional Director, says he believes that the bill would increase access to those who wish to obtain a LTC license.
+In an exclusive interview for *Independent Journal Review,* Brian Bensimon, a junior at the University of Texas at Austin who's the SCCC Southwest Regional Director, says he believes that the bill would increase access to those who wish to obtain a LTC license.
 
 "Concealed carry is all about individuals being secure in their right of self-defense. SB 16 would ensure more equal access to this right by removing financial barriers to obtaining a license. We should welcome efforts like this to remove unnecessary barriers preventing the exercise of the right to self defense."
 

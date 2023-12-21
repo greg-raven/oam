@@ -1,7 +1,7 @@
 ---
 title: "Growing number of police chiefs, sheriffs join call to arms"
 tags:
-- One Armed Man
+- Cody Derespina
 layout: post
 categories:
 - CCW
@@ -35,4 +35,4 @@ The number of concealed handgun permits soared from 4.6 million in 2007 to 12.8 
 
 \[...\]
 
-Source: Cody Derespina, [Fox News](https://www.foxnews.com/us/2016/01/15/growing-number-police-chiefs-sheriffs-join-call-to-arms.html)
+Source: Cody Derespina, foxnews.com/us/2016/01/15/growing-number-police-chiefs-sheriffs-join-call-to-arms.html

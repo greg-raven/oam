@@ -1,7 +1,7 @@
 ---
 title: "CCW permit holders in the news"
 tags:
-- One Armed Man
+- Crime Prevention Research Center
 layout: post
 categories:
 - CCW
@@ -49,4 +49,4 @@ The second contractor came to the front door and saw what was occurring, Neville
 
 The gunman tried to rob him of his wallet, too, but the man --- who has told police he has a permit to carry a concealed gun --- pulled out his firearm ...
 
-Source: [Crime Prevention Research Center ](https://crimeresearch.org/2015/12/four-concealed-handgun-permit-holders-use-their-guns-to-stop-violent-crimes-in-the-last-week/)
+Source: [Crime Prevention Research Center](https://crimeresearch.org/2015/12/four-concealed-handgun-permit-holders-use-their-guns-to-stop-violent-crimes-in-the-last-week/)

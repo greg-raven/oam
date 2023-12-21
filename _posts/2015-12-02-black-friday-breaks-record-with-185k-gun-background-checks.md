@@ -1,7 +1,7 @@
 ---
 title: "Black Friday breaks record with 185K gun background checks"
 tags:
-- One Armed Man
+- Nick Penzenstadler
 layout: post
 categories:
 - information
@@ -23,4 +23,4 @@ Since 1998, FBI data shows that the bureau has processed requests for more than 
 
 \[...\]
 
-Source: usatoday.com/story/news/2015/12/01/black-friday-breaks-record-185k-gun-background-checks/76624604/
+Source: Nick Penzenstadler, usatoday.com/story/news/2015/12/01/black-friday-breaks-record-185k-gun-background-checks/76624604/

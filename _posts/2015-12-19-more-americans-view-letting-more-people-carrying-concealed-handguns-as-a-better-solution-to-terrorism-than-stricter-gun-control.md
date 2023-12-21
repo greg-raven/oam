@@ -1,7 +1,7 @@
 ---
 title: "More Americans view letting more people carrying concealed handguns as a better solution to terrorism than stricter gun control"
 tags:
-- One Armed Man
+- Crime Prevention Research Center
 layout: post
 categories:
 - CCW

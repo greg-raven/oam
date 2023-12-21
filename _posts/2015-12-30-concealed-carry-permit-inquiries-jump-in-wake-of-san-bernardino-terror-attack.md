@@ -27,4 +27,4 @@ Vince Torres, who owns the gun shop, says after Dec. 2 most of his guns have sol
 
 A Los Angeles County Sheriff's spokesman told Cruz "there had not been any increase in concealed carry permit applications or requests for applications" since the shootings.
 
-Source: CBS News
+Source: cbsnews.com/losangeles/news/concealed-carry-permit-inquiries-jump-in-wake-of-san-bernardino-terror-attack/?intcid=CNM-00-10abd1h

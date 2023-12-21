@@ -1,7 +1,7 @@
 ---
-title: "News Station Puts Concealed Carry Permit Holders to the Test in Realistic 'Good Guys' vs. 'Bad Guys' Scenarios"
+title: "News station puts concealed carry permit holders to the test in realistic 'good guys' vs. 'bad guys' scenarios"
 tags:
-- One Armed Man
+- Kaitlyn Schallhorn
 layout: post
 categories:
 - situations
@@ -13,7 +13,7 @@ WFAA-TV decided to find out. Building off the National Rifle Association CEO Way
 
 The good guys had myriad levels of experience. Matthew Beeman, 41, had just six hours of training; Brian Martin, 30, had 10 hours of training; Mary Bannan, 67, had 25 hours of training; and Royce Hardin, 68, had 50 hours of training.
 
-All of the participants were armed with training pistols that shot pellets and wore helmets and goggles. Clary had an AK-47 that shot pellets and was protected by body armor --- something the contestants were not made aware of. The four would have to shoot him in the head, neck or pelvis in order to "kill" him.
+All of the participants were armed with training pistols that shot pellets and wore helmets and goggles. Clary had an AK-47 that shot pellets and was protected by body armor --- something the contestants were not made aware of. The four would have to shoot him in the head, neck, or pelvis in order to "kill" him.
 
 In the first situation, the participants --- or "good guys" --- were in a tall cubicle. Clary acted the part of a disgruntled employee who entered the building and fired a few warning shots --- giving the participants a split second to determine whether they wanted to shoot the assailant or hide.
 
@@ -31,4 +31,4 @@ The simulation was overseen by Travis Bond, managing member of the DFW Shooters 
 
 Watch one of the scenarios below and read about how the others went at WFAA-TV.
 
-Source: [TheBlaze.com](https://www.theblaze.com/stories/2016/01/12/news-station-puts-concealed-carry-permit-holders-to-the-test-in-realistic-good-guys-vs-bad-guys-scenarios/)
+Source: Kaitlyn Schallhorn, [TheBlaze.com](https://www.theblaze.com/stories/2016/01/12/news-station-puts-concealed-carry-permit-holders-to-the-test-in-realistic-good-guys-vs-bad-guys-scenarios/)

@@ -1,13 +1,11 @@
 ---
 title: "Donald Trump has saved the Second Amendment"
 tags:
-- One Armed Man
+- Ignatius Piazza
 layout: post
 categories:
 - information
 ---
-
-By Dr. Ignatius Piazza
 
 Regardless of which side of the line you stood on Tuesday, there is no doubt that Donald Trump just saved the Second Amendment by becoming our nation's next president.
 
@@ -16,3 +14,5 @@ Had the election gone the other way, a liberal, anti-gun Supreme Court Justice w
 The very next challenge to the individual right to bear arms to reach the Supreme Court would have then reversed the Heller Decision and the Second Amendment would be a thing of the past.
 
 Congratulations to Donald Trump and all the gun owners who supported him!
+
+Source: Ignatius Piazza

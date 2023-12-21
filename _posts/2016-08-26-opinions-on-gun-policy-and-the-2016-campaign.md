@@ -1,13 +1,13 @@
 ---
 title: "Opinions on Gun Policy and the 2016 Campaign"
 tags:
-- One Armed Man
+- Pew Research Center
 layout: post
 categories:
 - information
 ---
 
-Most Clinton, Trump backers favor stricter background checks
+- Most Clinton, Trump backers favor stricter background checks
 
 For the past several years, large majorities of both Democrats and Republicans have favored making private gun sales and sales at gun shows subject to background checks.
 
@@ -81,4 +81,4 @@ Pew Research Center undertakes all polling activity, including calls to mobile t
 
 Pew Research Center is a nonprofit, tax-exempt 501(c)(3) organization and a subsidiary of The Pew Charitable Trusts, its primary funder.
 
-Source: [People-Press.org](https://www.people-press.org/2016/08/26/opinions-on-gun-policy-and-the-2016-campaign/)
+Source: Pew Research Center, pewresearch.org/politics/2016/08/26/opinions-on-gun-policy-and-the-2016-campaign/

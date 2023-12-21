@@ -1,7 +1,8 @@
 ---
-title: "Man killed confronting car thieves"
+title: "Four Hills man killed confronting car thieves"
 tags:
-- One Armed Man
+- Nicole Perez
+- Robert Browman
 layout: post
 categories:
 - situations
@@ -41,4 +42,4 @@ Valerie McKinley says her dad owned a gun and had a concealed carry permit but a
 
 \[...\]
 
-Source: [Albuquerque Journal](https://www.abqjournal.com/696969/news/police-respond-to-stabbing-in-albuquerque.html)
+Source: Nicole Perez and Robert Browman, abqjournal.com/696969/news/police-respond-to-stabbing-in-albuquerque.html

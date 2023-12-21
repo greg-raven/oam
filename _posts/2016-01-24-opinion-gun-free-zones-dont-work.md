@@ -1,7 +1,7 @@
 ---
 title: "Opinion: Gun-free zones don't work"
 tags:
-- One Armed Man
+- Maggi Cook
 layout: post
 categories:
 - information
@@ -21,4 +21,4 @@ According to Gallup, in 1993 only 34 percent of Americans thought the right to p
 
 There is a path to a reasonable, commonsense and realistic discussion of gun ownership and a reduction in gun violence. But it doesn't start with a condescending, fact-free lecture.
 
-Source: Maggi Cook, [Cincinnati.com](https://www.cincinnati.com/story/opinion/contributors/2016/01/24/opinion-gun-free-zones-work/79284908/)
+Source: Maggi Cook, cincinnati.com/story/opinion/contributors/2016/01/24/opinion-gun-free-zones-work/79284908/

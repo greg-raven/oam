@@ -1,7 +1,7 @@
 ---
 title: "Wisconsin Lawmaker Says More Concealed Carry Needed: 'Law-Abiding Citizens Can Help Clean Our Society of These Scumbags'"
 tags:
-- One Armed Man
+- Chris Enloe
 layout: post
 categories:
 - CCW

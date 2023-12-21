@@ -1,7 +1,7 @@
 ---
-title: "Former INTERPOL Chief on Terrorism: Make Secure Perimeters or Allow Civilians To Carry Guns"
+title: "Former INTERPOL chief on terrorism: Make secure perimeters or allow civilians to carry guns"
 tags:
-- One Armed Man
+- Joe Setyon
 layout: post
 categories:
 - CCW
@@ -38,4 +38,4 @@ Prior to his work at INTERPOL, Noble worked for the U.S. Treasury Department dur
 
 \[...\]
 
-Source: [CNSNews.com](https://cnsnews.com/blog/joe-setyon/former-interpol-chief-terrorism-make-secure-perimeters-or-allow-civilians-carry-guns)
+Source: Joe Setyon, [CNSNews.com](https://cnsnews.com/blog/joe-setyon/former-interpol-chief-terrorism-make-secure-perimeters-or-allow-civilians-carry-guns)

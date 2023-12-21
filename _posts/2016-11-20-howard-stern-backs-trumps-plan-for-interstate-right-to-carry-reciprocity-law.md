@@ -1,7 +1,7 @@
 ---
 title: "Howard Stern backs Trump's plan for interstate right-to-carry reciprocity law"
 tags:
-- One Armed Man
+- NRA
 layout: post
 categories:
 - CCW

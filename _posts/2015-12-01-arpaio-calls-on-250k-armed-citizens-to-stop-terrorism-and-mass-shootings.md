@@ -1,7 +1,7 @@
 ---
 title: "Arpaio calls on 250K armed citizens to stop terrorism and mass shootings"
 tags:
-- One Armed Man
+- KPHO
 layout: post
 categories:
 - CCW
@@ -35,7 +35,8 @@ Arpaio is not the first politician to call for more guns after a tragedy.
 
 Three years ago, Texas Rep. Louie Gohmert proposed arming more citizens after the Sandy Hook Elementary School shooting in Connecticut where 20 school children and six adult staff members were killed.
 
-At the time, Gohmert sa
+At the time, Gohmert said: "I wish to God she had had an M-4 in her office," referring to the school’s principal.
+
 There have been some cases where an armed civilian stopped a mass killer.
 
 In 1997, an assistant principal in Pearl, MS, fatally shot an armed student after he had killed two other students and injured several others.

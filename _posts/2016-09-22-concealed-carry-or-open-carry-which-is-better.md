@@ -1,16 +1,14 @@
 ---
 title: "Concealed carry or open carry: Which is better?"
 tags:
-- One Armed Man
+- Jim Pope
 layout: post
 categories:
 - CCW
 - open carry
 ---
 
-What is better concealed carry or open carry? Captain Jim Pope makes his case on why concealed weapons are better.
-
-By Captain Jim Pope, Columbus Police Department, Columbus, GA
+- What is better concealed carry or open carry? Captain Jim Pope makes his case on why concealed weapons are better.
 
 USA --- (AmmoLand.com) --- Let me begin by stating this article is written from the perspective of a 30 year veteran police officer, but the topic is whether non law enforcement (NLE) citizens should carry concealed or carry openly.
 
@@ -133,4 +131,4 @@ It seems like it would be hot to me if nothing else because you have to wear ano
 
 Regardless of your decision, concealed carry or open carry, I believe you will be better off with a gun than without one under any condition. That being said, there are definite issues that come into play when you carry open that you might never have to deal with if you carry concealed. I'm not bringing this up to deter you from doing what you think is right in these scenarios. If you feel the need to get involved, do so. We need more armed citizens to get involved in these type situations. I am actually all for it. I just want everyone to realize that it may not be as simple as you think. Murphy's law is very real especially when it involves guns. Your intentions can be perfectly honorable and you end up getting in a situation that turns out really bad for everyone. It could all be prevented by simply carrying in a concealed position and/or re-holstering to a concealed position if/when the situation allows it. Then, once police arrive or the other citizen in the back of the business appears, things could be worked out in a lot more orderly fashion without each party fearing the other one was about to kill them.
 
-Source: [Ammoland.com](https://www.ammoland.com/2016/09/concealed-carry-or-open-carry-which-is-better/#axzz4KLC0WKrT)
+Source: Captain Jim Pope, Columbus Police Department, Columbus, GA, [Ammoland.com](https://www.ammoland.com/2016/09/concealed-carry-or-open-carry-which-is-better/#axzz4KLC0WKrT)

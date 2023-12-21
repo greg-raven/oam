@@ -1,13 +1,14 @@
 ---
 title: "Gun laws only burden those who obey laws"
 tags:
-- One Armed Man
+- Laurie Paredes
+- Ron Godwin
 layout: post
 categories:
 - information
 ---
 
--- It's time to ask some really tough questions about gun control --- an issue that generates angst, raw emotion and even anger. It's time to look at it differently --- not through the lens of fear, but rather through one of objectivity and common sense.
+It's time to ask some really tough questions about gun control --- an issue that generates angst, raw emotion and even anger. It's time to look at it differently --- not through the lens of fear, but rather through one of objectivity and common sense.
 
 Lt. Gov. Gavin Newsom's perversely named "Safety for All" initiative will appear on November's ballot as Proposition 63, and while he's working feverishly to exploit tragedy to sway voters to support restrictions on ammunition and gun ownership, we don't believe for a nanosecond that his rhetoric will sway one evil doer from committing some atrocity. Rather, Proposition 63 will simply further disadvantage those who want to protect themselves, their homes and their loved ones.
 
@@ -31,4 +32,4 @@ The biggest lie in the gun control debate is that people who disrespect the law 
 
 Let's not add to the victim list because (yes, it's true) there are far more who protect themselves with guns than those who commit crimes with one. Until we have a sincere dialogue about the real enemy --- the fingers that pull the trigger, the hands on the cord of the suicide vest, or the feet on the pedals that carry the devastation of a car bomb --- the horrors will continue.
 
-Source: Laurie Paredes and Ron Godwin, https://www.sandiegouniontribune.com/news/2016/aug/21/tp-gun-laws-only-burden-those-who-obey-laws/
+Source: Laurie Paredes and Ron Godwin, sandiegouniontribune.com/news/2016/aug/21/tp-gun-laws-only-burden-those-who-obey-laws/

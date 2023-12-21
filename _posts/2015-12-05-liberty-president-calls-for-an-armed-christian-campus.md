@@ -1,7 +1,7 @@
 ---
 title: "Liberty president calls for an armed christian campus"
 tags:
-- One Armed Man
+- Steve Szkotak
 layout: post
 categories:
 - CCW
@@ -33,4 +33,4 @@ Falwell said he had also reached out to a first responder in San Bernardino to s
 
 \[...\]
 
-Source: Steve Szkotak, AP hosted.ap.org/dynamic/stories/U/US\_LIBERTY\_UNIVERSITY\_GUNS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2015-12-05-12-15-39
+Source: Steve Szkotak, apnews.com/general-news-cba9134d52f4491b8e3663a7be9c2d73
