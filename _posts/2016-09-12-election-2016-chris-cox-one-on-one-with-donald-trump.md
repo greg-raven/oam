@@ -2,7 +2,7 @@
 title: "ELECTION 2016: Chris Cox One-on-One With Donald Trump"
 tags:
 - Chris Cox
-- Donald Trump
+- Donald J. Trump
 layout: post
 categories:
 - information
