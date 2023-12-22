@@ -9,6 +9,8 @@ tags:
 
 In a huge ruling, the Southern Division of the Central District of California issued [an injunction](https://www.trigger-treat.com/20231220-may-v-bonta/index.html) halting enforcement of provisions of SB 2 that designates a wide variety of locations in the state as "sensitive places" in which a firearm could not legally be possessed. [Read the ruling here](https://www.trigger-treat.com/20231220-may-v-bonta/index.html).
 
+<iframe src="https://www.trigger-treat.com/20231220-may-v-bonta/20231220-preliminary-injunction.pdf" class="pdf"></iframe>
+
 SB 2 is a prominent example of the kind of gun control restrictions being advanced all over the country as an end run around the Constitution and the Bruen decision, despite the absurd claims made by Attorney General Bonta when the bill became law. Judge Cormac Carney, a name becoming quite familiar to 2A advocates, minced no words in his decision.
 
 In response to the state's arguments about why it deemed so many places "sensitive," Judge Carney pointed out that "spaces do not become sensitive simply because they are 'crowded and protected generally by' the police." Adding that "densely packed spaces are precisely the types of spaces that malicious criminals target for mass-shootings."
