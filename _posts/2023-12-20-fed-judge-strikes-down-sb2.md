@@ -13,7 +13,9 @@ SB 2 is a prominent example of the kind of gun control restrictions being advanc
 
 In response to the state's arguments about why it deemed so many places "sensitive," Judge Carney pointed out that "spaces do not become sensitive simply because they are 'crowded and protected generally by' the police." Adding that "densely packed spaces are precisely the types of spaces that malicious criminals target for mass-shootings."
 
-In the press conference announcing this law, Governor Newsom made it absolutely clear how he views the Second Amendment. [Watch that clip here](https://crpa.org/wp-content/uploads/2023/12/Newsom-Right.mp4).
+In the press conference announcing this law, Governor Newsom made it absolutely clear how he views the Second Amendment.
+
+<video controls src="/assets/video/2023-12-20-Newsom-Right.mp4" poster="/assets/video/2023-12-20-Newsom-Right.jpg"></video>
 
 Seemingly in response to Newsom's dismissive attitude, Judge Carney's decision included this admonition: "(t)he Constitution, by design, recognizes that some rights are so important and sacrosanct that nothing short of a constitutional amendment may take them away. No one --- not a federal judge, not a state governor or legislator, not even the President of the United States --- is above the Constitution."
 
