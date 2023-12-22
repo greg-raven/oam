@@ -1,7 +1,7 @@
 ---
 title: "The lie behind 'gun-free' zones"
 tags:
-- One Armed Man
+- Gun Owners of America
 layout: post
 categories:
 - information
