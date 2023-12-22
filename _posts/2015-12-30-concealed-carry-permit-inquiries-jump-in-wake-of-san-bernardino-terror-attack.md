@@ -1,7 +1,7 @@
 ---
 title: "Concealed Carry Permit inquiries jump in wake of San Bernardino terror attack"
 tags:
-- One Armed Man
+- CBS
 layout: post
 categories:
 - CCW
