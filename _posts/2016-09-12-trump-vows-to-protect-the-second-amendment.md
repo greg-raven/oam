@@ -1,7 +1,7 @@
 ---
 title: "Trump vows to protect the Second Amendment"
 tags:
-- One Armed Man
+- Allan D. Cors
 layout: post
 categories:
 - information
@@ -41,7 +41,4 @@ His message is one of solidarity with the savviest, most committed political fre
 
 We can do it by mobilizing our friends our co-workers and colleagues to go to the polls in massive numbers to repudiate Obama's transformation, to reject Clinton's promise of more of the same, and to support Trump's solemn pledge to return America to its rightful place as the freest nation on earth. To do so, each NRA Member must lead in the fight to elect pro-freedom majorities in the U.S. House of Representatives and Senate to secure our rights and future!
 
-Allan D. Cors
-President, NRA
-
-Source: Shooting Illustrated (ShootingIllustrated.com), October 2016
+Source: Allan D. Cors, President, NRA,, Shooting Illustrated (ShootingIllustrated.com), October 2016
