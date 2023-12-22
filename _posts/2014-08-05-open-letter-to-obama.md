@@ -1,7 +1,7 @@
 ---
 title: "Open letter to Obama"
 tags:
-- Sen. H. L. "Bill" Richardson (ret.)
+- H. L. Richardson
 - Tim Macy
 - Gerry Ognibene
 - Lawrence D. Pratt
