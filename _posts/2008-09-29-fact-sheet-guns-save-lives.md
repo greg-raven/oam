@@ -10,42 +10,61 @@ categories:
 **A. Guns save more lives than they take; prevent more injuries than they inflict**
 
 - Guns are used 2.5 million times a year in self-defense. Law-abiding citizens use guns to defend themselves against criminals as many as 2.5 million times every year --- or about 6,850 times a day. \[1\] This means that each year, firearms are used more than 80 times more often to protect the lives of honest citizens than to take lives. \[2\]
+
 - Of the 2.5 million times citizens use their guns to defend themselves every year, the overwhelming majority merely brandish their gun or fire a warning shot to scare off their attackers. Less than 8% of the time, a citizen will kill or wound his/her attacker. \[3\]
+
 - As many as 200,000 women use a gun every year to defend themselves against sexual abuse. \[4\]
+
 - Even anti-gun Clinton researchers concede that guns are used 1.5 million times annually for self-defense. According to the Clinton Justice Department, there are as many as 1.5 million cases of self-defense every year. The National Institute of Justice published this figure in 1997 as part of "Guns in America" --- a study authored by noted anti-gun criminologists Philip Cook and Jens Ludwig. \[5\]
+
 - Armed citizens kill more crooks than do the police. Citizens shoot and kill at least twice as many criminals as police do every year (1,527 to 606). \[6\] And readers of Newsweek learned that "only 2 percent of civilian shootings involved an innocent person mistakenly identified as a criminal. The 'error rate' for the police, however, was 11 percent, more than five times as high." \[7\]
+
 - Handguns are the weapon of choice for self-defense. Citizens use handguns to protect themselves over 1.9 million times a year. \[8\] Many of these self-defense handguns could be labeled as "Saturday Night Specials."
 
 **B. Concealed carry laws help reduce crime**
 
 - Nationwide: One-half million self-defense uses. Every year, as many as one-half million citizens defend themselves with a firearm away from home. \[9\]
+
 - Concealed carry laws are dropping crime rates across the country. A comprehensive national study determined in 1996 that violent crime fell after states made it legal to carry concealed firearms. The results of the study showed:
+
 - States that passed concealed carry laws reduced their murder rate by 8.5%, rapes by 5%, aggravated assaults by 7%, and robbery by 3%; \[10\] and
+
 - If those states not having concealed carry laws had adopted such laws in 1992, then approximately 1,570 murders, 4,177 rapes, 60,000 aggravated assaults, and over 11,000 robberies would have been avoided yearly. \[11\]
+
 - Vermont: One of the safest five states in the country. In Vermont, citizens can carry a firearm without getting permission ... without paying a fee ... or without going through any kind of government-imposed waiting period. And yet for ten years in a row, Vermont has remained one of the top-five, safest states in the union --- having three times received the "Safest State Award."\[12\]
+
 - Florida: Concealed carry helps slash the murder rates in the state. In the fifteen years following the passage of Florida's concealed carry law in 1987, over 800,000 permits to carry firearms were issued to people in the state. \[13\] FBI reports show that the homicide rate in Florida, which in 1987 was much higher than the national average, fell 52% during those 15 years --- thus putting the Florida rate below the national average. \[14\]
+
 - Do firearms carry laws result in chaos? No. Consider the case of Florida. A citizen in the Sunshine State is far more likely to be attacked by an alligator than assaulted by a concealed carry holder.
 
 1. During the first fifteen years that the Florida law was in effect, alligator attacks outpaced the number of crimes committed by carry-permit holders by a 229 to 155 margin.
+
 2. And even the 155 "crimes" committed by concealed carry permit holders are somewhat misleading as most of these infractions resulted from Floridians who accidentally carried their firearms into restricted areas, such as an airport. \[15\]
 
 **C. Criminals avoid armed citizens**
 
 - Kennesaw, GA. In 1982, this suburb of Atlanta passed a law requiring heads of households to keep at least one firearm in the house. The residential burglary rate subsequently dropped 89% in Kennesaw, compared to the modest 10.4% drop in Georgia as a whole. \[16\]
+
 - Ten years later (1991), the residential burglary rate in Kennesaw was still 72% lower than it had been in 1981 before the law was passed. \[17\]
+
 - Nationwide. Statistical comparisons with other countries show that burglars in the United States are far less apt to enter an occupied home than their foreign counterparts who live in countries where fewer civilians own firearms. Consider the following rates showing how often a homeowner is present when a burglar strikes:
+
 - Homeowner occupancy rate in the gun control countries of Great Britain, Canada, and the Netherlands: 45% (average of the three countries); and,
+
 - Homeowner occupancy rate in the United States: 12.7%. \[18\]
 
 **D. Rapes averted when women carry or use firearms for protection**
 
 - Orlando, FL. In 1966-67, the media highly publicized a safety course that taught Orlando women how to use guns. The result: Orlando's rape rate dropped 88% in 1967, whereas the rape rate remained constant in the rest of Florida and the nation. \[19\]
+
 - Nationwide. In 1979, the Carter Justice Department found that of more than 32,000 attempted rapes, 32% were committed. But when a woman was armed with a gun or knife, only 3% of the attempted rapes were successful. \[20\]
 
 **E. Justice Department study**
 
 - 3/5 of the felons polled agreed that "a criminal is not going to mess around with a victim he knows is armed with a gun." \[21\]
+
 - 74% of felons polled agreed that "one reason burglars avoid houses when people are at home is that they fear being shot during the crime."\[22\]
+
 - 57% of felons polled agreed that "criminals are more worried about meeting an armed victim than they are about running into the police." \[23\]
 
 **Notes**
@@ -100,4 +119,4 @@ As for Dr. Kleck, readers of his materials may be interested to know that he is 
 
 \[23\] Id.
 
-Source: https://www.gunowners.org/sk0802htm/
+Source: [Gun Owners of America](https://www.gunowners.org/sk0802htm/)

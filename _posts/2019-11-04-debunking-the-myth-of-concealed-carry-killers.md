@@ -83,7 +83,9 @@ It's unclear how many of these defensive gun uses involve concealed-carry permit
 Consider the following recent examples:
 
 - Sept. 27, Redding, California: A concealed-carry permit holder helped stop a kidnapping after it became clear to him that another customer at a gas station was holding a woman against her will. The man had kidnapped the woman earlier in the evening, and the permit holder, noticing the woman's clear distress, confronted the man and held him at gunpoint until police arrived.
+
 - Sept. 19, Miami-Dade County, Florida: An armed good Samaritan with a handgun concealed in her purse intervened to stop a brutal robbery and assault occurring outside a Popeyes restaurant. The woman drew her weapon and fired at a man who was pummeling a helpless victim lying on the concrete, sending the attacker fleeing.
+
 - Sept. 3, Coshocton County, Ohio: A concealed-carry permit holder stopped a knife-wielding man who was threatening customers and employees at a McDonald's fast-food restaurant. The Coshocton County Sheriff's Office later posted on Facebook: "Due to the heroic actions of \[the permit holder\], deputies were able to take the suspect into custody without injury or loss of life."
 
  Moreover, concealed-carry permit holders have intervened to stop many scenarios that likely would have turned into mass killings but for their actions.

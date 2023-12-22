@@ -28,11 +28,13 @@ Kyle Rittenhouse shot three men with criminal records who he says attacked him d
 Having said that, they do make excellent self-defense weapons, something that FBI research has also demonstrated. A sporting rifle such as the AR-15 is exactly the type of firearm one would want when facing mob violence:
 
 - Korean store owners used so-called "scary assault weapons" to protect their lives and their stores during the 1992 Los Angeles riots.
+
 - Citizens in Ferguson, Missouri, used AR-15s to protect stores during the riots of 2014.
 
 We've also seen cases where individual homeowners have used these firearms to protect themselves against multiple attackers:
 
 - A Houston man used his AK-47 to fire several rounds while fighting off five home invaders.
+
 - A Florida man used his AR-15 to fire 30 rounds while fighting off seven intruders.
 
 The simple fact is that if deadly force is justified for self-defense, the type of weapon used is irrelevant.

@@ -18,9 +18,13 @@ Included are 21 "whereas" statements with citations including the Bill of Rights
 Boiled down the resolution orders:
 
 - Needles is declared to be a Second Amendment Sanctuary City.
+
 - The city council "affirms its support for the San Bernardino County Sheriff in his exercise of sound discretion to not enforce against any person an unconstitutional firearms and ammunitions law within the city." This represents a change from the original wording of the agenda item, which concluded "and to demonstrate lenience to concealed carry permit holders from other states while in the city." The sheriff's department will continue to enforce California firearms laws as currently written.
+
 - The city won't appropriate funds to enforce laws that unconstitutionally infringe upon the right to keep and bear arms.
+
 - The city affirms support for the free flow of commerce with neighboring communities in Arizona and Nevada, "and demands that the California State Legislature cease adopting and rescind unlawfully restrictive firearm and ammunition laws that violate the Commerce Clause of the United States Constitution by improperly impairing the free flow of commerce between the states."
+
 - Asks California to adopt reciprocity for concealed carry permit holders of other states.
 
 Council members took turns reading from a list of "talking points" supporting the action. Availability of ammunition to Needles' shooters turned out to be a key concern.

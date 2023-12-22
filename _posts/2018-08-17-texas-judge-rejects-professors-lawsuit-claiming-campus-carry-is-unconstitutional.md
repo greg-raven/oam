@@ -20,7 +20,9 @@ The lawsuit, filed by professors Mia Carter, Jennifer Glass, and Lisa Moore of t
 Here's why they argued the law was unconstitutional:
 
 - First Amendment: If students could be carrying weapons in class without the knowledge of the professor or classmates, classroom discussions might be hindered as people may be scared to talk about divisive or inflammatory subjects.
+
 - Second Amendment: Under the law, firearm usage is not well-regulated, as stipulated in the Bill of Rights.
+
 - 14th Amendment: "... the university lacks a rational basis for determining where students can or cannot concealed-carry handguns on campus."
 
 **What the court said**

@@ -16,10 +16,15 @@ In the opinion, the Court ruled that many categories of firearms California bans
 California Penal Code §§ 30515(a)(1) through (8) (defining an "assault weapon" by prohibited features);
 
 - § 30800 (deeming those "assault weapons" a public nuisance);
+
 - § 30915 (regulating those "assault weapons" obtained by bequest or inheritance);
+
 - § 30925 (restricting the importation of those "assault weapons" by new residents);
+
 - § 30945 (restricting use of those registered "assault weapons") ;
+
 - §30950 (prohibiting possession of those "assault weapons" by minors); and,
+
 - the penalty provisions §§ 30600, 30605 and 30800 as applied to "assault weapons" defined in Code §§ 30515(a)(1) through (8).
 
 "In his order today, Judge Benitez held what millions of Americans already know to be true: Bans on so-called 'assault weapons' are unconstitutional and cannot stand," said FPC President Brandon Combs. "This historic victory for individual liberty is just the beginning, and FPC will continue to aggressively challenge these laws throughout the United States. We look forward to continuing this challenge at the Ninth Circuit and, should it be necessary, the Supreme Court."
