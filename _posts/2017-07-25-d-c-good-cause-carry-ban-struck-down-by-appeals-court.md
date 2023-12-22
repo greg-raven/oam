@@ -1,7 +1,7 @@
 ---
 title: "D.C. 'good cause' carry ban struck down by Appeals Court"
 tags:
-- One Armed Man
+- CRPA
 layout: post
 categories:
 - CCW

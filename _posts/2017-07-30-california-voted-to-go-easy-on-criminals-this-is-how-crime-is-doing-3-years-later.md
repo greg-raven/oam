@@ -1,7 +1,7 @@
 ---
 title: "California voted to go easy on criminals --- this is how crime is doing 3 years later"
 tags:
-- One Armed Man
+- Carlos Garcia
 layout: post
 categories:
 - information

@@ -1,7 +1,7 @@
 ---
 title: "Czech Gov't: Placing weapons in the hands of citizens is best defense against terror"
 tags:
-- One Armed Man
+- James Carstensen
 layout: post
 categories:
 - information

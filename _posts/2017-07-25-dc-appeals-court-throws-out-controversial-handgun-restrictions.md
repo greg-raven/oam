@@ -1,7 +1,7 @@
 ---
 title: "DC Appeals Court throws out controversial handgun restrictions"
 tags:
-- One Armed Man
+- Beth Bauman
 layout: post
 categories:
 - CCW

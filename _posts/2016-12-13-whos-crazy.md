@@ -1,7 +1,7 @@
 ---
 title: "Who's crazy?"
 tags:
-- One Armed Man
+- Andrew Ford
 layout: post
 categories:
 - open carry

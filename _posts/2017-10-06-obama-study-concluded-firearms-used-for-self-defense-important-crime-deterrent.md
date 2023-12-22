@@ -1,7 +1,7 @@
 ---
 title: "Obama study concluded firearms used for self-defense 'important crime deterrent'"
 tags:
-- One Armed Man
+- Craig Bannister
 layout: post
 categories:
 - information
@@ -14,8 +14,11 @@ The $10 million study was commissioned by President Barack Obama as part of 23 e
 The study's findings include:
 
 - Gun-use is the safest of studied "self-protective strategies,"
+
 - Suicide accounts for most firearm deaths,
+
 - Felons who use guns very seldom obtain their guns by stealing them, and
+
 - There is no evidence that gun restrictions reduce gun violence.
 
 "Studies that directly assessed the effect of actual defensive uses of guns (i.e., incidents in which a gun was 'used' by the crime victim in the sense of attacking or threatening an offender) have found consistently lower injury rates among gun-using crime victims compared with victims who used other self-protective strategies," the CDC study, entitled "Priorities For Research to Reduce the Threat of Firearm-Related Violence," states.
@@ -28,5 +31,5 @@ The report expresses uncertainty about gun control measures, stating that "wheth
 
 \[...\]
 
-Source: Craig Bannister, CNS News  
+Source: Craig Bannister, CNS News
 cnsnews.com/blog/craig-bannister/obama-study-concluded-firearms-used-self-defense-important-crime-deterrent

@@ -1,7 +1,7 @@
 ---
-title: "Excerpts from the Benitez injunction"
+title: "Excerpts from the Benitez injunction: Duncan v. Becerra"
 tags:
-- One Armed Man
+- Roger T. Benitez
 layout: post
 categories:
 - information

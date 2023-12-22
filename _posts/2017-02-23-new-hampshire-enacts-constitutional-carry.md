@@ -1,7 +1,7 @@
 ---
 title: "New Hampshire enacts Constitutional Carry"
 tags:
-- One Armed Man
+- Stephen Gutowski
 layout: post
 categories:
 - CCW

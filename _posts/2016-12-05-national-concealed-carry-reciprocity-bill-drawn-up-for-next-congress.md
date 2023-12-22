@@ -1,7 +1,7 @@
 ---
 title: "National Concealed Carry Reciprocity bill drawn up for next Congress"
 tags:
-- One Armed Man
+- Stephen Gutowski
 layout: post
 categories:
 - CCW

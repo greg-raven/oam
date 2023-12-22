@@ -1,7 +1,7 @@
 ---
 title: "Gun-friendly Liberty University to open on-campus shooting range"
 tags:
-- One Armed Man
+- T. Rees Shapiro
 layout: post
 categories:
 - information

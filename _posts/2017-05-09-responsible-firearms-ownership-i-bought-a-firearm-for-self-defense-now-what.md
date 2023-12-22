@@ -1,7 +1,7 @@
 ---
 title: "Responsible firearms ownership: I bought a firearm for self-defense, now what?"
 tags:
-- One Armed Man
+- Chris Wagoner
 layout: post
 categories:
 - information
@@ -44,5 +44,5 @@ So now you have learned the rules of firearm safety. You have purchased a firear
 
 If you follow those simple steps for responsible firearm ownership, you are one of the citizens who can truthfully say they are ready to defend themselves and their family. Good for you! I know full well that cops cannot be everywhere and sometimes take minutes to respond to life-and-death situations, and more often than not, they arrive after it's over. Let's hope that when they arrive, you are the one still standing because you have protected your life or the lives of your loved ones legally and successfully!
 
-Source: Chris Wagoner  
+Source: Chris Wagoner
 opslens.com/2017/05/07/responsible-firearms-ownership-bought-firearm-self-defense-now/

@@ -1,14 +1,13 @@
 ---
 title: "National Reciprocity Bill will apply to non-resident gun carry permits"
 tags:
-- One Armed Man
+- Stephen Gutowski
 layout: post
 categories:
 - CCW
 ---
 
 - Would allow residents of states with strict gun laws to circumvent certain carry restrictions
-
 
 Rep. Richard Hudson (R., N.C.) clarified on Wednesday that his national concealed carry reciprocity bill would apply to permits issued by states to non-residents.
 

@@ -1,7 +1,7 @@
 ---
 title: "D.C. Circuit lets stand concealed-carry ruling, cheering gun-rights activists"
 tags:
-- One Armed Man
+- Andrea Noble
 layout: post
 categories:
 - CCW

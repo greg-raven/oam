@@ -1,7 +1,7 @@
 ---
 title: "Federal judge throws out effort by UT professors to overturn campus carry"
 tags:
-- One Armed Man
+- Matthew Watkins
 layout: post
 categories:
 - CCW
@@ -25,4 +25,6 @@ The ruling was issued late Thursday, exactly one year after the original lawsuit
 
 Campus carry became law in 2015, but didn't go into effect until Aug. 1, 2016. It stirred up widespread opposition among faculty and many students --- especially on the UT-Austin campus. But so far, there have been no major incidents, and protests on campus have all but disappeared.
 
-Source: Matthew Watkins, The Texas Tribune. Emma Platoff contributed to this report.
+Source: Matthew Watkins, The Texas Tribune
+
+Emma Platoff contributed to this report.

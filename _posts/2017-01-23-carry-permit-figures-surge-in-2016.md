@@ -1,7 +1,7 @@
 ---
 title: "Carry permit figures surge in 2016"
 tags:
-- One Armed Man
+- NRA
 layout: post
 categories:
 - CCW
