@@ -1,7 +1,7 @@
 ---
 title: "Cases where concealed handgun permit holders have stopped mass public shootings and other mass attacks"
 tags:
-- One Armed Man
+- Crime Prevention Research Center
 layout: post
 categories:
 - CCW
@@ -21,4 +21,4 @@ A note: Gun control advocates raise the concern that concealed handgun permit ho
 
 \[[See the full article here](https://crimeresearch.org/2019/05/uber-driver-in-chicago-stops-mass-public-shooting/).\]
 
-Source: Crime Prevention Resource Center
+Source: Crime Prevention Research Center

@@ -1,7 +1,7 @@
 ---
 title: "Campus Carry: What is the danger to allowing concealed handguns on University property?"
 tags:
-- Crime Prevention Resource Center
+- Crime Prevention Research Center
 layout: post
 categories:
 - CCW
@@ -143,4 +143,4 @@ Crimes committed by permit holders?
 
 We have not found a single case where a concealed handgun permit holder was found guilty of committing a crime on a university where permitted concealed handguns were allowed. One possible case that involves Delton Williams on the Michigan State University campus in 2015. Williams faced charges of brandishing a handgun, "[though he did not point it](http://www.freep.com/story/sports/college/michigan-state/spartans/2015/04/16/delton-williams-traffic-report/25919329/)," at another driver. Williams faced a misdemeanor, but the charge was dropped and [Williams' record was cleared in December 2015](https://crimeresearch.org/wp-content/uploads/2017/02/ROA-Williams-Delton.pdf).
 
-Source: [Crime Prevention Resource Center](https://crimeresearch.org/2021/06/what-is-the-danger-to-allowing-concealed-handguns-on-university-property-shootings-by-permit-holders-from-2012-to-now/)
+Source: [Crime Prevention Research Center](https://crimeresearch.org/2021/06/what-is-the-danger-to-allowing-concealed-handguns-on-university-property-shootings-by-permit-holders-from-2012-to-now/)

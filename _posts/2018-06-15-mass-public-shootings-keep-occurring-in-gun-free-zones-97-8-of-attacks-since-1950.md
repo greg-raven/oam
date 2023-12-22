@@ -1,7 +1,7 @@
 ---
 title: "Mass public shootings keep occurring in gun-free zones: 97.8% of attacks since 1950"
 tags:
-- One Armed Man
+- Crime Prevention Research Center
 layout: post
 categories:
 - information
@@ -17,6 +17,6 @@ We have since updated our information up through May 30, 2018.
 
 \[[See the full article here](https://crimeresearch.org/2018/06/more-misleading-information-from-bloombergs-everytown-for-gun-safety-on-guns-analysis-of-recent-mass-shootings/).\]
 
-Source: Crime Prevention Resource Center
+Source: Crime Prevention Research Center
 
 6/15/2018

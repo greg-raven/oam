@@ -1,7 +1,7 @@
 ---
 title: "Schools that allow teachers to carry guns are extremely safe"
 tags:
-- One Armed Man
+- Crime Prevention Research Center
 layout: post
 categories:
 - information
@@ -19,4 +19,4 @@ The paper is [available here](https://ssrn.com/abstract=3377801).
 
 The Excel file with the data is [available here](https://crimeresearch.org/wp-content/uploads/2019/04/School-Shootings-2000-2018_20190418.xlsx.zip).
 
-Source: Crime Prevention Resource Center
+Source: Crime Prevention Research Center

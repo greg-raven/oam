@@ -1,7 +1,7 @@
 ---
 title: "Obernolte bill gives local governments authority over concealed carry law"
 tags:
-- Victor Valley News
+- Victor Valley News Group
 layout: post
 categories:
 - CCW

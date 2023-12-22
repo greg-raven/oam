@@ -1,7 +1,7 @@
 ---
 title: "Judge keeps California gun fight alive"
 tags:
-- WorldNetDaily
+- WorldNetDaily.com
 layout: post
 categories:
 - information

@@ -1,7 +1,7 @@
 ---
 title: "DOJ analysis of the Second Amendment"
 tags:
-- U. S. Department of Justice
+- U.S. Department of Justice
 layout: post
 categories:
 - information
