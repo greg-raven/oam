@@ -7,7 +7,7 @@ tags:
 - CRPA
 ---
 
-In a huge ruling, the Southern Division of the Central District of California issued [an injunction](https://www.trigger-treat.com/20231220-may-v-bonta/index.html) halting enforcement of provisions of SB 2 that designates a wide variety of locations in the state as "sensitive places" in which a firearm could not legally be possessed. [Read the ruling here](https://www.trigger-treat.com/20231220-may-v-bonta/index.html).
+In a huge ruling, the Southern Division of the Central District of California issued [an injunction](https://www.trigger-treat.com/20231220-may-v-bonta/index.html) halting enforcement of provisions of SB 2 that designates a wide variety of locations in the state as "sensitive places" in which a firearm could not legally be possessed.
 
 <iframe src="https://www.trigger-treat.com/20231220-may-v-bonta/20231220-preliminary-injunction.pdf" class="pdf"></iframe>
 
