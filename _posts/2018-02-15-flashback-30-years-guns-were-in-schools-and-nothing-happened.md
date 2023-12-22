@@ -1,7 +1,7 @@
 ---
 title: "Flashback 30 years: Guns were in schools ... and nothing happened"
 tags:
-- One Armed Man
+- J. Christian Adams
 layout: post
 categories:
 - information
