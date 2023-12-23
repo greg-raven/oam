@@ -1,7 +1,7 @@
 ---
 title: "Riverside, California Sheriff Stan Sniff sued for 'discriminatory and unconstitutional' handgun carry policies in federal court"
 tags:
-- One Armed Man
+- CalGuns Foundation
 layout: post
 categories:
 - CCW

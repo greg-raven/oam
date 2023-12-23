@@ -1,7 +1,7 @@
 ---
 title: "Does gun control reduce murder? Let's run the numbers across the world"
 tags:
-- One Armed Man
+- Adam Mill
 layout: post
 categories:
 - information

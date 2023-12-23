@@ -1,7 +1,7 @@
 ---
 title: "The list of Leftists demanding gun confiscation"
 tags:
-- One Armed Man
+- D. Parker
 layout: post
 categories:
 - information

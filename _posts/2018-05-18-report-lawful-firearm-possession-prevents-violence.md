@@ -1,7 +1,7 @@
 ---
 title: "Report: Lawful firearm possession prevents violence"
 tags:
-- One Armed Man
+- Jeff Reynolds
 layout: post
 categories:
 - information
@@ -9,7 +9,7 @@ categories:
 
 Possession of firearms by law-abiding citizens reduces crime and is key to deterring gun violence, a newly released report says.
 
-The Patriot's Guide to Freedom and Firearms, published by The Heartland Institute, which publishes Budget & Tax News, includes fact-based solutions for reducing gun violence without infringing on people's constitutional rights.
+*The Patriot's Guide to Freedom and Firearms,* published by The Heartland Institute, which publishes *Budget & Tax News,* includes fact-based solutions for reducing gun violence without infringing on people's constitutional rights.
 
 **Dangerous defenselessness**
 

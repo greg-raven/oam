@@ -1,7 +1,7 @@
 ---
 title: "Gun-owners are being blamed for the failures of liberalism"
 tags:
-- One Armed Man
+- Jeffrey T. Brown
 layout: post
 categories:
 - information

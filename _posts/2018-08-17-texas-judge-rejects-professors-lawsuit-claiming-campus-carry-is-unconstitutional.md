@@ -1,7 +1,7 @@
 ---
 title: "Texas judge rejects professors' lawsuit claiming campus carry is unconstitutional"
 tags:
-- One Armed Man
+- Aaron Colen
 layout: post
 categories:
 - CCW

@@ -1,7 +1,7 @@
 ---
 title: "Study: Lax concealed handgun laws don't increase violent crime"
 tags:
-- One Armed Man
+- Christen Smith
 layout: post
 categories:
 - CCW

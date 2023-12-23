@@ -1,7 +1,7 @@
 ---
 title: "Operation Death by a Thousand Cuts"
 tags:
-- One Armed Man
+- NRA TV
 layout: post
 categories:
 - information

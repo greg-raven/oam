@@ -1,7 +1,7 @@
 ---
 title: "Gun buy-backs for dummies"
 tags:
-- One Armed Man
+- Mike Lester
 layout: post
 categories:
 - information
@@ -13,4 +13,6 @@ Your gun.
 
 Your taxes.
 
-![Gun Buy Back for Dummies. H/T: WND.com](/assets/img/20200304-Mike-Lester.jpg)
+![Gun Buy Back for Dummies.](/assets/img/20200304-Mike-Lester.jpg)
+
+Source: Mike Lester, WND.com

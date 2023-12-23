@@ -1,7 +1,7 @@
 ---
 title: "50 years of federal gun control: The 1968 Gun Control Act"
 tags:
-- One Armed Man
+- José Niño
 layout: post
 categories:
 - information

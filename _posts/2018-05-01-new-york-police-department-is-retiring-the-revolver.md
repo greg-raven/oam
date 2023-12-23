@@ -1,7 +1,7 @@
 ---
 title: "New York Police Department is retiring the revolver"
 tags:
-- One Armed Man
+- Ashley Southall
 layout: post
 categories:
 - information

@@ -1,7 +1,7 @@
 ---
 title: "Weighing the gun control argument"
 tags:
-- One Armed Man
+- William Sullivan
 layout: post
 categories:
 - information

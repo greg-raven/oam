@@ -1,7 +1,7 @@
 ---
 title: "Rush Limbaugh: 'We need concealed carry in these schools'"
 tags:
-- One Armed Man
+- Erick Mack
 layout: post
 categories:
 - CCW

@@ -1,7 +1,7 @@
 ---
 title: "How the Second Amendment prevents tyranny"
 tags:
-- One Armed Man
+- Robert Tracinski
 layout: post
 categories:
 - information

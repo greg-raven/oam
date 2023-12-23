@@ -1,7 +1,8 @@
 ---
 title: "Here are 8 stubborn facts on gun violence in America"
 tags:
-- One Armed Man
+- John Malcolm
+- Amy Swearer
 layout: post
 categories:
 - information
@@ -16,12 +17,19 @@ Are there ways to reduce gun violence and school shootings? Yes, but only after 
 Here are eight stubborn facts to keep in mind about gun violence in America:
 
 1. Violent crime is down and has been on the decline for decades.
+
 2. The principal public safety concerns with respect to guns are suicides and illegally owned handguns, not mass shootings.
+
 3. A small number of factors significantly increase the likelihood that a person will be a victim of a gun-related homicide.
+
 4. Gun-related murders are carried out by a predictable pool of people.
+
 5. Higher rates of gun ownership are not associated with higher rates of violent crime.
+
 6. There is no clear relationship between strict gun control legislation and homicide or violent crime rates.
+
 7. Legally owned firearms are used for lawful purposes much more often than they are used to commit crimes or suicide.
+
 8. Concealed carry permit holders are not the problem, but they may be part of the solution.
 
 Each of these facts is firmly based on empirical data. Here's a deeper look.
@@ -29,9 +37,13 @@ Each of these facts is firmly based on empirical data. Here's a deeper look.
 **1. America is relatively safe, and the trend is toward becoming safer.**
 
 - According to the National Crime Victimization Survey, violent crime has been [declining steadily](https://www.nationalreview.com/corner/careful-panic-violent-crime-and-gun-crime-are-both-dropping-charles-c-w-cooke/) since the early 1990s.
+
 - The 2011 homicide rate was [almost half](https://www.cnn.com/2013/05/08/us/study-gun-homicide/index.html) of the rate in 1991, and according to Pew Research, the 2013 gun-related death rate was [half](https://www.pewresearch.org/fact-tank/2015/10/21/gun-homicides-steady-after-decline-in-90s-suicide-rate-edges-up/) of the rate in 1993.
+
 - The number of non-fatal firearm crimes committed in 2011 was [one-sixth the number](https://www.pewsocialtrends.org/2013/05/07/gun-homicide-rate-down-49-since-1993-peak-public-unaware/) committed in 1993.
+
 - In the past few years, there have been minor increases in certain types of violent crimes, mainly in large metropolitan areas. However, these increases are nowhere near [those seen in the 1990s](https://time.com/4651122/homicides-increase-cities-2016/) and are largely related to [gang activity](https://abcnews.go.com/TheLaw/FedCrimes/story?id=6773423&page=1).
+
 - It should be remembered that it takes at least three to five years of data to show true trend lines. It appears that the collective homicide toll for America's 50 largest cities [decreased modestly](https://www.usatoday.com/story/news/2018/02/19/homicides-toll-big-u-s-cities-2017/302763002/) in 2017 after two consecutive years of increases.
 
 **2. The principal public safety concerns are suicides and illegally owned handguns.**

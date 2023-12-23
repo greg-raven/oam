@@ -1,7 +1,7 @@
 ---
 title: "The 'nice girl' who saved the Second Amendment"
 tags:
-- One Armed Man
+- John J. Miller
 layout: post
 categories:
 - information

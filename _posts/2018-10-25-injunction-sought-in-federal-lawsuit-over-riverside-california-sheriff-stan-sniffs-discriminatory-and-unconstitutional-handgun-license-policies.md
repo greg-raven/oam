@@ -1,7 +1,7 @@
 ---
 title: "Injunction sought in federal lawsuit over Riverside, California Sheriff Stan Sniff's 'discriminatory and unconstitutional' handgun license policies"
 tags:
-- One Armed Man
+- CalGuns Foundation
 layout: post
 categories:
 - information
