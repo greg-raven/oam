@@ -1,7 +1,7 @@
 ---
 title: "There is no freedom without the freedom to defend yourself"
 tags:
-- One Armed Man
+- Wayne La Pierre
 layout: post
 categories:
 - information

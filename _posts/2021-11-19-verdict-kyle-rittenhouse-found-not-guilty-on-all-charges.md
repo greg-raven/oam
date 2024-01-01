@@ -1,7 +1,7 @@
 ---
 title: "Verdict: Kyle Rittenhouse found not guilty on all charges"
 tags:
-- One Armed Man
+- Joel B. Pollak
 layout: post
 categories:
 - information

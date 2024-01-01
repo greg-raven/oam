@@ -1,7 +1,7 @@
 ---
 title: "Indiana becomes 24th Constitutional Carry state"
 tags:
-- One Armed Man
+- Gun Owners of America
 layout: post
 categories:
 - CCW

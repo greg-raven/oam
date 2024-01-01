@@ -19,4 +19,4 @@ categories:
 
 - I've no problem with vigorous background checks when it comes to firearms. But, while we're at it, let's do the same when it comes to immigration, voter I.D., and candidates running for office.
 
-- A man who left 300,000 guns for the Taliban has the gall to be lecturing law-abiding gun owners about gun control.
+- A man who left $7 billion in military hardware --- including 300,000 guns --- for the Taliban is in no position to be lecturing law-abiding gun owners about gun control.

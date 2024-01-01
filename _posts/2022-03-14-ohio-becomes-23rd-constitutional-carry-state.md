@@ -1,7 +1,7 @@
 ---
 title: "Ohio becomes 23rd Constitutional Carry state"
 tags:
-- One Armed Man
+- AWR Hawkins
 layout: post
 categories:
 - CCW
@@ -17,4 +17,4 @@ Today, March 14, 2022, the NRA-ILA tweeted out news of DeWine's signature just a
 
 Breitbart News pointed out that Hamilton County, Ohio, Sheriff Charmaine McGuffey opposed changing Ohio's law so as to allow law-abiding citizens to exercise their right to bear arms without government permission.
 
-Source: A.W.R. Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2022/03/14/ohio-becomes-23rd-constitutional-carry-state/)
+Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2022/03/14/ohio-becomes-23rd-constitutional-carry-state/)

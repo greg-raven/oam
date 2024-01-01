@@ -1,7 +1,7 @@
 ---
 title: "Kyle Rittenhouse defended himself using a gun he had the right to carry"
 tags:
-- One Armed Man
+- Erich Pratt
 layout: post
 categories:
 - information

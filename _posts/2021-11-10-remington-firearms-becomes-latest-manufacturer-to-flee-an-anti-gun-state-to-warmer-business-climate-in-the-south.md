@@ -1,7 +1,7 @@
 ---
 title: "Remington firearms becomes latest manufacturer to flee an anti-gun state to warmer business climate in the south"
 tags:
-- One Armed Man
+- Craig Bannister
 layout: post
 categories:
 - information
@@ -14,7 +14,7 @@ The company will invest $100 million and create 856 jobs over a five-year period
 Kemp declared himself a "proud owner" Remington products:
 
 > "Georgia's firearms industry is responsible for thousands of jobs and millions of dollars of investment in our communities.
-> 
+>
 > "I am a proud owner of some of Remington's first-class product, and now, I am excited to welcome them to their new home in the Peach State. As yet another big manufacturing win for our state, I look forward to seeing the oldest firearms manufacturer in America thrive in Georgia's pro-business environment."
 
 Founded in 1816, Remington Firearms is one of the United States' largest domestic producers of shotguns and rifles.

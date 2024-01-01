@@ -1,7 +1,7 @@
 ---
 title: "Dissenting opinion by Circuit Judge Patrick J. Bumatay"
 tags:
-- One Armed Man
+- Patrick J. Bumatay
 layout: post
 categories:
 - information

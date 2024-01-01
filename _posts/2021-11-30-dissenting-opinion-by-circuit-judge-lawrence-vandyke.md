@@ -1,7 +1,7 @@
 ---
 title: "Dissenting opinion by Circuit Judge Lawrence VanDyke"
 tags:
-- One Armed Man
+- Lawrence VanDyke
 layout: post
 categories:
 - information

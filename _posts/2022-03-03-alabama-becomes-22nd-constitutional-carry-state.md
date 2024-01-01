@@ -1,7 +1,7 @@
 ---
 title: "Alabama becomes 22nd Constitutional Carry state"
 tags:
-- One Armed Man
+- AWR Hawkins
 layout: post
 categories:
 - CCW
@@ -17,4 +17,4 @@ There are 21 other constitutional carry states in the Union: Alaska, Arizona, Ar
 
 Constitutional carry legislation currently sits on the desks of Indiana Gov. Eric Holcomb (R) and Ohio Gov. Mike DeWine (R).
 
-Source: A.W.R Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2022/03/10/alabama-becomes-22nd-constitutional-carry-state/)
+Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2022/03/10/alabama-becomes-22nd-constitutional-carry-state/)

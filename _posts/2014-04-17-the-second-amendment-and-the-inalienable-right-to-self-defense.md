@@ -7,7 +7,7 @@ categories:
 - information
 ---
 
-> A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.
+> "A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed."
 >
 > <cite>Amendment II</cite>
 
@@ -29,7 +29,7 @@ This massive shift of power from the states to the federal government generated 
 
 James Madison, for one, responded that such fears of federal oppression were overblown, in part because the new federal government was to be structured differently from European governments. But he also pointed out another decisive difference between Europe's situation and ours: The American people were armed and would, therefore, be almost impossible to subdue through military force, even if one assumed that the federal government would try to use an army to do so. In *Federalist* No. 46, he wrote:
 
-> Besides the advantage of being armed, which the Americans possess over the people of almost every other nation, the existence of subordinate governments, to which the people are attached and by which the militia officers are appointed, forms a barrier against the enterprises of ambition, more insurmountable than any which a simple government of any form can admit of. Notwithstanding the military establishments in the several kingdoms of Europe, which are carried as far as the public resources will bear, the governments are afraid to trust the people with arms. And it is not certain that with this aid alone they would not be able to shake off their yokes.
+> "Besides the advantage of being armed, which the Americans possess over the people of almost every other nation, the existence of subordinate governments, to which the people are attached and by which the militia officers are appointed, forms a barrier against the enterprises of ambition, more insurmountable than any which a simple government of any form can admit of. Notwithstanding the military establishments in the several kingdoms of Europe, which are carried as far as the public resources will bear, the governments are afraid to trust the people with arms. And it is not certain that with this aid alone they would not be able to shake off their yokes."
 
 Implicit in the debate between the Federalists and Anti-Federalists were two shared assumptions: first, that the proposed new constitution gave the federal government almost total legal authority over the army and the militia and, second, that the federal government should not have any authority at all to disarm the citizenry. The disagreement between Federalists and Anti-Federalists was only over the narrower question of whether an armed populace could adequately assure the preservation of liberty.
 
