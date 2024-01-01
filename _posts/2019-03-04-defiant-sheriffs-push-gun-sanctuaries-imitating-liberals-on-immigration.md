@@ -1,7 +1,7 @@
 ---
 title: "Defiant sheriffs push gun sanctuaries, imitating liberals on immigration"
 tags:
-- One Armed Man
+- Thomson/Reuters
 layout: post
 categories:
 - information
@@ -29,7 +29,7 @@ Sheriff Bob Songer of Klickitat County, population 22,000, called Ferguson's war
 
 "Unfortunately for the governor and the attorney general, they're not my boss. My only boss is the people that elected me to office," Songer said.
 
-GAINING MOMENTUM
+**GAINING MOMENTUM**
 
 Support for Second Amendment sanctuaries has gained momentum in recent weeks, especially among county boards in New Mexico and Illinois.
 

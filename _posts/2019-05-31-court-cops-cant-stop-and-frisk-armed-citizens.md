@@ -1,7 +1,7 @@
 ---
 title: "Court: Cops can't stop and frisk armed citizens"
 tags:
-- One Armed Man
+- WND.com
 layout: post
 categories:
 - open carry
@@ -21,7 +21,7 @@ The court's ruling said "the government may not target and seize specific indivi
 
 Kim Stolfer of Firearms Owners Against Crime said, "We are thrilled to have participated in this case. The Commonwealth's position, that the 'mere sight' of a firearm, with no criminal act, 'justifies' arrest and detention at gunpoint, is constitutionally repugnant and unjustified. Today the court rightly held as much."
 
-The organizations had argued their case in the court, and brief author Joshua Prince, explained, "the court, in dismissing the Commonwealth's position, declared that to permit investigative detention solely to determine whether someone is properly licensed is 'ultimately untenable, because it would allow a manifestly unacceptable range of ordinary activity to, by itself, justify ... stops.'"
+The organizations had argued their case in the court, and brief author Joshua Prince, explained, "the court, in dismissing the Commonwealth's position, declared that to permit investigative detention solely to determine whether someone is properly licensed is 'ultimately untenable, because it would allow a manifestly unacceptable range of ordinary activity to, by itself, justify ... stops'."
 
 At issue was a disagreement over whether someone's decision to carry a firearm could be used as reasonable suspicion of criminal conduct. That would then justify police actions including "stop and frisk" of the gun owner, for nothing other than have the weapon.
 

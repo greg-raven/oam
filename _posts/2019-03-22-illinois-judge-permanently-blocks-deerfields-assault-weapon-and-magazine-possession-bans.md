@@ -1,7 +1,7 @@
 ---
 title: "Illinois judge permanently blocks Deerfield's 'assault weapon' and magazine possession bans"
 tags:
-- One Armed Man
+- John Boch
 layout: post
 categories:
 - information

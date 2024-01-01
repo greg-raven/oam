@@ -1,7 +1,7 @@
 ---
 title: "Gun control: Not just illegal, but immoral"
 tags:
-- One Armed Man
+- Barbara Simpson
 layout: post
 categories:
 - information

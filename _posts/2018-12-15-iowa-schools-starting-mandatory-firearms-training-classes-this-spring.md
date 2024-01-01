@@ -1,7 +1,7 @@
 ---
 title: "Iowa schools starting mandatory firearms training classes this spring"
 tags:
-- One Armed Man
+- Teri Webster
 layout: post
 categories:
 - information

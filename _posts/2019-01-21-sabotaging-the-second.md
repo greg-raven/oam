@@ -1,15 +1,15 @@
 ---
 title: "Sabotaging the Second"
 tags:
-- One Armed Man
+- Chris Cox
 layout: post
 categories:
 - information
 ---
 
-- *Retired Supreme Court Justice admits he went all out to limit our firearms freedom*
+- Retired Supreme Court Justice admits he went all out to limit our firearms freedom
 
-It is a rare occasion when the American public gets a peek behind the curtain at the inner workings of the U.S. Supreme Court. Last November, however, retired Associate Justice John Paul Stevens gave a revealing interview to The New York Times to promote the upcoming release of his memoirs.
+It is a rare occasion when the American public gets a peek behind the curtain at the inner workings of the U.S. Supreme Court. Last November, however, retired Associate Justice John Paul Stevens gave a revealing interview to *The New York Times* to promote the upcoming release of his memoirs.
 
 What Stevens said about the Second Amendment and his own anti-gun activism on the court is a chilling reminder of how vulnerable our rights can be in the hands of jurists who consider themselves empowered not only to decide what the law is but what it should be.
 
@@ -27,11 +27,11 @@ Fortunately, Stevens did not have the persuasive skills or the ideological balan
 
 But it was not for lack of trying.
 
-By his own admission to The New York Times, Stevens went to extraordinary lengths to undermine the restoration of the Second Amendment in American jurisprudence.
+By his own admission to *The New York Times,* Stevens went to extraordinary lengths to undermine the restoration of the Second Amendment in American jurisprudence.
 
 And if he was unsuccessful in limiting the scope of the right to those actually serving in a formal militia capacity, Stevens nevertheless still claims a role in promoting compromises that appeared in the Heller majority opinion and that continue to reverberate in lower-court decisions to this day.
 
-Stevens told The New York Times that he advocated against the majority opinion before it was even available for the justices themselves to review, circulating his own "probable dissent" five weeks before Scalia released his draft majority opinion. He acknowledged he "could not recall ever having done anything like that" in another case. But, Stevens rationalized, "I thought I should give it every effort to switch the case before it was too late."
+Stevens told *The New York Times* that he advocated against the majority opinion before it was even available for the justices themselves to review, circulating his own "probable dissent" five weeks before Scalia released his draft majority opinion. He acknowledged he "could not recall ever having done anything like that" in another case. But, Stevens rationalized, "I thought I should give it every effort to switch the case before it was too late."
 
 Although Stevens did not persuade enough of his fellow justices to adopt his "reasoning" to sway the ultimate outcome of Heller, he credits himself with getting the crucial swing vote in the case --- now-retired Justice Anthony Kennedy --- to demand some "important changes" to limit the opinion's scope.
 
@@ -55,7 +55,7 @@ But even that is not enough for Stevens, whose anti-Second Amendment advocacy ha
 
 In 2014, for example, he authored a book characterized by his publisher as "an absolutely unprecedented call to arms, detailing six specific ways in which the Constitution should be amended in order to protect our democracy and the safety and well-being of American citizens." Unsurprisingly, the proposals included qualifying "the right of the people to keep and bear Arms" in the Second Amendment with the phrase, "when serving in the militia." This would effectively repeal the individual Second Amendment right recognized in Heller and McDonald.
 
-If that weren't explicit enough, Stevens last year advocated doing away with the Second Amendment entirely in a high-profile editorial published in The New York Times. "Overturning \[the Heller\] decision via a constitutional amendment to get rid of the Second Amendment would be simple and would do more to weaken the NRA's ability to stymie legislative debate and block constructive gun control legislation than any other available option," he wrote.
+If that weren't explicit enough, Stevens last year advocated doing away with the Second Amendment entirely in a high-profile editorial published in *The New York Times.* "Overturning \[the Heller\] decision via a constitutional amendment to get rid of the Second Amendment would be simple and would do more to weaken the NRA's ability to stymie legislative debate and block constructive gun control legislation than any other available option," he wrote.
 
 To the contrary, I can promise Stevens that repealing the Second Amendment will never be "simple" as long as the NRA and its more than 5 million members have anything to say about it.
 

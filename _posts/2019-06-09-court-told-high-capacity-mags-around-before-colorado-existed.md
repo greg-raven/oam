@@ -1,7 +1,7 @@
 ---
 title: "Court told 'high-capacity' mags around before Colorado existed"
 tags:
-- One Armed Man
+- WND.com
 layout: post
 categories:
 - information

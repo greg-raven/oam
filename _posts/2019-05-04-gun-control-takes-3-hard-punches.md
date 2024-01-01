@@ -1,7 +1,7 @@
 ---
 title: "Gun control takes '3 hard punches'"
 tags:
-- One Armed Man
+- WorldNetDaily.com
 layout: post
 categories:
 - information
@@ -13,7 +13,7 @@ In recent years, courts have upheld the rights of Americans under the Second Ame
 
 Jurisdictions such as state of California and the city of Seattle have adopted new gun restrictions that are under challenge.
 
-But in pivotal cases at the U.S. Supreme Court, the Heller and McDonald cases, gun owners were assured that the Constitution protects their right to "keep and bear" arms.
+But in pivotal cases at the U.S. Supreme Court, the *Heller* and *McDonald* cases, gun owners were assured that the Constitution protects their right to "keep and bear" arms.
 
 Now, three more court decisions have supported gun owners.
 

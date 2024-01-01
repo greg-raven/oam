@@ -1,7 +1,7 @@
 ---
 title: "The myth that the U.S. leads the world in mass shootings"
 tags:
-- One Armed Man
+- Jon Miltimore
 layout: post
 categories:
 - information
@@ -11,7 +11,7 @@ The US trails many other advanced nations in mass shooting frequency and death r
 
 If you asked me this morning which nation has the most mass shootings in the world, I would have said, with perhaps a flicker of hesitation, the United States.
 
-This is a tad embarrassing to admit because I'm pretty familiar with shooting statistics, having written several articles on gun violence and the Second Amendment. Below is a basic overview of gun violence in America. While gun homicides have been steadily declining for decades in the US, mass shootings have indeed been trending upward.
+This is a tad embarrassing to admit because I'm pretty familiar with shooting statistics, having written several articles on gun violence and the Second Amendment. Below is a basic overview of gun violence in America. While gun homicides have been steadily declining for decades in the U.S., mass shootings have indeed been trending upward.
 
 This fact alone probably would not have led me to believe that the US leads the world in mass shootings, however. An assist goes to the US media and politicians.
 
@@ -61,6 +61,6 @@ More than a hundred years ago Mark Twain noted, "A lie can travel halfway around
 
 Twain's quote remains true even in the age of the internet. Lankford's erroneous research had free rein for two years and was disseminated to tens of millions of viewers and readers before the truth finally got its shoes on.
 
-If you ask most Americans today which country leads the world in mass shootings, I suspect a vast majority would say the US. And there's always a price for the erosion of truth.
+If you ask most Americans today which country leads the world in mass shootings, I suspect a vast majority would say the U.S. And there's always a price for the erosion of truth.
 
 Source: Jon Miltimore, [FEE.org](https://fee.org/articles/the-myth-that-the-us-leads-the-world-in-mass-shootings/)

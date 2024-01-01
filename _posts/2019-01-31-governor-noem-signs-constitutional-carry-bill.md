@@ -1,7 +1,7 @@
 ---
 title: "Governor Noem signs Constitutional carry bill"
 tags:
-- One Armed Man
+- NRA-ILA
 layout: post
 categories:
 - CCW

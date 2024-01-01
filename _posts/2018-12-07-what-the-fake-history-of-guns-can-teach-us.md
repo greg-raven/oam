@@ -1,7 +1,7 @@
 ---
 title: "What the fake history of guns can teach us"
 tags:
-- One Armed Man
+- Chris Calton
 layout: post
 categories:
 - information
@@ -11,7 +11,7 @@ In 2000, Emory University history professor Michael Bellesiles published the boo
 
 Among the academic left, the book was wildly popular. Scholars gave glowing reviews of the book, and Columbia University awarded Billesiles one of the most coveted prizes in the history profession: The Bancroft. Enhancing his newfound academic fame were the enemies he made, namely the National Rifle Association. Charlton Heston, to the glee of anti-gun academics, vocally criticized the book. Bellesile reveled in the attention, telling Heston that he should earn his PhD before criticizing anybody who has one.
 
-Leftist scholars were thrilled to have an academic book that appeared to thoroughly demolish the notion, so cherished by American gun owners, that the country was founded on a culture of widespread gun ownership. They even admitted as much, with the publisher saying that it was "ecstatic" about publishing it "because the book knocked the gun lobby." \[1\]
+Leftist scholars were thrilled to have an academic book that appeared to thoroughly demolish the notion, so cherished by American gun owners, that the country was founded on a culture of widespread gun ownership. They even admitted as much, with the publisher saying that it was "ecstatic" about publishing it "because the book knocked the gun lobby." <sup>\[1\]</sup>
 
 But even amidst the ideological bias that plagues academia, there are still many scholars who value honesty and good scholarship more than politically appealing arguments. Even before the book was published, several historians were questioning the data upon which Bellesiles's argument was made, which was originally published in a 1996 article for the Journal of American History. Trying to follow his calculations, nobody had been able to reproduce his results. The data was vague, the calculations of percentages seemed incorrect, and he left out relevant quantitative information, such as the base number of cases.
 
@@ -29,6 +29,6 @@ Jon Weiner, author of the 2005 book Historian's Trouble: Plagiarism, Fraud and P
 
 The question, then, is how this kind of dishonesty is supported by the confirmation bias of left-liberal academics. The Bellesiles case genuinely does demonstrate that there are honest scholars, as do the pranksters responsible for the "grievance studies" scandals, in which they are publishing hoax papers in order to expose the ability to get intellectually vapid research published by appealing to current political trends. But these academics, who are clearly trying to combat the very environment that allowed Bellesiles work to be published in the first place, are being treated as pariahs. Bellesiles is considered as an outlier --- an embarrassment to the profession, but potentially less because of his fraud, per se, and more because he conducted his dishonesty so blatantly that he couldn't avoid exposure. The academic trends since Arming America was published give some indication for optimism, such as the "grievance studies" professors and the legitimate critics of Bellesiles, but they also demonstrate just how far academia has fallen (or, alternatively, how bad it has always been) in the name of fashionable political agendas.
 
-1. Quote found in Peter Charles Hoffer, Past Imperfect: Facts, Fictions, Fraud --- American History from Bancroft and Parkman to Ambrose, Bellesiles, Ellis and Goodwin (New York: Public Affairs, 2004), 161.
+<sup>1.</sup> Quote found in Peter Charles Hoffer, Past Imperfect: Facts, Fictions, Fraud --- American History from Bancroft and Parkman to Ambrose, Bellesiles, Ellis and Goodwin (New York: Public Affairs, 2004), 161.
 
 Source: Chris Calton, [The Mises Institute](https://mises.org/wire/what-fake-history-guns-can-teach-us)

@@ -1,7 +1,7 @@
 ---
 title: "NSSF: Concealed carry study uses 'complete' data, for once"
 tags:
-- One Armed Man
+- Christen Smith
 layout: post
 categories:
 - CCW

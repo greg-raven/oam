@@ -1,7 +1,7 @@
 ---
 title: "One state fights to keep gun owners defenseless outside homes"
 tags:
-- One Armed Man
+- WorldNetDaily.com
 layout: post
 categories:
 - open carry

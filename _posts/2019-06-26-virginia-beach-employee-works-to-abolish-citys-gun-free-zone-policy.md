@@ -1,7 +1,7 @@
 ---
 title: "Virginia Beach employee works to abolish city's gun-free zone policy"
 tags:
-- One Armed Man
+- Whitney Tipton
 layout: post
 categories:
 - situations

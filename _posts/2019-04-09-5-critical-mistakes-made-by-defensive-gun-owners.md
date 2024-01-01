@@ -1,7 +1,7 @@
 ---
 title: "5 critical mistakes made by defensive gun owners"
 tags:
-- One Armed Man
+- Jim Wilson
 layout: post
 categories:
 - CCW

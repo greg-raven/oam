@@ -11,7 +11,7 @@ categories:
 
 Columnist Eugene Volokh wrote in the Washington Post on April 20, 2015: "Have civilians with permitted concealed handguns stopped such mass shootings before?" We provided Volokh with a list of such cases, which he used.
 
-Below, we have collected news stories on more cases of permit holders stopping mass public shootings with their handguns (we separately collect cases where concealed handguns are used to stop other crimes). There is no reason to believe that this list is comprehensive, given how little media coverage is devoted to these heroic acts. In addition, we make no attempt here to list here the vast number of defensive gun uses in general that are reported daily in the US.
+Below, we have collected news stories on more cases of permit holders stopping mass public shootings with their handguns (we separately collect cases where concealed handguns are used to stop other crimes). There is no reason to believe that this list is comprehensive, given how little media coverage is devoted to these heroic acts. In addition, we make no attempt here to list here the vast number of defensive gun uses in general that are reported daily in the U.S.
 
 Permit holders stopped some mass public shootings that gained extensive news coverage, but only a few stories mentioned that it was a permit holder who stopped the attack. The stories frequently get other facts wrong.
 

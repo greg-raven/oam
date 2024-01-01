@@ -1,7 +1,7 @@
 ---
 title: "How America's gun culture cultivates civic virtue"
 tags:
-- One Armed Man
+- Aaron Tao
 layout: post
 categories:
 - information

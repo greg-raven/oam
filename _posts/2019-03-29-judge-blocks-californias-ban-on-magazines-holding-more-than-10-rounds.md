@@ -1,7 +1,7 @@
 ---
 title: "Judge blocks California's ban on magazines holding more than 10 rounds"
 tags:
-- One Armed Man
+- Tal Axelrod
 layout: post
 categories:
 - information

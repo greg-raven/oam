@@ -1,7 +1,7 @@
 ---
 title: "Commerce City becomes Second Amendment sanctuary city"
 tags:
-- One Armed Man
+- CBS
 layout: post
 categories:
 - information

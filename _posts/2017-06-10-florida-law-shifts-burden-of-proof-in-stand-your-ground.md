@@ -7,7 +7,7 @@ categories:
 - information
 ---
 
-Bill requires prosecution to show defendant didn't act in self-defense
+**Bill requires prosecution to show defendant didn't act in self-defense**
 
 (Associated Press) Florida is now the first state with a law that spells out that prosecutors, and not defendants, have the burden of proof in pretrial "stand your ground" hearings.
 
