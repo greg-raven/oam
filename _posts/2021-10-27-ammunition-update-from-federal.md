@@ -1,7 +1,7 @@
 ---
 title: "Ammunition update from Federal / DCI / Speer"
 tags:
-- One Armed Man
+- Federal Ammunition
 layout: post
 categories:
 - information

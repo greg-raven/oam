@@ -1,7 +1,7 @@
 ---
 title: "Gunmaker Kimber moving its corporate headquarters to Alabama"
 tags:
-- One Armed Man
+- Jerry Underwood
 layout: post
 categories:
 - information
