@@ -2,12 +2,12 @@
 title: "Applications for concealed gun permits surge in California"
 layout: post
 categories:
-- Associated Press
-tags:
 - CCW
+tags:
+- Associated Press
 ---
 
-SAN FRANCISCO (AP)  —  Californians have flooded several sheriff offices with applications and inquiries for permits to carry concealed guns.
+SAN FRANCISCO (AP) --- Californians have flooded several sheriff offices with applications and inquiries for permits to carry concealed guns.
 
 Sheriffs in some politically conservative or rural counties reported spikes in applications while other counties in the state experienced smaller increases.
 
