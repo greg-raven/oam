@@ -40,4 +40,4 @@ Source: Taylor Romine / CNN, sbsun.com/2023/10/20/federal-judge-strikes-down-dec
 
 ---
 
-**Webmaster note:** The case is [JAMES MILLER, et al. v. ROB BONTA, Case No.: 19-cv-01537 BEN (JLB) in the United States District Court, Southern District of California](https://www.trigger-treat.com/20231019-miller-v-bonta/index.html).
+**Webmaster note:** The case referred to is [JAMES MILLER, et al. v. ROB BONTA, Case No.: 19-cv-01537 BEN (JLB) in the United States District Court, Southern District of California](https://www.trigger-treat.com/20231019-miller-v-bonta/index.html).
