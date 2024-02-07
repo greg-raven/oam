@@ -1,7 +1,7 @@
 ---
 title: "Governor Noem signs Constitutional carry bill"
 tags:
-- NRA-ILA
+- NRA ILA
 layout: post
 categories:
 - CCW
