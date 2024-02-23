@@ -8,7 +8,7 @@ categories:
 ---
 
 > "And I might add: The Second Amendment, from the day it was passed, limited the type of people who could own a gun and what type of weapon you could own. You couldn't buy a cannon."
-> 
+>
 > <cite>Joe Biden</cite>
 
 Parenthetical asides from a prepared text often trip up presidents, especially Biden. In this case, he repeated a claim --- that Americans were prohibited from owning cannons --- that has [already been fact-checked as false](https://www.politifact.com/factchecks/2020/jun/29/joe-biden/joe-bidens-dubious-claim-about-revolutionary-war-c/) when he made it during the presidential campaign.

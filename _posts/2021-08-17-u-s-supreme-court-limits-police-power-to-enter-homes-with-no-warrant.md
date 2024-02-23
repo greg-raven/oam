@@ -34,7 +34,7 @@ In a 9-0 ruling, the Supreme Court ruled the "community caretaking" exception do
 In fact, Thomas specifically rebuked the First Circuit Court of Appeals for extending the exception.
 
 > The First Circuit's "community caretaking" rule, however, goes beyond anything this Court has recognized. The decision below assumed that respondents lacked a warrant or consent, and it expressly disclaimed the possibility that they were reacting to a crime. The court also declined to consider whether any recognized exigent circumstances were present because respondents had forfeited the point.
-> 
+>
 > Nor did it find that respondents' actions were akin to what a private citizen might have had authority to do if petitioner's wife had approached a neighbor for assistance instead of the police. Neither the holding nor logic of Cady justified that approach. True, Cady also involved a warrantless search for a firearm. But the location of that search was an impounded vehicle --- not a home --- "'a constitutional difference'" that the opinion repeatedly stressed. In fact, Cady expressly contrasted its treatment of a vehicle already under police control with a search of a car "parked adjacent to the dwelling place of the owner."
 
 "But this recognition that police officers perform many civic tasks in modern society was just that --- a recognition that these tasks exist, and not an open-ended license to perform them anywhere," Thomas added.

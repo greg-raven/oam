@@ -40,4 +40,3 @@ After terrorists murdered 67 people at a mall in Kenya in 2013, Interpol Secreta
 Source: Robert A. Lovingood, [Daily Press](https://www.vvdailypress.com/) (Victorville, CA)
 
 --- Robert A. Lovingood is vice chair of the San Bernardino County Board of Supervisors, representing the First District, which includes all of the Victor Valley and parts of the Barstow area.
-

@@ -23,7 +23,7 @@ Patricia Aguirre works at Bullseye Guns in Riverside, but lives in San Bernardin
 
 Vince Torres, who owns the gun shop, says after Dec. 2 most of his guns have sold for home defense.
 
-"No. 1 firearm is the Shield, a .40 caliber but it also comes in 9 [millimeter], number one in U.S mainly because of the concealment part of it," Torres said.
+"No. 1 firearm is the Shield, a .40 caliber but it also comes in 9 [millimeter\], number one in U.S mainly because of the concealment part of it," Torres said.
 
 A Los Angeles County Sheriff's spokesman told Cruz "there had not been any increase in concealed carry permit applications or requests for applications" since the shootings.
 

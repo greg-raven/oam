@@ -22,4 +22,3 @@ Lead attorney for the Rhode case, Sean Brady of Michel & Associates, noted, "thi
 CRPA is proud to stand side by side with plaintiffs like Ammunition Depot, Sam's Shooter's Emporium, and Able Ammo in this major challenge to unconstitutional laws in California. It takes this type of collaboration to bring about big wins for gun owners.
 
 Source: [California Rifle and Pistol Association](https://crpa.org)
-

@@ -29,4 +29,3 @@ Mayhem broke out across Minneapolis Wednesday night, with looters breaking into 
 Protesters also vandalized the Minneapolis Police Department’s 3rd Precinct, where the four cops involved in Floyd’s death are believed to have worked. All four have been fired.
 
 Source: Lia Eustachewich, [New York Post](https://nypost.com/2020/05/28/armed-rednecks-stave-off-looters-amid-george-floyd-protests/)
-

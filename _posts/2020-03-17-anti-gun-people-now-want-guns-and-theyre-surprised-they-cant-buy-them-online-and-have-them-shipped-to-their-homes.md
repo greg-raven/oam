@@ -14,7 +14,7 @@ One of those seeing the increased volume, Omaha Outdoors, recently posted about 
 But the process of obtaining a gun is a lot harder than some of them realized.
 
 > Here at Omaha Outdoors, we've been inundated with inquiries from out-of-state folks --- many from California --- asking if we can ship them a gun directly. The answer is, of course, no. Despite what politicians and many in popular media claim, you can't buy a gun online and have it shipped to your house. Well, you could, if you were a federally licensed firearm dealer (or federally licensed curio and relic collector) and your home was your place of business. Other than that, no, you can't buy a gun online and have it shipped, especially across state lines, to your home.
-> 
+>
 > <cite>via omahaoutdoors.com</cite>
 
 It's a crazy time we're in, as not many living people have seen the chaos that this virus is causing in their lifetime. It's new territory for most, frightening for some, and those who feel ill-prepared are realizing that no one is going to come to save them.

@@ -42,4 +42,3 @@ Raschio didn't buy it. "The defendants invite the court to assume that the permi
 Ultimately, for those of us who believe in the Second Amendment, the best rationale came from Union County Sheriff Cody Bowen, who testified that he relies on citizens to help back him up. "I depend on an armed citizenry," he said.
 
 Source: Victoria Taft, pjmedia.com/victoria-taft/2023/11/22/oregon-judge-rules-that-bullets-are-essential-to-guns-n4924131
-
