@@ -84,33 +84,19 @@ The law includes increased penalties for illegal gun possession, and it shortens
 
 Firearms are still banned in locations where guns are banned now, including courthouses, schools, and the Statehouse. Gun owners can still get a concealed weapons permit.
 
-Tre'Von Barber, a Fort Mill-based South Carolina Law Enforcement Division-approved firearms instructor, said he likes that gun rights are further expanded in South Carolina. But, Barber added, "there needs to be an educational component when it comes to gun safety and protection."
+Tre'Von Barber, a Fort Mill-based South Carolina Law Enforcement Division-approved firearms instructor, said he likes that gun rights are further expanded in South Carolina. [...]
 
-Not every legislator is supportive of the new law.
+[...]
 
 The amended legislation, negotiated by six legislators from the state House and Senate this week, passed the lower chamber Tuesday mainly along party lines by an 86-33 vote.
 
-"This is something I'm deeply troubled we're doing," state Rep. Seth Rose, D-Richland, said Tuesday on the floor. "I have friends and citizens from both political parties ... come up to me and say, 'What are y'all doing? What are you thinking?'"
+[...]
 
 The negotiated proposal passed the Senate 28-18, again, mostly along party lines.
 
 One Democrat, state Sen. Mike Fanning of Fairfield, voted to pass the legislation.
 
-Republican Sens. Chip Campsen of Charleston, Tom Davis of Beaufort and Luke Rankin of Horry opposed the bill.
-
-"I submit to you that the only reason why this was done and this was passed in this chamber on a partisan vote mostly is because this is an election year," state Sen. Margie Bright Matthews, D-Colleton, told television news station WCNC.
-
-Meanwhile law enforcement, which pushed for increased penalties for illegal gun use and possession, say they also have concerns.
-
-"I said a prayer last night that Richland County does not turn into the wild, wild west," Richland County's Sheriff Leon Lott told SC Public Radio in an email. "This is a win for the criminals, who can now walk around with a gun and law enforcement cannot do anything about it."
-
-JJ Jones, executive director of the S.C. Law Enforcement Division, said in a statement that law enforcement will continue its "mission to protect the streets of South Carolina."
-
-"Our job is to enforce laws as written and we will do that professionally, as we are sworn to do," Jones said.
-
-McMaster, in a statement before the signing Thursday, said the expanded gun law is a step toward closing the so-called revolving door for violent criminals.
-
-"Now, law enforcement, prosecutors, and judges can keep career violent criminals behind bars where they belong, where they can no longer hurt innocent South Carolinians," he said.
+[...]
 
 Source: southcarolinapublicradio.org/sc-news/2024-03-07/sc-open-carry-state
 
