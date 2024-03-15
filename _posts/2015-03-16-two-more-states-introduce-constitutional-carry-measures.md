@@ -11,6 +11,8 @@ Lawmakers in Nevada and Missouri are joining the push to bring lawful concealed 
 
 The measures, seen in the Nevada Senate and Missouri House respectively, are in the early stages of the legislative process but should they succeed, could allow each state to become the six and seventh to adopt constitutional carry.
 
+[constitutional carry](/permitless-carry-states/)
+
 Those backing Nevada's proposal feel that it is redundant for lawful gun owners to have to go through a process that can cost upwards of $200 to obtain a permit to carry a concealed pistol or revolver, when the state already allows open carry without a license for those who are not prohibited from possessing a handgun.
 
 "Most people who have guns know how to use them," said Sen. Don Gustavson, R-Sparks, the bill's sponsor.
