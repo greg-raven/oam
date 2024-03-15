@@ -9,13 +9,13 @@ categories:
 
 Lawmakers in Nevada and Missouri are joining the push to bring lawful concealed handgun carry without a permit to their states.
 
-The measures, seen in the Nevada Senate and Missouri House respectively, are in the early stages of the legislative process but should they succeed, could allow each state to become the six and seventh to adopt [constitutional carry]{% link permitless-carry-states.md %}.
+The measures, seen in the Nevada Senate and Missouri House respectively, are in the early stages of the legislative process but should they succeed, could allow each state to become the six and seventh to adopt [constitutional carry]{{ site.baseurl }}{% link permitless-carry-states.md %}.
 
 Those backing Nevada's proposal feel that it is redundant for lawful gun owners to have to go through a process that can cost upwards of $200 to obtain a permit to carry a concealed pistol or revolver, when the state already allows open carry without a license for those who are not prohibited from possessing a handgun.
 
 "Most people who have guns know how to use them," said Sen. Don Gustavson, R-Sparks, the bill's sponsor.
 
-stavson's measure, SB 143, would strike language from state laws that make carrying of a concealed handgun a crime --- provided the individual with the firearm is not otherwise prohibited from having it in their possession. It would retain the state's current permitting scheme for any who wanted to obtain a permit for travel purposes outside of the state.
+Gustavson's measure, SB 143, would strike language from state laws that make carrying of a concealed handgun a crime --- provided the individual with the firearm is not otherwise prohibited from having it in their possession. It would retain the state's current permitting scheme for any who wanted to obtain a permit for travel purposes outside of the state.
 
 The Missouri legislation, HB 1250, was introduced by Springfield Republican Rep. Eric Burlison Thursday citing the same open carry argument to local media. Like the Nevada bill, it would preserve the Show Me State's current permit and reciprocity system for those wishing to seek out a license.
 
