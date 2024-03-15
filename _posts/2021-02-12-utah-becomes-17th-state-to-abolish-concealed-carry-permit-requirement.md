@@ -15,9 +15,9 @@ KUTV noted that HB60 was sponsored by Rep. Walt Brooks (R).
 
 In pushing the legislation, Brooks said, "We need to get back to trusting law-abiding citizens, and get rid of these regulations that are not doing any good."
 
-Moms Demand Action unsuccessfully opposed the permitless carry legislation.
+Moms Demand Action unsuccessfully opposed the [permitless carry](/permitless-carry-states.html) legislation.
 
-On March 12, 2019, Breitbart News reported those 16 states as Alaska, Arizona, Arkansas, Idaho, Kansas, Kentucky, Maine, Mississippi, Missouri, New Hampshire, North Dakota, Oklahoma, South Dakota, Vermont, West Virginia, and Wyoming.
+On March 12, 2019, Breitbart News reported those [16 states](/permitless-carry-states.html) as Alaska, Arizona, Arkansas, Idaho, Kansas, Kentucky, Maine, Mississippi, Missouri, New Hampshire, North Dakota, Oklahoma, South Dakota, Vermont, West Virginia, and Wyoming.
 
 Now Utah is on the list and Tennessee Gov. Bill Lee (R) is pushing for permitless carry in his state:
 

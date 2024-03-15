@@ -7,7 +7,7 @@ categories:
 - situations
 ---
 
-Last weekend, a law-abiding citizen with a gun quickly ended a mass shooting in progress at an Indiana mall as soon as the gunman began firing. Less than three weeks after the state's constitutional carry law took effect, the armed bystander, identified as 22-year-old Elisjsha Dicken, delivered the kill shot that stopped the active shooter who is accused of murdering three victims and wounding two others, including a little girl who suffered minor injuries.
+Last weekend, a law-abiding citizen with a gun quickly ended a mass shooting in progress at an Indiana mall as soon as the gunman began firing. Less than three weeks after the state's [constitutional carry](/permitless-carry-states.html) law took effect, the armed bystander, identified as 22-year-old Elisjsha Dicken, delivered the kill shot that stopped the active shooter who is accused of murdering three victims and wounding two others, including a little girl who suffered minor injuries.
 
 Although it's against Simon Property Group's code of conduct for anyone to carry a weapon inside its shopping centers, local leadership was thankful the young man was "very proficient" with a pistol and took swift action regardless. Greenwood Police Chief Jim Ison told reporters at a news conference that "the real hero of the day is the citizen that was lawfully carrying a firearm in that food court." The city's "grateful" Mayor Mark Myers praised the "good Samaritan" who "saved lives" during the Sunday shooting and prevented "further bloodshed."
 

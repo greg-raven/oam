@@ -9,7 +9,7 @@ categories:
 
 An Oklahoma judge on Wednesday rejected an attempt by a Democratic state lawmaker and gun safety advocates to block a new law that will allow most people in the state to carry a firearm in public without a background check or training.
 
-After hearing arguments from both sides, Oklahoma County District Judge Don Andrews rejected a request by Oklahoma City Democratic Rep. Jason Lowe for a preliminary injunction that would have stopped the "permitless carry" law from taking effect Friday.
+After hearing arguments from both sides, Oklahoma County District Judge Don Andrews rejected a request by Oklahoma City Democratic Rep. Jason Lowe for a preliminary injunction that would have stopped the "[permitless carry](/permitless-carry-states.html)" law from taking effect Friday.
 
 Lowe's attorney, Melanie Rughani, argued the bill violated the state's constitutional single-subject rule that requires bills to deal with only one topic. But the judge said Rughani failed to prove the law taking effect would cause irreparable harm to the plaintiffs.
 
@@ -17,7 +17,7 @@ Lowe promised to appeal the judge's ruling to the Oklahoma Supreme Court.
 
 "We're going to fight hard to keep this dangerous law from taking effect," Lowe said after the hearing.
 
-Dubbed "constitutional carry" by its supporters, the bill approved overwhelmingly by the GOP-led Legislature was the first signed into law by new Republican Gov. Kevin Stitt. It would allow most adults 21 and older to carry firearms, concealed or openly, without a license that currently requires a background check and training. Exceptions would include anyone in the country illegally or those convicted of certain crimes. Firearms would still be prohibited in certain locations, including public buildings, schools, professional sporting events, casinos, and bars.
+Dubbed "[constitutional carry](/permitless-carry-states.html)" by its supporters, the bill approved overwhelmingly by the GOP-led Legislature was the first signed into law by new Republican Gov. Kevin Stitt. It would allow most adults 21 and older to carry firearms, concealed or openly, without a license that currently requires a background check and training. Exceptions would include anyone in the country illegally or those convicted of certain crimes. Firearms would still be prohibited in certain locations, including public buildings, schools, professional sporting events, casinos, and bars.
 
 According to the National Rifle Association, at least 14 states have approved some version of permitless carry.
 

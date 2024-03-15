@@ -17,7 +17,7 @@ Putting the rights of Mainers ahead of the objections of opponents, Governor Pau
 
 Now four years later, Maine has been named the safest state in the nation according to US News and World Report's public safety rankings, which measures the fifty states based on crime data.
 
-Ranking as the top safest state for violent crime and fourth for property crime, Maine edges out another New England state, Vermont, for the top spot. Of note, Vermont also is a "Constitutional Carry" state. New Hampshire ranks third in the national rankings, giving New England all three of the top spots in the nation.
+Ranking as the top safest state for violent crime and fourth for property crime, Maine edges out another New England state, Vermont, for the top spot. Of note, Vermont also is a "[Constitutional Carry](/permitless-carry-states.html)" state. New Hampshire ranks third in the national rankings, giving New England all three of the top spots in the nation.
 
 In 2018, Maine was edged out by Vermont in the same "safest states" ranking, but declared the best state overall in the broader "Crime and Corrections" category.
 

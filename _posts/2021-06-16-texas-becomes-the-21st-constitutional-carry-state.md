@@ -17,6 +17,6 @@ The move keeps the state's long-running carry permit process in place for those 
 
 "HB 1927 does not affect previously issued Licenses to Carry and allows those who still wish to obtain a license in order to carry in states recognizing Texas permits to do so," explains the NRA on the law. "It also does not allow anyone prohibited under state or federal law from possessing a firearm to carry a firearm."
 
-Other states recognizing the right of law-abiding individuals to carry a concealed handgun without a government-issued permit include Alaska, Arizona, Arkansas, Idaho, Iowa, Kansas, Kentucky, Maine, Mississippi, Missouri, Montana, New Hampshire, North Dakota, Oklahoma, South Dakota, Tennessee, Utah, Vermont, West Virginia, and Wyoming, almost all of which adopted such laws in the past 20 years.
+[Other states](/permitless-carry-states.html) recognizing the right of law-abiding individuals to carry a concealed handgun without a government-issued permit include Alaska, Arizona, Arkansas, Idaho, Iowa, Kansas, Kentucky, Maine, Mississippi, Missouri, Montana, New Hampshire, North Dakota, Oklahoma, South Dakota, Tennessee, Utah, Vermont, West Virginia, and Wyoming, almost all of which adopted such laws in the past 20 years.
 
 Source: Chris Eger, [Guns.com](https://www.guns.com/news/2021/06/17/texas-becomes-the-21st-constitutional-carry-state)

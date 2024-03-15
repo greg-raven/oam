@@ -17,9 +17,9 @@ Trump's support for national reciprocity coincides with HR 923; a national recip
 
 Breitbart News previously talked with GOA executive director Erich Pratt about HR 923, and he said:
 
-> Concealed carry reciprocity legislation could begin moving in Congress real soon. So it's important for gun owners to contact their representatives and urge them to co-sponsor HR 923, the measure which establishes reciprocity and safeguards Constitutional Carry.
+> Concealed carry reciprocity legislation could begin moving in Congress real soon. So it's important for gun owners to contact their representatives and urge them to co-sponsor HR 923, the measure which establishes reciprocity and safeguards [Constitutional Carry](/permitless-carry-states.html).
 >
-> Gun owners shouldn't have to ask for permission to exercise their constitutionally protected rights. And that's the beauty of HR 923. If it passes, all concealed carriers --- even those from permitless carry states --- will not have to fear prosecution when traveling with firearms from coast-to-coast.
+> Gun owners shouldn't have to ask for permission to exercise their constitutionally protected rights. And that's the beauty of HR 923. If it passes, all concealed carriers --- even those from [permitless carry](/permitless-carry-states.html) states --- will not have to fear prosecution when traveling with firearms from coast-to-coast.
 
 The idea that "gun owners shouldn't have to ask permission to exercise their constitutionally protected rights" perfectly aligns with Trump's assessment that "concealed carry ... is a right, not a privilege." And it serves to level the playing field between law-abiding citizens and criminals by drastically reducing the number of places/states in which citizens must walk about unarmed, therefore defenseless.
 

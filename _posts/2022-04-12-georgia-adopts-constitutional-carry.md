@@ -17,6 +17,6 @@ The governor signed the Constitutional Carry Act into law Tuesday afternoon at a
 
 Now, exactly half of the country has embraced Constitutional Carry, and the momentum isn't slowing down.
 
-Four states have enacted Constitutional Carry laws this year. The first three were [Alabama]({% post_url 2022-03-03-alabama-becomes-22nd-constitutional-carry-state %}), [Ohio]({% post_url 2022-03-14-ohio-becomes-23rd-constitutional-carry-state %}), and [Indiana]({% post_url 2022-03-21-indiana-becomes-24th-constitutional-carry-state %}).
+Four states have enacted [Constitutional Carry](/permitless-carry-states.html) laws this year. The first three were [Alabama]({% post_url 2022-03-03-alabama-becomes-22nd-constitutional-carry-state %}), [Ohio]({% post_url 2022-03-14-ohio-becomes-23rd-constitutional-carry-state %}), and [Indiana]({% post_url 2022-03-21-indiana-becomes-24th-constitutional-carry-state %}).
 
 Florida also appears to be close to passing Constitutional Carry, potentially bringing the total number of states to twenty-six. Stay tuned!

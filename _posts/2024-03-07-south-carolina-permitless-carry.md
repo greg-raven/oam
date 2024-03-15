@@ -13,9 +13,9 @@ In a closed-door ceremony Thursday, Gov. Henry McMaster signed H. 3594, known as
 
 The law, which took effect after the governor's signature, now allows gun owners ages 18 and older to openly carry firearms without a permit.
 
-"With my signature, South Carolina is now the 29th state in the country with constitutional carry," McMaster posted on X, formerly Twitter. "This bill expands the Second Amendment rights of our law-abiding citizens and will keep violent criminals behind bars with increased penalties for illegal gun use and possession."
+"With my signature, South Carolina is now the 29th state in the country with [constitutional carry](/permitless-carry-states.html)," McMaster posted on X, formerly Twitter. "This bill expands the Second Amendment rights of our law-abiding citizens and will keep violent criminals behind bars with increased penalties for illegal gun use and possession."
 
-South Carolina is now the 29th state to pass permitless carry legislation. The others are:
+South Carolina is now the 29th state to pass [permitless carry](/permitless-carry-states.html) legislation. The others are:
 
 <table class="table">
 	<tr>

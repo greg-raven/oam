@@ -15,7 +15,7 @@ This was the first bill Governor Noem signed into law.
 
 South Dakota already recognizes the right to carry a firearm openly without a permit. Current law, however, requires a state-issued permit to carry that same firearm under a coat or in a bag. This new law simply extends the current open carry rule to concealed carry. Those who obtain permits will still enjoy the reciprocity agreements that South Dakota has with other states.
 
-With this law, South Dakota joins Alaska, Arizona, Arkansas, Idaho, Kansas, Maine, Mississippi, Missouri, Vermont, West Virginia, Wyoming, New Hampshire and North Dakota as the fourteenth state that allows constitutional carry.
+With this law, South Dakota joins Alaska, Arizona, Arkansas, Idaho, Kansas, Maine, Mississippi, Missouri, Vermont, West Virginia, Wyoming, New Hampshire and North Dakota as the fourteenth state that allows [constitutional carry](/permitless-carry-states.html).
 
 Established in 1871, the National Rifle Association is America's oldest civil rights and sportsmen's group. More than five million members strong, NRA continues to uphold the Second Amendment and advocates enforcement of existing laws against violent offenders to reduce crime. The Association remains the nation's leader in firearm education and training for law-abiding gun owners, law enforcement and the armed services. Be sure to follow the NRA on Facebook at NRA on Facebook and Twitter @NRA.
 

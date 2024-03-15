@@ -9,7 +9,7 @@ categories:
 
 On July 8, Maine Governor Paul LaPage (R) signed Legislative Document 652 into law, thereby abolishing the requirement for a concealed carry permit in the state of Maine.
 
-This means Maine joins Alaska, Arizona, Kansas, Montana, Vermont and Wyoming in permitless carry.
+This means Maine joins Alaska, Arizona, Kansas, Montana, Vermont and Wyoming in [permitless carry](/permitless-carry-states.html).
 
 According to the NRA-ILA, LD 652 had the support of the Maine State Police and leaves a concealed carry permitting system in place for those who want to use it for reciprocal purposes with other states.
 

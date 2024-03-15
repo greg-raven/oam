@@ -13,7 +13,7 @@ Iowa Gov. Kim Reynolds (R) on Friday signed a bill that allows people to purchas
 
 "We will never be able to outlaw or prevent every single bad actor from getting a gun, but what we can do is ensure law-abiding citizens have full access to their constitutional rights while keeping Iowans safe," she added.
 
-The legislation, which some advocates are calling "constitutional carry," according to the Des Moines Register, will go into effect on July 1.
+The legislation, which some advocates are calling "[constitutional carry](/permitless-carry-states.html)," according to the Des Moines Register, will go into effect on July 1.
 
 The bill makes it optional for Iowans to obtain handgun carry permits and go through background checks when purchasing firearms through unlicensed sales, including websites and gun shows, The Associated Press reported.
 

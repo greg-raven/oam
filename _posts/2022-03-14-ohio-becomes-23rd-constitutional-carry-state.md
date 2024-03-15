@@ -7,7 +7,7 @@ categories:
 - CCW
 ---
 
-Gov. Mike DeWine (R) signed legislation Monday making Ohio the 23rd constitutional carry state in the Union.
+Gov. Mike DeWine (R) signed legislation Monday making Ohio the 23rd [constitutional carry state](/permitless-carry-states.html) in the Union.
 
 The other 22 are: Alabama, Alaska, Arizona, Arkansas, Idaho, Iowa, Kansas, Kentucky, Maine, Mississippi, Missouri, Montana, New Hampshire, North Dakota, Oklahoma, South Dakota, Tennessee, Texas, Utah, Vermont, West Virginia, and Wyoming.
 

@@ -29,7 +29,7 @@ That decree will require the parties to refrain from attempting to restrict gun 
 
 "I am very glad to know that this will never happen again in the future. Mississippians should be able to protect themselves no matter what city they are in," Criswell said in a media release.
 
-Mississippi is a "constitutional carry state," which gives citizens the right to carry open or concealed firearms without a permit as long as they refrain from carrying weapons in designated gun-free zones, such as schools or any place where government business is conducted.
+Mississippi is a "[constitutional carry state](/permitless-carry-states.html)," which gives citizens the right to carry open or concealed firearms without a permit as long as they refrain from carrying weapons in designated gun-free zones, such as schools or any place where government business is conducted.
 
 The Mississippi Center for Public Policy, of which the MJI is a part, states on its website that its mission is to "advance the constitutional ideals of liberty and justice for all Mississippians by employing an evidenced-based approach to public policy whereby we advocate for and advance real conservative ideas with policy makers, members of the media, business leaders, the academic community, and private citizens."
 

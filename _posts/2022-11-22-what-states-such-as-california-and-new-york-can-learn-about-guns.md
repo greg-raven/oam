@@ -9,7 +9,7 @@ categories:
 
 More people than ever have concealed handgun permits. A new report from the Crime Prevention Research Center, which I head, shows the figure now stands at 22.01 million --- an increase of 488,000 since last year. Whereas gun ownership surveys may be affected by people's willingness to answer personal questions, concealed handgun permit data is the only "hard data" we have on the prevalence of guns.
 
-The remarkable increase occurred despite people no longer needing a concealed handgun permit in 24 Constitutional Carry states. Alabama will become the 25th state in January. The number of permits fell in constitutional carry states, but the other states saw such increases that the total still rose.
+The remarkable increase occurred despite people no longer needing a concealed handgun permit in 24 Constitutional Carry states. Alabama will become the 25th state in January. The number of permits fell in [constitutional carry states](/permitless-carry-states.html), but the other states saw such increases that the total still rose.
 
 After the Supreme Court's Bruen decision to strike down the concealed handgun laws in New York, California, and five other states, Democrats were quick to predict disaster. Those seven "May Issue" states required people to provide a "good reason" for why they should be able to protect themselves, and politicians applied the rules arbitrarily. To the dismay of many Democrats, Justice Clarence Thomas stressed the importance of "objective" standards for gun permits --- ones that don't require "the exercise of judgment, and the formation of opinion."
 

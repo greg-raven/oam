@@ -25,7 +25,7 @@ There were vocal advocates on both sides of the fence in Nevada last week as the
 
 \[...\]
 
-Constitutional carry bills have been a popular item nationwide with state legislatures this session. Texas, New Hampshire, Utah and Kansas have all made progress on measures of their own in recent weeks.
+[Constitutional carry](/permitless-carry-states.html) bills have been a popular item nationwide with state legislatures this session. Texas, New Hampshire, Utah and Kansas have all made progress on measures of their own in recent weeks.
 
 Last week West Virginia and Montana lawmakers gave their final seal of approval to a measure to bring the practice to those states, sending them to the desks of Democratic governors despite opposition.
 

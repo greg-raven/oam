@@ -13,7 +13,7 @@ ATLANTA --- Mississippi Gov. Phil Bryant on Saturday urged a small group of coll
 
 His remarks came at a college leadership forum during the National Rifle Association's annual convention in Atlanta, Georgia on Saturday.
 
-Mississippi has traditionally been a strong gun rights state, but last year Bryant signed a bill allowing permitless carry there. Bryant, a former deputy sheriff, also touted his own gun ownership.
+Mississippi has traditionally been a strong gun rights state, but last year Bryant signed a bill allowing [permitless carry](/permitless-carry-states.html) there. Bryant, a former deputy sheriff, also touted his own gun ownership.
 
 "If there's an active shooter at the capitol, I'm not going to hide behind my desk," Bryant said. "I'm going to put some lead down range on someone."
 

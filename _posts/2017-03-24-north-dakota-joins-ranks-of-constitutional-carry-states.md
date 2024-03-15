@@ -23,7 +23,7 @@ With the implementation of the new law, North Dakota became at least the 12th st
 
 Vermont has never required a license to carry a concealed handgun and, since 2003, Alaska, Arizona, Idaho, Kansas, Maine, Mississippi, Missouri, New Hampshire, West Virginia and Wyoming have moved to adopt similar laws.
 
-While lawmakers in two of North Dakota's neighboring states, Montana and South Dakota, approved permitless carry bills earlier this year, their respective governors vetoed the proposals.
+While lawmakers in two of North Dakota's neighboring states, Montana and South Dakota, approved [permitless carry](/permitless-carry-states.html) bills earlier this year, their respective governors vetoed the proposals.
 
 The new law takes effect in North Dakota Aug. 1, 2017.
 

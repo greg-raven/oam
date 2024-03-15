@@ -7,7 +7,7 @@ categories:
 - CCW
 ---
 
-With Nebraska Gov. Jim Pillen signing the state's Constitutional Carry bill into law this coming Tuesday, twenty-seven states will have Constitutional Carry laws, representing 65% of the land in the country and 44% of the population in 2022. If South Carolina passes Constitutional Carry, 67% of the land in the country and 45% of the population will be covered.
+With Nebraska Gov. Jim Pillen signing the state's Constitutional Carry bill into law this coming Tuesday, twenty-seven states will have [Constitutional Carry](/permitless-carry-states.html) laws, representing 65% of the land in the country and 44% of the population in 2022. If South Carolina passes Constitutional Carry, 67% of the land in the country and 45% of the population will be covered.
 
 This represents an important milestone. The Supreme Court often looks at how rights or practices are embedded into society in constitutional reviews.
 
