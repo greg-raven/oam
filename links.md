@@ -1,5 +1,5 @@
 ---
-title: Links
+title: "Links"
 tags:
 - One Armed Man
 layout: page
@@ -61,7 +61,7 @@ layout: page
 
 - [Four-Day Defensive Handgun course](https://www.heeled.website/reviews/20130506-front-sight-2013/) (report, 2013)
 
-- [CCW course](www.heeled.website/reviews/front-sight/20130507-front-sight-ccw/) (2013)
+- [CCW course](https://www.heeled.website/reviews/front-sight/20130507-front-sight-ccw/) (2013)
 
 - [Glock Armorer's course](https://www.heeled.website/reviews/20220223-fs-glock-armorer-course/) (2022)
 

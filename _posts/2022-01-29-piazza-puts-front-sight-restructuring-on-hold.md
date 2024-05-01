@@ -11,4 +11,4 @@ Dr. Piazza, creator, owner, and figurehead of the Front Sight firearms training 
 
 Piazza calls those who have opted in to his latest fleecing scheme Gold Status members, but others have more cynically referred to them as Golden Suckers or Golden Geese.
 
-[See an extensive collection of related documents and commentary here](https://www.trigger-treat.com/front-sight/20220122-front-sight-restructuring/).
+[See an extensive collection of related documents and commentary here](https://www.heeled.website/restructuring/index.php).

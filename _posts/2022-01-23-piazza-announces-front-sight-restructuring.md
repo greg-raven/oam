@@ -11,4 +11,4 @@ Dr. Piazza, creator, owner, and figurehead of the Front Sight firearms training 
 
 For years, the shooting community has been split between those who support Front Sight and those who believe that Piazza is himself a con man.
 
-[See an extensive collection of related documents and commentary here](https://www.trigger-treat.com/front-sight/20220122-front-sight-restructuring/index.html).
+[See an extensive collection of related documents and commentary here](https://www.heeled.website/restructuring/index.php).
