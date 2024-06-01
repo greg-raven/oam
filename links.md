@@ -27,6 +27,8 @@ layout: page
 
 - [Gun Owners of California](https://www.gunownersca.com)
 
+- [Make a choice](https://a-human-right.com/)
+
 - [National Rifle Association](https://www.nra.org/)
 
 - [Second Amendment Foundation](https://www.saf.org)

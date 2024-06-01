@@ -11,5 +11,3 @@ Also see:
 [www.trigger-treat.com](https://www.trigger-treat.com)
 
 [www.glocknut.com](https://www.glocknut.com)
-
-[www.glockspiel.com](https://www.glockspiel.com)
