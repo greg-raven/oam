@@ -2,7 +2,7 @@
 title: "7 More Gun-Free Tactics To Defend Your Home"
 layout: post
 categories:
-- Other
+- other
 tags:
 - Babylon Bee
 ---
