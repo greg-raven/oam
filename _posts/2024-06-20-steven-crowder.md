@@ -1,5 +1,5 @@
 ---
-title: "Jon Stewart is wrong about gun violence"
+title: "Rebutting Jon Stewart on gun violence"
 layout: post
 categories:
 - information
