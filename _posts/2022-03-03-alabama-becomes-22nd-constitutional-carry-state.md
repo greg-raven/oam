@@ -17,4 +17,4 @@ There are 21 other [constitutional carry states](/permitless-carry-states.html) 
 
 Constitutional carry legislation currently sits on the desks of Indiana Gov. Eric Holcomb (R) and Ohio Gov. Mike DeWine (R).
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2022/03/10/alabama-becomes-22nd-constitutional-carry-state/)
+Source: AWR Hawkins, breitbart.com/politics/2022/03/10/alabama-becomes-22nd-constitutional-carry-state/

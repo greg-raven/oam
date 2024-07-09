@@ -17,4 +17,4 @@ Buckeye Firearms Association president Jim Irvine observed that gun ownership is
 
 The 3rd quarter surge in permits came just in time for Ohio's expansion of concealed carry. On December 19, Governor John Kasich (R) signed Senate Bill 199, thereby removing state prohibitions against concealed carry in the unsecured public portions of airports and also lifting bans on concealed carry in daycares, colleges, and universities. Now individual daycares and college and university systems can chose to allow concealed carry on their premises/campuses for self-defense.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/big-government/2016/12/20/record-ohio-issues-nearly-26000-concealed-permits-3rd-quarter/)
+Source: AWR Hawkins, breitbart.com/big-government/2016/12/20/record-ohio-issues-nearly-26000-concealed-permits-3rd-quarter/

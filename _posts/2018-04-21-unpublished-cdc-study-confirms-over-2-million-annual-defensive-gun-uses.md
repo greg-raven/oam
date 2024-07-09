@@ -21,4 +21,4 @@ Kleck summarized the CDC findings:
 
 On April 20, 2018, Reason magazine quoted Kleck's reaction to the unpublished CDC findings; he explained that a figure of 2.46 million DGUs a year "\[implies\] that guns were used defensively by victims about 3.6 times as often as they were used offensively by criminals."
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/big-government/2018/04/21/unpublished-cdc-study-confirms-2-million-annual-defensive-gun-uses/)
+Source: AWR Hawkins, breitbart.com/big-government/2018/04/21/unpublished-cdc-study-confirms-2-million-annual-defensive-gun-uses/

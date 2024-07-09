@@ -23,4 +23,4 @@ Attacking in a gun-free zone gives the aggressor the one thing that is key to bl
 
 Lott's main point in this section of The War Against Guns is simple: "Mass public shooters avoid places where victims can defend themselves." They prey on the unarmed as a wild beast preys on weaker creatures, killing as many as possible in order to increase "the publicity" the attack will receive.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/big-government/2016/09/07/1950-to-2010-not-one-mass-public-shooting-where-citizens-could-be-armed/)
+Source: AWR Hawkins, breitbart.com/big-government/2016/09/07/1950-to-2010-not-one-mass-public-shooting-where-citizens-could-be-armed/

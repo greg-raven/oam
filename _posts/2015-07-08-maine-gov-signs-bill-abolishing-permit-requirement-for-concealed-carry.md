@@ -19,4 +19,4 @@ Brakey said, "When someone with a credible death threat against them has to wait
 
 LaPage's signature came just two days after New Hampshire Governor Maggie Hassan (D) buckled and vetoed similar legislation under pressure from Michael Bloomberg-funded gun control groups.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/big-government/2015/07/08/maine-gov-signs-bill-abolishing-permit-requirement-for-concealed-carry/)
+Source: AWR Hawkins, breitbart.com/big-government/2015/07/08/maine-gov-signs-bill-abolishing-permit-requirement-for-concealed-carry/

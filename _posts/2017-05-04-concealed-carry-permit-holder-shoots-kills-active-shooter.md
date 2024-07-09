@@ -16,4 +16,4 @@ The unidentified permit holder had to come down from "the other end of the bar" 
 
 Police do not yet have a motive in the shooting of Perez, but they have made clear that the concealed permit holder will face no charges for the actions he took to be sure no other innocents were harmed.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/big-government/2017/05/04/police-concealed-carry-permit-holder-shots-kills-active-shooter/)
+Source: AWR Hawkins, breitbart.com/big-government/2017/05/04/police-concealed-carry-permit-holder-shots-kills-active-shooter/

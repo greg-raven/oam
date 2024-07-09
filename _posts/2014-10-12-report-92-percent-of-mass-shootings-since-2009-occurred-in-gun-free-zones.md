@@ -15,4 +15,4 @@ The CPRC report was released in response to an Everytown for Gun Safety study cl
 
 Using the same numerical standard that Everytown used --- four or more people killed --- but taking all rules and regulations against firearm possession into account, CPRC showed that only 8% of mass public shootings occurred in places where citizens could have guns for self defense.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/Big-Government/2014/10/11/Report-92-Percent-Of-Mass-Shootings-Since-2009-Occured-In-Gun-Free-Zones)
+Source: AWR Hawkins, breitbart.com/Big-Government/2014/10/11/Report-92-Percent-Of-Mass-Shootings-Since-2009-Occured-In-Gun-Free-Zones

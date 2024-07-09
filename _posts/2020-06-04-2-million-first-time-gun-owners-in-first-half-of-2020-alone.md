@@ -23,4 +23,4 @@ The number of checks conducted in March 2020 was so high it was not only a recor
 
 Americans are choosing guns rather than gun control.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2020/06/04/2-million-first-time-gun-owners-in-first-half-of-2020-alone/)
+Source: AWR Hawkins, breitbart.com/politics/2020/06/04/2-million-first-time-gun-owners-in-first-half-of-2020-alone/

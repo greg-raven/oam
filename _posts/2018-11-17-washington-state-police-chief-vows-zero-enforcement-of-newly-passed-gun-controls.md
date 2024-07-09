@@ -15,4 +15,4 @@ In an interview with KXLY, Culp added, "We took an oath to uphold and defend the
 
 Culp said he believes I-1639 will "eventually ... be overturned in the courts." Until then, he made clear, the controls of the initiative will not be enforced in Republic, Washington.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2018/11/17/washington-state-police-chief-vows-zero-enforcement-newly-passed-gun-controls/)
+Source: AWR Hawkins, breitbart.com/politics/2018/11/17/washington-state-police-chief-vows-zero-enforcement-newly-passed-gun-controls/

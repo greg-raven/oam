@@ -21,4 +21,4 @@ Moreover, Palmer said the background checks pose a nightmare scenario for law en
 
 Palmer said he has "no intention" of enforcing Prozanski's bill if it becomes law.
 
-Source: AWR Hawkins on [Breitbart.com](https://www.breitbart.com/big-government/2015/04/05/oregon-sheriff-gun-control-push-borderline-treasonous-will-not-enforce/)
+Source: AWR Hawkins, breitbart.com/big-government/2015/04/05/oregon-sheriff-gun-control-push-borderline-treasonous-will-not-enforce/

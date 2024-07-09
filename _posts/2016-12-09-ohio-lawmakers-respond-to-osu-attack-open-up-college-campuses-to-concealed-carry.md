@@ -21,4 +21,5 @@ On November 28 Breitbart News reported that a Somali refugee named Abdul Razak A
 
 How much quicker might the attack have ended if a concealed carry permit holder had been in the vicinity and allowed to have his gun with him for self-defense?
 
-Source: AWR Hawkins, [Breitbart News](https://www.breitbart.com/big-government/2016/12/09/ohio-lawmakers-respond-to-osu-attack-open-up-college-campuses-to-concealed-carry/)
+Source: AWR Hawkins, breitbart.com/politics/2016/12/09/ohio-lawmakers-respond-to-osu-attack-open-up-college-campuses-to-concealed-carry/
+

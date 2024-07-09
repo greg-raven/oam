@@ -19,4 +19,4 @@ On March 25, 2020, the Los Angles Times reported that Villanueva's effort to clo
 
 Breitbart News reported on Villanueva's gun store closure order, pointing to the Fox 11 report showing that the sheriff's effort coincided with his release of 1,700 inmates.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2020/03/25/la-county-sheriffs-effort-to-close-gun-stores-gets-shut-down/)
+Source: AWR Hawkins, breitbart.com/politics/2020/03/25/la-county-sheriffs-effort-to-close-gun-stores-gets-shut-down/

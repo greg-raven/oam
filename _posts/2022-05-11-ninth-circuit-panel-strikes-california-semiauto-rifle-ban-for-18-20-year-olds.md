@@ -23,4 +23,4 @@ SAF founder and executive vice president, Alan Gottlieb, responded to the ruling
 
 The case is Jones vs. Bonta, No. 20-56174 in the United States Court of Appeals for the Ninth Circuit.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2022/05/11/9th-circuit-panel-strikes-ca-semiauto-rifle-ban-18-20-year-olds/)
+Source: AWR Hawkins, breitbart.com/politics/2022/05/11/9th-circuit-panel-strikes-ca-semiauto-rifle-ban-18-20-year-olds/

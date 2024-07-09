@@ -15,4 +15,4 @@ According the Tribune, the numbers have historically spiked after high profile s
 
 \[...\]
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/big-government/2016/02/07/minnesota-concealed-carry-surges-by-more-than-6000-licensees-in-january/)
+Source: AWR Hawkins, breitbart.com/big-government/2016/02/07/minnesota-concealed-carry-surges-by-more-than-6000-licensees-in-january/

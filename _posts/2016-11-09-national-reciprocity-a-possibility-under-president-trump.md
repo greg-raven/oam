@@ -23,4 +23,4 @@ Breitbart News previously talked with GOA executive director Erich Pratt about H
 
 The idea that "gun owners shouldn't have to ask permission to exercise their constitutionally protected rights" perfectly aligns with Trump's assessment that "concealed carry ... is a right, not a privilege." And it serves to level the playing field between law-abiding citizens and criminals by drastically reducing the number of places/states in which citizens must walk about unarmed, therefore defenseless.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/big-government/2016/11/09/national-reciprocity-reality-president-trump/)
+Source: AWR Hawkins, breitbart.com/big-government/2016/11/09/national-reciprocity-reality-president-trump/

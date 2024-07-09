@@ -41,4 +41,4 @@ If you don't exercise your rights, they become weak and flabby.
 
 - Carrying a gun is important because when seconds count, police are minutes away.
 
-- There are many examples of [situations](/category/Situations/) where a law-abiding armed citizen did make or could have made a difference.
+- There are many examples of [situations](/category/situations/) where a law-abiding armed citizen did make or could have made a difference.

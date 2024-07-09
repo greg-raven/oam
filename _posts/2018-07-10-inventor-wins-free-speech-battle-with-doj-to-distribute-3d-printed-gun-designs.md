@@ -21,4 +21,4 @@ Gottlieb added, "Under this settlement, the government will draft and pursue reg
 
 Breitbart News spoke with Cody Wilson after the settlement was reached. He said, "Our culture will not just be preserved, but will have a new life in the Internet. The age of the downloadable gun has formally begun."
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2018/07/10/free-speech-3-d-printed-gun/)
+Source: AWR Hawkins, breitbart.com/politics/2018/07/10/free-speech-3-d-printed-gun/

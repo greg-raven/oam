@@ -26,4 +26,4 @@ In addition to Sheriffs Helmig and Blarcum, Brevard County Florida Sheriff Wayne
 
 Fox 13 News reported Ivey saying, "Let there there be no mistake ... The only thing that stops a bad guy with a gun is a good guy with a gun. If you're a person who is legally licensed to carry a firearm, now is the time more than ever to realize that you, and you alone, may very well be the first line of defense for you and your family."
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/big-government/2015/12/07/kentucky-sheriff-concealed-permit-holders-carry-daily-fight-radicalized-islamic-extremists/)
+Source: AWR Hawkins, breitbart.com/big-government/2015/12/07/kentucky-sheriff-concealed-permit-holders-carry-daily-fight-radicalized-islamic-extremists/

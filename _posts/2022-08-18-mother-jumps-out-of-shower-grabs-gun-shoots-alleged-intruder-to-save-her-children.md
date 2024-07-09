@@ -21,4 +21,4 @@ But, she said, "I knew I'd be able to do it \[shoot the intruder\], to protect m
 
 Newsweek notes that NBC 11 quoted local community activist Bushraa Rahman reacting to the incident, saying, "She was scared because her children were there with her. So, she did what any mother would do. She defended her children. It was an act of self-defense."
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2022/08/18/mother-jumps-out-shower-grabs-gun-shoots-alleged-intruder-save-her-children/)
+Source: AWR Hawkins, breitbart.com/politics/2022/08/18/mother-jumps-out-shower-grabs-gun-shoots-alleged-intruder-save-her-children/

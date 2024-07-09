@@ -19,4 +19,4 @@ It should be noted that West Virginia's House also passed legislation rescinding
 
 The measure the West Virginia House passed now goes back to the Senate, seeking agreement on whether the age for concealed carry will be 18 or 21.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2015/03/14/montana-lawmaker-requiring-concealed-permit-gives-advantage-to-criminals/)
+Source: AWR Hawkins, breitbart.com/politics/2015/03/14/montana-lawmaker-requiring-concealed-permit-gives-advantage-to-criminals/

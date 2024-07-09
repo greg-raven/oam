@@ -21,4 +21,4 @@ Other examples of shootings in gun-free zones that could have been cited are Ara
 
 Increases in gun ownership correlated with drastic reductions in firearm-related homicides, but creating zones where law-abiding citizens are denied the ability to be armed for self-defense have allowed high-profile attackers to find easy targets.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/big-journalism/2015/12/04/washington-post-gun-violence-declining-except-gun-free-zones/)
+Source: AWR Hawkins, breitbart.com/big-journalism/2015/12/04/washington-post-gun-violence-declining-except-gun-free-zones/

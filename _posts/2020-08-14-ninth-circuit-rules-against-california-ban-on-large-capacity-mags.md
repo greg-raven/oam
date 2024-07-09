@@ -23,4 +23,4 @@ The Ninth Circuit's ruling against California's ban on LCMs says:
 
 California Attorney General Xavier Becerra now has the option of the appealing the ruling to the Supreme Court of the United States.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2020/08/14/ninth-circuit-rules-against-california-ban-large-capacity-mags/)
+Source: AWR Hawkins, breitbart.com/politics/2020/08/14/ninth-circuit-rules-against-california-ban-large-capacity-mags/

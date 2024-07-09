@@ -19,4 +19,4 @@ The suspect with the stun gun --- "identified by Fresno police as \[30-year-old\
 
 Fresno County Sheriff Margaret Mims responded to the incident by saying, "This is an example of why issuing CCWs to law-abiding citizens is important. The victim stopped the criminals from further serious injury to himself or others."
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/california/2016/01/11/fresno-country-sheriff-praises-concealed-carry-after-armed-citizen-staves-off-attack-robbery/)
+Source: AWR Hawkins, breitbart.com/california/2016/01/11/fresno-country-sheriff-praises-concealed-carry-after-armed-citizen-staves-off-attack-robbery/

@@ -15,6 +15,4 @@ There are similar drops over time if one looks at the share of total murders com
 
 \[...\]
 
-For the full story, see: [With all the concern about assault weapons, how has the share of murders with rifles changed over time?](https://crimeresearch.org/2019/11/with-all-the-concern-about-assault-weapons-how-has-the-share-of-murders-with-rifles-changed-over-time/)
-
-Source: [CrimeResearch.org](https://crimeresearch.org/2019/11/with-all-the-concern-about-assault-weapons-how-has-the-share-of-murders-with-rifles-changed-over-time/)
+Source: [CrimeResearch.org](https://crimeresearch.org/2024/02/with-all-the-concern-about-assault-weapons-how-has-the-share-of-murders-with-rifles-changed-over-time/)

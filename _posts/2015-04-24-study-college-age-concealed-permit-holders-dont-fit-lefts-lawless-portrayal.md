@@ -33,4 +33,4 @@ The bottom line from the CPRC:
 
 > Much of the gun control debate \[regarding Campus Carry\] focuses on things that might possibly go wrong. Yes, some young people behave irresponsibly. But those who are willing to go through the permitting process are different from those who don't. They are responsible.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/big-government/2015/04/24/study-college-age-concealed-permit-holders-dont-fit-lefts-lawless-portrayal/)
+Source: AWR Hawkins, breitbart.com/big-government/2015/04/24/study-college-age-concealed-permit-holders-dont-fit-lefts-lawless-portrayal/

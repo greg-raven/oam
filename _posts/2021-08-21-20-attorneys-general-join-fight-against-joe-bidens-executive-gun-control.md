@@ -34,4 +34,4 @@ Biden is also seeking regulatory changes on AR-pistols with stabilizer braces.
 
 Rep. Richard Hudson (R-NC) noted that stabilizer braces were originally approved because of their value in allowing injured combat veterans to steady the pistol and continue to enjoy the Second Amendment. He is fighting Biden's gun control push, claiming it is an attack on "our Second Amendment and our veterans."
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2021/08/21/attorneys-generals-bidens-gun-control/)
+Source: AWR Hawkins, breitbart.com/politics/2021/08/21/attorneys-generals-bidens-gun-control/

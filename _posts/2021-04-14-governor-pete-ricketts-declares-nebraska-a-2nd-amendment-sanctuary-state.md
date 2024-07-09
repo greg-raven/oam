@@ -19,4 +19,4 @@ On April 7, 2021, Breitbart News reported Gov. Doug Ducey (R-AZ) signed legislat
 
 The Associated Press observed the legislation Ducey signed, HB 2111, "\[prohibits\] police and sheriffs from enforcing federal gun laws that violate the 2nd Amendment."
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/2nd-amendment/2021/04/14/governor-pete-ricketts-declares-nebraska-2nd-amendment-sanctuary-state/)
+Source: AWR Hawkins, breitbart.com/2nd-amendment/2021/04/14/governor-pete-ricketts-declares-nebraska-2nd-amendment-sanctuary-state/

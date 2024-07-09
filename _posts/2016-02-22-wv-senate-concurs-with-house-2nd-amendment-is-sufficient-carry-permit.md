@@ -18,4 +18,4 @@ HB 4145 is sponsored by Rep. Saira Blair (R-Berkley), who recognizes the Second 
 
 \[...\]
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/big-government/2016/02/22/wv-senate-concurs-with-house-2nd-amendment-sufficient-carry-permit/)
+Source: AWR Hawkins, breitbart.com/big-government/2016/02/22/wv-senate-concurs-with-house-2nd-amendment-sufficient-carry-permit/

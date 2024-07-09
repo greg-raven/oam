@@ -19,4 +19,4 @@ Firearm Instructor Rick Ector spoke to the surge he has seen in attendance at hi
 
 Ector made clear that the renewed interest in concealed carry has not not been simply for men. He said, "It used to be that we would only have one or two women in a class," he said. "Now we are seeing much, much more. This past May, I held a class where we trained 300 ladies."
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/big-government/2015/08/22/police-chief-concealed-carry-is-part-of-crime-fighting-in-detroit/)
+Source: AWR Hawkins, breitbart.com/big-government/2015/08/22/police-chief-concealed-carry-is-part-of-crime-fighting-in-detroit/

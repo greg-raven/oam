@@ -21,4 +21,4 @@ The Express indicates that Pang and others, like attorney Anna K, were interview
 
 "Ten years ago, it was no problem to go running in the park or go home by metro," Anna said. "But not now, I don't feel safe anymore. I never thought about having to defend myself; I did not think it was necessary. But I felt myself as a foreigner in my own country."
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/london/2016/12/20/austrian-gun-sales-quadruple-as-migrant-crime-rises/)
+Source: AWR Hawkins, breitbart.com/london/2016/12/20/austrian-gun-sales-quadruple-as-migrant-crime-rises/

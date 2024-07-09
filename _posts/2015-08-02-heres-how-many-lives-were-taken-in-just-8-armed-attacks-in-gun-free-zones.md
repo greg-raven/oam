@@ -21,4 +21,4 @@ There you have it --- eight attacks over the last 8 years in which gunmen opened
 
 The bottom line --- gun free zones are not gun free for criminals. Rather, they are soft targets that offer an invitation to attackers who do not want to face the possibility of would-be victims shooting back.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/big-government/2015/08/02/heres-how-many-lives-were-taken-in-just-8-armed-attacks-in-gun-free-zones/)
+Source: AWR Hawkins, breitbart.com/big-government/2015/08/02/heres-how-many-lives-were-taken-in-just-8-armed-attacks-in-gun-free-zones/

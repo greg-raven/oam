@@ -19,4 +19,4 @@ He continued by explaining that "the right to bear arms" is not limited to beari
 
 Leon ruled, "Because the right to bear arms includes the right to carry firearms for self-defense both inside and outside the home, I find that the District's 'good reason' requirement likely places an unconstitutional burden on this right."
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/big-government/2016/05/17/district-judge-right-to-bear-arms-includes-right-to-carry-outside-home/)
+Source: AWR Hawkins, breitbart.com/big-government/2016/05/17/district-judge-right-to-bear-arms-includes-right-to-carry-outside-home/

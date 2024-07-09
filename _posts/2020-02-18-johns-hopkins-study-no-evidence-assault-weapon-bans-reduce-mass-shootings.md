@@ -21,4 +21,4 @@ Moreover, John Hopkins' criteria for licensing laws allowed them to bypass Illin
 
 But the study was clear there is no evidence tying "assault weapons" to a lower incidence of mass shootings.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2020/02/18/johns-hopkins-study-no-evidence-assault-weapon-bans-reduce-mass-shootings/)
+Source: AWR Hawkins, breitbart.com/politics/2020/02/18/johns-hopkins-study-no-evidence-assault-weapon-bans-reduce-mass-shootings/

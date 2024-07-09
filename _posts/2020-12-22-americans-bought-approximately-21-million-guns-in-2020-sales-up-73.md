@@ -27,4 +27,4 @@ This same scenario was true of January 2020, which witnessed more NICS checks th
 
 ABC News concluded their report on surging gun sales with a gun control push that was focused on background checks.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2020/12/22/americans-bought-approximately-21-million-guns-in-2020-sales-up-73/)
+Source: AWR Hawkins, breitbart.com/politics/2020/12/22/americans-bought-approximately-21-million-guns-in-2020-sales-up-73/

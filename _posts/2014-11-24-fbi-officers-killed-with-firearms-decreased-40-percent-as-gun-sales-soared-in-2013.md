@@ -17,4 +17,4 @@ The number of officers "feloniously killed" with firearms has fallen as the numb
 
 The FBI previously confirmed that violent crime against private citizens also fell in 2013.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2014/11/24/fbi-officers-killed-with-firearms-decreased-40-percent-as-gun-sales-soared-in-2013/)
+Source: AWR Hawkins, breitbart.com/politics/2014/11/24/fbi-officers-killed-with-firearms-decreased-40-percent-as-gun-sales-soared-in-2013/

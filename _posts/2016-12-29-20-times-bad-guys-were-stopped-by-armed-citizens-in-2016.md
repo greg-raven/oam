@@ -36,4 +36,4 @@ Do not tell that to the following 20 individuals who used guns defensively to de
 
 It is important to note that this list of armed citizens using guns for self-defense could have been many, many times longer than 20 examples, but we chose to keep the list concise that it might serve as a convenient reminder that "self-defense gun ownership" is not a "tragic myth." In fact, owning a gun for self-defense is part of American heritage and culture, and it allows the vulnerable to quickly level the playing field when under attack.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/2nd-amendment/2016/12/29/20-times-bad-guys-guns-stopped-armed-citizens-2016/)
+Source: AWR Hawkins, breitbart.com/2nd-amendment/2016/12/29/20-times-bad-guys-guns-stopped-armed-citizens-2016/

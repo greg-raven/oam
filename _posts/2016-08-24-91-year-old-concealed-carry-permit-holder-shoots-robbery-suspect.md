@@ -15,4 +15,4 @@ The suspect fled across Gratiot but was located and arrested. He remained hospit
 
 On December 1, 2015, Breitbart News reported that Detroit Police Chief James Craig stressed the importance of an armed citizenry. He encouraged law-abiding citizens to acquire concealed permits and carry guns for self-defense. In January 2014, Craig had said that "good community members who have concealed weapons permits" deter crime and save lives.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/big-government/2016/08/23/91-year-old-concealed-permit-holder-shoots-robbery-suspect/)
+Source: AWR Hawkins, breitbart.com/big-government/2016/08/23/91-year-old-concealed-permit-holder-shoots-robbery-suspect/

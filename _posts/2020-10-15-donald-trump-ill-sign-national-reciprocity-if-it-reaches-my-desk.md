@@ -23,4 +23,4 @@ On September 18, 2015, Breitbart News reported a Trump position paper wherein he
 
 "A driver's license works in every state, so it's common sense that a concealed carry permit should work in every state," the paper read. "If we can do that for driving --- which is a privilege, not a right --- then surely we can do that for concealed carry, which is a right, not a privilege."
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/2nd-amendment/2020/10/15/donald-trump-ill-sign-national-reciprocity-it-reaches-my-desk/)
+Source: AWR Hawkins, breitbart.com/2nd-amendment/2020/10/15/donald-trump-ill-sign-national-reciprocity-it-reaches-my-desk/

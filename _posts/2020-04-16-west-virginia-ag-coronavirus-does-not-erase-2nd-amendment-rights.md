@@ -23,4 +23,4 @@ In Arizona, Governor Doug Ducey (R) signed an executive order exempting gun stor
 
 Ducey's order designates "firearm and ammunition suppliers and retailers" as essential, noting their role in "safety and security."
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2020/04/16/west-virginia-ag-coronavirus-does-not-erase-2nd-amendment-rights/)
+Source: AWR Hawkins, breitbart.com/politics/2020/04/16/west-virginia-ag-coronavirus-does-not-erase-2nd-amendment-rights/

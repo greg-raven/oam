@@ -23,4 +23,4 @@ Judge Ryan Nelson was the panel's dissenting voice.
 
 The case is *McDougall v. County of Ventura,* No. 20-56220 in the U.S. Court of Appeals for the Ninth Circuit.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2022/01/20/9th-circuit-court-gun-store-covid-shutdowns-violated-constitution/)
+Source: AWR Hawkins, breitbart.com/politics/2022/01/20/9th-circuit-court-gun-store-covid-shutdowns-violated-constitution/

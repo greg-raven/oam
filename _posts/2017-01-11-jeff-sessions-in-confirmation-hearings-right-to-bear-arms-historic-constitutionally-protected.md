@@ -17,4 +17,4 @@ People can forfeit their right to have a gun, and it can be a factor in receivin
 
 In contrast, during the June 5, 2016, airing of This Week with George Stephanopoulos, Hillary Clinton twice refused to confirm that the right to bear arms is constitutional. Under pressure to explicitly confirm or deny, she would only say, "If it is a constitutional right, then it --- like every constitutional right --- is subject to reasonable regulation."
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2017/01/11/jeff-sessions-confirmation-hearings-right-bear-arms-historic-constitutionally-proctected/)
+Source: AWR Hawkins, breitbart.com/politics/2017/01/11/jeff-sessions-confirmation-hearings-right-bear-arms-historic-constitutionally-proctected/

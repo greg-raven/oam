@@ -29,4 +29,4 @@ The *Washington Examiner* quoted professor Banzhaf making a similar argument but
 
 Lott observed, "There are simply not enough police in D.C. or Virginia or Maryland to protect all Trump officials at their homes and when they go out to restaurants. Getting a concealed handgun permit would be helpful to protect themselves and their family."
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/big-government/2018/06/25/trump-aides-advised-to-get-guns-carry-permits-amid-growing-threat-of-violence/)
+Source: AWR Hawkins, breitbart.com/big-government/2018/06/25/trump-aides-advised-to-get-guns-carry-permits-amid-growing-threat-of-violence/

@@ -19,6 +19,6 @@ Additionally, the overall murder rate dropped from 9.0 per 100,000 in 1994 to 4.
 
 \[...\]
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2013/12/04/congressional-research-service-more-guns-less-crime/)
+Source: AWR Hawkins, breitbart.com/politics/2013/12/04/congressional-research-service-more-guns-less-crime/
 
 Read the full report at <https://fas.org/sgp/crs/misc/RL32842.pdf>

@@ -23,4 +23,4 @@ Now Utah is on the list and Tennessee Gov. Bill Lee (R) is pushing for permitles
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is why elections matter! Thank you, Tennessee Gov. <a href="https://twitter.com/BillLeeTN">@BillLeeTN</a>, for reintroducing Constitutional Carry. <br><br>We must pass this CRUCIAL legislation and stand for the Second Amendment rights of all Tennesseans. <a href="https://t.co/xbjhAYb1iP">pic.twitter.com/xbjhAYb1iP</a></p>&mdash; NRA (@NRA) <a href="https://twitter.com/NRA/status/1359607865640681479">February 10, 2021</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2021/02/12/utah-becomes-17th-state-to-abolish-concealed-carry-permit-requirement/)
+Source: AWR Hawkins, breitbart.com/politics/2021/02/12/utah-becomes-17th-state-to-abolish-concealed-carry-permit-requirement/

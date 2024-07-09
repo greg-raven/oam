@@ -17,4 +17,4 @@ On January 6, 2014, Breitbart News reported that background checks for gun purch
 
 Throughout 2013 as a whole, there were 21,093,273 background checks, compared to 19,592,303 in 2012.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/Big-Government/2014/02/19/FBI-Report-Shows-Violent-Crime-Decreased-As-Gun-Purchases-Increased).
+Source: AWR Hawkins, breitbart.com/Big-Government/2014/02/19/FBI-Report-Shows-Violent-Crime-Decreased-As-Gun-Purchases-Increased

@@ -27,4 +27,4 @@ Wyoming: It became lawful for Wyoming residents to carry a concealed handgun wit
 
 West Virginia: The West Virginia House and Senate just overrode Governor Earl Ray Tomblin's (D) veto of House Bill 4145, sponsored by Delegate Saira Blair (R-Martinsburg). This means the Second Amendment will be soon be recognized as a sufficient carry permit for those 21-years old and older in West Virginia. HB 4145 also lowers the age for acquiring a concealed carry permit to 18-years of age, so that persons 18 to 20 years old can get a permit in order to carry a gun for self-defense prior to turning 21. \[...\]
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/big-government/2016/03/06/eight-states-where-2nd-amendment-is-only-carry-permit-required/)
+Source: AWR Hawkins, breitbart.com/big-government/2016/03/06/eight-states-where-2nd-amendment-is-only-carry-permit-required/

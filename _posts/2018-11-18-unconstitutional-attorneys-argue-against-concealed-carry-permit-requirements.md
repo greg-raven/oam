@@ -17,4 +17,4 @@ The Peoria Journal Star quotes Justice saying, "Stricter gun laws, or laws that 
 
 Rose added, "The rights to bear arms, free speech, voting and trial by jury, each are fundamental to our American identity, and the courts are required to articulate the meaning and extent of such rights, and how, under the equal protection and due process clauses, such rights should be available for exercise. It is in this context that we have felt it appropriate to ask the court for guidance on these issues as they relate to the Illinois statutes."
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2018/11/18/unconstitutional-attorneys-argue-against-concealed-carry-permits/)
+Source: AWR Hawkins, breitbart.com/politics/2018/11/18/unconstitutional-attorneys-argue-against-concealed-carry-permits/

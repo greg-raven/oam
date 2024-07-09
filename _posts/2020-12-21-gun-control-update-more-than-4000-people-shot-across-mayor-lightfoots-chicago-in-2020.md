@@ -25,4 +25,4 @@ A 19-year-old was sitting in a vehicle "in the 1200-block of South Washtenaw Ave
 
 The final fatality of the weekend was that of a 71-year-old woman who was shot and killed at 7:40 p.m. Sunday while inside a residence "in the 10800-block of South Morgan Street." The shooting occurred when "two males" from outside the residence opened fire, striking the elderly woman numerous times.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2020/12/21/over-4000-people-shot-across-mayor-lightfoots-chicago-in-2020/)
+Source: AWR Hawkins, breitbart.com/politics/2020/12/21/over-4000-people-shot-across-mayor-lightfoots-chicago-in-2020/

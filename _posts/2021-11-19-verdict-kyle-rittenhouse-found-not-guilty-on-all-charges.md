@@ -25,4 +25,4 @@ The defense argued that Rittenhouse had acted in self-defense, in reasonable fea
 
 In addition, the defense had repeatedly argued for a mistrial. During the trial itself, the defense said that the prosecution had infringed on Rittenhouse's Fifth Amendment rights by commenting on his post-arrest silence. The prosecutor also mentioned evidence that the judge had specifically ruled out of the trial. Judge Bruce Schroeder agreed, and admonished the prosecutor, but allowed the trial to continue, saying he would rule on the motion to dismiss later. Later, after the trial, while the jury deliberated, the defense filed another motion to dismiss, after the prosecution used a high-definition version of a video of events that the defense had never seen; the defense had only had access to a lower-definition version of the same footage.
 
-Source: Joel B. Pollak, [Breitbart.com](https://www.breitbart.com/law-and-order/2021/11/19/verdict-kyle-rittenhouse-found-not-guilty-on-all-charges/)
+Source: Joel B. Pollak, breitbart.com/law-and-order/2021/11/19/verdict-kyle-rittenhouse-found-not-guilty-on-all-charges/)

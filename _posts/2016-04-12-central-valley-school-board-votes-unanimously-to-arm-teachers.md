@@ -19,4 +19,4 @@ Kingsburg police Chief Neil Dadian supported the push to arm teachers and even h
 
 The policy arming teachers and staff "is effective immediately."
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/2nd-amendment/2016/04/12/confirmed-central-valley-school-district-will-arm-teachers/)
+Source: AWR Hawkins, breitbart.com/2nd-amendment/2016/04/12/confirmed-central-valley-school-district-will-arm-teachers/

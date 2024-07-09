@@ -21,4 +21,4 @@ The Auditor noted:
 
 Sacramento County Sheriff Scott R. Jones interprets the "good cause" requirement differently, considering "self-defense or the defense of others sufficient to meet the 'good cause' requirement." As result, his county has issued 9,130 permits to its population of 1.5 million residents. This translates into one armed law-abiding per roughly 164 residents versus the ratio of one per 50,000 in Los Angeles County.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/california/2017/12/26/la-county-only-197-concealed-carry-permits-for-10-2-million-residents/)
+Source: AWR Hawkins, breitbart.com/california/2017/12/26/la-county-only-197-concealed-carry-permits-for-10-2-million-residents/

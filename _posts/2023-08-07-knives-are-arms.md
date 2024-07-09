@@ -25,4 +25,4 @@ The Ninth Circuit panel reversed and remanded the case to the district court.
 
 The case is Teter v. Lopez, No. 20-15948, in the United States Court of Appeals for the Ninth Circuit.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/2nd-amendment/2023/08/07/ninth-circuit-panel-knives-are-arms-protected-second-amendment/)
+Source: AWR Hawkins, breitbart.com/2nd-amendment/2023/08/07/ninth-circuit-panel-knives-are-arms-protected-second-amendment/

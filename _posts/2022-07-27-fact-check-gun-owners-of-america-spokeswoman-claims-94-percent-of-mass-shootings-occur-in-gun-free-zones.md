@@ -25,4 +25,4 @@ Mass shootings which occurred in gun-free zones during the study's time frame in
 
 On July 31, 2019, Breitbart News pointed to [another study by CPRC which looked at a smaller window of time and even then, nearly 90 percent of mass shootings between 1998 and June 2019 occurred in gun-free zones](https://www.breitbart.com/politics/2019/07/31/study-89-of-21st-century-mass-shootings-occurred-in-gun-free-zones/).
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2022/07/27/fact-check-gun-owners-america-spokeswoman-claims-94-percent-mass-shootings-occur-gun-free-zones/)
+Source: AWR Hawkins, breitbart.com/politics/2022/07/27/fact-check-gun-owners-america-spokeswoman-claims-94-percent-mass-shootings-occur-gun-free-zones/

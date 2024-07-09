@@ -25,4 +25,4 @@ McBride said, "My message to anyone thinking about coming to Los Angeles, especi
 
 He added, "We can't guarantee your safety. It is really, really out of control. I said it to people before, it's like that movie 'Purge,' you know, instead of 24 hours to commit your crime, these people have 365 days days to commit whatever they want."
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2021/12/30/rich-famous-flock-beverly-hills-only-gun-store-protection/)
+Source: AWR Hawkins, breitbart.com/politics/2021/12/30/rich-famous-flock-beverly-hills-only-gun-store-protection/

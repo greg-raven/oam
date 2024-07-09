@@ -21,4 +21,4 @@ On November 24, 2022, Breitbart News observed The Hill relied on Gun Violence Ar
 
 As of right now, the Gun Violence Archive's data showing over 100 mass shootings in 2023 contains approximately 40 incidents in which there were no fatalities, roughly 25 incidents in which there was one fatality, and around 18 incidents in which there were two fatalities.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2023/03/07/cnn-uses-misleading-data-to-claim-over-100-mass-shootings-in-2023/)
+Source: AWR Hawkins, breitbart.com/politics/2023/03/07/cnn-uses-misleading-data-to-claim-over-100-mass-shootings-in-2023/

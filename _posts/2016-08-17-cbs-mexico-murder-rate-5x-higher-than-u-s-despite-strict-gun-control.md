@@ -25,4 +25,4 @@ On top of this, Mexican citizens are limited to "one handgun for home protection
 
 Again, Mexico has all-out ban on complete categories of firearms, strict limitations on the number and caliber of legal arms citizens can own, comprehensive background checks, and further limits on firearm possession that are based on the declared purposes of the firearms. Yet much as the gun control experiment in Chicago has proven, the gun control schema in Mexico is correlating with rampant violent crime rather than a reduction in such crime. In fact, Mexico's homicide rate is "more than five times higher" that the homicide rate in the U.S., where guns are easier to acquire and easier to carry daily for self-defense.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2016/08/17/mexico-restrictive-gun-control-murder-rate-5-times-higher-u-s/)
+Source: AWR Hawkins, breitbart.com/politics/2016/08/17/mexico-restrictive-gun-control-murder-rate-5-times-higher-u-s/

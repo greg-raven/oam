@@ -23,4 +23,4 @@ In Oklahoma, the percentage of permit holders convicted of a felony in 2016 was 
 
 To put these percentages into perspective, consider the percentages of misdemeanors and felonies committed by police officers. On May 27 Breitbart News reported a CPRC study which showed that from January 1, 2005, through December 31, 2007, the yearly rate of misdemeanors and felonies by full-time police officers was .102 percent. On the other hand, the yearly rate for Texas' concealed carry permit holders in the year 2015 --- the year campus carry was signed into law in that state --- was .0102 percent.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/politics/2017/07/24/study-concealed-permit-holders-law-abiding-law-abiding/)
+Source: AWR Hawkins, breitbart.com/politics/2017/07/24/study-concealed-permit-holders-law-abiding-law-abiding/

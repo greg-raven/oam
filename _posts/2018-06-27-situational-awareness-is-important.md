@@ -27,4 +27,4 @@ Milwaukee County Sheriff Richard Schmidt said authorities arrested the 17-year-o
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1pQuVHAHuEY" title="Four arrested in brutal beating, carjacking father at Milwaukee park"></iframe>
 
-Source: Katherine Rodriguez, [Breitbart.com](https://www.breitbart.com/big-government/2018/06/26/police-teens-carjack-vehicle-punch-owner-to-ground/)
+Source: Katherine Rodriguez, breitbart.com/big-government/2018/06/26/police-teens-carjack-vehicle-punch-owner-to-ground/)

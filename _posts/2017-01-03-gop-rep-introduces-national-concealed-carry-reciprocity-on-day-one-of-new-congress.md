@@ -25,4 +25,4 @@ During the podcast, Hudson explained why he includes [constitutional carry state
 
 > I believe the plain language of the constitution is real simple where it says there should be no infringement on our right to keep and bear arms. So I personally believe you shouldn't have to get a permit from the government to carry a concealed weapon. I think that's a right, an inalienable right. But, there are some states that don't agree with that. But there are some states around the country --- like Montana, Vermont, and others --- that do not require you to get a permit to carry a concealed weapon. And if you happen to live in one of those states, with my legislation you ought to be able to carry in any state that recognizes concealed carry.
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/2nd-amendment/2017/01/03/gop-rep-introduces-national-concealed-carry-reciprocity-day-one-new-congress/)
+Source: AWR Hawkins, breitbart.com/2nd-amendment/2017/01/03/gop-rep-introduces-national-concealed-carry-reciprocity-day-one-new-congress/

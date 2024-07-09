@@ -21,4 +21,4 @@ DeBoard was given the Mount Vernon's Citizen's Award of Valor. It was awarded to
 
 \[...\]
 
-Source: AWR Hawkins, [Breitbart.com](https://www.breitbart.com/big-government/2016/07/30/the-latest-cnn-poll-shows-donald-trump-beating-hillary-clinton-4439-for-republicans-thats-good-news-of-course-other-polls-show-other-results-some-even-have-hillary-ahead/)
+Source: AWR Hawkins, breitbart.com/big-government/2016/07/30/the-latest-cnn-poll-shows-donald-trump-beating-hillary-clinton-4439-for-republicans-thats-good-news-of-course-other-polls-show-other-results-some-even-have-hillary-ahead/
