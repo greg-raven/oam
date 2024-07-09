@@ -7,7 +7,7 @@ tags:
 - Nick Freitas
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KqqJKChKRzI?si=C4VfDaGdW5mKtgvI" title="Nick Freitas Speech on Floor of House of Delegates" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KqqJKChKRzI?si=C4VfDaGdW5mKtgvI" title="Nick Freitas Speech on Floor of House of Delegates"></iframe>
 
 Rough transcript:
 

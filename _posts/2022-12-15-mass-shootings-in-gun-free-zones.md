@@ -7,7 +7,7 @@ tags:
 - John R. Lott Jr.
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4pWkLS-h424?si=11bcbER5fu0JZ5Fi" title="John R. Lott Jr.: 94% of Mass Public Shootings Occur in Places Where Guns Are Banned" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4pWkLS-h424?si=11bcbER5fu0JZ5Fi" title="John R. Lott Jr.: 94% of Mass Public Shootings Occur in Places Where Guns Are Banned"></iframe>
 
 **Rough transcript:**
 

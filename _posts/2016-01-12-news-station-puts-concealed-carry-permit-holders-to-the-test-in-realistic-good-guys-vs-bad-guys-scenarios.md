@@ -31,4 +31,4 @@ The simulation was overseen by Travis Bond, managing member of the DFW Shooters 
 
 Watch one of the scenarios below and read about how the others went at WFAA-TV.
 
-Source: Kaitlyn Schallhorn, [TheBlaze.com](https://www.theblaze.com/stories/2016/01/12/news-station-puts-concealed-carry-permit-holders-to-the-test-in-realistic-good-guys-vs-bad-guys-scenarios/)
+Source: Kaitlyn Schallhorn,theblaze.com/stories/2016/01/12/news-station-puts-concealed-carry-permit-holders-to-the-test-in-realistic-good-guys-vs-bad-guys-scenarios/

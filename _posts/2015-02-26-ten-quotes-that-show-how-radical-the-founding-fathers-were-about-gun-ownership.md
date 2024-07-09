@@ -69,7 +69,7 @@ Patrick Henry was the Rand Paul of his day, a hardcore libertarian with the gift
 >
 > <cite>Samuel Adams, Massachusetts Ratifying Convention, 1788</cite>
 
-There you have it plain as day. In the debates to ratify the constitution in 1788, Samuel Adams gave [a forcible defense](https://www.samuel-adams-heritage.com/quotes/popular.html) of the right to bear arms.
+There you have it plain as day. In the debates to ratify the constitution in 1788, Samuel Adams gave a forcible defense of the right to bear arms.
 
 ## \#9. Thomas Paine
 

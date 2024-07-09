@@ -27,4 +27,4 @@ So, since I have moved from Florida to Texas, my concealed weapons permit is not
 
 \[...\]
 
-Source: [Allen B. West](https://allenbwest.com/2015/06/yeehaw-this-side-effect-of-the-gay-marriage-ruling-will-make-liberals-explode/)
+Source: Allen B. West, allenbwest.com/2015/06/yeehaw-this-side-effect-of-the-gay-marriage-ruling-will-make-liberals-explode/

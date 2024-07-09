@@ -11,4 +11,4 @@ categories:
 
 Source: Bill Whittle
 
-See also: [America Doesn't Have a Gun Problem, It Has a Gang Problem](https://www.frontpagemag.com/2012/dgreenfield/america-doesnt-have-a-gun-problem-it-has-a-gang-problem/)
+See also: America Doesn't Have a Gun Problem, It Has a Gang Problem, frontpagemag.com/2012/dgreenfield/america-doesnt-have-a-gun-problem-it-has-a-gang-problem/

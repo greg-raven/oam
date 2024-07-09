@@ -9,7 +9,7 @@ tags:
 
 This video is for all the people in the U.S. who think they have a *right* to feel safe and use this idea to justify restrictive gun control in America.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK6Y-Y8D5co?si=R1xSViSpu359rnr9" title="Israel now wants armed citizens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK6Y-Y8D5co?si=R1xSViSpu359rnr9" title="Israel now wants armed citizens"></iframe>
 
 **Rough transcript:**
 

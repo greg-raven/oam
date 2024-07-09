@@ -15,7 +15,7 @@ In addition to safety information, this study guide provides a general summary o
 
 [Firearm Safety Certificate Study Guide](https://www.scribd.com/doc/252897033/Firearm-Safety-Certificate-Study-Guide "View Firearm Safety Certificate Study Guide on Scribd")
 
-<iframe class="scribd_iframe_embed" data-aspect-ratio="undefined" data-auto-height="false" frameborder="0" height="600" id="doc_77937" loading="lazy" scrolling="no" src="https://www.scribd.com/embeds/252897033/content?start_page=1&view_mode=scroll&show_recommendations=true" width="100%"></iframe>
+<iframe class="scribd_iframe_embed" data-aspect-ratio="undefined" data-auto-height="false" height="600" id="doc_77937" loading="lazy" scrolling="no" src="https://www.scribd.com/embeds/252897033/content?start_page=1&view_mode=scroll&show_recommendations=true" width="100%"></iframe>
 
 Pursuant to Penal Code section 31700, there are exemptions from the FSC requirement including, but not limited to:
 

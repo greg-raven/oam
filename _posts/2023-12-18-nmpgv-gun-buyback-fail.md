@@ -79,6 +79,6 @@ Source: Daniel J. Chacón, santafenewmexican.com/news/local_news/san-juan-sherif
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/41MjDAUGpv0?si=EPXjzOYLvRsNvOv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/41MjDAUGpv0?si=EPXjzOYLvRsNvOv0" title="Most epic backfire ever"></iframe>
 
 H/T: [Langley Outdoors Academy](https://www.youtube.com/@LangleyOutdoors)

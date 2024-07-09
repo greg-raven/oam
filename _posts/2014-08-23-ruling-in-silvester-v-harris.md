@@ -57,4 +57,4 @@ IT IS SO ORDERED. Dated: August 22, 2014
 
 [Silvester v Harris No 10 Day Waiting Period for Current CA Gun Owners](https://www.scribd.com/doc/252035917/Silvester-v-Harris-No-10-Day-Waiting-Period-for-Current-CA-Gun-Owners "View Silvester v Harris No 10 Day Waiting Period for Current CA Gun Owners on Scribd")
 
-<iframe class="scribd_iframe_embed" data-aspect-ratio="undefined" data-auto-height="false" frameborder="0" height="600" id="doc_69184" loading="lazy" scrolling="no" src="https://www.scribd.com/embeds/252035917/content?start_page=1&view_mode=scroll&show_recommendations=true" width="100%"></iframe>
+<iframe class="scribd_iframe_embed" data-aspect-ratio="undefined" data-auto-height="false" height="600" id="doc_69184" loading="lazy" scrolling="no" src="https://www.scribd.com/embeds/252035917/content?start_page=1&view_mode=scroll&show_recommendations=true" width="100%"></iframe>

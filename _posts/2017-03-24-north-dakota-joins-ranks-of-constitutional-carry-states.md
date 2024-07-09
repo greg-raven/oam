@@ -27,4 +27,4 @@ While lawmakers in two of North Dakota's neighboring states, Montana and South D
 
 The new law takes effect in North Dakota Aug. 1, 2017.
 
-Source: Chris Eger, [Guns.com](https://www.guns.com/2017/03/24/north-dakota-joins-ranks-of-constitutional-carry-states/)
+Source: Chris Eger, guns.com/2017/03/24/north-dakota-joins-ranks-of-constitutional-carry-states/

@@ -16,5 +16,3 @@ The 22-page study, entitled *Mass Shootings in America: Moving Beyond Newtown* w
 "Without minimizing the pain and suffering of the hundreds of those who have been victimized in recent attacks, the facts clearly say that there has been no increase in mass shootings and certainly no epidemic." In its closing, the study's author states that these crimes may be inevitable concluding that, "... those who have suggested that their plan for change will ensure that a crime such as the Sandy Hook massacre will never reoccur will be bitterly disappointed."
 
 Source: Chris Eger, guns.com/2014/01/17/new-research-mass-shootings-shows-increase-frequency-assault-weapon-use-rare/
-
-[An abstract and full report can be found here](https://hsx.sagepub.com/content/18/1/125.full.pdf) (PDF).

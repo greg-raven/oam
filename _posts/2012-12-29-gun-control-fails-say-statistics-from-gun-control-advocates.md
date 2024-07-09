@@ -35,4 +35,4 @@ Do note: all data cited below are from sources supportive of gun control.
 
 - Fiction 8: Gun-Control Advocates Care About Other People, Gun-Rights Activists Are Selfish \[...\]
 
-Source: Howard Nemerov, [PJ Media](https://pjmedia.com/blog/gun-control-fails-say-statistics-from-gun-control-advocates/)
+Source: Howard Nemerov, pjmedia.com/blog/gun-control-fails-say-statistics-from-gun-control-advocates/

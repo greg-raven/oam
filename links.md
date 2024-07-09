@@ -53,7 +53,7 @@ layout: page
 
 - [Smith & Wesson GUNSMARTS](https://www.smith-wesson.com/gunsmarts/)
 
-- [Glock 19 review](https://www.glocknut.com/20130506-handgun-comparison/)
+- [Glock 19 review](https://www.glocknut.com/reviews/handgun-comparison/index.html)
 
 ## Front Sight reviews
 

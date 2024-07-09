@@ -36,11 +36,11 @@ Each of these facts is firmly based on empirical data. Here's a deeper look.
 
 **1. America is relatively safe, and the trend is toward becoming safer.**
 
-- According to the National Crime Victimization Survey, violent crime has been [declining steadily](https://www.nationalreview.com/corner/careful-panic-violent-crime-and-gun-crime-are-both-dropping-charles-c-w-cooke/) since the early 1990s.
+- According to the National Crime Victimization Survey, violent crime has been declining steadily since the early 1990s.
 
-- The 2011 homicide rate was [almost half](https://www.cnn.com/2013/05/08/us/study-gun-homicide/index.html) of the rate in 1991, and according to Pew Research, the 2013 gun-related death rate was [half](https://www.pewresearch.org/fact-tank/2015/10/21/gun-homicides-steady-after-decline-in-90s-suicide-rate-edges-up/) of the rate in 1993.
+- The 2011 homicide rate was almost half of the rate in 1991, and according to Pew Research, the 2013 gun-related death rate was half of the rate in 1993.
 
-- The number of non-fatal firearm crimes committed in 2011 was [one-sixth the number](https://www.pewsocialtrends.org/2013/05/07/gun-homicide-rate-down-49-since-1993-peak-public-unaware/) committed in 1993.
+- The number of non-fatal firearm crimes committed in 2011 was one-sixth the number committed in 1993.
 
 - In the past few years, there have been minor increases in certain types of violent crimes, mainly in large metropolitan areas. However, these increases are nowhere near [those seen in the 1990s](https://time.com/4651122/homicides-increase-cities-2016/) and are largely related to [gang activity](https://abcnews.go.com/TheLaw/FedCrimes/story?id=6773423&page=1).
 
@@ -57,7 +57,7 @@ Each of these facts is firmly based on empirical data. Here's a deeper look.
 **3. A small number of factors significantly increase the likelihood that a person will be a victim of a gun-related homicide.**
 
 - Where do you live? Murders in the United States are very concentrated. According to the Crime Prevention Research Center, [over 50 percent of murders](https://crimeresearch.org/2017/04/number-murders-county-54-us-counties-2014-zero-murders-69-1-murder/) occur in 2 percent of the nation's 3,142 counties. Moreover, gun-related homicides are heavily concentrated in certain neighborhoods within those counties: 54 percent of U.S. counties had zero murders in 2014.
-- Who is your partner? According to a recent scholarly article in the Hastings Law Journal, people recently or currently involved in an [abusive intimate relationship](https://www.hastingslawjournal.org/wp-content/uploads/Gildengorin-67.3.pdf) are much more likely to be victims of gun-related homicide than is the rest of the population, especially if the [abuser possesses firearms](https://ncadv.org/assets/2497/guns_and_dv0.pdf).
+- Who is your partner? According to a recent scholarly article in the Hastings Law Journal, people recently or currently involved in an abusive intimate relationship are much more likely to be victims of gun-related homicide than is the rest of the population, especially if the [abuser possesses firearms](https://ncadv.org/assets/2497/guns_and_dv0.pdf).
 - Are you in a gang? According to the Department of Justice's National Gang Center, particularly in urban areas, [significant percentages](https://www.nationalgangcenter.gov/survey-analysis/measuring-the-extent-of-gang-problems) of gun-related homicides (15 percent to 33 percent) are [linked with gang](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6103a2.htm) and drug activity. Gang-related homicides are [more likely to involve firearms](https://www.reuters.com/article/us-usa-guns-boycott-delta-air/georgia-lawmaker-threatens-to-kill-delta-state-tax-breaks-over-nra-stance-idUSKCN1GA2UV) than non-gang-related homicides are.
 - Are you a male between 15 and 34? The majority of standard gun murder victims are men between the ages of 15 and 34. Although black men make up roughly 7 percent of the population, they account for [almost two-thirds](https://fivethirtyeight.com/features/mass-shootings-are-a-bad-way-to-understand-gun-violence/) of gun murder victims every year.
 - [Women and children](https://www.repository.law.indiana.edu/cgi/viewcontent.cgi?article=11135&context=ilj) are more likely to be the victims of mass shootings and homicide-suicide shootings than they are to be the victims of a "typical" gun-related homicide.
@@ -75,7 +75,7 @@ Each of these facts is firmly based on empirical data. Here's a deeper look.
 - Canada is ranked 12th in the world for the number of civilian-owned guns per capita and reports one of the world's lower homicide rates --- but even then, some provinces have [higher homicide rates than U.S. states](https://mises.org/blog/few-gun-laws-new-hampshire-safer-canada) with less restrictive laws and higher rates of gun ownership have.
 - Although many gun control advocates have noted that "right-to-carry" states tend to experience slight increases in violent crime, other studies have noted the [opposite effect](https://crimeresearch.org/wp-content/uploads/2015/07/2015-Report-from-the-Crime-Prevention-Research-Center-Final.pdf).
 - [Higher rates of concealed carry permit holders](https://www.washingtonpost.com/blogs/fact-checker/post/do-concealed-weapon-laws-result-in-less-crime/2012/12/16/e80a5d7e-47c9-11e2-ad54-580638ede391_blog.html?utm_term=.551a354e580c) are even more strongly associated with reduction in violent crime than are "right-to-carry" states. The probable reason for this is that "right-to-carry" studies often include "open carry" states, which have not been shown to correlate with more people actually carrying or even owning firearms. Rates of concealed carry permit holders are better indicators of the number of people who actually possess and carry firearms within a given population.
-- Further, as with most correlations, there are many other factors that can account for increases in concealed carry permits --- including the fact that people who live in already dangerous neighborhoods seek out means of self-defense. The Huffington Post noted that the rate of concealed carry permit requests in Chicago [has soared](https://www.huffingtonpost.com/entry/chicago-black-women-concealed-carry-permits_us_59ba879ae4b02da0e13fa3b1) in recent years after the city loosened restrictions, in large part, according to the Chicago Tribune, because [law-abiding residents](https://www.chicagotribune.com/news/local/breaking/ct-black-female-gun-owners-chicago-20170831-story.html) are increasingly worried about rising rates of violent crime in the city.
+- Further, as with most correlations, there are many other factors that can account for increases in concealed carry permits --- including the fact that people who live in already dangerous neighborhoods seek out means of self-defense. The Huffington Post noted that the rate of concealed carry permit requests in Chicago [has soared](https://www.huffingtonpost.com/entry/chicago-black-women-concealed-carry-permits_us_59ba879ae4b02da0e13fa3b1) in recent years after the city loosened restrictions, in large part, according to the Chicago Tribune, because law-abiding residents are increasingly worried about rising rates of violent crime in the city.
 - The rate of gun ownership is higher among whites than it is among African-Americans, but the murder rate among African-Americans is significantly higher than the rate among whites.
 - Similarly, the rate of gun ownership is higher in rural areas than in urban areas, but urban areas experience higher murder rates.
 
@@ -101,8 +101,8 @@ Each of these facts is firmly based on empirical data. Here's a deeper look.
 - [Houston, Texas](https://www.click2houston.com/news/1-dead-2-men-hospitalized-after-shooting-in-north-houston) (2017) --- A homeowner survived a drive-by shooting by defending himself with his AR-15.
 - [Broken Arrow, Oklahoma (2017)](https://nypost.com/2017/03/28/homeowners-son-kills-three-would-be-burglars-with-ar-15/) --- A homeowner's son killed three would-be burglars with an AR-15 (the man was later deemed to have acted in [justifiable self-defense](https://nypost.com/2017/04/04/man-who-killed-would-be-burglars-with-ar-15-wont-be-charged/)).
 - [Ferguson, Missouri (2014)](https://www.reuters.com/article/us-usa-missouri-shooting-gasstation/in-ferguson-black-residents-stand-guard-at-white-owned-store-idUSKCN0JA1XF20141126) --- African-American men protected a white man's store from rioters by standing outside armed with AR-15s.
-- [Texas (2013)](https://humanevents.com/2013/01/10/assault-rifle-saves-teenagers-from-home-invasion-burglars/) --- A 15-year-old boy used an AR-15 during a home invasion to save both his life and that of his 12-year-old sister.
-- [Rochester, New York (2013)](https://www.theblaze.com/stories/2013/01/24/no-shots-fired-home-intruders-decide-not-to-stick-around-after-seeing-their-victim-holding-an-ar-15) --- Home intruders fled after facing an AR-15.
+- [Texas (2013), humanevents.com/2013/01/10/assault-rifle-saves-teenagers-from-home-invasion-burglars/ --- A 15-year-old boy used an AR-15 during a home invasion to save both his life and that of his 12-year-old sister.
+- [Rochester, New York (2013), theblaze.com/stories/2013/01/24/no-shots-fired-home-intruders-decide-not-to-stick-around-after-seeing-their-victim-holding-an-ar-15 --- Home intruders fled after facing an AR-15.
 
 **8. Concealed carry permit holders are not the problem, but they may be part of the solution.**
 
@@ -111,17 +111,17 @@ Each of these facts is firmly based on empirical data. Here's a deeper look.
 - Regression estimates show a significant association between increased permit ownership and a drop in murder and violent crime rates. [Each percentage point increase](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3004915) in rates of permit-holding is associated with a roughly 2.5 percent drop in the murder rate.
 - Concealed carry permit holders are often "[the good guy with a gun](https://www.cato.org/publications/white-paper/tough-targets-when-criminals-face-armed-resistance-citizens)," even though they rarely receive the attention of the national media. Concealed carry permit holders were credited with saving multiple lives in:
 - [Rockledge, Florida (2017)](https://www.floridatoday.com/story/news/2017/11/27/rockledge-gunman-recovering-worked-brevard-elementary-school/898582001/);
-- [Antioch, Tennessee (2017)](https://www.chicagotribune.com/news/nationworld/ct-tennessee-church-shooting-20170924-story.html);
+- [Antioch, Tennessee (2017), chicagotribune.com/news/nationworld/ct-tennessee-church-shooting-20170924-story.html;
 - [Arlington, Texas (2017)](https://www.nbcnews.com/news/us-news/good-samaritan-kills-active-shooter-texas-sports-bar-police-n755136);
 - [Lyman, South Carolina (2016)](https://www.fox5atlanta.com/news/deputies-man-opens-fire-in-sc-bar-draws-return-fire);
 - [Winton, Ohio (2015)](https://www.foxnews.com/us/2015/07/27/cincinnati-man-shoots-at-1-year-old-boy-is-shot-by-man-with-concealed-carry.html);
 - [Conyers, Georgia (2015)](https://www.rockdalenewtoncitizen.com/news/customer-who-returned-fire-at-rockdale-county-murder-suspect-called/article_4ee4f1bf-8f25-5969-8360-0b9eb21e6c98.html);
-- [New Holland, South Carolina (2015)](https://www.foxcarolina.com/story/28998992/firefighter-cwps-likely-stopped-a-massacre-of-children-firefighters);
-- [Chicago, Illinois (2015)](https://chicago.suntimes.com/news/uber-driver-shoots-man-who-allegedly-fired-at-group-on-logan-square-sidewalk/);
+- [New Holland, South Carolina (2015), foxcarolina.com/story/28998992/firefighter-cwps-likely-stopped-a-massacre-of-children-firefighters;
+- [Chicago, Illinois (2015), chicago.suntimes.com/news/uber-driver-shoots-man-who-allegedly-fired-at-group-on-logan-square-sidewalk/;
 - [Philadelphia, Pennsylvania (2015)](https://www.nbcphiladelphia.com/news/local/Man-Shot-in-the-Chest-Inside-West-Philly-Barbershop-297176271.html);
 - [Darby, Pennsylvania (2015)](https://crimeresearch.org/2014/07/fortunately-doctor-carries-gun-into-gun-free-zone-saves-lives/);
-- [Chicago, Illinois (2014)](https://www.chicagotribune.com/news/local/breaking/chi-military-member-concealed-carry-shoots-attacker-20140706-story.html);
+- Chicago, Illinois (2014), chicagotribune.com/news/local/breaking/chi-military-member-concealed-carry-shoots-attacker-20140706-story.html;
 - [Portland, Oregon (2014)](https://www.oregonlive.com/portland/index.ssf/2014/01/post_414.html); and
-- [Spartanburg, South Carolina (2012)](https://www.foxcarolina.com/story/17251517/churchgoers-subdue-gunman-at-spartanburg-church).
+- Spartanburg, South Carolina (2012), foxcarolina.com/story/17251517/churchgoers-subdue-gunman-at-spartanburg-church.
 
-Source: John Malcolm and Amy Swearer, [The Daily Signal](https://www.heritage.org/crime-and-justice/commentary/here-are-8-stubborn-facts-gun-violence-america)
+Source: John Malcolm and Amy Swearer, heritage.org/crime-and-justice/commentary/here-are-8-stubborn-facts-gun-violence-america
