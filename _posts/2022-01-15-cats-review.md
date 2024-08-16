@@ -3,6 +3,8 @@ title: "Civilian Arms Training Source / IPDSystems Level 1 Defensive Tactical Pi
 layout: post
 categories:
 - other
+tags:
+- Greg Raven
 ---
 
 Location: [Lions Club Shooting Range](https://lvlionsclub.com), Lucerne Valley, CA
