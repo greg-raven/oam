@@ -1,0 +1,26 @@
+---
+title: "Second Circuit rules legal gun ownership not probable cause for warrantless search"
+layout: post
+categories:
+- CCW
+tags:
+- Cam Edwards
+---
+
+The Second Circuit Court of Appeals hasn't traditionally been a welcoming place for gun owners. This is the same appellate court that originally upheld New York's "may issue" carry regime before the Supreme Court overturned their decision in Bruen, and since then the court has upheld many of New York's post-Bruen restrictions on lawful gun owners.
+
+Today, however, a three-judge panel on the court got it absolutely right when it ruled that a Connecticut police officer isn't entitled to qualified immunity after handcuffing, detaining, and conducting a warrantless search on a resident after he produced a valid handgun permit.
+
+> Defendant-Appellant Nicholas Andrzejewski, an officer of the Waterbury,Connecticut police department, appeals from the judgment of the United StatesDistrict Court for the District of Connecticut (Arterton, J.) denying in part his motion for summary judgment on the grounds that his purported conduct was not shielded by qualified immunity. That conduct, as alleged by Plaintiff-Appellee Basel Soukaneh, is that in the course of a routine traffic stop, Andrzejewski unlawfully and violently handcuffed and detained Soukaneh in the back of a police vehicle for over half an hour and conducted a warrantless search of Soukaneh's vehicle after Soukaneh presented a facially valid firearms permit and disclosed that he possessed a firearm pursuant to the permit. On appeal, Andrzejewski argues we should reverse the district court's denial of qualified immunity because the presence of the lawfully owned firearm in the vehicle gave him the requisite probable cause to detain Soukaneh, search the interior of his car, and search his trunk.
+
+Andrzejewski's argument is essentially that, by exercising our Second Amendment rights, we give up our Fourth Amendment right to be secure against unreasonable searches and seizures. In fact, he basically maintained that possessing a valid pistol permit gave him reasonable suspicion to search Soukaneh's vehicle for some evidence of wrongdoing.
+
+After the district court ruled that the officer wasn't entitled to qualified immunity for his actions, Andrzejewski introduced a new argument in his appeal to the Second Circuit; it wasn't solely Soukaneh's gun permit that led him to handcuff the gun owner and search his car, it was the fact that Soukaneh had stopped his vehicle in a "high crime area known for drug transactions". As the panel noted, however, "a location's reputation as a high crime area alone is typically not enough to suggest reasonable suspicion [of a crime], let alone probable cause." And the court found that Andrzejewski offered no evidence whatsoever that Soukaneh was illegally possessing a gun when he was confronted by the officer. To the contrary, as a matter of fact. Andrzejewski was able to conclusively determine that Soukaneh had a valid pistol permit and lawfully possessed the firearm that he informed the officer he was carrying.
+
+> The desire to confirm the legitimacy of the facially valid firearms permit that Soukaneh presented did not --- with nothing more --- provide Andrzejewski with probable cause for the half-hour or longer handcuffed detention that occurred. It is uncontested that Soukaneh presented Andrzejewski with a gun license, the legitimacy of which Andrzejewski himself admits he had no reason to question. Moreover, Andrzejewski concedes that he was informed of the facially valid license before Soukaneh told him that he had a gun and specified its location. Andrzejewski does not allege that the permit appeared abnormal in any fashion or that Soukaneh engaged in any suspicious or threatening behavior. On the facts before us, Andrzejewski does not provide an articulable reason why he, or any other reasonable officer, could conclude that there was probable cause to believe that Soukaneh possessed his firearm unlawfully in violation of Section 29-38(a). **To find otherwise would consign those validly carrying firearms pursuant to a license to automatic detention because it would effectively presume that gun permits are invalid until proven valid, or that lawfully owned guns are per se contraband until proven otherwise. Such a finding would effectively render armed individuals' Fourth Amendment rights meaningless when they are lawfully carrying firearms.**
+
+As common sense as that position is, it's still somewhat surprising to see the Second Circuit panel unanimously reach that conclusion ... especially since the panel was comprised of two Biden appointees and one judge appointed by Barack Obama.
+
+Andrzejewski could still appeal to an en banc panel of the Second Circuit or take his case directly to the Supreme Court, but I doubt he's going to find a more receptive audience for his arguments at SCOTUS. The Supreme Court has already declared that the Second Amendment isn't a second-class right, so I doubt a majority would go along with the officer's contention that exercising your right to keep and bear arms negates your Fourth Amendment rights altogether.
+
+Source: Cam Edwards, bearingarms.com/camedwards/2024/08/12/second-circuit-rules-legal-gun-ownership-not-probable-cause-for-warrantless-search-n1225903
