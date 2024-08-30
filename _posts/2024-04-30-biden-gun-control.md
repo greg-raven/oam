@@ -3,6 +3,8 @@ title: "Biden announces that the 2A was 'never absolute' and all that talk about
 layout: post
 categories:
 - information
+tags:
+- American Thinker
 ---
 
 A new poll out from Emerson/The Hill shows that Joe Biden trails President Trump in seven of the key swing states:

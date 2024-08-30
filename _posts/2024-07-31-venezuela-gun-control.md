@@ -3,6 +3,8 @@ title: "Venezuela offers harsh lessons on gun control"
 layout: post
 categories:
 - information
+tags:
+- Tom Knighton
 ---
 
 Elections in Venezuela have been ... interesting.

@@ -3,6 +3,8 @@ title: "Deep inside, I'm not OK"
 layout: post
 categories:
 - other
+tags:
+- PatriotPost.us
 ---
 
 I walk around like I'm OK.

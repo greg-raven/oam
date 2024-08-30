@@ -3,6 +3,8 @@ title: "The Independent freaks over would-be assassin's small ammo purchase"
 layout: post
 categories:
 - information
+tags:
+- Tom Knighton
 ---
 
 Members of the media generally don't know much about guns.

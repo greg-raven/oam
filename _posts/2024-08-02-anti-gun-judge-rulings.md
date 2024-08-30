@@ -3,6 +3,8 @@ title: "Reason: Anti-gun judges are now forced to make pro-gun rulings"
 layout: post
 categories:
 - information
+tags:
+- Tom Knighton
 ---
 
 In the wake of <a href="https://www.trigger-treat.com/20080626-DC-v-Heller/index.html">the Heller decision</a>, it was easy to think that things had changed. I suppose that, on some level, they had, but they hadn't changed quite enough. Plenty of federal court judges were deciding against the Second Amendment in some horrifically bad rulings, all of which basically hinged on the Second Amendment being meaningless, at least in their minds.

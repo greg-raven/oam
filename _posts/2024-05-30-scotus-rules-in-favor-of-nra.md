@@ -3,6 +3,8 @@ title: "Supreme Court unanimously rules in favor of NRA in free speech case, uph
 layout: post
 categories:
 - information
+tags:
+- ACLU
 ---
 
 - The ACLU represented the NRA, arguing that a government regulator's attempts to abuse her power to coerce private entities to blacklist the NRA violated the First Amendment
