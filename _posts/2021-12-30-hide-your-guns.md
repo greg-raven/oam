@@ -11,4 +11,4 @@ Make your guns totally invisible.
 
 Hide them in an Epstein client list.
 
-![Hide your guns](/assets/img/2021-12-30-hide-your-guns.webp)
+![Hide your guns](/assets/img/20211230-hide-your-guns.webp "Make your guns totally invisible")
