@@ -2,9 +2,7 @@
 title: "Biden announces that the 2A was 'never absolute' and all that talk about the tree of liberty is 'crap'"
 layout: post
 categories:
-- <#category#>
-tags:
-- <#tag#>
+- information
 ---
 
 A new poll out from Emerson/The Hill shows that Joe Biden trails President Trump in seven of the key swing states:
