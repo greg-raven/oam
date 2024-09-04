@@ -11,7 +11,7 @@ A federal judge recently ruled that Illinois's ban on carrying guns in public tr
 
 "After an exhaustive review of the parties' filings and the historical record, as required by Supreme Court precedent, the Court finds that Defendants failed to meet their burden to show an American tradition of firearm regulation at the time of the Founding that would allow Illinois to prohibit Plaintiffs --- who hold concealed-carry permits --- from carrying concealed handguns for self-defense onto the CTA and Metra," U.S. District Judge Iain D. Johnston wrote in his Aug. 30 opinion, referring to two Chicago-area transportation systems.
 
-The judge cited the Supreme Court's decision, N.Y. State Rifle & Pistol Association v. Bruen, which found a New York law unconstitutional and that the ability to carry a pistol in public was a right guaranteed under the Second Amendment. The decision also said that, in future decisions, the judiciary should evaluate firearms regulations in light of the "historical tradition of firearm regulation."
+The judge cited the Supreme Court's decision, [N.Y. State Rifle & Pistol Association v. Bruen](https://www.trigger-treat.com/20220623-nysrpa-v-bruen/index.html), which found a New York law unconstitutional and that the ability to carry a pistol in public was a right guaranteed under the Second Amendment. The decision also said that, in future decisions, the judiciary should evaluate firearms regulations in light of the "historical tradition of firearm regulation."
 
 Under the Supreme Court's 2022 standard for seeing whether firearms regulations fall under the Constitution, the government must demonstrate that the measure is within U.S. historical traditions.
 
