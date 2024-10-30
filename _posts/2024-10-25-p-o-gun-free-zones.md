@@ -2,7 +2,7 @@
 title: "Gun rights groups seeks to take down 'gun-free zone' status for Post Offices"
 layout: post
 categories:
-- <#category#>
+- information
 ---
 
 The Supreme Court, in its Bruen tradition, said that some places could be so sensitive as to warrant a gun-free zone designation. Those places include locations like courthouses, which I can see, even if I disagree.
