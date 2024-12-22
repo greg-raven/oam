@@ -5,13 +5,16 @@ author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
+
 description: The right of the people to keep and bear arms shall not be infringed.
 
 # Build settings
 
 theme: minima
 
-url: "https://www.one-armed-man.com" # the base hostname & protocol for your site
+# the base hostname & protocol for your site
+
+url: "https://www.one-armed-man.com"
 
 plugins:
   - jekyll-archives
@@ -28,37 +31,24 @@ jekyll-archives:
     category: category-archive
     tags: tag-archive
   permalinks:
-    tags: '/tag/:name/'
-    category: '/category/:name/'
+    tags: "/tag/:name/"
+    category: "/category/:name/"
 
 # Theme-specific settings
 
 minima:
-  # Minima date format.
-  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  #
-  # date_format: "%b %-d, %Y"
-
   skin: auto
-
-  # Generate social links in footer.
-  #
-  # social_links:
-  #   - { platform: github,         user_url: "https://github.com/greg-raven" }
-  #   - { platform: keybase,        user_url: "https://keybase.io/gregraven" }
-  #   - { platform: x,              user_url: "https://x.com/gregraven" }
-  #   - { platform: youtube,        user_url: "https://www.youtube.com/@GregRaven" }
 
 # If you want to link only specific pages in your header, uncomment this
 # and add the path to the pages in order as they should show up.
-#
+
 header_pages:
   - about.html
   - history-of-u-s-gun-control-laws.html
   - search.html
 
 # Set to `true` to show excerpts on the homepage.
-#
+
 show_excerpts: true
 
 paginate: 20
