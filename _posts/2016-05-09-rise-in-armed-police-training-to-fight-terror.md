@@ -33,7 +33,7 @@ She told Sky News: "It seems to be getting closer and closer and it used to be '
 
 As well as their own armed response officers, police forces can also call on regional specialist firearms teams as well as the security services and military in the event of a sustained terror attack.
 
-\[...\]
+[...]
 
 Most major European police forces are routinely armed but despite the changed threat the vast majority of British officers still do not carry weapons.
 

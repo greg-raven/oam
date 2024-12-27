@@ -17,6 +17,6 @@ Slatery wrote:
 
 > Since a county or municipality no longer has the authority to prohibit handgun carry permit holders from possessing handguns in public parks and other recreational facilities, a county or municipality cannot convey or delegate any such authority to anyone else, either directly or indirectly.
 
-\[...\]
+[...]
 
 Source: AWR Hawkins, breitbart.com/big-government/2015/08/01/private-companies-must-honor-gun-rights-in-tennessee-parks/

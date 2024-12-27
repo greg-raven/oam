@@ -21,7 +21,7 @@ Dubbed "[constitutional carry](/permitless-carry-states.html)" by its supporters
 
 According to the National Rifle Association, at least 14 states have approved some version of permitless carry.
 
-\[...\]
+[...]
 
 Hunter said in a statement he was pleased with the ruling, which will allow the law to go into effect Friday.
 

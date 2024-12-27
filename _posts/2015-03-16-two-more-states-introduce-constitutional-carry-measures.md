@@ -23,7 +23,7 @@ There were vocal advocates on both sides of the fence in Nevada last week as the
 
 "The open carry of firearms is completely lawful in Nevada," testified J.L. Rhodes of the Stillwater Firearms Association. "However, if your shirttail or jacket covers the firearm, you may be arrested and charged with a Class C felony. That makes no sense whatsoever. Let us allow people the choice to carry firearms to protect themselves and their loved ones."
 
-\[...\]
+[...]
 
 [Constitutional carry](/permitless-carry-states.html) bills have been a popular item nationwide with state legislatures this session. Texas, New Hampshire, Utah and Kansas have all made progress on measures of their own in recent weeks.
 

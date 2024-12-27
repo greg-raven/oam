@@ -17,7 +17,7 @@ The lawsuit was filed by plaintiffs who were denied concealed carry licenses bec
 
 The case was appealed from the U.S. District Court for the Southern District of California.
 
-\[...\]
+[...]
 
 Judge O'Scannlain wrote that neither case speaks "explicitly or precisely" to the scope of the Second Amendment right outside the home or what it takes to 'infringe' it.
 
@@ -25,6 +25,6 @@ Judge O'Scannlain wrote that neither case speaks "explicitly or precisely" to th
 
 "One needn't point to statistics to recognize that the prospect of conflict --- at least, the sort of conflict for which one would wish to be 'armed and ready' --- is just as menacing (and likely more so) beyond the front porch as it is in the living room,'" he continued. "To be sure, the idea of carrying a gun 'in the clothing or in a pocket, for the purpose ... of being armed and ready,' does not exactly conjure up images of father stuffing a six-shooter in his pajamas pocket before heading downstairs to start the morning's coffee, or mother concealing a handgun in her coat before stepping outside to retrieve the mail. Instead, it brings to mind scenes such as a woman toting a small handgun in her purse as she walks through a dangerous neighborhood, or a night-shift worker carrying a handgun in his coat as he travels to and from his job site."
 
-\[...\]
+[...]
 
 Source: David Sherfinski, washingtontimes.com/news/2014/feb/13/federal-court-deals-gun-grabbers-blow-san-diego-co/

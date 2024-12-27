@@ -11,7 +11,7 @@ Rep. Chris Collins (R-NY) introduced legislation Monday aimed at nullifying stat
 
 New York's SAFE Act (2013) is a prime example of the kind of gun control Collins hopes to erase.
 
-WKBW reports Collins' bill is titled the Second Amendment Guarantee Act (SAGA), and its language explicitly "\[limits\] the authority of states to regulate conduct, or impose penalties or taxes in relation to rifles or shotguns." It is designed to catch laws that go beyond federal statutes and render them void.
+WKBW reports Collins' bill is titled the Second Amendment Guarantee Act (SAGA), and its language explicitly "[limits] the authority of states to regulate conduct, or impose penalties or taxes in relation to rifles or shotguns." It is designed to catch laws that go beyond federal statutes and render them void.
 
 According to the Buffalo News, Collins described SAGA, saying, "This legislation would protect the Second Amendment rights of New Yorkers that were unjustly taken away by Andrew Cuomo. I am a staunch supporter of the Second Amendment and have fought against all efforts to condemn these rights. I stand with the law-abiding citizens of this state that have been outraged by the SAFE Act and voice my commitment to roll back these regulations."
 

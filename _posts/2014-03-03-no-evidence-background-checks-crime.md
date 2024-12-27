@@ -19,17 +19,17 @@ Impressive numbers. But, alas, both are gross exaggerations.
 
 In reality, the "Brady Checks" are quite ineffective in stopping criminals from getting guns. There are actually very few hard-core criminals that are stupid enough to even try to buy a gun from a dealer that does a background check.
 
-\[...\]
+[...]
 
 So let us look at these numbers, a relatively typical year. Out of the 76,142 initial denials in the federal system only 44 individuals were prosecuted and only 13 were convicted of illegally trying to purchase a gun when they were prohibited from doing so.
 
 As if that wasn't bad enough, those convicted were hardly what one would call dangerous criminals --- usually people with relatively trivial records from years earlier that didn't realize their offense was covered.
 
-\[...\]
+[...]
 
 The real problem is denying someone a purchase because they have a similar name to a felon, but that is not the same thing as saying that the person being denied is a felon.
 
-\[...\]
+[...]
 
 All these denials mean delays for many law-abiding gun buyers. Although just an inconvenience for most, this causes dangerous delays for people who suddenly, legitimately need a gun for self-defense.
 
@@ -43,6 +43,6 @@ Indeed, there is no real scientific evidence among criminologists and economists
 
 In fact, a 2004 National Academy of Sciences panel concluded that the Brady background checks did not reduce violent crime, not even a single category of violent crime. Later national studies have not found a beneficial effect either.
 
-\[...\]
+[...]
 
 Source: John R. Lott Jr., investors.com/politics/commentary/brady-law-is-no-answer-to-gun-crime/

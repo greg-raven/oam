@@ -11,7 +11,7 @@ On March 12, the Montana Senate gave final approval to HB 298, a bill rescinding
 
 Montana already allows concealed carry without a permit outside of cities and towns. HB 298 will simply bring cities and towns into compliance with the rest of the state.
 
-\[...\]
+[...]
 
 According to KXLH 9, state Senator Scott Sales (R-Bozeman) said, "We should stop kidding ourselves. People who want to commit crime aren't going to pay attention to the concealed carry portion of the law right now."
 

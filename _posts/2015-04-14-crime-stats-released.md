@@ -15,10 +15,10 @@ Meanwhile, the statistics showed violent crimes increased at the Victorville Sta
 
 "Simple assault calls were up, and it's truly hard to predict and police those calls," Victorville Sheriff's Station Capt. Sam Lucia said Tuesday evening. "Generally, simple assaults are crimes of emotion and can occur at any time and anywhere people interact. It occurs in an instant ... with or without provocation."
 
-\[...\]
+[...]
 
-Apple Valley's 1 percent violent crime increase came from a 50 percent jump in rape cases: The station reported 18 rapes in 2014, up from 12 in 2013. Aggravated assault cases were also up in Apple Valley from 109 in 2013 to 139 in 2014. \[...\]
+Apple Valley's 1 percent violent crime increase came from a 50 percent jump in rape cases: The station reported 18 rapes in 2014, up from 12 in 2013. Aggravated assault cases were also up in Apple Valley from 109 in 2013 to 139 in 2014. [...]
 
-\[...\]
+[...]
 
 Source: Anneli Fogt, vvdailypress.com/article/20150414/NEWS/150419867

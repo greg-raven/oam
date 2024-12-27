@@ -9,7 +9,7 @@ categories:
 
 - Recent stats that belie controllers' anti-firearm rhetoric
 
-\[...\]
+[...]
 
 Proponents of gun control have been highly successful at keeping American's attention focused on a leaf or two in the huge forest of reality. They point to declining violent crime rates as proof that people who choose to carry guns for self-defense are paranoid and in the next breath raise alarms about the threats posed by aberrant deviants gaining access to firearms.
 
@@ -26,6 +26,6 @@ These are all clear, irrefutable facts. They are not nuanced by collection metho
 
 Are more guns in private hands driving crime and accident rates down? I don't know. What I do know is that the growing number of guns in private hands is not driving crime and accident rates up. That is absolutely clear from this raw data, and anyone who suggests otherwise is prevaricating.
 
-\[...\]
+[...]
 
 Read more at wnd.com/2014/11/hard-facts-more-guns-but-less-crime/#rvIraBWc6HdRCppb.99

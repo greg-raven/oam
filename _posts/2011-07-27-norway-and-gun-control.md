@@ -17,7 +17,7 @@ Norway already has strict regulation of firearms, but this is an irrelevance whe
 
 This is not a new concept. Cesare Baccaria outlined this truth in his seminal book Crimes & Punishments in 1764, in a passage that made such an impression upon Thomas Jefferson that he copied it into his daybook and quoted it at length in letters to his nephew and to James Madison:
 
-\[...\]
+[...]
 
 There are few laws that Norway could have passed to prevent such an attack. The fertilizer that Breivik used in his bomb was legally bought through a farm he had registered, and the guns he used in his rampage were legally registered. Guns are allowed in Norway only for hunting and sports shooting, with handgun licenses requiring the applicant to take a nine-hour firearm-safety course, pass a written test, and prove active and continuing membership of a shooting club. This Breivik did, pointing explicitly in his application to his clean criminal record. Had he not been able to get hold of the weapons domestically, he would have found them elsewhere. (He had already taken an abortive trip to Prague with this aim, hollowing out the back seats of his car to make space for the AK-47 assault rifle and [Glock](https://us.glock.com/) pistol he coveted. He failed to make any connections with the many illicit weapons dealers for which Prague is famous, but that he was prepared to risk dying at the hands of what he described as "brutal and cynical criminals" to obtain firearms is an indication that he was unlikely to give up.)
 

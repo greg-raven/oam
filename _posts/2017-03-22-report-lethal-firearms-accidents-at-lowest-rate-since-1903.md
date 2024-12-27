@@ -15,7 +15,7 @@ Safety programs aimed at curbing gun accidents have been on the rise over the pa
 
 While a number of states instituted firearms safety programs via hunters education classes back in the 1950s, the federal government authorized funding for such initiatives in 1970 as part of the Pittman-Robertson Act. Such programs have been cited by conservation officials when observing historic declines in gun accidents in the field during hunting seasons.
 
-\[...\]
+[...]
 
 "This latest release from the National Safety Council shows that the vast majority of the 100 million American firearms owners meet the serious responsibilities which come with firearms ownership," said NSSF President and CEO Steve Sanetti. "They store their firearms safely and securely when not in use, and follow the basic rules of firearms safety when handling them."
 

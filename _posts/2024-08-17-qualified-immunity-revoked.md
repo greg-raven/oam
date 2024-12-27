@@ -29,9 +29,9 @@ Which is an entirely sane, constitutional interpretation of the law in general a
 
 > Andrzejewski is not entitled to qualified immunity for this alleged conduct and, accordingly, the district court properly denied his motion for summary judgment.
 
-The case was remanded back to the District Court. Andrzejewski can ask for an en banc hearing with the entire Second Circuit—it was a three-judge panel that heard the case—but should he lose, he, and his agency, could be on the hook for considerable civil damages, as well they should be.
+The case was remanded back to the District Court. Andrzejewski can ask for an en banc hearing with the entire Second Circuit --- it was a three-judge panel that heard the case --- but should he lose, he, and his agency, could be on the hook for considerable civil damages, as well they should be.
 
-Most people don't know the police apply the Fourth Amendment every day. It's a significant part of every police academy curriculum, and many agencies require regular refresher training. What seems clear in this case is Andrzejewski, either through a lack of training and supervision, or because he was badge heavy—had an arrogantly expansive view of his own importance and authority—ignored the Fourth Amendment's prohibition on unreasonable, warrantless searches and seizures, and in so doing, lost his qualified immunity in this case.
+Most people don't know the police apply the Fourth Amendment every day. It's a significant part of every police academy curriculum, and many agencies require regular refresher training. What seems clear in this case is Andrzejewski, either through a lack of training and supervision, or because he was badge heavy --- had an arrogantly expansive view of his own importance and authority --- ignored the Fourth Amendment's prohibition on unreasonable, warrantless searches and seizures, and in so doing, lost his qualified immunity in this case.
 
 Considering courts rarely revoke that immunity, and the Second Circuit is not remotely a gun rights friendly court, their decision in this case speaks volumes.
 

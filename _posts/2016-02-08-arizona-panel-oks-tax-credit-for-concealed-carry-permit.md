@@ -19,7 +19,7 @@ The Republican lawmaker said his measure encourages gun safety and education.
 
 When asked about the cost by Rep. Bruce Wheeler, D-Tucson, Montenegro said "You know, you can't really put a price on safety."
 
-\[...\]
+[...]
 
 State officials say Arizona has more than 250,000 registered carriers as of January. To get a permit, individuals must be over 21, go through a background check and have some firearms training.
 

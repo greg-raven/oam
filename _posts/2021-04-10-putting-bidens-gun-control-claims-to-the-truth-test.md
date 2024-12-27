@@ -28,7 +28,7 @@ The president claims this is the top change he wants. In fact, however, if gunma
 
 Imagine what would happen to the car industry if similar rules were applied. The National Safety Council estimates that 39,404 Americans died and 4.5 million were injured from car accidents in 2018. Cars are also frequently used to commit crimes.
 
-**"The vast majority of Americans believe there should be \[universal\] background checks."**
+**"The vast majority of Americans believe there should be [universal] background checks."**
 
 Gun control advocates frequently claim that over 90% of Americans support background checks for private transfers of guns. Yet, the last time such laws were proposed to voters, they rejected them. When Michael Bloomberg got universal background check initiatives onto Maine and Nevada's ballots, for example, he lost in Maine by four percentage points and won in Nevada by just 0.8 percentage points.
 

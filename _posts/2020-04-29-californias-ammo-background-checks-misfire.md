@@ -29,6 +29,6 @@ California hasn't provided the court with any evidence that these types of backg
 
 California's neighbor Mexico has gone much further than even California in its restrictions, and the crime rates don't bear out the benefits of background checks on ammunition. The entire country has only one gun store --- a military-run establishment in Mexico City. That store is the only place that one can legally buy ammunition, and background checks are required. Mexico's current murder rates are six times higher than those of the U.S., and twice what they were when the restrictions started in 1972.
 
-"The \[background check\] experiment has been tried. The casualties have been counted. California's new ammunition background check law misfires and the Second Amendment rights of California citizens have been gravely injured," Judge Benitez wrote in his decision. Well said, your honor.
+"The [background check] experiment has been tried. The casualties have been counted. California's new ammunition background check law misfires and the Second Amendment rights of California citizens have been gravely injured," Judge Benitez wrote in his decision. Well said, your honor.
 
 Source: John R. Lott Jr., [National Review](https://www.nationalreview.com/2020/04/californias-ammo-background-checks-misfire/)

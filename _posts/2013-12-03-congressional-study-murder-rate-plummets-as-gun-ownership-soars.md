@@ -17,7 +17,7 @@ In other words, as the number of firearms almost doubled over a nearly 20-year p
 
 Additionally, the overall murder rate dropped from 9.0 per 100,000 in 1994 to 4.7 in 2011. The overall number of estimated murder victims fell from 23,326 in 1994 to 14,612 in 2011. For estimated firearms-related murder victims, those numbers are 16,333 in 1994 and 9,903 in 2011.
 
-\[...\]
+[...]
 
 Source: AWR Hawkins, breitbart.com/politics/2013/12/04/congressional-research-service-more-guns-less-crime/
 

@@ -11,9 +11,9 @@ On March 4, 2010, the Chicago Tribune reported that the hallmark of municipal gu
 
 The Tribune admitted the failure of gun bans nearly two years after the Supreme Court of the United States overturned Washington DC's ban in District of Columbia v Heller (2008) and roughly three months before SCOTUS would overturn Chicago's ban in McDonald v Chicago (2010).
 
-According to the Tribune, municipal gun bans are flawed in concept. Therefore, rather than a decline in homicides, the years following the implementation of DC's gun ban saw "the number of killings \[rise\] by 156 percent." And the surge in killings came "at a time when murders nationally increased by just 32 percent." The death rate grew so high that DC "vied regularly for the title of murder capital of America" after the ban was implemented.
+According to the Tribune, municipal gun bans are flawed in concept. Therefore, rather than a decline in homicides, the years following the implementation of DC's gun ban saw "the number of killings [rise] by 156 percent." And the surge in killings came "at a time when murders nationally increased by just 32 percent." The death rate grew so high that DC "vied regularly for the title of murder capital of America" after the ban was implemented.
 
-Similar results were achieved in Chicago, the Tribune reported the decade following the implementation of Chicago's ban saw "murders \[jump\] by 41 percent, compared with an 18 percent rise in the entire United States."
+Similar results were achieved in Chicago, the Tribune reported the decade following the implementation of Chicago's ban saw "murders [jump] by 41 percent, compared with an 18 percent rise in the entire United States."
 
 Why did the bans lead to death? Why didn't leftist theories that fewer guns equal less crime hold true? The Tribune suggests the answers to these questions lie in the inequitable divide in the way such bans restrict law-abiding citizens instead of criminals.
 
@@ -23,7 +23,7 @@ The Tribune observed:
 
 Fast forward to 2016, where the vestiges of Chicago's gun ban still hold sway and where law-abiding gun ownership does not flourish as it does in many parts of the country. The result is death upon death and more even more death after that.
 
-\[..\]
+[..]
 
 July 2016 was the deadliest July Chicago has witnessed in 10 years, August was the deadliest August the city has seen in two decades, and January 1, 2016, through September 12, 2016, saw more homicides in the city than were seen throughout the entirety of 2015.
 

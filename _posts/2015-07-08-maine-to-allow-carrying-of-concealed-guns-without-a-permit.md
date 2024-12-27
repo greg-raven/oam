@@ -13,7 +13,7 @@ The bill's success is a huge victory for gun-rights advocates who have long foug
 
 "It really is a historic day in the state of Maine that this common-sense measure is finally signed into law," said Sen. Eric Brakey, the Republican who sponsored it.
 
-\[...\]
+[...]
 
 The law is expected to go into effect in October, or 90 days after lawmakers adjourn, which they plan to do later this month.
 
@@ -21,6 +21,6 @@ Maine will join five states, including Kansas and Vermont, with such a policy, a
 
 Under Maine's permit process, residents have to pay a fee, pass a background check and prove that they've participated in firearm safety training or demonstrate an understanding of handgun safety.
 
-\[...\]
+[...]
 
 Source: Alanna Durkin, washingtontimes.com/news/2015/jul/8/lepage-to-sign-bill-nixing-concealed-gun-permit-re/

@@ -19,20 +19,20 @@ In response to Ezra Klein's report titled "Twelve facts about guns and mass shoo
 
 Do note: all data cited below are from sources supportive of gun control.
 
-- Fiction 1: Armed Resistance Does Not Stop Mass Murders \[...\]
+- Fiction 1: Armed Resistance Does Not Stop Mass Murders [...]
 
-- Fiction 2: Gun Control Eliminates "Dangerous Guns" While Protecting the Second Amendment \[...\]
+- Fiction 2: Gun Control Eliminates "Dangerous Guns" While Protecting the Second Amendment [...]
 
-- Fiction 3: "Gun Violence" \[...\]
+- Fiction 3: "Gun Violence" [...]
 
-- Fiction 4: Gun Control Will Make You Safer \[...\]
+- Fiction 4: Gun Control Will Make You Safer [...]
 
-- Fiction 5: Gun Ownership Is Declining \[...\]
+- Fiction 5: Gun Ownership Is Declining [...]
 
-- Fiction 6: The U.S. Is One of the Most Violent Countries \[...\]
+- Fiction 6: The U.S. Is One of the Most Violent Countries [...]
 
-- Fiction 7: Gun Control Reduces Mass Murders \[...\]
+- Fiction 7: Gun Control Reduces Mass Murders [...]
 
-- Fiction 8: Gun-Control Advocates Care About Other People, Gun-Rights Activists Are Selfish \[...\]
+- Fiction 8: Gun-Control Advocates Care About Other People, Gun-Rights Activists Are Selfish [...]
 
 Source: Howard Nemerov, pjmedia.com/blog/gun-control-fails-say-statistics-from-gun-control-advocates/

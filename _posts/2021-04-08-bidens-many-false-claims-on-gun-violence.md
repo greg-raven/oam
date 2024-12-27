@@ -7,13 +7,13 @@ categories:
 - information
 ---
 
-President Biden's press conference on guns was filled with inaccuracies and false claims. Ironically, during the campaign last year, Biden disparaged the use of executive orders, "if you can't get the votes ... you can't \[legislate\] by executive order unless you're a dictator. We're a democracy." Even more importantly, the changes are arbitrary and won't make Americans safer.
+President Biden's press conference on guns was filled with inaccuracies and false claims. Ironically, during the campaign last year, Biden disparaged the use of executive orders, "if you can't get the votes ... you can't [legislate] by executive order unless you're a dictator. We're a democracy." Even more importantly, the changes are arbitrary and won't make Americans safer.
 
 Biden's comments on Thursday focused only on the costs of guns, while ignoring any benefits, which risks costing lives. Biden talked about the spike in murders last year, but he completely ignored how letting inmates out of jails and prisons, ordering police to stand down, defunding police, and prosecutors refusing to prosecute criminals caused more crime. Not one sentence in his discussion on violence mentioned that.
 
 Despite Democrats having control of both houses of Congress, Biden doesn't have the votes to change the legal definition of a firearm. So he wants to change the definition with an executive order. That way, he hopes to be able to better target so-called "ghost guns" made out of parts that require machine tools to finish.
 
-The problem is the Bureau of Alcohol, Tobacco, Firearms, and Explosives's definition, whereby something is not a firearm when "the fire-control cavity area is \[a\] completely solid and un-machined" block of metal. Existing law defines a firearm as a weapon that can fire a bullet or that can be "readily converted" to do so. The problem is that a solid block of metal isn't "readily" convertible to a gun. If the Biden administration successfully defines solid lumps of metal as firearms, they will have to include a long list of items that aren't firearms.
+The problem is the Bureau of Alcohol, Tobacco, Firearms, and Explosives's definition, whereby something is not a firearm when "the fire-control cavity area is [a] completely solid and un-machined" block of metal. Existing law defines a firearm as a weapon that can fire a bullet or that can be "readily converted" to do so. The problem is that a solid block of metal isn't "readily" convertible to a gun. If the Biden administration successfully defines solid lumps of metal as firearms, they will have to include a long list of items that aren't firearms.
 
 In addition, with 3D printing and machine tools, those who want to make guns can do soe
 

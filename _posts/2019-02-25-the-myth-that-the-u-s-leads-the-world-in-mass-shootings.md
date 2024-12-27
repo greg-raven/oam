@@ -37,7 +37,7 @@ If this is true, how did the narrative that the US leads the world in mass shoot
 
 Lankford's name pops up in a montage of media reports which cite his research as evidence that America leads the world in mass shootings. The violence, Lankford said, stems from the high rate of gun ownership in America.
 
-"The difference between us and other countries, \[which\] explains why we have more of these attackers, was the firearm ownership rate," Lankford said. "In other words: firearms per capita. We have almost double the firearm ownership rate of any other country."
+"The difference between us and other countries, [which] explains why we have more of these attackers, was the firearm ownership rate," Lankford said. "In other words: firearms per capita. We have almost double the firearm ownership rate of any other country."
 
 Lankford's findings show that there were 90 mass public shooters in America since 1966, the most in the world, which had a total of 202. But Lott, using Lankford's definition of a mass shooting --- "four or more people killed" --- found more than 3,000 such shootings, John Stossel recently reported.
 
@@ -47,7 +47,7 @@ Lankford refuses to explain his data to anyone --- to Stossel, to Lott, to the W
 
 "That's academic malpractice," Lott tells Stossel.
 
-\[Editor's Note: Lankford has since published his research.\]
+[Editor's Note: Lankford has since published his research.]
 
 Indeed it is. Yet, it doesn't explain how one professor's research was so rapidly disseminated that its erroneous claim quickly became the conventional wisdom in a country with 330 million people.
 

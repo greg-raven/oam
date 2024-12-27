@@ -19,7 +19,7 @@ The suspect, later identified as 26-year-old Codi Bullard, was pronounced dead a
 
 Authorities believe that Bullard was attempting to steal items from the demolition company.
 
-\[...\]
+[...]
 
 Moore and the female employee were not injured during the incident.
 

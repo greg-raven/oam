@@ -13,19 +13,19 @@ In the wake of Wednesday's shooting of two journalists in Virginia, one crime ex
 
 "To me, the more important factor is that every country, every place that has tried to ban guns has seen an increase in murder rate after the ban has gone into effect. You think you'd find at least one place where a ban was associated with fewer homicides. Instead, you see dramatically the reverse happen. There's countries you see six, seven fold increases in murder rates after guns are banned."
 
-\[...\]
+[...]
 
 Virginia Gov. Terry McAuliffe pushed for stricter gun laws after the shooting.
 
 "There are too many guns in the hands of people that shouldn't have guns," McAuliffe said, Politico reports.
 
-\[...\]
+[...]
 
 During an interview with CNN, McAuliffe said America needs stricter background checks on would-be gun owners.
 
 "A background check takes two to three minutes. I just really believe everyone who purchases a firearm in our nation should go through a background check," McAuliffe said.
 
-\[...\]
+[...]
 
 Lott said those types of laws wouldn't do much to stop violence.
 

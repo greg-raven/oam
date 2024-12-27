@@ -19,13 +19,13 @@ But the court noted the Second Amendment "protects the defendant's right to poss
 
 The court said the "safe transportation of weapons protected by the Second Amendment is an essential corollary of the right to possess them in the home for self-defense when such transportation is necessary to effectuate that right."
 
-\[...\]
+[...]
 
 DeCiccio was charged with six counts of having a weapon in a vehicle and was acquitted on four counts. Convictions followed on his possession of a baton and a dirk, a small knife like a dagger, with a straight blade.
 
-He appealed, and the Connecticut Supreme Court unanimously wrote: "The defendant has established, therefore, that his conviction under \[Paragraph\] 29-38 (a) for using his Jeep to transport a dirk knife and police baton to his new residence violated his Second Amendment right to keep and bear arms."
+He appealed, and the Connecticut Supreme Court unanimously wrote: "The defendant has established, therefore, that his conviction under [Paragraph] 29-38 (a) for using his Jeep to transport a dirk knife and police baton to his new residence violated his Second Amendment right to keep and bear arms."
 
-\[...\]
+[...]
 
 Source: Bob Unruh
 wnd.com/2014/12/2nd-amendment-protects-more-than-just-guns/

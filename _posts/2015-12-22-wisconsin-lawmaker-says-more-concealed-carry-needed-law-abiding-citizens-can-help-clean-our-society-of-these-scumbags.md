@@ -13,7 +13,7 @@ In a statement Monday, state Rep. Bob Gannon said that having more people who co
 
 "Wisconsin does not have a death penalty law, but with significant practice and careful aim, law-abiding citizens can help clean our society of these scumbags," he said. "Criminals no longer have any fear of our courts or our prisons, so it's time that the citizens of this fine state stand up and fight back."
 
-Insisting that a "good guy" with a gun would have stopped the mall shooter, Gannon added that a "gang banger in the mall with a gun is going to think twice if there could be a law-abiding \[concealed carry weapon\] holder standing behind them fully prepared to shoot center mass," he said, "as this is how you're trained to eliminate the threat these creeps pose to you, your family, and all law-abiding citizens unwillingly dragged into their public crime spree."
+Insisting that a "good guy" with a gun would have stopped the mall shooter, Gannon added that a "gang banger in the mall with a gun is going to think twice if there could be a law-abiding [concealed carry weapon] holder standing behind them fully prepared to shoot center mass," he said, "as this is how you're trained to eliminate the threat these creeps pose to you, your family, and all law-abiding citizens unwillingly dragged into their public crime spree."
 
 On the flip side, Democratic state Rep. Chris Taylor told the Journal that Gannon is living in a "James Bond dream world."
 

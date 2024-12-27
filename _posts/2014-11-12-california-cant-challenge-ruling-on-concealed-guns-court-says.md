@@ -14,7 +14,7 @@ The decision was another victory for gun rights advocates, but it was not likely
 
 In its 2-1 ruling Wednesday, the U.S. 9th Circuit Court of Appeals denied an attempt by Atty. Gen. Kamala D. Harris, a gun control group and law enforcement associations to intervene in a case that struck down San Diego County's policy of tightly restricting the carrying of concealed guns. Gun owner Edward Peruta was the lead challenger of the San Diego rules.
 
-\[...\]
+[...]
 
 Judges Diarmuid F. O'Scannlain and Consuelo M. Callahan --- Republican appointees who are considered the most conservative jurists in the 9th Circuit --- said Harris and the others waited too long to get involved. The majority also said that its February ruling did not question the constitutionality of a state law, only the way San Diego County chose to regulate guns under California law.
 
@@ -26,6 +26,6 @@ David Madden, a spokesman for the 9th Circuit, said California has the right to 
 
 In that case, said UCLA law professor Adam Winkler, an expert on gun law, "There is a long way to go before this is settled."
 
-\[...\]
+[...]
 
 Source: Maura Dolan, latimes.com/local/california/la-me-concealed-weapons-20141113-story.html

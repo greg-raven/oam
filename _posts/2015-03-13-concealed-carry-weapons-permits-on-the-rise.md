@@ -19,7 +19,7 @@ Bell said the county takes self-protection as reason enough for a permit, but ap
 
 "Sheriff (John) McMahon's stand on the topic is that if the applicant meets the requirements set forth, is of good moral character, has no felonies and is a resident of the county, there's no reason why they would be denied," Bell said.
 
-\[...\]
+[...]
 
 In 2013, which Bell said was most recent year with statistics available, the department had 733 applications and granted 720 permits.
 

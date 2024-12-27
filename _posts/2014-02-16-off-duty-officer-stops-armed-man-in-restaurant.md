@@ -21,9 +21,9 @@ Hill says she tried to tackle the man, but that's also when off-duty officer Joe
 
 "He says 'Stockton P.D., you're under arrest!'" she said.
 
-Silva, armed with his own weapon, managed to disarm the man and held him at gunpoint outside until backup arrived to formally place the suspect under arrest. \[...\]
+Silva, armed with his own weapon, managed to disarm the man and held him at gunpoint outside until backup arrived to formally place the suspect under arrest. [...]
 
-\[...\]
+[...]
 
 "Had Joe not been there and done the actions that he did, we probably would have had a shooting and possibly even a homicide at the restaurant," Jones added.
 

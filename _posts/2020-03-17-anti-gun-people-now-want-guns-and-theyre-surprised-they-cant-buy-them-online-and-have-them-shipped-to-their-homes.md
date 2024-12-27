@@ -7,7 +7,7 @@ categories:
 - information
 ---
 
-This \[Wuhan coronavirus\] pandemic is creating all sorts of problems for many people, but one of the problems is not the lack of purchases made for guns and ammo. The gun industry is seeing record sales across the board, and it's really only the beginning.
+This [Wuhan coronavirus] pandemic is creating all sorts of problems for many people, but one of the problems is not the lack of purchases made for guns and ammo. The gun industry is seeing record sales across the board, and it's really only the beginning.
 
 One of those seeing the increased volume, Omaha Outdoors, recently posted about the requests that they're receiving; most notably from states like California. While I'm not saying that all residents of California are anti-gun, the gun community is seeing it's fair share of typically anti-gun people looking to arm themselves in the face of potential chaos caused by food and water shortages that could be on the horizon.
 

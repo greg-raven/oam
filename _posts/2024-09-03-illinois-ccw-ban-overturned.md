@@ -15,11 +15,11 @@ The judge cited the Supreme Court's decision, [N.Y. State Rifle & Pistol Associa
 
 Under the Supreme Court's 2022 standard for seeing whether firearms regulations fall under the Constitution, the government must demonstrate that the measure is within U.S. historical traditions.
 
-Treating "any place where the government would want to protect public order and safety as a sensitive place casts too wide a net ... \[and\] would seem to justify almost any gun restriction," Johnston wrote.
+Treating "any place where the government would want to protect public order and safety as a sensitive place casts too wide a net ... [and] would seem to justify almost any gun restriction," Johnston wrote.
 
 He also rejected Illinois state attorneys' arguments that the Bruen test did not apply in this case because the state, which owns the property, can regulate what individuals take onto its property.
 
-"\[I\]ndividual rights isn't nullified on public property," he wrote.
+"[I]ndividual rights isn't nullified on public property," he wrote.
 
 Further, he added that the court found that the Second Amendment only "protects against governmental --- not private --- intrusion on rights and liberties."
 

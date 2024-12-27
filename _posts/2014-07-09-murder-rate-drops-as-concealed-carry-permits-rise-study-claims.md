@@ -21,9 +21,9 @@ Six states don't require a permit for legal gun owners to conceal their weapons,
 
 The real measure of the deterrent effect of concealed carry permits, according to Lott, is not laws on the books, but the percentage of a given state's population that holds the permits. In 10 states, more than 8 percent of adults hold concealed carry permits, and all are among the states with the lowest crime rates. Lott claims his group's analysis shows that each one percentage point increase in the adult population holding permits brings a 1.4 percent drop in the murder rate.
 
-"We found that the size of the drop \[in crime\] is directly related to the percentage of the population with permits," Lott said.
+"We found that the size of the drop [in crime] is directly related to the percentage of the population with permits," Lott said.
 
-\[...\]
+[...]
 
 The report is the first tally of concealed carry permit holders since a survey in 2011 by the U.S. Government Accountability Office found that 8 million Americans held them.
 

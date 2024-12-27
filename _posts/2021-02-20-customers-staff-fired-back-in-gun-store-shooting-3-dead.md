@@ -15,6 +15,6 @@ Sheriff Joseph Lopinto said the shooter initially struck two people inside, and 
 
 Guns and ammunition are sold in the front of the outlet that faces a main thoroughfare through Jefferson Parish. Customers who want to frequent the gun range generally go around to the side entrance of the building. Staff who work there often wear a sidearm.
 
-\[...\]
+[...]
 
 Source: Associated Press, apnews.com/article/us-news-shootings-new-orleans-metairie-louisiana-d2688cf8a0471ba3a035547b89e4645b

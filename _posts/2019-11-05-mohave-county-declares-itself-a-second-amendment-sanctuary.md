@@ -7,7 +7,7 @@ categories:
 - information
 ---
 
-KINGMAN --- The Mohave County Board of Supervisors on Monday voted unanimously for a resolution declaring the \[Arizona\] county a Second Amendment sanctuary location.
+KINGMAN --- The Mohave County Board of Supervisors on Monday voted unanimously for a resolution declaring the [Arizona] county a Second Amendment sanctuary location.
 
 Board Chair Hildy Angius brought the resolution to the supervisors. She stressed that the resolution isn't legally binding but explained what it means.
 
@@ -33,12 +33,12 @@ Gosar said Second Amendment rights are going to be important during the upcoming
 
 "America has to wake up. Our First and Second Amendment rights are tied together," he said. "If you don't have the Second Amendment, you don't have the First."
 
-\[...\].
+[...].
 
 Biasiucci said people moving to Arizona should know Mohave County supports their Second Amendment rights.
 
 "I think it's vital in getting the right people to move to our district," he also said.
 
-\[...\]
+[...]
 
 Source: Terri Harber, The Daily News (Mohave)

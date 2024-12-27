@@ -27,18 +27,18 @@ Trick question, because in the mind of the author of the above section, they're 
 
 Now, as any gun person would tell you, 50 rounds is not a lot of ammunition. In fact, most handgun ammo isn't available for purchase in sizes less than 50 rounds.
 
-\[...\]
+[...]
 
 Yet what happened here is a reporter saw the number 50 and thought, "That seems like a large number." She didn't bother to reach out to literally anyone who might be familiar with firearms to see if it was or not. She simply made the assumption based on her own understanding, which is pathetically limited in this instance. And that's me giving her the benefit of the doubt and operating on the assumption this wasn't a willful misrepresentation, which I can't swear it wasn't.
 
 This isn't unusual, either.
 
-\[...\]
+[...]
 
 They don't know what they're talking about.
 
 We do.
 
-\[...\]
+[...]
 
 Source: Tom Knighton, bearingarms.com/tomknighton/2024/07/17/the-independent-freaks-over-would-be-assassins-small-ammo-purchase-n1225629?

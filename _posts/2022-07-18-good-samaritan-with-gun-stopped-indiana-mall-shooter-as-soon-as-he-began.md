@@ -12,11 +12,11 @@ In another Democrat narrative-debunking situation, a law-abiding citizen carryin
 
 In a Greenwood, Indiana, mall --- roughly 15 miles south of Indianapolis --- a man armed with a rifle opened fire on Sunday evening in the food court, fatally shooting three individuals and wounding two others. But then, a "a good Samaritan with a handgun," according to Greenwood police Chief James Ison, put the shooter down.
 
-\[...\]
+[...]
 
 The bystander, identified as a 22-year-old who was in the food court when the shooting started, "was able to stop this shooter almost as soon as he began." Ison added. "The real hero of the day is the citizen that was lawfully carrying a firearm in that food court," he said at a press conference.
 
-\[...\]
+[...]
 
 The Mayor of Greenwood, Mark Myers also heralded the decisive action taken by the "good Samaritan" saying "this person saved lives tonight ... On behalf of the City of Greenwood, I am grateful for his quick action and heroism in this situation."
 

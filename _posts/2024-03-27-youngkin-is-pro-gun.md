@@ -19,11 +19,11 @@ In fact, Youngkin has been a solid bet for Virginia gun rights activists.
 >
 > “I swore an oath to defend the Constitution of the United States of America and the Constitution of Virginia, and that absolutely includes protecting the right of law-abiding Virginians to keep and bear arms,” Youngkin said in a statement.
 
-\[...\]
+[...]
 
 All in all, he knocked down every anti-gun bill sent to him, gave the legislature a reason, and some of them aren't really reasons they can work around. His arguments are solidly pro-gun and while there are suggestions he's open to compromise, I don't actually see any of that here and now.
 
-\[...\]
+[...]
 
 All of these bills were trainwrecks in and of themselves. If all of them had been signed, it would have changed the landscape of Virginia in ways that would propel it into the ranks of among the most anti-gun states in the nation.
 

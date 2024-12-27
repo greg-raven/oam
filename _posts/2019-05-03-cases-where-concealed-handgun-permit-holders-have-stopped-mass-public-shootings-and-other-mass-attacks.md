@@ -17,8 +17,8 @@ Permit holders stopped some mass public shootings that gained extensive news cov
 
 A note: Gun control advocates raise the concern that concealed handgun permit holders who stop an attack might accidentally shoot a bystander. They are also fearful that the police might accidentally kill the permit holder. While such incidents are a possibility, they have yet to occur. We probably do not have all the cases where a permit holder stopped a mass public shooting, but if a permit holder were to shoot a bystander, it seems clear that such an event would get news coverage.
 
-\[...\]
+[...]
 
-\[[See the full article here](https://crimeresearch.org/2019/05/uber-driver-in-chicago-stops-mass-public-shooting/).\]
+[[See the full article here](https://crimeresearch.org/2019/05/uber-driver-in-chicago-stops-mass-public-shooting/).]
 
 Source: Crime Prevention Research Center

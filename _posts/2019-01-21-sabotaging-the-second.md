@@ -55,7 +55,7 @@ But even that is not enough for Stevens, whose anti-Second Amendment advocacy ha
 
 In 2014, for example, he authored a book characterized by his publisher as "an absolutely unprecedented call to arms, detailing six specific ways in which the Constitution should be amended in order to protect our democracy and the safety and well-being of American citizens." Unsurprisingly, the proposals included qualifying "the right of the people to keep and bear Arms" in the Second Amendment with the phrase, "when serving in the militia." This would effectively repeal the individual Second Amendment right recognized in Heller and McDonald.
 
-If that weren't explicit enough, Stevens last year advocated doing away with the Second Amendment entirely in a high-profile editorial published in *The New York Times.* "Overturning \[the Heller\] decision via a constitutional amendment to get rid of the Second Amendment would be simple and would do more to weaken the NRA's ability to stymie legislative debate and block constructive gun control legislation than any other available option," he wrote.
+If that weren't explicit enough, Stevens last year advocated doing away with the Second Amendment entirely in a high-profile editorial published in *The New York Times.* "Overturning [the Heller] decision via a constitutional amendment to get rid of the Second Amendment would be simple and would do more to weaken the NRA's ability to stymie legislative debate and block constructive gun control legislation than any other available option," he wrote.
 
 To the contrary, I can promise Stevens that repealing the Second Amendment will never be "simple" as long as the NRA and its more than 5 million members have anything to say about it.
 

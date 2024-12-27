@@ -13,7 +13,7 @@ North Carolina Republican Rep. Richard Hudson on Monday released the details of 
 
 "Our Second Amendment right doesn't disappear when we cross state lines, and I plan to introduce legislation in the first days of the 115th Congress to guarantee that," Hudson told the Daily Caller. "The Concealed Carry Reciprocity Act of 2017 is a common sense bill to provide law-abiding citizens the right to conceal carry and travel freely between states without worrying about conflicting state codes or onerous civil suits."
 
-"As a member of President-elect \[Donald\] Trump's Second Amendment Coalition," Hudson continued, "I look forward to working with the administration to advance policies that support and protect our right to keep and bear arms."
+"As a member of President-elect [Donald] Trump's Second Amendment Coalition," Hudson continued, "I look forward to working with the administration to advance policies that support and protect our right to keep and bear arms."
 
 The text of the proposal, first reported by the Caller, would prevent more restrictive states from prohibiting those from out of state from legally carrying a gun. It would require those carrying a gun to also carry the permit from their state and government-issued picture ID. They would also be required to follow the state's laws on concealed carry.
 

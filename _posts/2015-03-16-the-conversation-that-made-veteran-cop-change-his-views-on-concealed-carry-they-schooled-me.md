@@ -11,7 +11,7 @@ Speaking before the Maryland Senate last week, a retired Maryland State Police o
 
 As the head of the Maryland State Police Licensing Division, Jack McCauley decided what would qualify as a "good and substantial" reason to obtain a handgun permit on a case by case basis. Maryland is a "may issue" state --- meaning the ultimate decision on whether to issue a concealed carry permit is left to a government official.
 
-\[...\]
+[...]
 
 "These crazy people, these Second Amendment activists, they're all going to want these, they're trophies. They're all going to want these permits, it's going to be scary. Dangerous people are going to be getting guns. Just any Joe citizen is going to get a gun."
 
@@ -27,7 +27,7 @@ McCauley said there are over 11 million licensed handgun permit holders in the U
 
 When he tried to discredit the study, McCauley said he failed. Since retiring, he has been vocal as a gun rights activist on the "may issue" law in Maryland.
 
-\[...\]
+[...]
 
 (H/T: Bearing Arms)
 

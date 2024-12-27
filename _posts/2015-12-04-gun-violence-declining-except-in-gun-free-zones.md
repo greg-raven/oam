@@ -9,7 +9,7 @@ categories:
 
 On December 3, *The Washington Post* reported that gun crime has been on the decline for about 20 years, except for high-profile shootings in gun-free zones; WaPo claims those shootings are on the increase.
 
-According to *WaPo,* "In 1993, there were seven homicides by firearm for every 100,000 Americans ... By 2013, that figure had fallen by nearly half, to 3.6 \[per 100,000\]."
+According to *WaPo,* "In 1993, there were seven homicides by firearm for every 100,000 Americans ... By 2013, that figure had fallen by nearly half, to 3.6 [per 100,000]."
 
 Breitbart News previously pointed to this decline and explained it correlated with a massive increase in privately owned firearms over the same period of time. For example, Congressional Research Service showed that the number of privately owned firearms increased from 192 million in 1994 to 310 million in 2009. And record background checks under Obama make it easy to see how tens of millions more privately owned guns have found their way into Americans' hands since 2009.
 

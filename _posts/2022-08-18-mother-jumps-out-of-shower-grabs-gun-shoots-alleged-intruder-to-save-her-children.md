@@ -17,7 +17,7 @@ The mother, who wishes to be unidentified, commented on the incident, saying, "I
 
 An updated WTMJ report notes, "The mother bought the gun ten years ago, she said, after discovering a man sleeping under her son's bed. She said she hoped she'd never need to use it."
 
-But, she said, "I knew I'd be able to do it \[shoot the intruder\], to protect my kids."
+But, she said, "I knew I'd be able to do it [shoot the intruder], to protect my kids."
 
 Newsweek notes that NBC 11 quoted local community activist Bushraa Rahman reacting to the incident, saying, "She was scared because her children were there with her. So, she did what any mother would do. She defended her children. It was an act of self-defense."
 

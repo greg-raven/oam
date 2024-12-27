@@ -11,7 +11,7 @@ On October 9, the Crime Prevention Research Center (CPRC) released a revised rep
 
 The CPRC report was released in response to an Everytown for Gun Safety study claiming only 14% of mass public shootings took place in gun-free zones. Everytown actually claimed 86% of such incidents occurred in places where guns were allowed.
 
-\[...\]
+[...]
 
 Using the same numerical standard that Everytown used --- four or more people killed --- but taking all rules and regulations against firearm possession into account, CPRC showed that only 8% of mass public shootings occurred in places where citizens could have guns for self defense.
 

@@ -9,7 +9,7 @@ categories:
 - information
 ---
 
-"... \[T\]he Yolo County policy impermissibly infringes on the Second Amendment right to bear arms in lawful self-defense."
+"... [T]he Yolo County policy impermissibly infringes on the Second Amendment right to bear arms in lawful self-defense."
 
 BELLEVUE, WA --- The Second Amendment Foundation and The Calguns Foundation earned a significant victory today when the Ninth Circuit Court of Appeals reversed and remanded the case of Richards v. Prieto, challenging the handgun carry license issuing policy of Yolo County, California, Sheriff Ed Prieto.
 

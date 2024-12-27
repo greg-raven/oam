@@ -31,6 +31,6 @@ Shutts said a reason why she supports the resolution is that she's "very concern
 
 So concerned, she said, that she hopes she won't be alive to see it.
 
-\[...\]
+[...]
 
 Source: Terri Harber, mohavedailynews.com/news/city-council-approves-second-amendment-sanctuary-declaration/article_be9349a8-3cde-11ea-869c-b73fe2c41513.html

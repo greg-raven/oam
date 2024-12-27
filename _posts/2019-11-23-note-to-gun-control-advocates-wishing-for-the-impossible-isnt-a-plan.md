@@ -35,7 +35,7 @@ That's even if the gun is "lawfully registered, unloaded, in a locked container"
 
 Unless the gun owner gets a permit from the Secretariat of National Defense, that person cannot leave his or her house with a gun. If you think that could not happen here in the United States, just look at what many prominent Democrats and anti-gun rights groups are telling us about their plans for gun control.
 
-\[...\]
+[...]
 
 The gun --- or the car --- doesn't kill people. And the person who doesn't use his or her gun --- or car --- to commit crimes doesn't kill people, either.
 

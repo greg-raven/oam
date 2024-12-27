@@ -8,7 +8,7 @@ categories:
 - situations
 ---
 
-> One surely unintended consequence of this week's violence: When the National Guard is patrolling the streets because huge armed police forces can't keep criminals from turning cities into war zones, America's gun control debate is \*finished\* for at least a generation. Over. Done.
+> One surely unintended consequence of this week's violence: When the National Guard is patrolling the streets because huge armed police forces can't keep criminals from turning cities into war zones, America's gun control debate is *finished* for at least a generation. Over. Done.
 >
 > <cite>David Martosko (@dmartosko) [June 1, 2020](https://x.com/dmartosko/status/1267295764092461056)</cite>
 

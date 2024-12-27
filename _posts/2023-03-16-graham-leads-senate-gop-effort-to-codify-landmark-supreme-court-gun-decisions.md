@@ -39,7 +39,7 @@ The National Rifle Association issued a statement supporting the codification bi
 
 While the NRA supported the GOP lawmakers' effort, Gun Owners of America's federal affairs director Aidan Johnston told the Washington Examiner Graham's bill does not have the teeth to accomplish what the lawmakers argued it would do.
 
-"\[GOA\] would happily work with any member of Congress to help codify Heller, McDonald, and Bruen decisions into federal law ... Unfortunately, I think this particular bill entirely fails to do that and so that's why we're not supportive of this particular bill," Johnston said, referring to a 2010 case in McDonald v. the City of Chicago that cemented due process for gun owners.
+"[GOA] would happily work with any member of Congress to help codify Heller, McDonald, and Bruen decisions into federal law ... Unfortunately, I think this particular bill entirely fails to do that and so that's why we're not supportive of this particular bill," Johnston said, referring to a 2010 case in McDonald v. the City of Chicago that cemented due process for gun owners.
 
 The pair of Second Amendment advocacy groups differ on a number of factors. The GOA, which sports more than 2 million members, was founded in the 1970s on the belief that the NRA was too flexible on gun issues. However, the NRA's larger 5.5 million member-base has proven formidable in funding a number of GOP campaigns and gun deregulation efforts.
 

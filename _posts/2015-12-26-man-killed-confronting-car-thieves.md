@@ -16,13 +16,13 @@ Police found the 55-year-old home remodeler stabbed multiple times in front of h
 
 Albuquerque officer Simon Drobik said police think that McKinley confronted two thieves who had broken into his car, and that at least one of them stabbed him. No one had been arrested by Saturday night.
 
-\[...\]
+[...]
 
 Before he died, McKinley told police two men had been trying to break into his truck and fled in a dark-colored Jeep.
 
 The assailants were gone when police arrived and they haven't been identified.
 
-\[...\]
+[...]
 
 "It appears that it was an auto burglary in progress that progressed from a property crime to a violent crime," Drobik said.
 
@@ -40,6 +40,6 @@ Valerie McKinley says her dad owned a gun and had a concealed carry permit but a
 
 "It doesn't seem like he knew there was any danger," she said. "I don't get it. I know if he saw someone out there, he wouldn't have come out unarmed."
 
-\[...\]
+[...]
 
 Source: Nicole Perez and Robert Browman, abqjournal.com/696969/news/police-respond-to-stabbing-in-albuquerque.html

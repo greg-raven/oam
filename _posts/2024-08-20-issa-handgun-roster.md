@@ -28,7 +28,7 @@ The bill has received support from the following organizations:
 - National Shooting Sports Foundation (NSSF)
 - Firearms Regulatory Accountability Coalition (FRAC)
 
-"The Modern Firearm Safety Act contains positive provisions that would bar abusive laws and administrative rules that are designed to stifle firearms technology and/or limit access to mainstream firearms in common use by law-abiding Americans and sportsmen. Overall, the cited bill's provisions are beneficial to law-abiding sportsmen, lawfully-armed Americans, and the industry—and FRAC strongly supports such provisions," said Travis White, President & CEO of FRAC.
+"The Modern Firearm Safety Act contains positive provisions that would bar abusive laws and administrative rules that are designed to stifle firearms technology and/or limit access to mainstream firearms in common use by law-abiding Americans and sportsmen. Overall, the cited bill's provisions are beneficial to law-abiding sportsmen, lawfully-armed Americans, and the industry --- and FRAC strongly supports such provisions," said Travis White, President & CEO of FRAC.
 
 <a href="https://issa.house.gov/sites/evo-subsites/issa.house.gov/files/evo-media-document/MFSA%20Text.pdf">The bill text can be found here</a>.
 

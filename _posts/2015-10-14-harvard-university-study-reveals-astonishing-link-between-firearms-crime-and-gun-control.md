@@ -23,7 +23,7 @@ By the early 1990s, Russia's murder rate was three times higher than that of the
 
 According to a study in the Harvard Journal of Law & Public Policy, which cites the Centers for Disease Control, the U.S. National Academy of Sciences and the United Nations International Study on Firearms Regulation, the more guns a nation has, the less criminal activity.
 
-\[...\]
+[...]
 
 Source: Rob Kerby, [Beliefnet.com](https://www.beliefnet.com/News/Articles/Harvard-University-Study-Reveals-Astonishing-Link.aspx?p=1)
 

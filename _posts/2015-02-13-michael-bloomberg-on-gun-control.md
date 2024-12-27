@@ -13,7 +13,7 @@ At the Institute's Feb. 5 event, the pro-gun control multi-billionaire suggested
 
 Ninety-five percent of murders are attributed to the group, said Bloomberg, who has spend tens of millions of dollars on various gun control initiatives, including the group Everytown for Gun Safety.
 
-\[...\]
+[...]
 
 During his talk, Bloomberg also discussed "stop-and-frisk," a policing practice he advocated and expanded during his mayoral tenure. He said that one way to deal with the issue of gun proliferation among young, minority males is to "throw them up against the wall and frisk them."
 

@@ -13,9 +13,9 @@ While the first part of the discussion here goes through each mass public shooti
 
 We have since updated our information up through May 30, 2018.
 
-\[...\]
+[...]
 
-\[[See the full article here](https://crimeresearch.org/2018/06/more-misleading-information-from-bloombergs-everytown-for-gun-safety-on-guns-analysis-of-recent-mass-shootings/).\]
+[[See the full article here](https://crimeresearch.org/2018/06/more-misleading-information-from-bloombergs-everytown-for-gun-safety-on-guns-analysis-of-recent-mass-shootings/).]
 
 Source: Crime Prevention Research Center
 

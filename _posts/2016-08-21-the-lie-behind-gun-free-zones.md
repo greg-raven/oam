@@ -21,7 +21,7 @@ President Obama commissioned the Centers for Disease Control to study gun violen
 >
 > <cite>Erich Pratt</cite>
 
-> "We're not going to make people safe by trying to restrict access to guns. Because bad guys, we have found, get access to guns no matter what. You'll impede it for the good guys, bad guys will \[still\] be armed."
+> "We're not going to make people safe by trying to restrict access to guns. Because bad guys, we have found, get access to guns no matter what. You'll impede it for the good guys, bad guys will [still] be armed."
 >
 > <cite>Larry Pratt</cite>
 

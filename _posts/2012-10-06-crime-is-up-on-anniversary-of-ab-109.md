@@ -26,7 +26,7 @@ Roelle said it's a misconception that these offenders are non-serious because th
 
 "They're not looking at the offender's history, so once they are released they are reoffending," Roelle said. "That's why we see a large spike in burglaries and those types of crimes."
 
-\[...\]
+[...]
 
 Roelle explained that AB 109 was passed after the state was sued because inmates were not getting proper medical care because of overcrowding.
 

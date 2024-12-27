@@ -17,11 +17,11 @@ CASE NO. 1:11-CV-2137 AWI SAB
 
 FINDINGS OF FACT AND CONCLUSIONS OF LAW
 
-\[...\]
+[...]
 
 After considering the evidence and the arguments, the Court concludes that Penal Code § 26815(a) and § 27540(a)'s 10-day waiting periods impermissibly violate the Second Amendment as applied to those persons who already lawfully possess a firearm as confirmed by the AFS, to those who possess a valid CCW license, and to those who possess both a valid COE and a firearm as confirmed by the AFS system, if the background check on these individuals is completed and approved prior to the expiration of 10 days. Because of the Court's resolution of the Second Amendment issue, the Court need not reach the Fourteenth Amendment challenges.
 
-\[...\]
+[...]
 
 The Court has found that the 10-day waiting periods of Penal Code § 26815(a) and § 27540(a) violate the Second Amendment as applied to certain groups. Plaintiffs urge the Court to follow the approach of Moore v. Madigan, 702 F.3d 933, 942 (7th Cir. 2012), in which the Seventh Circuit stayed its ruling for 180-days in order to give the Illinois legislature the opportunity to craft new laws in light the unconstitutionality of various Illinois firearms laws. The Court finds Moore's approach to be appropriate.
 
@@ -39,7 +39,7 @@ a. If the BFEC/standard background check for such an individual is completed and
 
 a. If the BFEC/standard background check for such an individual is completed and approved before 10-days, Defendant shall immediately release the firearm for delivery to such individual and shall not wait the full 10-days;
 
-\[...\]
+[...]
 
 5\. Nothing in this order is to be construed as interfering with Defendant's authority to deny a transfer or sale of a firearm to those who are prohibited by state or federal law from possessing a firearm;
 

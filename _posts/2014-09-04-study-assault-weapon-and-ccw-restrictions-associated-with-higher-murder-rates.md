@@ -7,7 +7,7 @@ categories:
 - information
 ---
 
-In a new study, Mark Gius, of Quinnipiac University's Department of Economics, has found that between 1980 and 2009, "states with more restrictive CCW laws had gun-related murder rates that were 10% higher" than those of other states. Gius also concluded that state "murder rates were 19.3% higher when the Federal \['assault weapon' and 'large' magazine\] ban was in effect." Gius says that more research is needed to determine whether these gun control laws contributed to, or merely coincided with, higher rates of crime.
+In a new study, Mark Gius, of Quinnipiac University's Department of Economics, has found that between 1980 and 2009, "states with more restrictive CCW laws had gun-related murder rates that were 10% higher" than those of other states. Gius also concluded that state "murder rates were 19.3% higher when the Federal ['assault weapon' and 'large' magazine] ban was in effect." Gius says that more research is needed to determine whether these gun control laws contributed to, or merely coincided with, higher rates of crime.
 
 Nationally, murder rates have certainly been lower since the federal gun and magazine bans were in effect. The bans went into effect in September 1994 and expired in September 2004. During the 10 years 1995-2004, the average annual murder rate was 6.2 per 100,000 population. From 2005 to 2012, however, the average rate has been 16 percent lower, at 5.2 per 100,000.
 
@@ -19,6 +19,6 @@ The findings of the Gius study are essentially in line with two other major stud
 
 The Gius study adds to the increasing body of research concluding that Right-to-Carry laws don't increase crime and may reduce it. It also adds to the already substantial body of evidence that restricting general-purpose semi-automatic rifles and limiting magazine capacity doesn't reduce crime.
 
-\[...\]
+[...]
 
 See the full story here: dailycaller.com/2014/09/04/study-assault-weapon-and-ccw-restrictions-associated-with-higher-murder-rates/

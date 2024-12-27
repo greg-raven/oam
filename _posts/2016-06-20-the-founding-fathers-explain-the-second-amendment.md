@@ -41,7 +41,7 @@ Here are just a few quotes from buckeyefirearms.org:
 >
 > <cite>Thomas Jefferson, letter to John Cartwright, 5 June 1824</cite>
 
-> "On every occasion \[of Constitutional interpretation\] let us carry ourselves back to the time when the Constitution was adopted, recollect the spirit manifested in the debates, and instead of trying \[to force\] what meaning may be squeezed out of the text, or invented against it, \[instead let us\] conform to the probable one in which it was passed."
+> "On every occasion [of Constitutional interpretation] let us carry ourselves back to the time when the Constitution was adopted, recollect the spirit manifested in the debates, and instead of trying [to force] what meaning may be squeezed out of the text, or invented against it, [instead let us] conform to the probable one in which it was passed."
 >
 > <cite>Thomas Jefferson, letter to William Johnson, 12 June 1823</cite>
 
@@ -53,7 +53,7 @@ Here are just a few quotes from buckeyefirearms.org:
 >
 > <cite>Benjamin Franklin, Historical Review of Pennsylvania, 1759</cite>
 
-> "To disarm the people ... \[i\]s the most effectual way to enslave them."
+> "To disarm the people ... [i]s the most effectual way to enslave them."
 >
 > <cite>George Mason, referencing advice given to the British Parliament by Pennsylvania governor Sir William Keith, The Debates in the Several State Conventions on the Adooption of the Federal Constitution, June 14, 1788</cite>
 
@@ -117,7 +117,7 @@ Here are just a few quotes from buckeyefirearms.org:
 >
 > <cite>Alexander Hamilton, Federalist No. 28</cite>
 
-> "\[I\]f circumstances should at any time oblige the government to form an army of any magnitude that army can never be formidable to the liberties of the people while there is a large body of citizens, little, if at all, inferior to them in discipline and the use of arms, who stand ready to defend their own rights and those of their fellow-citizens. This appears to me the only substitute that can be devised for a standing army, and the best possible security against it, if it should exist."
+> "[I]f circumstances should at any time oblige the government to form an army of any magnitude that army can never be formidable to the liberties of the people while there is a large body of citizens, little, if at all, inferior to them in discipline and the use of arms, who stand ready to defend their own rights and those of their fellow-citizens. This appears to me the only substitute that can be devised for a standing army, and the best possible security against it, if it should exist."
 >
 > <cite>Alexander Hamilton, Federalist No. 28, January 10, 1788</cite>
 
@@ -125,6 +125,6 @@ Here are just a few quotes from buckeyefirearms.org:
 >
 > <cite>Tench Coxe, Philadelphia Federal Gazette, June 18, 1789</cite>
 
-Did the founders make themselves clear? \[...\]
+Did the founders make themselves clear? [...]
 
 Source: Brian Thomas, thefederalistpapers.org/us/the-founding-fathers-explain-the-second-amendment-this-says-it-all

@@ -15,6 +15,6 @@ Judge Roger Benitez handed down a ruling in the case of Fouts v. Bonta on Friday
 
 The ruling underscores a fundamental tenet of American liberty: The right to keep and bear arms. It is commonly assumed that this only refers to carrying firearms, but the reality is that it protects one's right to possess the means by which someone can protect life and property. In this case, it allows people to use alternatives to guns to safeguard themselves and others.
 
-\[...\]
+[...]
 
 Source: Jeff Charles, redstate.com/jeffc/2024/02/25/federal-judge-clobbers-californias-silly-ban-on-billy-clubs-in-devastating-ruling-n2170556

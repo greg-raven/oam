@@ -17,6 +17,6 @@ This is where the Associated Press comes in, albeit unintentionally. The AP is a
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">AMAZING <br><br>11 minutes apart. 🤦🏻‍♀️ <a href="https://t.co/zoIOO18vIZ">pic.twitter.com/zoIOO18vIZ</a></p>&mdash; Kristi (@TheyCallMeNans) <a href="https://twitter.com/TheyCallMeNans/status/1655660650113146895">May 8, 2023</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
-\[...\]
+[...]
 
 Source: Doug P., twitchy.com/dougp-3137/2023/05/08/doh-associated-press-accidentally-debunked-kjp-just-minutes-after-her-whopper-about-mass-shootings/

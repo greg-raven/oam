@@ -17,7 +17,7 @@ In 2014, Judge Frederick Scullin of the New York District Court ruled in Palmer 
 
 > District of Columbia's total ban on the carrying of handguns in public was unconstitutional; and, therefore, the Court permanently enjoined Defendants from enforcing D.C. Code §§ 7-2502(a)(4) and 22-4504(a). On July 28, 2014, Defendants filed a partially unopposed motion to stay pending appeal or, in the alternative, for 180 days and for immediate administrative stay.
 >
-> In support of this motion, Defendants' counsel advised the Court that he had conferred with Plaintiffs' counsel, "who indicated that \[P\]laintiffs do not oppose a 90-day stay starting immediately 'pending the city council enacting remedial legislation that complies with constitutional standards.'
+> In support of this motion, Defendants' counsel advised the Court that he had conferred with Plaintiffs' counsel, "who indicated that [P]laintiffs do not oppose a 90-day stay starting immediately 'pending the city council enacting remedial legislation that complies with constitutional standards.'
 
 The new concealed carry law went into effect on October 22, 2014; the day the stay would expire. Yet, there were still stringent standards that many would view as unconstitutional, especially the "good reason" provision, wherein the applicant must tell the city why they must have a carry permit. The city could arbitrarily reject them, as D.C. has a "may issue" carry law. To give some clarity on how absurd may issue carry states operate, just look at Fox Business' John Stossel's odyssey to obtain a carry permit in New York. It took him eight and a half months, and a $430 processing fee, for his application process to end with a letter of rejection from the New York City Police Department.
 

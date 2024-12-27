@@ -11,6 +11,6 @@ Before she blocked me last week on Twitter, I frequently read the posts of Shann
 
 It's alarming how frequently Watts manipulates data to craft a narrative that America is held hostage to pervasive gun violence and how often she and her organization regurgitate the usual debunked Democrat and DMIC (Democrat Media Industrial Complex) myths, lies, half-truths, and conspiracy theories.
 
-\[...\]
+[...]
 
 Source: Rich Logis, americanthinker.com/articles/2018/12/deconstructing_the_antigun_cult.html

@@ -15,7 +15,7 @@ Multiple credible scientific studies going back more than a decade, as well as i
 
 The following is a list of mass shooting perpetrators and the drugs they were taking or had been taking shortly before their horrific actions. The list was compiled and published to Facebook by John Noveske, founder and owner of Noveske Rifleworks just days before he was mysteriously killed in a single-car accident. Is there a link between Noveske's death and his "outing" of information numerous disparate parties would prefer to suppress, for a variety of reasons?
 
-\[...\]
+[...]
 
 On to the list of mass shooters and the stark link to psychotropic drugs.
 

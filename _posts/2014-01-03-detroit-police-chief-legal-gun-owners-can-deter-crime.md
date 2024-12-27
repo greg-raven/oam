@@ -19,7 +19,7 @@ Craig said he started believing that legal gun owners can deter crime when he be
 
 "I changed my orientation real quick. Maine is one of the safest places in America. Clearly, suspects knew that good Americans were armed."
 
-\[...\]
+[...]
 
 Source: George Hunter, detroitnews.com/article/20140103/METRO01/301030038/Detroit-police-chief-Legal-gun-owners-can-deter-crime
 

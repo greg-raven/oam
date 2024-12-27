@@ -17,7 +17,7 @@ Current owners of AR-15s were grandfathered in but had to register their firearm
 
 Judge Stephen P. McGlynn, of the Southern District of Illinois and Trump appointee, heard the motions for a preliminary injunction. The judge ruled that the PICA was likely unconstitutional thanks to the Bruen decision and that the plaintiffs would likely succeed on the merits of the cases. The judge also stated that the Second Amendment is not for hunting but for the citizenry to defend itself against a tyrannical government.
 
-> "During the founding era, '\[i\]t was understood across the political spectrum that the right ... might be necessary to oppose an oppressive military force if the constitutional order broke down.' Therefore, although 'most undoubtedly thought \[the Second Amendment\] even more important for self-defense and hunting' the additional purpose of securing the ability of the citizenry to oppose an oppressive military, should the need arise, cannot be overlooked," the judge wrote in his 29-page decision.
+> "During the founding era, '[i]t was understood across the political spectrum that the right ... might be necessary to oppose an oppressive military force if the constitutional order broke down.' Therefore, although 'most undoubtedly thought [the Second Amendment] even more important for self-defense and hunting' the additional purpose of securing the ability of the citizenry to oppose an oppressive military, should the need arise, cannot be overlooked," the judge wrote in his 29-page decision.
 
 The judge also weighed into the controversy surrounding the Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF) rule on pistol stabilizing devices.
 

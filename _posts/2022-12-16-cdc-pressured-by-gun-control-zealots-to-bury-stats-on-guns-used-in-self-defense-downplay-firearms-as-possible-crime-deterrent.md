@@ -17,7 +17,7 @@ While those in the former camp are not liable to make much more trouble, a new r
 
 A 2013 study commissioned by the CDC and resultant in part by an executive order issued by former President Barack Obama suggested that DGU incidents ranged in frequency from 60,000 to 2.5 million each year.
 
-The report stated, "Estimates of gun use for self-defense vary widely, in part due to definitional differences for self-defensive gun use; different data sources; and questions about accuracy of data, particularly when self-reported. \[The National Crime Victimization Survey\] has estimated 60,000 to 120,000 defensive uses of guns per year."
+The report stated, "Estimates of gun use for self-defense vary widely, in part due to definitional differences for self-defensive gun use; different data sources; and questions about accuracy of data, particularly when self-reported. [The National Crime Victimization Survey] has estimated 60,000 to 120,000 defensive uses of guns per year."
 
 The report also noted, "Another body of research estimated annual gun use for self-defense to be much higher, up to 2.5 million incidents, suggesting self-defense can be an important crime deterrent."
 
@@ -27,13 +27,13 @@ Up until this year, this range was reflected on the CDC's gun facts page.
 
 CNN analyst and Reload founder Stephen Gutowski obtained emails between the CDC and anti-gun activists through a Freedom of Information Act request, which revealed a pressure campaign to discount and discard Kleck's findings.
 
-Mark Bryant, executive director of the Gun Violence Archive, wrote to the CDC in one email, "\[T\]hat 2.5 Million number needs to be killed, buried, dug up, killed again and buried again."
+Mark Bryant, executive director of the Gun Violence Archive, wrote to the CDC in one email, "[T]hat 2.5 Million number needs to be killed, buried, dug up, killed again and buried again."
 
 "It is highly misleading, is used out of context and I honestly believe it has zero value --- even as an outlier point in honest DGU discussions," added Bryant.
 
 The Reload reported that Bryant appeared convinced Kleck's estimate was detrimental to the anti-gun agenda and to activists' ability to pass new gun restrictions.
 
-"And while that very small study by Gary Kleck has been debunked repeatedly by everyone from all sides of this issue \[even Kleck\] it still remains canon by gun rights folks and their supporting politicians and is used as a blunt instrument against gun safety regulations every time there is a state or federal level hearing," wrote Bryant.
+"And while that very small study by Gary Kleck has been debunked repeatedly by everyone from all sides of this issue [even Kleck] it still remains canon by gun rights folks and their supporting politicians and is used as a blunt instrument against gun safety regulations every time there is a state or federal level hearing," wrote Bryant.
 
 The gun-control activist added, "Put simply, in the time that study has been published as 'a CDC Study' gun violence prevention policy has ground to a halt, in no small part because of the misinformation that small study provided."
 
@@ -47,7 +47,7 @@ Despite the anti-gun group's dubious claims, the CDC ultimately buckled under th
 
 Following a virtual meeting with Bryant in September 2021, Beth Reimels, associate director for policy, partnerships, and strategic communication at the CDC's division of violence prevention, wrote in an email, "We are planning to update the fact sheet in early 2022 after the release of some new data."
 
-Reimels indicated that the corresponding edits would "address the concerns \[Bryant\] and other partners have raised."
+Reimels indicated that the corresponding edits would "address the concerns [Bryant] and other partners have raised."
 
 The 60,000 to 2.5 million range was deleted.
 

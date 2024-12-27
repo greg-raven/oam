@@ -13,6 +13,6 @@ The Bismarck Police Department, in its 2019 budget request, is asking for money 
 
 "I fully believe that we have some solid preventative measures in place, and generally our schools are safe," said Lt. Jason Stugelmeyer. "But we have to do everything we can to be prepared for something if it did happen."
 
-\[...\]
+[...]
 
 Source: Aaron Colen, [TheBlaze.com](https://www.theblaze.com/news/2018/08/13/police-want-local-school-resource-officers-armed-with-ar-15s-in-north-dakota)

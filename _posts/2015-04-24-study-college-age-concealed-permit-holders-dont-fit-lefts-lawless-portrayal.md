@@ -27,10 +27,10 @@ Here's what CPRC found:
 
 > Michigan and Texas normally only allow people to carry permitted concealed handguns once they turn 21. However, in Texas younger people can get special approval if they are facing extenuating circumstances, such as being stalked. In any give year, there are about 90 to 185 such permits that granted to 18 to 20 year olds. None of the 18 to 20 year olds in Texas who were granted such a permit have ever had it revoked.
 
-\[...\]
+[...]
 
 The bottom line from the CPRC:
 
-> Much of the gun control debate \[regarding Campus Carry\] focuses on things that might possibly go wrong. Yes, some young people behave irresponsibly. But those who are willing to go through the permitting process are different from those who don't. They are responsible.
+> Much of the gun control debate [regarding Campus Carry] focuses on things that might possibly go wrong. Yes, some young people behave irresponsibly. But those who are willing to go through the permitting process are different from those who don't. They are responsible.
 
 Source: AWR Hawkins, breitbart.com/big-government/2015/04/24/study-college-age-concealed-permit-holders-dont-fit-lefts-lawless-portrayal/

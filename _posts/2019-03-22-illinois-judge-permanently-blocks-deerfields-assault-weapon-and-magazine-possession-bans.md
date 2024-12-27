@@ -21,7 +21,7 @@ The Village of Deerfield's Mayor, Harriett Rosenthal, has fought vigorously to m
 
 Rosenthal also partnered with the high-powered and nationally known, white shoe law firm Perkins and Coie.
 
-\[...\]
+[...]
 
 Now that temporary order has been made permanent. Deerfield traveled down a tough and expensive road to keep their beloved disarmament ordinance. And while they've lost in court again, it seems likely they will continue to spend taxpayer money to defend the indefensible on appeal.
 

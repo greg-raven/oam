@@ -29,7 +29,7 @@ To be precise, there are a few precedents pre-1900, but none are valid any longe
 
 After incidents in which armed black people deterred lynch mobs, Florida in 1893 enacted a license requirement an exorbitant bond to carry or possess a "Winchester rifle or other repeating rifle." Fla. Laws 1893, ch. 4147, §1. In a 1941, a Florida Supreme Court Justice explained that the statute was enacted to control black laborers:
 
-> The statute was never intended to be applied to the white population and in practice has never been so applied .... \[T\]here has never been, within my knowledge, any effort to enforce the provisions of this statute as to white people, because it has been generally conceded to be in contravention of the Constitution and nonenforceable if contested.
+> The statute was never intended to be applied to the white population and in practice has never been so applied .... [T]here has never been, within my knowledge, any effort to enforce the provisions of this statute as to white people, because it has been generally conceded to be in contravention of the Constitution and nonenforceable if contested.
 
 *Watson v. Stone,* 4 So. 2d 700, 703 (1941) (Buford, J., concurring) (agreeing with majority holding that the statute does not apply to automobile carry).
 

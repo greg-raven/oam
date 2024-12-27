@@ -11,7 +11,7 @@ A Crime Prevention Research Center (CPRC) study shows that concealed carry permi
 
 For example, for 2016 the study shows that just .0092% of Louisiana permit holders were charged with a felony in 2016. And in 2015 there "were 25,208 violent crimes in Louisiana, with 19 felony charges or convictions against permit holders." Assuming the felonies were violent and the charges against permit holders stand, this still means permit holders only represent .08% of those who committed violent crimes.
 
-Moreover, "the vast majority of ... \[cases involving concealed permit holders\] are unlikely to involve firearms."
+Moreover, "the vast majority of ... [cases involving concealed permit holders] are unlikely to involve firearms."
 
 According to CPRC, the percentage of Michigan concealed permit holders convicted of aggravated assault in 2015-2016 was .003%. The percentage of Michigan permit holders convicted of aggravated assaults in 2014-2015 was .002%
 

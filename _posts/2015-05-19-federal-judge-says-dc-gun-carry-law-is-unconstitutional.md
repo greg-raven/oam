@@ -25,7 +25,7 @@ In Monday's order, the court sided with the plaintiffs.
 
 The plaintiffs say they are pleased with the ruling. "This is a devastating loss for the District and its anti-gun-rights policy," Second Amendment Foundation executive vice president Alan Gottlieb said in a statement.
 
-\[...\]
+[...]
 
 If D.C. decides to fight the court's ruling, the plaintiffs will continue with their case. "If they do not comply with the court order we will move to hold them in contempt," Gottlieb said.
 

@@ -11,7 +11,7 @@ So Virginia gun owners just dodged a legislative bullet in the form of a propose
 
 Consider the most recent near-miss: Four moderate Democrats sided with Republicans in Virginia's Senate to block a ban on semi-automatic sporting rifles such as the AR-15. Magazines of more than 12 rounds were targeted, too.
 
-This provoked some eloquent opposition. "The people of Virginia are demanding that someone, anybody that is in power, please stand up and defend the Second Amendment," said Sen. Amanda Chase, a gun-rights champion and GOP gubernatorial candidate. "If I am going to continue to do the law-abiding work of the people I am going to have to arm myself, so I went through all the training, got the licensing and all that and I will just tell you --- I won't miss" \['We don't need weapons of war': Va. Gov. Northam reacts to failed assault weapons ban, by Tim Barber, WJLA.com, February 18, 2020\].
+This provoked some eloquent opposition. "The people of Virginia are demanding that someone, anybody that is in power, please stand up and defend the Second Amendment," said Sen. Amanda Chase, a gun-rights champion and GOP gubernatorial candidate. "If I am going to continue to do the law-abiding work of the people I am going to have to arm myself, so I went through all the training, got the licensing and all that and I will just tell you --- I won't miss" ['We don't need weapons of war': Va. Gov. Northam reacts to failed assault weapons ban, by Tim Barber, WJLA.com, February 18, 2020].
 
 Senator Chase was right: Real Virginians are indeed demanding that someone defend their rights, as the massive gun-rights rally on January 20 surely showed. But the last election results showed something else: Non-white Third World immigrants in Richmond and Northern Virginia who put the Democrats in power in the last election are doing their best to take those rights away.
 
@@ -25,7 +25,7 @@ Senator Chase was right: Real Virginians are indeed demanding that someone defen
 
 The New York Times has published two separate articles that celebrate the immigrant-driven demographic displacement of white Virginians and what it means for those who still "cling to their guns or religion," as the presidential scion of a Kenyan immigrant famously put it.
 
-"Guns, that is the most pressing issue for me," Indian engineer Vijay Katkuri told the Times of his vote for a Democrat. "There are lots of other issues, but you can only fix them if you are alive." Enthused the NYT, "once the heart of the confederacy, Virginia is now the land of Indian grocery stores, Korean churches and Diwali festivals" \[How Voters Turned Virginia From Deep Red to Solid Blue, by Sabrina Tavernise and Robert Gebeloff, November 9, 2019\].
+"Guns, that is the most pressing issue for me," Indian engineer Vijay Katkuri told the Times of his vote for a Democrat. "There are lots of other issues, but you can only fix them if you are alive." Enthused the NYT, "once the heart of the confederacy, Virginia is now the land of Indian grocery stores, Korean churches and Diwali festivals" [How Voters Turned Virginia From Deep Red to Solid Blue, by Sabrina Tavernise and Robert Gebeloff, November 9, 2019].
 
 The paper gleefully noted that 10 percent of Virginian voters are foreign-born, up from 3.6 percent in 1990, and that the white population in Katkuris' district has plummeted from 91 percent to 64 percent.
 
@@ -35,7 +35,7 @@ Such is the shift, the New York Times reported in its second tribute to The Grea
 >
 > <cite>What Made Virginia Change Its Mind on Guns? by Timothy Williams, January 30, 2020</cite>
 
-Of course, the GOP didn't help its cause last year by leaving 33 General Assembly races uncontested --- 10 in House, 23 in the Senate --- particularly given that Democrats control the House by a slim two votes and the Senate by 11. Nor can one ignore Michael Bloomberg's 90-caliber shot at gun rights: $2.5 million that overwhelmed the National Rifle Association's popgun \[Mike Bloomberg's gun-control group just vastly outspent the NRA to help Democrats win in Virginia, by Lauren Hirsch, CNBC, November 6, 2019\].
+Of course, the GOP didn't help its cause last year by leaving 33 General Assembly races uncontested --- 10 in House, 23 in the Senate --- particularly given that Democrats control the House by a slim two votes and the Senate by 11. Nor can one ignore Michael Bloomberg's 90-caliber shot at gun rights: $2.5 million that overwhelmed the National Rifle Association's popgun [Mike Bloomberg's gun-control group just vastly outspent the NRA to help Democrats win in Virginia, by Lauren Hirsch, CNBC, November 6, 2019].
 
 But demographics are what mattered in the election and will matter long term, as MSNBC's Joe Scarborough cheerily explained.
 
@@ -45,7 +45,7 @@ Tweeted the ex-conservative:
 
 And more than gun rights are at stake, thanks to The Great Replacement taking place before our very eyes.
 
-The General Assembly quickly passed the Equal Rights Amendment, canceled the "Speaker's Bible Study" for an "interfaith devotional," and scrubbed "militia" from the name of the House Public Safety Committee. Not only does the House have its first woman Speaker, but blacks are also running half the chamber's 14 standing committees, including Appropriations \[This is what a blue state looks like: Rapid change roils Virginia Republicans, by Gregory Schneider The Washington Post, January 27, 2020\].
+The General Assembly quickly passed the Equal Rights Amendment, canceled the "Speaker's Bible Study" for an "interfaith devotional," and scrubbed "militia" from the name of the House Public Safety Committee. Not only does the House have its first woman Speaker, but blacks are also running half the chamber's 14 standing committees, including Appropriations [This is what a blue state looks like: Rapid change roils Virginia Republicans, by Gregory Schneider The Washington Post, January 27, 2020].
 
 "The upshot is that white men from red parts of Virginia hold less power this year than any time since Reconstruction," WaPo's Schneider cheered.
 

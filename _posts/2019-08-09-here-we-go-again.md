@@ -135,7 +135,7 @@ Well, the next time you hear that from anybody, I want you to respond with: "Ove
 
 Then I want you to hand them a copy of Innocents Betrayed, an award-winning documentary DVD that I co-produced with Aaron Zelman and Jews for the Preservation of Firearms Ownership (JPFO).
 
-\[...\]
+[...]
 
 Well, I co-produced Innocents Betrayed because it dramatically and irrefutably documents the direct connections between government gun control schemes and the subsequent genocides that have taken the lives of over 170 million people!
 
@@ -149,7 +149,7 @@ I personally put my money where my mouth is to co-produce the DVD because the me
 
 And until our government wakes up and bans pharmaceutical advertising in all forms of media, and the medical community takes appropriate responsibility and action against those doctors who are creating these mass killing monsters through the prescription of known, violence inducing drugs, please consider getting armed and trained. With 1 in 5 American taking psych drugs, the next killings could be at your school, church, or workplace!
 
-\[...\]
+[...]
 
 Sincerely,
 

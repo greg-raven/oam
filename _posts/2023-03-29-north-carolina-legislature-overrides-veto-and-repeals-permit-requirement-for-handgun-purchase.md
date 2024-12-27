@@ -19,7 +19,7 @@ The repeal will take effect immediately, according to The Associated Press.
 
 The enacted bill would also allow guns on some school properties where religious services are held.
 
-\[...\]
+[...]
 
 The Associated Press contributed to this report.
 

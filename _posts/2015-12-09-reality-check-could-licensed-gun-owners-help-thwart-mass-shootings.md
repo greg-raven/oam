@@ -11,7 +11,7 @@ Following Wednesday's deadly mass shooting in San Bernardino, California, Democr
 
 Is this an answer to the threat of mass shootings?
 
-\[...\]
+[...]
 
 "In light of recent events that have occurred in the United States and around the world I want to encourage citizens of Ulster County who are licensed to carry a firearm to please do so."
 

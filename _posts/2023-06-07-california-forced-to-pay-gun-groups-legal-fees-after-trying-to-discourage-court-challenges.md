@@ -21,7 +21,7 @@ Judge Benitez struck down the provision in question as unconstitutional and perm
 
 "This Court concludes that the purpose and effect of § 1021.11 is to trench on a citizen's right of access to the courts and to discourage the peaceful vindication of an enumerated constitutional right," Benitez wrote in his opinion. "Because the state fee-shifting statute undermines a citizen's constitutional rights, it is this Court's role to declare its invalidity and enjoin its threat."
 
-\[...\]
+[...]
 
 Attorney General Bonta's office did not respond to a request for comment on the settlement.
 

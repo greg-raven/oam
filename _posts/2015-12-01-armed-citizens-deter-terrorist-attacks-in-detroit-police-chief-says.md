@@ -23,6 +23,6 @@ Beyond that, there have been numerous incidents of homeowners shooting at would-
 
 More than 30,000 of Detroit's 688,000 residents are legally armed, according to Michigan State Police. There were 6,974 concealed-pistol licenses issued to residents in 2013, more than double those in 2009, and 7,584 issued in 2012, the state police said, per a report in the Detroit News.
 
-\[...\]
+[...]
 
 Source: Christy Strawser, detroit.cbslocal.com/2015/12/01/armed-citizens-deter-terrorist-attacks-in-detroit-police-chief-says/

@@ -21,7 +21,7 @@ A witness said he heard people arguing outside, heard four or five gunshots and 
 
 He "produced a firearm, pointing it at the EMT first responders," Jensen wrote.
 
-Hunt \[an EMT\], who has a concealed firearms license, was carrying a gun.
+Hunt [an EMT], who has a concealed firearms license, was carrying a gun.
 
 "Logan City detectives and State Crime Lab technicians are still piecing together the sequence of events," Jensen wrote, "but it is believed there was an exchange of gunfire, followed by a rapid retreat of all personnel to positions of cover." ...
 

@@ -33,20 +33,20 @@ Two of the victims recently told the Courier Journal that the payment totaled $2
 
 They asked not to be identified because the settlement required them to keep the amount secret, and they said they feared repercussions for revealing it.
 
-\[...\]
+[...]
 
 Lilly used the verdict to tout that Prozac had been proved a safe and effective antidepressant. In 1995, the company reaped a quarter of its $6.5 billion in revenue from Prozac --- and faced 160 other suits nationwide over the drug.
 
 Prozac is still prescribed across the USA and is considered safe if used as directed, although it does have some side effects, according to the College of Psychiatric and Neurologic Pharmacists.
 
-\[...\]
+[...]
 
 Somerset lawyer Richard Hay said, "If parties use secret agreements to keep out evidence, it's like taking a dive in a boxing match."
 
-\[...\]
+[...]
 
 "In this case, there was a serious lack of candor with the trial court, and there may have been deception, bad-faith conduct, abuse of the judicial process or perhaps even fraud," the court said. "We cannot tolerate even the possibility of such conduct."
 
-\[...\]
+[...]
 
 Source: Andrew Wolfson, Louisville Courier Journal

@@ -11,7 +11,7 @@ A recently completed study at Northeastern University finds that many of the 'fa
 
 The 22-page study, entitled *Mass Shootings in America: Moving Beyond Newtown* was compiled by criminology professor James Alan Fox and Monica J. DeLateur. In the study, the two smash a number of gun myths through hard statistical work. Without taking funds from either side in the argument, the work is impartial.
 
-\[...\]
+[...]
 
 "Without minimizing the pain and suffering of the hundreds of those who have been victimized in recent attacks, the facts clearly say that there has been no increase in mass shootings and certainly no epidemic." In its closing, the study's author states that these crimes may be inevitable concluding that, "... those who have suggested that their plan for change will ensure that a crime such as the Sandy Hook massacre will never reoccur will be bitterly disappointed."
 

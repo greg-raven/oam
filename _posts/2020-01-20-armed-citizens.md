@@ -128,6 +128,6 @@ categories:
 
 You can make whatever argument you'd like about the Constitution being antiquated but you can NEVER change the words of our Founders. It is evidently clear they would look at this situation with pride.
 
-This protest \[in Virginia on January 20, 2020\] is necessary for the preservation of liberty. End of discussion.
+This protest [in Virginia on January 20, 2020] is necessary for the preservation of liberty. End of discussion.
 
 Source: @birdarchist via [𝕏](https://x.com)

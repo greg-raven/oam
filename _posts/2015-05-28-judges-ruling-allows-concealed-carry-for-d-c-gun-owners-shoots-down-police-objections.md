@@ -13,11 +13,11 @@ However, U.S. District Judge Frederick J. Scullin Jr. left open the possibility 
 
 In the meantime, the ruling means the Metropolitan Police Department may end up issuing concealed-carry permits to applicants who previously were denied because they could not demonstrate they faced a specific threat of injury or harm.
 
-\[...\]
+[...]
 
 To comply with the ruling, Chief Lanier said the department would not deny any permit applications based on the "good reason" requirement.
 
-\[...\]
+[...]
 
 The police department had received 107 concealed carry applications as of May 9, including 52 from D.C. residents and 55 from non-residents. The department reported denying 42 applications and approving 26. The remainder were either withdrawn or pending.
 

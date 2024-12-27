@@ -13,7 +13,7 @@ According to The Patch, the incident began when witnesses alleged they saw 49-ye
 
 Watson then ran and a witness --- 44-year-old Christopher McMann --- approached, only to get stabbed as well.
 
-Deputies said a second good Samaritan --- 31-year-old Travis Jones --- then chased and tackled Watson, only to be "stabbed in the abdomen during the struggle that ensued." Forty-year-old Donald Rush saw what was happening, grabbed his gun from his vehicle and ran at Watson. He was able to take away the knife "and held \[Watson\] at gunpoint until deputies arrived."
+Deputies said a second good Samaritan --- 31-year-old Travis Jones --- then chased and tackled Watson, only to be "stabbed in the abdomen during the struggle that ensued." Forty-year-old Donald Rush saw what was happening, grabbed his gun from his vehicle and ran at Watson. He was able to take away the knife "and held [Watson] at gunpoint until deputies arrived."
 
 Rush did not have to fire his gun. The sight of the brandished firearm was enough to stop the attack.
 

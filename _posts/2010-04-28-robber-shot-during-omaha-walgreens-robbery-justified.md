@@ -66,7 +66,7 @@ Davis said McCullough has held several security jobs, which was why he frequentl
 
 McCullough worked in security at the College of Saint Mary from April to October in 2008, a human resources employee at the college said. He currently is employed by the Nebraska Medical Center, Davis said, but not as a security officer.
 
-\[...\]
+[...]
 
 Douglas was charged Wednesday with attempted robbery, conspiracy to commit robbery and weapon use.
 

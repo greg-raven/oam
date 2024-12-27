@@ -21,10 +21,10 @@ Now here is the kicker, as the writer articulately brings to light: "By using th
 
 Using the same "due process clause" argument as the Supreme Court just applied to gay marriage, my concealed carry permit must now be recognized as valid in all 50 states and the District of Columbia."
 
-\[...\]
+[...]
 
 So, since I have moved from Florida to Texas, my concealed weapons permit is not only transferrable here, but all across the country, in all fifty states --- or fifty-seven if you are President Obama. Yeehaw! Thanks to the LGBT community for making it very clear, my constitutionally declared right MUST be recognized in every state. Not only is it my right to keep and bear my arms (weapons) but that personal choice is central to my individual dignity and autonomy --- the protection of the unalienable rights granted to me by the Creator, the first of which is life. Hot doggone, I just cannot wait to hear the liberal progressive socialist anti-gun argument against this premise --- which is now established!
 
-\[...\]
+[...]
 
 Source: Allen B. West, allenbwest.com/2015/06/yeehaw-this-side-effect-of-the-gay-marriage-ruling-will-make-liberals-explode/

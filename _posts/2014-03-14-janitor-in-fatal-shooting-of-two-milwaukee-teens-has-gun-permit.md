@@ -19,12 +19,12 @@ Police say Anmarie Miller, 17, and James Bell Jr., 19, both of Milwaukee, were k
 
 Police said the three younger people got into an argument with Rossetto in a stairwell inside the apartment building in the 1400 block of N. 27th St. One of the three was holding Rossetto while another beat him with a bat, before he drew a gun and fired, police said.
 
-Geraghty \[...\] said the three were strangers to Rossetto, who is still shaken about the incident and considers it a tragedy.
+Geraghty [...] said the three were strangers to Rossetto, who is still shaken about the incident and considers it a tragedy.
 
 He said Rossetto contracts with landlords to do a variety of maintenance tasks, from simple plumbing repair and fire extinguisher replacement to meeting with inspectors. Geraghty said Rossetto has never before used his gun in a confrontation.
 
 Miller was a student at Milwaukee Public Schools' Transition High School, 2610 W. North Ave., according to the district.
 
-\[...\]
+[...]
 
 Source: Bruce Vielmetti, jsonline.com/news/crime/janitor-suspected-of-killing-milwaukee-teens-is-released-from-jail-b99225538z1-250355061.html

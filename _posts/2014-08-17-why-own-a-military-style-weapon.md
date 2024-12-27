@@ -25,7 +25,7 @@ Here's one reason why someone may need an AR-15 with 30-round magazines.
 >
 > Former St. Louis County Police Chief Tim Fitch tweeted: "You did not see "police restraint" overnight. You saw police reluctant to act. We cannot keep stoning the keepers at the gate."
 >
-> \[...\]
+> [...]
 
 Source: foxnews.com/us/2014/08/16/there-are-no-police-ferguson-store-owners-guard-businesses-with-own-guns-lack/
 

@@ -19,7 +19,7 @@ The state's concealed carry laws came into focus after the Nov. 28 attack at Ohi
 
 OSU police officer Alan Horujko shot and killed Artan two minutes into the attack. Investigators praise the officer's quick actions for "likely saving lives."
 
-\[...\]
+[...]
 
 "For well over a decade, Ohioans with a Concealed Handgun License have proven themselves to be overwhelmingly law-abiding and trustworthy," Rieck said. "And SB 199 makes welcome improvements that citizens deserve."
 

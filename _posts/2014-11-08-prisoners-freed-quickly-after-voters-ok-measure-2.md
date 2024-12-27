@@ -13,7 +13,7 @@ Sheriffs immediately began implementing Proposition 47, which calls for treating
 
 Reducing the charges means suspects in many cases will no longer be kept behind bars after arrests.
 
-\[...\]
+[...]
 
 Two-dozen suspects who were being held on the impacted charges walked out of Sacramento County jail two days after voters approved the initiative.
 

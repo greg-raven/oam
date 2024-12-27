@@ -17,7 +17,7 @@ On Tuesday, the so-called "Toughest Sheriff in America" said he cannot guarantee
 
 Specifically, Arpaio was looking to the 250,000 Arizonans who carry concealed weapons permits to help keep the peace.
 
-\[...\]
+[...]
 
 Arpaio's comments came in the wake of terrorist attacks in Paris, Beirut and Mali.
 

@@ -27,7 +27,7 @@ Tomlin agreed, noting that she wasn't concerned about a possible increase in gun
 
 "Our focus must be keeping guns out of the hands of criminals, not law-abiding citizens," Tomlin said. "I support responsible gun ownership, to include safe storage, weapon familiarity and proficient operation of all weapons."
 
-\[...\]
+[...]
 
 The Sheriff's Department has issued about 4,000 valid CCW permits to citizens throughout the county, Cervantes said, and there are about 1,000 interviews scheduled through March with citizens who had previously submitted applications. The application can be done online at the Sheriff's Department website but the approval process can be lengthy, Cervantes said, and there are several requirements applicants must meet before the application is submitted.
 
@@ -37,7 +37,7 @@ Any applicants approved must attend training for the shooting and handling of a 
 
 "Firearms training is a perishable skill," Cervantes said. "If you don't use it, you lose it."
 
-\[...\]
+[...]
 
 Visit the San Bernardino County Sheriff's Department website at cms.sbcounty.gov/sheriff for further information on applying for a CCW permit and the requirements needed to be approved.
 

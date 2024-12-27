@@ -13,7 +13,7 @@ The preliminary injunction also blocks the UHA's three-for-one rule, under which
 
 Plaintiffs in the case, which include, Lana Rae Renna, the Second Amendment Foundation, the Firearms Policy Coalition, and San Diego County Gun Owners, argued that the CLI, MDM, and microstamping requirements "have prohibited the manufacture and retail sale in California of a large segment of modern handguns that are otherwise in common use throughout the United States for self-defense and other lawful purposes."
 
-They also said the criteria set forth by UHA "\[limits\] handgun manufacturing and retail sales to those handguns that can satisfy numerous testing and safety feature requirements not required in 47 other states."
+They also said the criteria set forth by UHA "[limits] handgun manufacturing and retail sales to those handguns that can satisfy numerous testing and safety feature requirements not required in 47 other states."
 
 Moreover, "plaintiffs further allege the roster will shrink at an accelerated pace in the future because of the UHA's "three-for-one" roster removal provision, which mandates that for each new roster compliant handgun added to the roster, three "grandfathered" handguns must be removed in reverse order of their dates of admission to the roster."
 

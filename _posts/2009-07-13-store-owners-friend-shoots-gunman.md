@@ -21,20 +21,20 @@ A gunman who had wounded a shopkeeper and opened fire on several customers was s
 
 The violent attempted robbery took place shortly after 1 p.m. at the Golden Food Market at 2701 Jefferson Davis Highway, the same store where another man was shot last month --- and only three blocks from the scene of another robbery in June that left a shopkeeper dead.
 
-\[...\]
+[...]
 
-"Whoever did it probably saved their lives in there," \[Reva\] Trammell said of the shooter.
+"Whoever did it probably saved their lives in there," [Reva] Trammell said of the shooter.
 
-\[...\]
+[...]
 
 The man who shot the robber is a friend of the store owner, and he was wearing a holster with a Western-style revolver, said Managing Deputy Commonwealth's Attorney Tracy Thorne-Begland.
 
 After the suspect shot the store owner and opened fire on patrons, the owner's friend shot the suspect once in the torso, took his gun and called police, Thorne-Begland said.
 
-\[...\]
+[...]
 
 Police said they expect to file charges against the suspect.
 
 The store owner's injuries did not appear life-threatening, authorities said, but the gunman's injuries were said to be life-threatening. No one else was hurt.
 
-\[...\]
+[...]

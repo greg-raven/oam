@@ -19,15 +19,15 @@ Banning guns by caliber was also dismissed as impractical. "Commercially-availab
 
 The "high-capacity magazine" is commonly referred to as an "assault rifle" attribute and readily attacked by anti-gunners. This characterization is also debunked in the Helsley memo:
 
-> "\[A\] workable definition cannot be based on whether a detachable magazine is used ... If we were to base the definition on magazine capacity alone at least one rifle used in the American Civil War would be affected ...
+> "[A] workable definition cannot be based on whether a detachable magazine is used ... If we were to base the definition on magazine capacity alone at least one rifle used in the American Civil War would be affected ...
 >
-> "This all leads me to conclude that the only 'practical' regulatory approach would be to ban or license all semi-automatic weapons that can accept a detachable magazine which will hold more than five rounds (the legal limit for hunting in California). This approach would cover hundreds of different types of firearms of which in total tens of millions ... have been produced ... \[including\] not only the 'Darth Vaderish' UZI but also such unlikely threats to public safety as the 1893 Borchart \[sic\] 9 mm pistol/carbine (which bears a striking resemblance to the UZI) ..."
+> "This all leads me to conclude that the only 'practical' regulatory approach would be to ban or license all semi-automatic weapons that can accept a detachable magazine which will hold more than five rounds (the legal limit for hunting in California). This approach would cover hundreds of different types of firearms of which in total tens of millions ... have been produced ... [including] not only the 'Darth Vaderish' UZI but also such unlikely threats to public safety as the 1893 Borchart [sic] 9 mm pistol/carbine (which bears a striking resemblance to the UZI) ..."
 
 "A war on assault rifles" is what the Helsley memo predicted-just months before that war broke out. The memo also outlined the "vulnerable flanks" of gun ban proponents.
 
 > "For many decades the federal government has been selling World War II era M-1 Garands and M-1 Carbines ... at bargain basement prices ... to encourage the growth of, and participation in, formal rifle matches ...
 >
-> "At more of a 'gut' level, a ban would deprive military veterans of souvenir war trophies and commemorative issue firearms ... \[And\] we could expect \[the National Rifle Association\] to ask, 'What's the problem?' Obviously, there have been some high visibility crimes which involved semi-automatic UZI's and AK-47's, but I suspect that a close analysis would put that frequency at or slightly above the statistical aberration level. Last year, I surveyed the firearms used in violent crimes ... assault type firearms were the least of our worries."
+> "At more of a 'gut' level, a ban would deprive military veterans of souvenir war trophies and commemorative issue firearms ... [And] we could expect [the National Rifle Association] to ask, 'What's the problem?' Obviously, there have been some high visibility crimes which involved semi-automatic UZI's and AK-47's, but I suspect that a close analysis would put that frequency at or slightly above the statistical aberration level. Last year, I surveyed the firearms used in violent crimes ... assault type firearms were the least of our worries."
 
 The 1988 document concludes that the reasoning behind a semi-auto ban "is supported by the same faulty logic that ... created the threat that was allegedly posed by 'copkiller bullets' and 'invisible plastic guns' ... we should leave the issue alone."
 
@@ -49,7 +49,7 @@ Days later the Purdy schoolyard shooting took place in Stockton. In late January
 
 Helsley then described the frantic days of February.
 
-"The original four gun \[strategy\] ... was discarded." Based on the December definition of what was not an assault rifle, Helsley's staff compiled a list of guns "not covered by the exclusionary language ... Roberti and Roos took different tacks with their bills \[ while\] the DOJ approach alternated-between language which listed 'good' semiautomatic weapons and banned everything else, and a 'bad' list which 'blessed"' all other firearms.
+"The original four gun [strategy] ... was discarded." Based on the December definition of what was not an assault rifle, Helsley's staff compiled a list of guns "not covered by the exclusionary language ... Roberti and Roos took different tacks with their bills [ while] the DOJ approach alternated-between language which listed 'good' semiautomatic weapons and banned everything else, and a 'bad' list which 'blessed"' all other firearms.
 
 "As finally comprised," Helsley recalls, "the list had become an odd collection of firearms which range from the long out of production, to the exorbitantly expensive, to the 'evil' AK 47."
 

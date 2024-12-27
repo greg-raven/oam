@@ -42,7 +42,7 @@ It's normal for people interested in guns to spend a lot of time debating and di
 
 These are important questions a shot timer can help you answer, along with providing all the same benefits to practice that a competition shooter enjoys. You should be striving to improve your draw times, and working to fire faster while retaining accurately. After you leave a class where shot timers are in use, having your own lets you practice properly to retain that knowledge.
 
-\[...\]
+[...]
 
 **Just do it**
 

@@ -11,6 +11,6 @@ Commonly used and unregulated internet discussions and videos about guns and amm
 
 In updating regulations governing international arms sales, State is demanding that anyone who puts technical details about arms and ammo on the web first get the OK from the federal government --- or face a fine of up to $1 million and 20 years in jail.
 
-\[...\]
+[...]
 
 Source: Paul Bedard, washingtonexaminer.com/nra-gun-blogs-videos-web-forums-threatened-by-new-obama-regulation/article/2565762

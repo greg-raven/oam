@@ -19,7 +19,7 @@ Ontario police Sgt. Jeff Higbee said that because of the new laws, there was "li
 
 California Assemblyman Matt Harper told Fox News in April he believed the laws led directly to a rise in crime. "California is certainly having a significant problem with the increase of crime in our state," he said. "The only thing that's really showing a difference in terms of how we approach crime and criminals is this change in our law allowing people to be able to go out on the streets, which previously they would have stayed in prison and not be committing crimes."
 
-"To play these nonviolent offender games \[is\] a recipe for disaster," he concluded.
+"To play these nonviolent offender games [is] a recipe for disaster," he concluded.
 
 The proponents of Proposition 47 called it the Safe Neighborhoods and Schools Act. It passed by with nearly 60 percent approval by the voters.
 

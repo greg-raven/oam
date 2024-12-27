@@ -15,7 +15,7 @@ Bogus has now rehashed his 1998 theory in [*Madison's Militia: The Hidden Histor
 
 Bogus failed to address or even mention my paper, which is the only comprehensive critique of his 1998 article, even though it was first published a year-and-a-half before his book. Oxford University's readers who vetted his manuscript were either asleep at the wheel or biased in favor of his argument. This is good example of why courts today, when searching for historical analogues under *Bruen,* should rely on original historical sources and not skewed declarations by "historians."
 
-Bogus calls his tome "a mystery book" about "why James Madison decided to write the Second Amendment," because "there is no direct evidence about what the Founders intended." But his agenda is clear: instead of "the Minuteman at Lexington, with a musket in his hands ... the more accurate image \[of the Second Amendment\] is that of the musket in the hands of the militiaman on slave patrol in the South."
+Bogus calls his tome "a mystery book" about "why James Madison decided to write the Second Amendment," because "there is no direct evidence about what the Founders intended." But his agenda is clear: instead of "the Minuteman at Lexington, with a musket in his hands ... the more accurate image [of the Second Amendment] is that of the musket in the hands of the militiaman on slave patrol in the South."
 
 Denigrating America's patriots in order to infect the Second Amendment with racism makes it easier today to criminalize the right to keep and bear arms, and is consistent with other contemporary efforts, such as the 1619 Project, to demonize America and its founders. Not surprisingly, Bogus served on the board of directors of [Handgun Control Inc.](https://joebrower.com/RKBA/RKBA_FILES/BAD_GUYS/History_of_HCI.pdf), the anti-gun lobby which morphed into the Brady Center.
 
@@ -25,7 +25,7 @@ According to Bogus, Madison supposedly knew he was wrong in arguing that the sta
 
 Bogus next pilots his time machine to the American Revolution. Through his hidden history lens, the colonists were concerned only with preventing a slave insurrection instead of defending against attacks by the British army. Yet he quotes a historian as noting: "No white person was killed by a slave rebellion in colonial Virginia."
 
-In real history, on April 21, 1775, Virginia's governor Lord Dunmore seized the gunpowder from the public magazine at Williamsburg. Per Bogus, "This left \[Virginians\] vulnerable to slave revolts." But Virginians were incensed by Dunmore's confiscation because it left them vulnerable to arbitrary Royal authority. Then they got word of Lexington and Concord. Patrick Henry saw the opportunity to rouse the people to arms, observing, "tell them of the robbery of the magazine and that the next step will be to disarm them, and they will then be ready to fly to arms to defend themselves."
+In real history, on April 21, 1775, Virginia's governor Lord Dunmore seized the gunpowder from the public magazine at Williamsburg. Per Bogus, "This left [Virginians] vulnerable to slave revolts." But Virginians were incensed by Dunmore's confiscation because it left them vulnerable to arbitrary Royal authority. Then they got word of Lexington and Concord. Patrick Henry saw the opportunity to rouse the people to arms, observing, "tell them of the robbery of the magazine and that the next step will be to disarm them, and they will then be ready to fly to arms to defend themselves."
 
 Bogus paints Henry as fearing a non-existent slave revolt rather than what it was --- a British attempt to disarm the Americans to subjugate them. Henry organized an independent militia to counter the Redcoats, not to do slave patrol duty. Read the original source, ch. XII of [*Patrick Henry*](https://archive.org/details/patrickhenrylif00henrgoog) (1891), which explains how Dunmore seized the gunpowder to disarm the Americans, who in turn formed militia for defense against the British.
 
@@ -39,7 +39,7 @@ Plainly, the law and, later, the constitution recognized arms bearing for defens
 
 Vermont adopted the same arms right as Pennsylvania, but its purpose wasn't to support slavery, which was prohibited by the same constitution that adopted the arms guarantee. Per Bogus, it was again a collective right only. Sorry Ethan Allen and your Green Mountain Boys, your gun toting was only at the sufferance of the state.
 
-North Carolina simply declared that "the people have a right to bear arms for the defense of the state ..." According to Bogus, that was "to make it clear that the right to bear arms for the defense of the state only \[*sic*\]." So "themselves" meant something after all?
+North Carolina simply declared that "the people have a right to bear arms for the defense of the state ..." According to Bogus, that was "to make it clear that the right to bear arms for the defense of the state only [*sic*]." So "themselves" meant something after all?
 
 Massachusetts was the first to add, in 1780, *keeping* arms: "The people have a right to keep and bear arms for the common defence." Bogus says one couldn't keep for individual reasons, but the law didn't preclude using arms for self-defense. And by the way, beginning the very next year, judicial decisions in the Commonwealth declared slavery to be unlawful.
 

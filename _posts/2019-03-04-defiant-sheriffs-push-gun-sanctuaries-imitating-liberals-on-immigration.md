@@ -17,11 +17,11 @@ Democrats took control of state governments or widened leads in legislative cham
 
 Resistance to those laws is complicating Democratic efforts to enact gun control in Washington, Oregon, New Mexico and Illinois, even though the party holds the governorship and both chambers of the state legislature in all four states.
 
-\[...\]
+[...]
 
 "If they want to have their own laws, that's fine. Don't shove them on us down here," said Dave Campbell, a member of the board of Effingham County, Illinois, about 215 miles (350 km) south of Chicago.
 
-\[...\]
+[...]
 
 Governor Jay Inslee has firmly backed I-1639 and Attorney General Bob Ferguson has advised sheriffs "they could be held liable" if they allow a dangerous person to acquire a firearm later used to do harm.
 
@@ -39,6 +39,6 @@ Twenty-five of New Mexico's 33 counties have passed resolutions to support sheri
 
 In Oregon, voters in eight counties approved Second Amendment Preservation Ordinances last November that allow sheriffs to determine which state gun laws to enforce.
 
-\[...\]
+[...]
 
 © 2019 Thomson/Reuters. H/T Newsmax.com

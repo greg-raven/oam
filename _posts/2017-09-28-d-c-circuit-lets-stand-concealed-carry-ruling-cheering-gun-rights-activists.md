@@ -19,7 +19,7 @@ It also sets up the potential for the Supreme Court to take up the case as the d
 
 "Sometimes the most important thing a court does is not do anything," said Adam Winkler, a University of California, Los Angeles law professor who has written extensively on the Second Amendment. "Because of what the D.C. Circuit didn't do today, the Supreme Court is now far more likely to take a concealed carry case."
 
-\[...\]
+[...]
 
 But the circuit split created by the D.C. ruling is the type of scenario for which gun rights activists have salivated for years, with the hope that the Supreme Court would take up a case on concealed carry and rule to expand Second Amendment protections. Four other federal appeals courts have upheld similar restrictions.
 

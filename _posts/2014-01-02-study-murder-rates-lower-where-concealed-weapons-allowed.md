@@ -15,11 +15,11 @@ The study looked at the effects on murder rates of both state-level assault weap
 
 Assault weapons bans, it found, didn't significantly affect murder rates at the state level. The findings come as A 2007 study has been also getting a new look from those who dispute gun control efforts aimed at stemming gun violence, Boston magazine reported last summer.
 
-\[...\]
+[...]
 
 The pair found "correlations that nations with stringent gun controls tend to have much higher murder rates than nations that allow guns."
 
-\[...\]
+[...]
 
 Source: Cathy Burke, [Newsmax](https://www.newsmax.com/US/concealed-weapons-murder-rates/2014/01/02/id/544949).
 

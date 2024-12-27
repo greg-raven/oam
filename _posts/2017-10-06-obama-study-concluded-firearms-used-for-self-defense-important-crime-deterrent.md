@@ -29,7 +29,7 @@ Researchers also found that the majority of firearm deaths are from suicide, not
 
 The report expresses uncertainty about gun control measures, stating that "whether gun restrictions reduce firearm-related violence is an unresolved issue," and that there is no evidence "that passage of right-to-carry laws decrease or increase violence crime." It also stated that proposed "gun turn-in programs are ineffective."
 
-\[...\]
+[...]
 
 Source: Craig Bannister, CNS News
 cnsnews.com/blog/craig-bannister/obama-study-concluded-firearms-used-self-defense-important-crime-deterrent

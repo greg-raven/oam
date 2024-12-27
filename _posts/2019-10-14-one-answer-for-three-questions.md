@@ -35,7 +35,7 @@ I simply bellowed from my diaphragm: "Stay back!" while making sure that I was s
 
 In all candor, my current approach to managing unknown approaching persons is based upon Craig Douglas' program of Managing Unknown Contacts as refined by the frequent need to use those same skills in actual confrontations. Over time I have learned to become a little more flexible in certain situations when I came into persons in genuine need who harbored no criminal intentions. Having said that, I make every effort to manage distance and maintain as much situational awareness as possible in those instances in the event that I had misjudged the person and their intent and abilities.
 
-\[...\]
+[...]
 
 This article was solely devoted to communicating with a potential criminal who may have been asking a question as a pretense to not appear threatening to get close enough to physically attack another, whether armed with a handgun, edged weapon, blunt instrument, or just bare hands and feet. Having a plan in place for dealing with an approaching unknown contact that can be readily defaulted to and the communication skills to successfully implement it is just one more way that concealed carriers can help make every day "just another day".
 

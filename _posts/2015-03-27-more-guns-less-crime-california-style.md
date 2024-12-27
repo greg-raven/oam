@@ -107,7 +107,7 @@ During the same period, the number of long gun (rifle and shotgun) sales went do
 
 One thing is certain, contrary to claims made by the gun ban lobby, California's plummeting gun violence rate has no statistical relationship to California's new gun control laws. The various new gun control laws that have been passed created great inconvenience to law abiding gun owners and buyers, and kept some honest citizens from getting guns, but had nothing to do with the crime rate going down. Instead, that resulted from new crime control laws.
 
-\[...\]
+[...]
 
 Nonetheless, gun control advocates continue to wrongly claim that the supply of guns, particularly handguns, defines how many gun deaths there will be. But while DOJ figures show that the rate of handgun sales has grown 250% since 2008, in the same period violent crime fell 23%, murder 24%, rapes 33% and even aggravated assaults fell 20%.
 
@@ -117,7 +117,7 @@ To echo the title of a well-known and ridiculously well-researched book, we have
 
 Guns deter criminals and guns save lives. But then, we learned all that anecdotally after the L.A. riots.
 
-\[...\]
+[...]
 
 Source: C. D. Michel
 [CalGunLaws.com](https://www.calgunlaws.com/more-guns-less-crime-california-style/)

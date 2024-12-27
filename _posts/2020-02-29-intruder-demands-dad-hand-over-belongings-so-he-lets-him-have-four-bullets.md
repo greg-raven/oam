@@ -17,7 +17,7 @@ Bowne took bullets in the head, shoulder, arm, and leg during an alleged home in
 
 "I got a young couple in their 20s; daddy, momma and a young child at home when daddy hears a commotion in the front of the house," Elmore County Sheriff Bill Franklin said, according to the Montgomery Advertiser.
 
-"He arms himself with a 9 mm handgun and goes to investigate. He sees Mr. Bowne standing in the living room and Mr. Bowne tells him 'Give me you \[stuff\].' Mr. Bowne then makes a move like he's going into his front pocket and the homeowner fires several times."
+"He arms himself with a 9 mm handgun and goes to investigate. He sees Mr. Bowne standing in the living room and Mr. Bowne tells him 'Give me you [stuff].' Mr. Bowne then makes a move like he's going into his front pocket and the homeowner fires several times."
 
 The incident happened at 4:45 a.m. on Monday. Bowne, 39, was flown by helicopter to a hospital in Montgomery with life-threatening injuries. After holding on to life for several days, Bowne died on Wednesday, the Advertiser reported.
 

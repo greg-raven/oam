@@ -33,7 +33,7 @@ Citizens should be given the right to use firearms to defend their "life, health
 
 As December's truck attack in Berlin demonstrated, security forces have not been able to guarantee the full prevention of attacks. In light of the threat, the Czech ministry argued that the proposed amendment would help to prevent the loss of lives by allowing civilians to contribute to "internal order and security."
 
-\[...\]
+[...]
 
 According to data collated by Gunpolicy.org, a firearm injury prevention NGO, an estimated 7.6 percent of Czech's 10 million residents legally hold weapons, with 810,046 registered privately owned firearms in the country.
 

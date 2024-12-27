@@ -25,7 +25,7 @@ At the end of the video, Ivey encourages those who already have permits and thos
 
 Ivey called shootings like those last week in San Bernardino, California, attacks "by armed, evil people." He suggested that an armed citizen might be the one able to "defend and survive ... until the cavalry can arrive."
 
-\[...\]
+[...]
 
 Ivey assured in his video that his statements were not meant to encourage vigilante action.
 
@@ -37,7 +37,7 @@ He also called on elected officials and law enforcement officials nationwide to 
 
 And he encouraged the media to stop giving airtime to terrorists looking for their 15 minutes of fame.
 
-\[...\]
+[...]
 
 "Together we can make a difference," Ivey said. "One good person at the right place and the right time will make the difference."
 

@@ -15,7 +15,7 @@ As with their civilian counterparts, the LEOSA is designed to give some service 
 
 To qualify to carry a concealed weapon, service members must be actively serving in law enforcement or have 10 or more years' experience in law enforcement.
 
-\[...\]
+[...]
 
 Any service member who meets the qualifications can apply through their state for a LEOSA license, including Navy, Marine Corps and Coast Guard members whose services do not have application programs of their own.
 

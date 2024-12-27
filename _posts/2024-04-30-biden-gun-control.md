@@ -9,7 +9,7 @@ tags:
 
 A new poll out from Emerson/The Hill shows that Joe Biden trails President Trump in seven of the key swing states:
 
-\[...\]
+[...]
 
 Yet, in spite of those numbers (and other disapproving indicators), Biden found it wise to announce on a recent podcast that the Second Amendment was "never absolute" and all that talk about Thomas Jefferson's "tree of liberty" reference is a "bunch of crap."
 

@@ -19,7 +19,7 @@ Cornyn's bill, entered as S.498, has 16 early co-sponsors to include West Virgin
 
 A companion bill, H.R.923, was introduced to the House by Rep. Marlin Stuzman, R-Indiana.
 
-\[...\]
+[...]
 
 The Constitutional Concealed Carry Reciprocity Act of 2015, in both its Senate and House versions, have been refereed to their respective committees on the judiciary.
 

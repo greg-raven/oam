@@ -37,6 +37,6 @@ Their petition comes after Texas Attorney General Ken Paxton and more than 140 R
 
 Paxton said in a statement that a federal agency "cannot, through the administrative 'interpretation' of law, criminalize conduct that will send people to prison. Federal criminal laws must be enacted democratically, with the approval of both houses of Congress and the president."
 
-According to a recent Congressional Research Service report, "there are between 10 and 40 million stabilizing braces and similar components already in civilian hands," and "\[a\]ltering the classification of firearms equipped with stabilizing braces would likely affect millions of owners."
+According to a recent Congressional Research Service report, "there are between 10 and 40 million stabilizing braces and similar components already in civilian hands," and "[a]ltering the classification of firearms equipped with stabilizing braces would likely affect millions of owners."
 
 Source: Bethany Blankley, [Just The News](https://justthenews.com/nation/states/center-square/22-ags-file-brief-scotus-against-federal-firearm-accessory-ban)

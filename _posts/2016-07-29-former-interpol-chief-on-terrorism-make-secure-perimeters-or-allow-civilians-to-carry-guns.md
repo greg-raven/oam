@@ -20,7 +20,7 @@ According to Noble, there are only two ways to protect open societies from terro
 
 "One is to say we want an armed citizenry."
 
-\[...\]
+[...]
 
 Noble also criticized the logic of gun control.
 
@@ -36,6 +36,6 @@ Several months ago, in May 2016, Noble released a video entitled, "Armed citizen
 
 Prior to his work at INTERPOL, Noble worked for the U.S. Treasury Department during the Clinton administration and the Department of Justice during the Reagan Administration.
 
-\[...\]
+[...]
 
 Source: Joe Setyon, [CNSNews.com](https://cnsnews.com/blog/joe-setyon/former-interpol-chief-terrorism-make-secure-perimeters-or-allow-civilians-carry-guns)

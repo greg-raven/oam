@@ -15,7 +15,7 @@ What follows are just a few of the many examples of shootings in gun free zones 
 
 The common thread is that the attacks took place in areas where the gunman knew he could inflict damage at his own pace, without the threat of reprisal from armed citizens:
 
-\[...\]
+[...]
 
 There you have it --- eight attacks over the last 8 years in which gunmen opened fire in places where citizens were disarmed by policies that treat law-abiding citizens and criminals alike. The result? 105 innocent lives taken and more than 150 others injured by gun fire in gun free zones.
 

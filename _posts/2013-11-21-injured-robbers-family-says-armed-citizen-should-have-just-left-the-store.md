@@ -17,12 +17,12 @@ The man added, "It was just instinct. It happened so quickly. I didn't want to s
 
 White was shot five times and transported to a local hospital where he is recovering and remains in police custody.
 
-\[...\]
+[...]
 
-White was arrested in September for the armed robbery of The Original Oyster House, and was out on bond when he attempted to rob the Family Dollar store. \[...\]
+White was arrested in September for the armed robbery of The Original Oyster House, and was out on bond when he attempted to rob the Family Dollar store. [...]
 
-Authorities maintain that the Good Samaritan was justified in shooting White and that he broke no laws when he did so. \[...\]
+Authorities maintain that the Good Samaritan was justified in shooting White and that he broke no laws when he did so. [...]
 
-\[...\]
+[...]
 
 Source: Jennifer Cruz, guns.com/news/2013/11/21/family-shot-suspect-says-armed-citizen-just-left-store-video

@@ -13,11 +13,11 @@ Arlington, Va. --- In the hours after February's school massacre in Parkland, Fl
 
 "Everybody seemed to leap upon it, looking for a political benefit, rather than allowing for a cooling-off period." As a historian, Malcolm prefers to take the long view. As a leading scholar of the Second Amendment, however, she is also expected to have snap opinions on gun rights, and in fact, she often has engaged in the news-driven debates about violence and firearms. "Something deep inside of me says that people never should be victims," she says. "And they never should be put in the position of being disarmed by their government."
 
-Malcolm looks nothing like a hardened veteran of the gun-control wars. Small, slender, and bookish, she's a wisp of a woman who enjoys plunging into archives and sitting through panel discussions at academic conferences. Her favorite topic is 17th- and 18th-century Anglo-American history, from the causes of the English Civil War to the meaning of the American Revolution. \[...\]
+Malcolm looks nothing like a hardened veteran of the gun-control wars. Small, slender, and bookish, she's a wisp of a woman who enjoys plunging into archives and sitting through panel discussions at academic conferences. Her favorite topic is 17th- and 18th-century Anglo-American history, from the causes of the English Civil War to the meaning of the American Revolution. [...]
 
 She is also the lady who saved the Second Amendment --- a scholar whose work helped make possible the Supreme Court's landmark Heller decision, which in 2008 recognized an individual right to possess a firearm. "People used to ask, 'How did a nice girl like you get into a subject like this?'" she says. "I'm not asked that anymore." She smiles, a little mischievously. "Maybe they don't think I'm a nice girl anymore."
 
-\[...\]
+[...]
 
 Malcolm's doctoral dissertation focused on King Charles I and the problem of loyalty in the 1640s, and much of her scholarship has flowed from this initial work. The Royal Historical Society published her first book, and she edited a pair of volumes for the Liberty Fund, totaling more than 1,000 pages, on political tracts in 17th-century England. As she researched and wrote on the period, she noticed something peculiar. "During the English Civil War, the king would summon the local militia to turn out with their best weapons," she says. "Then he would relieve them of their best weapons. He confiscated them. Obviously, he didn't trust his subjects."
 

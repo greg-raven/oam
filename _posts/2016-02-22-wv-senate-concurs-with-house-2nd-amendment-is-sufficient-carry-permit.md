@@ -16,6 +16,6 @@ On February 8, Breitbart News reported the West Virginia House passed the legisl
 
 HB 4145 is sponsored by Rep. Saira Blair (R-Berkley), who recognizes the Second Amendment is a sufficient carry permit for state residents aged 21 and older. Similar legislation was passed in 2015 but was vetoed by Governor Earl Ray Tomblin (D) after Sen. Joe Manchin (D-WV) and Bloomberg-funded Moms Demand Action for Gun Sense In America came out in opposition to the bill.
 
-\[...\]
+[...]
 
 Source: AWR Hawkins, breitbart.com/big-government/2016/02/22/wv-senate-concurs-with-house-2nd-amendment-sufficient-carry-permit/

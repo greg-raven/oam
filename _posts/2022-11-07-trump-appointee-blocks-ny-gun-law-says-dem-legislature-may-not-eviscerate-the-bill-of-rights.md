@@ -15,7 +15,7 @@ Two clerics and a number of gun rights organizations sued over the law, asking f
 
 That argument was good enough for the judge who ruled accordingly.
 
-"The court reiterates that ample Supreme Court precedent addressing the individuals right to keep and bear arms --- from Heller and McDonald to its June 2022 decision in \[New York State Rifle & Pistol Association Inc. v. Bruen\] --- dictates that New York's new place of worship restriction is equally unconstitutional," Sinatra stated, according to the injunction.
+"The court reiterates that ample Supreme Court precedent addressing the individuals right to keep and bear arms --- from Heller and McDonald to its June 2022 decision in [New York State Rifle & Pistol Association Inc. v. Bruen] --- dictates that New York's new place of worship restriction is equally unconstitutional," Sinatra stated, according to the injunction.
 
 "The Constitution and the Bill of Rights are the Status quo --- not 2022 legislation on the books for nine weeks," the judge admonished. "Legislative enactments may not eviscerate the Bill of Rights. Every day they do is one too many."
 

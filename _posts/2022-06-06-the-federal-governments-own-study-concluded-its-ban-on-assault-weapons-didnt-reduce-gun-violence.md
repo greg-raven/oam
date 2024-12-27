@@ -65,7 +65,7 @@ If history has taught us anything, it's that the impulse to use collective force
 
 The economic historian Robert Higgs has noted that the most sprawling encroachments of freedom in history spawned during crises and tragedies; they have given rise to tyrants from Lenin to Mao and beyond. Even when powers are relinquished by government, they are rarely relinquished completely (a phenomenon Higgs describes as the Ratchet Effect).
 
-"When \[crises occur\] ... governments almost certainly will gain new powers over economic and social affairs," wrote Higgs. "For those who cherish individual liberty and a free society, the prospect is deeply disheartening."
+"When [crises occur] ... governments almost certainly will gain new powers over economic and social affairs," wrote Higgs. "For those who cherish individual liberty and a free society, the prospect is deeply disheartening."
 
 As we mourn the victims in Buffalo, Uvalde, and Tulsa, we'd do well to remember that one true moral purpose of government is to protect individual rights, and any attempt to deprive humans of these rights for "a greater good" is a perversion of the law.
 

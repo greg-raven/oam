@@ -23,7 +23,7 @@ Cafe hostages Tori Johnson and Katrina Dawson were reportedly shot by Man Haron 
 
 He has long called for easing Australia's gun control laws, quitting the Liberal Party in disgust at John Howard's strengthening of controls after the Port Arthur massacre and previously being a member of the Shooters Party.
 
-\[...\]
+[...]
 
 Attorney-General George Brandis said it appeared the type of gun Monis used was banned under the 1996 laws, although he cautioned the need to wait for the full investigation to be sure.
 
@@ -37,7 +37,7 @@ Treasurer Joe Hockey said the fact that Monis appeared to have slipped under the
 
 "How we missed him is a source of immense frustration to us, particularly given that we have given more resources to our security agencies," Mr Hockey told Seven Network.
 
-\[...\]
+[...]
 
 Source:
 theguardian.com/australia-news/2014/dec/18/sydney-siege-australia-nation-defenceless-victims-senator

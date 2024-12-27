@@ -17,6 +17,6 @@ More than $520,000 of cash and three firearms were also seized in the Waitematā
 
 Two other joint operations, involving New Zealand Customs and New Zealand Police, last week also saw drugs and cash seized, and assets restrained.
 
-\[...\]
+[...]
 
 Source: RNZ, nzherald.co.nz/nz/police-lay-200-charges-after-finding-300kg-of-drugs-520000-cash-guns/YPORQ34LCJE3TMIZCHV6WU2UZ4/

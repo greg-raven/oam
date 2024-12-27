@@ -13,6 +13,6 @@ Sheriff Harris Huffman told the Selma Times-Journal that Kevin McLaughlin, of Da
 
 Authorities say while McLaughlin was giving orders, a customer pulled his gun and fired a single shot, killing the man.
 
-\[...\]
+[...]
 
 Source: wtvm.com/story/24476691/customer-fatally-shoots-attempted-robbery-suspect

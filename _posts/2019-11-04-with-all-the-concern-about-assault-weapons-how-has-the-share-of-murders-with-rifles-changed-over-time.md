@@ -13,6 +13,6 @@ The average rate of firearm murders committed with rifles after the assault weap
 
 There are similar drops over time if one looks at the share of total murders committed with rifles.
 
-\[...\]
+[...]
 
 Source: [CrimeResearch.org](https://crimeresearch.org/2024/02/with-all-the-concern-about-assault-weapons-how-has-the-share-of-murders-with-rifles-changed-over-time/)

@@ -29,6 +29,6 @@ Kimber is seeking qualified applicants across multiple positions and business ar
 
 "Every Kimber firearm is created with a unique blend of advanced precision technology and authentic human craftsmanship," he said.
 
-\[...\]
+[...]
 
 Source: Jerry Underwood, [Made In Alabama](https://www.madeinalabama.com/2020/10/gunmaker-kimber-relocates-its-corporate-headquarters-to-alabama/)

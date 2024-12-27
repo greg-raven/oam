@@ -9,7 +9,7 @@ categories:
 
 It's been more than a year since New Zealand instituted strict gun confiscation in the wake of a mass shooting in Christchurch in March 2019. So according to liberal logic, gun crime in New Zealand should be at an all-time low now.
 
-But that's the opposite of what has happened. According to figures obtained by Radio New Zealand, "\[L\]ast year had the highest rates of gun crime and deaths involving firearms for nearly 10 years."
+But that's the opposite of what has happened. According to figures obtained by Radio New Zealand, "[L]ast year had the highest rates of gun crime and deaths involving firearms for nearly 10 years."
 
 The gun-control legislation implemented in New Zealand banned all "military-style" semi-automatic guns and so-called "assault rifles." In an effort to take those weapons out of circulation, the country established a mandatory "gun buyback."
 

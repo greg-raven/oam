@@ -19,11 +19,11 @@ The lawsuit further alleges that many firearms do not qualify as handguns, pisto
 
 In the Court's June 3, 2021 ruling on demurrer, the court stated that:
 
-> As far as mandatory administrative duty, I think the Penal Code is relatively plain that the Department of Justice have \[sic\] to create an electronic transfer record or some other form of transfer record ... which is required under Penal Code section 28160 for all firearms.
+> As far as mandatory administrative duty, I think the Penal Code is relatively plain that the Department of Justice have [sic] to create an electronic transfer record or some other form of transfer record ... which is required under Penal Code section 28160 for all firearms.
 
 ---
 
-> \[A\] lawful weapon has to be subject to transfer somehow. The D.O.J. ... has the right to exercise discretion as to how that occurs, but it cannot prevent lawful weapons from being transferred, which is what the Second Amended Complaint alleges it's doing and doing so as an underground regulation.
+> [A] lawful weapon has to be subject to transfer somehow. The D.O.J. ... has the right to exercise discretion as to how that occurs, but it cannot prevent lawful weapons from being transferred, which is what the Second Amended Complaint alleges it's doing and doing so as an underground regulation.
 
 "This is the first step in vindicating the rights of our customers and our rights to sell lawful firearms without arbitrary and politically motivated interference from those who are charged as gate keepers of our fundamental rights," said Jay Jacobson of Franklin Armory. "It is sad, however, that such a clear duty on the Department of Justice requires a lawsuit to enforce."
 

@@ -19,7 +19,7 @@ The 2005 law merely limited lawsuits against gun makers, making their liability 
 
 Biden also tried linking Senator Bernie Sanders (I-VT) to the 2015 Charleston Church shooting that left nine black churchgoers murdered.
 
-"Walking distance \[from\] here is Mother Emanuel Church --- nine people \[were\] shot dead by a white supremacist. Bernie voted five times against the Brady Bill ... I'm not saying he's responsible for the nine deaths, but that man would not have been able to get that weapon with the waiting period of what I suggest."
+"Walking distance [from] here is Mother Emanuel Church --- nine people [were] shot dead by a white supremacist. Bernie voted five times against the Brady Bill ... I'm not saying he's responsible for the nine deaths, but that man would not have been able to get that weapon with the waiting period of what I suggest."
 
 Democratic presidential debaters keep demanding that the "Charleston loophole" be closed.
 

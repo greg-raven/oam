@@ -9,7 +9,7 @@ tags:
 
 In April 2022, a 23-year-old from Fairfax, Virginia, opened fire from a Washington, D.C. apartment, injuring four people before taking his own life. One of the victims of the shooting filed a $75 million lawsuit several months later that sought to blame a number of companies in the firearms industry responsible for the crime, including Daniel Defense, Magpul Industries, and Vista Outdoors.
 
-In her initial complaint, Karen Lowy and her attorneys claimed that the companies "have deceptively and unfairly marketed their assault rifles, rifle accessories, and ammunition in ways designed to appeal to the impulsive, risk-taking tendencies of civilian adolescent and post-adolescent males—the same category of consumers Defendants have watched, time after time, commit the type of mass shooting that unfolded again at the Edmund Burke School."
+In her initial complaint, Karen Lowy and her attorneys claimed that the companies "have deceptively and unfairly marketed their assault rifles, rifle accessories, and ammunition in ways designed to appeal to the impulsive, risk-taking tendencies of civilian adolescent and post-adolescent males --- the same category of consumers Defendants have watched, time after time, commit the type of mass shooting that unfolded again at the Edmund Burke School."
 
 Now a federal judge has thrown out the lawsuit, ruling that Lowy failed to back up those claims with facts.
 

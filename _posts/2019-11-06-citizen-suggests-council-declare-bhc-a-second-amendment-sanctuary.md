@@ -25,6 +25,6 @@ Cities within Mohave County aren't subject to the county declaration, City Manag
 
 The city of Needles, California, approved its declaration in July and Mohave County declared its support for the Needles declaration in August.
 
-\[...\]
+[...]
 
 Source: Terri Harber, Daily News (Mohave)

@@ -57,7 +57,7 @@ Can you knock it off? How can we possibly stand against a foe as formidable as a
 
 This is a magazine Maga Zine. Need I say more? Now that you know these terrifying knowledge nuggets, you must do everything you can to ban guns. Otherwise, you are personally complacent in every murder. Call your local representative to inform them so that they can be as smart as the featured individuals from this video. After all, they will be making all the laws to prevent future gun evil. They are our betters, and we should always trust what they say just as long as they have a (D) next to their name.
 
-\[...\]
+[...]
 
 If I take this weapon and I bang it. Look what just happened. The bolt goes forward. The weapon has fired. This terrifying procedure kills people in basic training every day.
 

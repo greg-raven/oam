@@ -9,7 +9,7 @@ categories:
 
 On February 17 Florida State University criminology professor Gary Kleck responded to recent criticism of his past studies on defensive gun uses (DGUs) by showing why the criticism is wrong and why a minimum of 760,000 DGUs each year is still a viable claim.
 
-\[...\] Kleck's work on DGUs entered into the public dialogue in 1993 with the publication of the National Self-Defense Survey (NSDS). He conducted this survey with his colleague Marc Gertz, finding a minimum of 760,000 DGUs annually.
+[...] Kleck's work on DGUs entered into the public dialogue in 1993 with the publication of the National Self-Defense Survey (NSDS). He conducted this survey with his colleague Marc Gertz, finding a minimum of 760,000 DGUs annually.
 
 He and Gertz then refuted criticism of these findings in 1997, 1998, and 2001.
 

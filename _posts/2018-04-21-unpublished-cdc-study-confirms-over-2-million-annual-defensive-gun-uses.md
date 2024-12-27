@@ -19,6 +19,6 @@ Kleck summarized the CDC findings:
 
 > In 1996, 1997, and 1998, the Centers for Disease Control and Prevention (CDC) conducted large-scale national surveys asking about defensive gun use (DGU). They never released the findings or even acknowledged they had studied the topic. I obtained the unpublished raw data and computed the prevalence of DGU. CDC's findings indicated that an average of 2.46 million U.S. adults used a gun for self-defense in each of the years from 1996 through 1998 --- almost exactly confirming the estimate for 1992 of Kleck and Gertz (1995). Possible reasons for CDC's suppression of these findings are discussed.
 
-On April 20, 2018, Reason magazine quoted Kleck's reaction to the unpublished CDC findings; he explained that a figure of 2.46 million DGUs a year "\[implies\] that guns were used defensively by victims about 3.6 times as often as they were used offensively by criminals."
+On April 20, 2018, Reason magazine quoted Kleck's reaction to the unpublished CDC findings; he explained that a figure of 2.46 million DGUs a year "[implies] that guns were used defensively by victims about 3.6 times as often as they were used offensively by criminals."
 
 Source: AWR Hawkins, breitbart.com/big-government/2018/04/21/unpublished-cdc-study-confirms-2-million-annual-defensive-gun-uses/

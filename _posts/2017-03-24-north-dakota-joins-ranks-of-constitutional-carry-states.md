@@ -15,7 +15,7 @@ House Bill 1169 codified the right of those with a North Dakota drivers' license
 
 The new law leaves the state's current concealed carry permit scheme in place but allows that any resident with a state-issued ID for at least a year and is not prohibited from possessing a firearm could carry a handgun without having such a permit. It also adds a duty to inform police of their firearm during encounters such as traffic stops.
 
-\[...\]
+[...]
 
 "Gun ownership is both a right and a responsibility, and that responsibility begins with individuals and families," Burgum said.
 

@@ -23,7 +23,7 @@ Across the country, police have had orders to stand down.
 
 "Tonight, I watched Seattle burn. Seattle is dying, by fire, looting, weakness of the political leadership," wrote Seattle KVI radio talk-show host Kirby Wilbur. "We watched on TV as our law enforcement stood by while vandalism, looting, assaults, pure chaos reigned in the streets of our downtown business district."
 
-But the violence in Minneapolis would have been much worse if people hadn't been able to defend themselves and their businesses with guns. As The Wall Street Journal reported, "African-American owners of GM Tobacco told me they were armed and ready to protect their business --- and that they stand in solidarity with those who seek justice for \[George\] Floyd." Visible from the front of the store was Minneapolis' Third Police Precinct, which rioters set on fire.
+But the violence in Minneapolis would have been much worse if people hadn't been able to defend themselves and their businesses with guns. As The Wall Street Journal reported, "African-American owners of GM Tobacco told me they were armed and ready to protect their business --- and that they stand in solidarity with those who seek justice for [George] Floyd." Visible from the front of the store was Minneapolis' Third Police Precinct, which rioters set on fire.
 
 This isn't the first time something like this has happened. People may remember the Korean store owners who successfully used semi-automatic rifles to protect their businesses during the 1992 Los Angeles riots.
 

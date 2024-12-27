@@ -15,7 +15,7 @@ But what would come to mind  if I said: Pearl High, Parker Middle School Dance, 
 
 If you are like most Americans you probably don't know anything about these places and that is a shame because they are all places where a law abiding gun owner STOPPED a mass murderer before they could ratchet up the body count. Does the media trumpet these citizen heroes and repeat their names ad nauseam so they become household words? No. Their names are often unreported save for the local press of their town because apparently stopping a mass murderer with the ability to kill hundreds isn't as sexy as letting him murder his way into the headlines.
 
-\[...\]
+[...]
 
 Source: bulletsfirst.net/2014/01/06/dont-heroes-stop-mass-murderers-get-better-press/
 

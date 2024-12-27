@@ -50,9 +50,9 @@ Besides losing his left eye and his sense of smell, Mendez also suffered a fract
 
 But Mendez also is speaking out about the importance of the Second Amendment and how law-abiding, armed Americans can help stop shootings before they claim more lives, the cable network said.
 
-"This world is unpredictable. And honestly, at the end of the day, the people that want to ban guns, they're only banning it from good people, not criminals," he told Fox News. "Because again, there \[are\] no gun laws for criminals."
+"This world is unpredictable. And honestly, at the end of the day, the people that want to ban guns, they're only banning it from good people, not criminals," he told Fox News. "Because again, there [are] no gun laws for criminals."
 
-What's more, Mendez has since purchased two additional handguns for his family members to train with, saying they are "more ready to confront \[evil\] with equal force now than ever," Fox News noted.
+What's more, Mendez has since purchased two additional handguns for his family members to train with, saying they are "more ready to confront [evil] with equal force now than ever," Fox News noted.
 
 Mendez --- a lifetime NRA member --- lauded the Second Amendment and denounced the media for not covering his story as part of the NRA video, the cable network said.
 

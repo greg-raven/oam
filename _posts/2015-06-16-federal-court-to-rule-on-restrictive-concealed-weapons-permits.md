@@ -25,7 +25,7 @@ Clement argued that there is nothing wrong with the sheriff requiring an applica
 
 The two sides in the dispute agree that the issue may ultimately be decided by the U.S. Supreme Court.
 
-\[...\]
+[...]
 
 Among other issues, the judges asked a lawyer from the state attorney general's office why the attorney general waited so long to appeal.
 

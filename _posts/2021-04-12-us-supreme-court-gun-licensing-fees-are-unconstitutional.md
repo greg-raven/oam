@@ -20,11 +20,11 @@ It is similarly unconstitutional to charge a fee to exercise the right to vote, 
 
 **Gun Licensing Fees Are Racist**
 
-The racist nature of many gun licensing schemes is meanwhile underscored by an amicus curiae brief filed by the African-American Gun Association (AAGA) against California. "African Americans have been the target of some of the oldest and most odious attempts at forced disarmament\[.\] ... NAAGA has a strong interest in this case because taxes and fees imposed on the right to keep and bear arms disproportionately affect African Americans,
+The racist nature of many gun licensing schemes is meanwhile underscored by an amicus curiae brief filed by the African-American Gun Association (AAGA) against California. "African Americans have been the target of some of the oldest and most odious attempts at forced disarmament[.] ... NAAGA has a strong interest in this case because taxes and fees imposed on the right to keep and bear arms disproportionately affect African Americans,
 
 due to the average lower income and higher rate of poverty in the African-American community." White supremacists once argued openly that this was their intention, and I recall that the complete quote, while it did not use the N-word, did refer to the "son of Ham."
 
-It is a matter of common knowledge that in this state and in several others, the more especially in the Southern states where the negro population is so large, that this cowardly practice of "toting" guns has always been one of the most fruitful sources of crime\[.\] ... There would be a very decided falling off of killings "in the heat of passion" if a prohibitive tax were laid on the privilege of handling and disposing of revolvers and other small arms, or else that every person purchasing such deadly weapons should be required to register\[.\] ... Let a negro board a railroad train with a quart of mean whiskey and a pistol in his grip and the chances are that there will be a murder, or at least a row, before he alights.
+It is a matter of common knowledge that in this state and in several others, the more especially in the Southern states where the negro population is so large, that this cowardly practice of "toting" guns has always been one of the most fruitful sources of crime[.] ... There would be a very decided falling off of killings "in the heat of passion" if a prohibitive tax were laid on the privilege of handling and disposing of revolvers and other small arms, or else that every person purchasing such deadly weapons should be required to register[.] ... Let a negro board a railroad train with a quart of mean whiskey and a pistol in his grip and the chances are that there will be a murder, or at least a row, before he alights.
 
 The same went for a Virginia poll tax on the right to vote.
 
@@ -34,7 +34,7 @@ The same applies to laws that require gun-owners to buy expensive liability insu
 
 **An Illinois Court Questioned the FOID Card Requirement**
 
-More to the point, however, is the brief's citation of Murdock v. Pennsylvania and the phrase "\[a\]cross constitutional rights, the courts have consistently forbidden the use of special fees and taxes on constitutionally protected conduct to generate general revenue."
+More to the point, however, is the brief's citation of Murdock v. Pennsylvania and the phrase "[a]cross constitutional rights, the courts have consistently forbidden the use of special fees and taxes on constitutionally protected conduct to generate general revenue."
 
 Even Illinois's own courts appear to be finding issues with the Firearm Owner Identification Card per Illinois v. Brown. "The circuit court was correct that the FOID card requirement impermissibly infringes on law- abiding persons' rights to bear long arms-in their own homes for self-defense." The court filing also argues that the FOID card fee violates not just the U.S. Constitution, but also Illinois's own laws: "a person cannot be compelled 'to purchase, through a license fee or a license tax, the privilege freely granted by the constitution. Thus, Brown, who was merely exercising her right to keep a long gun in her own home for self-defense, cannot be made to purchase a card or obtain a license to exercise this fundamental right guaranteed by the Constitution." I do not know the outcome of this case but the bottom line is that an Illinois court had problems with the FOID law.
 

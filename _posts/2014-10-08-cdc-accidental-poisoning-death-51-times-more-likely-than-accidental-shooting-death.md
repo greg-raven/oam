@@ -13,6 +13,6 @@ The raw figures show there were 600 accidental shooting deaths in 2010, yet ther
 
 Moreover, the CDC shows that Americans are approximately 10 times as likely to die from accidental suffocation vs. an accidental shooting and almost 6 times more likely to die via accidental drowning (non-boating related) than accidental shooting.
 
-\[...\]
+[...]
 
 Source: AWR Hawkins, breitbart.com/Big-Government/2014/10/08/CDC-Accidental-Poisoning-Death-51-Times-More-Likely-Than-Accidental-Shooting-Death

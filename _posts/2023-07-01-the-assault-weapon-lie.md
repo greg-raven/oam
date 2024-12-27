@@ -7,7 +7,7 @@ categories:
 - information
 ---
 
-It sees that every time President Biden finds himself in front of a microphone these days, he tries to blame some aspect of his administration's failure to address violent crime on law-abiding American gun owners. Most often, this then leads him to call for a ban on "assault weapons" and claims that "\[he's\] the guy" responsible for the 1994 federal ban on "assault weapons."
+It sees that every time President Biden finds himself in front of a microphone these days, he tries to blame some aspect of his administration's failure to address violent crime on law-abiding American gun owners. Most often, this then leads him to call for a ban on "assault weapons" and claims that "[he's] the guy" responsible for the 1994 federal ban on "assault weapons."
 
 As this magazine was headed to print, the president had most recently made this claim while giving a commencement speech at Howard University. While many commencement speakers attempt to give the recent graduates motivation as they advance in their professional lives, Biden instead used the opportunity to stump for more gun control, specifically for a ban on "assault weapons."
 
@@ -27,7 +27,7 @@ Despite its disconnection to the reality of violence perpetrated with firearms, 
 
 Faced with the reality that so-called "assault weapons" are rarely used to commit violent crime, a 1997 Department of Justice-funded study from the Urban Institute acknowledged, "At best, the assault weapons ban can have only a limited effect on total gun murders, because the banned weapons and magazines were never involved in more than a modest fraction of all gun murders."
 
-A 2004 follow-up Department of Justice-funded study came to a similar conclusion. The study determined that "AWs \[assault weapons\] and LCMs \[large capacity magazines\] were used in only a minority of gun crimes prior to the 1994 federal ban," "relatively few attacks involve more than 10 shots fired," and "the ban's effects on gun violence are likely to be small at best and perhaps too small for reliable measurement."
+A 2004 follow-up Department of Justice-funded study came to a similar conclusion. The study determined that "AWs [assault weapons] and LCMs [large capacity magazines] were used in only a minority of gun crimes prior to the 1994 federal ban," "relatively few attacks involve more than 10 shots fired," and "the ban's effects on gun violence are likely to be small at best and perhaps too small for reliable measurement."
 
 Presented with the overwhelming evidence of the ban's inefficacy, Congress allowed the ban to sunset after 10 years. In 2014, a decade after the ban sunset, the U.S. homicide rate reached a multi-decade low. Sadly, the homicide rate has risen in recent years amidst many city prosecutors' ongoing refusal to punish violent criminals.
 

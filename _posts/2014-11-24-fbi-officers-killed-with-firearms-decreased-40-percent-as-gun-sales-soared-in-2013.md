@@ -13,7 +13,7 @@ According to the FBI, 26 officers were "feloniously killed" with firearms in 201
 
 The number of officers "feloniously killed" with firearms has fallen as the number of annual private gun sales has risen.
 
-\[...\]
+[...]
 
 The FBI previously confirmed that violent crime against private citizens also fell in 2013.
 

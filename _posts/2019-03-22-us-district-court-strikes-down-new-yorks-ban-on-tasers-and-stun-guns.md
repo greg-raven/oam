@@ -27,7 +27,7 @@ As Judge Hurd wrote ...
 >
 > 4. Defendant, his officers, agents, servants, employees, and all persons in active concert or participation with the New York State Police are hereby ENJOINED from enforcing New York Penal Law § 265.01(1) as applied to "electronic dart guns" and "electronic stun guns."
 
-\[...\]
+[...]
 
 This is entirely consistent with previous rulings regarding stun guns.
 

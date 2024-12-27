@@ -25,6 +25,6 @@ Minority Democrats in the Arizona Legislature regularly introduce measures to bo
 
 Gary Larson, a gun owner from Glendale, said he had never spoken at a public forum but felt compelled to comment Wednesday because he fears restrictions that could "clamp down" on his freedoms.
 
-\[...\]
+[...]
 
 Source: Associated Press (H/T: [Newsmax](https://www.newsmax.com/newsfront/guns/2020/02/26/id/955919/))

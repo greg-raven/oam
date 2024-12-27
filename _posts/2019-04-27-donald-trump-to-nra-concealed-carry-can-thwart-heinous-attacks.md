@@ -15,6 +15,6 @@ He commented on how different the outcome may have been "if there was one gun be
 
 Trump made a similar argument following the January 7, 2015, attack on Paris's Charlie Hebdo headquarters and the December 2, 2015, attack on a gun-free county building in San Bernardino, California. He told Meet the Press:
 
-> If in Paris or if in California recently, where the fourteen people were killed and probably others to follow--in terms of that group because you have some people who are very, very badly wounded--if in Paris they had guns or if in California \[they had guns,\] on the other side, where the bullets go both ways, not just in one direction. You wouldn't have had the kind of carnage that you had.
+> If in Paris or if in California recently, where the fourteen people were killed and probably others to follow--in terms of that group because you have some people who are very, very badly wounded--if in Paris they had guns or if in California [they had guns,] on the other side, where the bullets go both ways, not just in one direction. You wouldn't have had the kind of carnage that you had.
 
 Source: AWR Hawkins, Breitbart.com

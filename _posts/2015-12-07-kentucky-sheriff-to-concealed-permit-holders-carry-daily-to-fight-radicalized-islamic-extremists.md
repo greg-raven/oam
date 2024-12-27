@@ -18,7 +18,7 @@ Helmig continued:
 
 > I have reminded my current and retired Deputy Sheriffs of their responsibility to carry their firearms while off-duty. I would also like to remind the people who have applied, been trained, and issued a license to carry a Concealed Deadly Weapon (CCDW) that they also have a responsibility to carry their firearm, which they are proficient with, for the safety of themselves and others. It is also the responsibility of everyone to refresh themselves with the laws that govern the privilege and great responsibility that accompany being a CCDW license holder.
 
-\[...\]
+[...]
 
 He closed his call for armed citizens by writing, "Each of us, as proud Kentuckians, has a great responsibility to uphold the values of the United States Constitution and protect this great nation from acts of foreign or domestic terrorism. 'United We Stand, Divided We Fall.'"
 

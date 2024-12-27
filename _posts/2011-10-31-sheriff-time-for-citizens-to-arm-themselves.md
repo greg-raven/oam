@@ -11,13 +11,13 @@ categories:
 
 SPARTANBURG COUNTY, S.C. --- The Spartanburg County Sheriff is known for speaking his mind, and at a news conference on Monday, he didn't hold back his anger and frustration after a woman was attacked in a park over the weekend.
 
-\[...\]
+[...]
 
 Sheriff Chuck Wright opened his news conference by saying, "Our form of justice is not making it."
 
 He said, "Carry a concealed weapon. That'll fix it."
 
-\[...\]
+[...]
 
 Wright said, "It's too bad someone with a concealed weapons permit didn't walk by. That would fix it." He said people are tired of doing the right thing and criminals getting away with their actions.
 
@@ -29,7 +29,7 @@ Wright said, "I'm tired of looking at victims saying, 'There's life after this' 
 
 Wright said in his view, gun control is, "Is when you can get your barrel back on the target quick. That's gun control."
 
-\[...\]
+[...]
 
 He encouraged women to walk in groups, and he ended by saying again, "I want you to get a concealed weapons permit. Don't get Mace. Get a firearm."
 

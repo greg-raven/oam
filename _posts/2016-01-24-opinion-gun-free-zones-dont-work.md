@@ -15,7 +15,7 @@ The Enquirer calls for a "realistic discussion about reasonable ways to reduce g
 
 What about reducing the barriers to obtaining a federal firearms license, which were artificially increased by the Brady Bill, resulting in smaller dealers turning in their federal licenses? More dealers would then access the NCIS system for background checks. As an aside, only FFL holders may transfer a firearm to an out-of-state purchaser --- only FFL holders may legally engage in internet sales.
 
-\[...\]
+[...]
 
 According to Gallup, in 1993 only 34 percent of Americans thought the right to protect gun ownership was more important than gun control; in 2013 48 percent of Americans thought protection of our Second Amendment rights was more important than gun control. More than 5 million Americans think enough of our constitutional rights, the natural right to self-defense, gun training and gun safety that they've joined the NRA. More than 54 percent of all Americans have a favorable view of the NRA.
 

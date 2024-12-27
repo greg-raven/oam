@@ -23,11 +23,11 @@ Lupear stressed the need behind having a "reasonable belief that you will be kil
 
 "There are strict self-defense laws," Lupear said. "The amount of force used against the suspect really depends on what the situation is. You can't just shoot someone out of anger; it's got to be reasonable --- you had to use force to prevent the injury from happening."
 
-\[...\]
+[...]
 
 Lupear said home invasions and shootings, like the one that occurred Wednesday when an off-duty officer shot a robbery suspect in his home in Apple Valley, are considered to be rare. He also spoke to the Daily Press about the investigative process that occurs after a homeowner shoots a suspect during a home invasion.
 
-\[...\]
+[...]
 
 Contact the Sheriff's Department for more information on self-defense laws.
 

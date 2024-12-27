@@ -25,7 +25,7 @@ Penman said the city is dealing with bankruptcy, which has forced officials to c
 
 "Let's be honest, we don't have enough police officers. We have too many criminals living in this city. We have had 45 murders this year ... that's far too high for a city of this size," Penman said.
 
-\[...\]
+[...]
 
 "I'm not advocating that people go out, who don't have any training, and buy firearms. I certainly strongly caution anyone who has children at home not to have a loaded gun in the house," Penman said.
 
