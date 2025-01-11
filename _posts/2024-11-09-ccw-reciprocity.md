@@ -4,7 +4,7 @@ layout: post
 categories:
 - CCW
 tags: 
-- Donald Trump
+- Donald J. Trump
 ---
 
 Trump announces full conceal carry reciprocity
