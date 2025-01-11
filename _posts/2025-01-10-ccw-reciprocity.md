@@ -2,9 +2,9 @@
 title: "National Concealed Carry Reciprocity introduced in Senate"
 layout: post
 categories:
-- AWR Hawkins
-tags: 
 - CCW
+tags: 
+- AWR Hawkins
 ---
 
 Legislation to create national reciprocity for concealed carry was introduced in the Senate Thursday, one day after similar legislation was introduced in the U.S. House.

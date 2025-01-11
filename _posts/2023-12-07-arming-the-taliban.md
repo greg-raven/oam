@@ -2,9 +2,9 @@
 title: "Arming the Taliban"
 layout: post
 categories:
-- ProudArmyBrat
-tags: 
 - information
+tags: 
+- ProudArmyBrat
 ---
 
 One of my brothers was Commander of Bagram Air Base [Afghanistan] for 2 years, so I know this as fact.

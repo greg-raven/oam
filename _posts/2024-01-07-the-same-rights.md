@@ -2,9 +2,9 @@
 title: "The same rights as guns"
 layout: post
 categories:
-- Declaration of Memes
-tags: 
 - other
+tags: 
+- Declaration of Memes
 ---
 
 > I DREAM WOMEN WILL ONE DAY HAVE THE SAME RIGHTS AS GUNS

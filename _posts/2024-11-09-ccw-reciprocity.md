@@ -2,9 +2,9 @@
 title: "Trump announces full conceal carry reciprocity"
 layout: post
 categories:
-- Donald Trump
-tags: 
 - CCW
+tags: 
+- Donald Trump
 ---
 
 Trump announces full conceal carry reciprocity
