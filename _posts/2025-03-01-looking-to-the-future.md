@@ -2,9 +2,9 @@
 title: "Looking To The Future"
 layout: post
 categories:
-- Bob Barr
-tags: 
 - information
+tags: 
+- Bob Barr
 ---
 
 We can begin with how my hometown pastor used to start every sermon: "Good News. Good News. Good News." In the long-standing legal battle orchestrated against the National Rifle Association by New York Attorney General Letitia James --- part of that state's multi-pronged effort to destroy the NRA --- we have finally prevailed!

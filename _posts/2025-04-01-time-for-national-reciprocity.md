@@ -2,9 +2,9 @@
 title: "Time For National Carry Reciprocity"
 layout: post
 categories:
-- Bob Barr
-tags: 
 - information
+tags: 
+- Bob Barr
 ---
 
 Over the past several decades, the National Rifle Association has done more than any other organization to advance the legal carry of firearms for self-defense purposes --- period.
