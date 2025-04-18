@@ -1,10 +1,10 @@
 ---
 title: "San Bernardino County Sheriff's Department opens High Desert location for CCW permit processing"
-tags:
-- Victor Valley News Group
 layout: post
 categories:
 - CCW
+tags:
+- Victor Valley News Group
 ---
 
 VICTORVILLE, Calif. (VVNG.com) --- San Bernardino County Sheriff Shannon Dicus and Victorville Mayor Debra Jones, announced the opening of a new Concealed Carry Weapon (CCW) permit office located in Victorville.

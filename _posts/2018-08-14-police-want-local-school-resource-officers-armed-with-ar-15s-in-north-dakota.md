@@ -1,10 +1,10 @@
 ---
 title: "Police want local school resource officers armed with AR-15s in North Dakota"
-tags:
-- Aaron Cohen
 layout: post
 categories:
 - information
+tags:
+- Aaron Cohen
 ---
 
 A North Dakota police department wants to make sure school resource officers are on equal footing with anyone who may try to harm students, so it has requested some upgraded weapons, according to the Associated Press.
