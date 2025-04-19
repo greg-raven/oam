@@ -1,15 +1,15 @@
 ---
 title: "Resolved: Keep buying guns, especially AR-15s and like weapons, ammunition, and high-capacity magazines"
-tags:
-- One Armed Man
 layout: post
 categories:
 - information
+tags:
+- Michael Scheuer
 ---
 
 Biden and his fellow miscreants are a nightmare that will not end. It increasingly looks like the citizenry will have to end their term long before 2024. Biden --- or whoever gave him the words via earpiece --- deliberately lit the fuse for the eventual demise of him and his kind.
 
-In his 8 April 2021 lie that "gun violence in this country is an epidemic", <sup>(1)</sup> Biden told a partial truth. A far more truthful statement would have had Biden admit that "gun violence is an epidemic in large cities long-governed by Democrats; among the felons and Mexican cartels and gangs the party has coddled for a half-century; among the shooters set up by Democratic operatives and/or the FBI to kill numerous innocent people for political purposes; and among the Democrats' well-paid, semi-human, rioting terrorists of BLM and ANTIFA." These words precisely depict the deep and irrefutable core of gun violence in this country.
+In his 8 April 2021 lie that "gun violence in this country is an epidemic," <sup>(1)</sup> Biden told a partial truth. A far more truthful statement would have had Biden admit that "gun violence is an epidemic in large cities long-governed by Democrats; among the felons and Mexican cartels and gangs the party has coddled for a half-century; among the shooters set up by Democratic operatives and/or the FBI to kill numerous innocent people for political purposes; and among the Democrats' well-paid, semi-human, rioting terrorists of BLM and ANTIFA." These words precisely depict the deep and irrefutable core of gun violence in this country.
 
 Being lethal of enemies of truth and addicted to authoritarianism, Biden declared war not only armed, lawful, and self-reliant citizens of all races, but on the country's heritage and the entirety of its constitutional structure. In his statement, Biden said,
 
