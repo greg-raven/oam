@@ -3,7 +3,7 @@ title: "Goodbye ATF? GOP lawmakers introduce bill to abolish the Bureau"
 layout: post
 categories:
 - information
-tags: 
+tags:
 - Jeff Charles
 ---
 

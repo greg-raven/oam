@@ -25,7 +25,7 @@ Joe Biden thinks it is. He's promised to ban semi-automatic rifles, to force you
 
 So does Beto O'Rourke, who Biden says he'll put in charge of gun-ban policy if elected. So do Charles Schumer, Nancy Pelosi and their gun-hating comrades in Congress. As does the despicable, dishonest mainstream media establishment.
 
-We have one job to do on Election Day. We need to turn those long lines we see at gun stores into long lines at every polling booth in the country.  
+We have one job to do on Election Day. We need to turn those long lines we see at gun stores into long lines at every polling booth in the country. 
 This is the harsh reality we face right now, just weeks before Election Day. A reality that millions and millions of Americans are just now beginning to understand.
 
 Each month, gun sales break the previous month's record. Law-abiding Americans are preparing for the world that surrounds them.

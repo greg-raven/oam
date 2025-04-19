@@ -3,7 +3,7 @@ title: "Patel to head the ATF"
 layout: post
 categories:
 - information
-tags: 
+tags:
 - Alanna Durkin Richer
 ---
 

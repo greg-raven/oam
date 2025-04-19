@@ -3,7 +3,7 @@ title: "President-Elect Trump announces push for national concealed carry recipr
 layout: post
 categories:
 - CCW
-tags: 
+tags:
 - Donald J. Trump
 ---
 

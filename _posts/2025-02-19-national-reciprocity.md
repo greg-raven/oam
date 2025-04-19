@@ -3,7 +3,7 @@ title: "National Interstate Reciprocity"
 layout: post
 categories:
 - CCW
-tags: 
+tags:
 - John Commerford
 ---
 

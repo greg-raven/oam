@@ -3,7 +3,7 @@ title: "National Concealed Carry Reciprocity introduced in Senate"
 layout: post
 categories:
 - CCW
-tags: 
+tags:
 - AWR Hawkins
 ---
 

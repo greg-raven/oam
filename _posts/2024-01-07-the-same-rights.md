@@ -3,7 +3,7 @@ title: "The same rights as guns"
 layout: post
 categories:
 - other
-tags: 
+tags:
 - Declaration of Memes
 ---
 

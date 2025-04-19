@@ -14,9 +14,9 @@ The Firearms Policy Coalition and the Second Amendment Foundation have asked a j
 From a SAF Press release:
 
 > In their 22-page brief, SAF and its partners argue, "The Founders did not bar carriage of firearms in Post Offices. Instead, they regulated the improper, threatening, and violent use of weapons in Post Offices. Later generations confirmed this historical tradition by protecting mail carriers with bounties and facilitating carriage, not banning firearms. Post Offices have been a feature of our country from before we were a country, and concerns about threats to Post Offices are as old as Post Offices themselves…Yet, to Plaintiffs' knowledge, Congress passed no restrictions on the carriage of firearms in U.S. Post Offices during the Founding era, suggesting that the Carry Ban is unconstitutional."
-> 
+>
 > "Post offices are public buildings, open to the people, and should not be considered 'sensitive' places barring law-abiding citizens from peaceably carrying arms for personal protection," said SAF founder and Executive Vice President Alan M. Gottlieb. "As we note in our brief, our proposed course of conduct --- licensed carry on postal property --- falls within the Second Amendment's plain text."
-> 
+>
 > "This case has far-reaching implications which would apply across the country," added SAF Executive Director Adam Kraut. "Millions of honest citizens visit post offices every day to conduct all kinds of legitimate business, and they should not be required to park their Second Amendment rights at the curb before stepping onto post office property, or into a post office building."
 
 As Cam Edwards noted at our sister site Bearing Arms, this isn't exactly a longstanding regulation dating back to the early days of the United States Postal Service. Instead, it dates from 1972.
@@ -27,7 +27,7 @@ And for what? Were people worried the post office would get shot up because they
 
 Then we have the origins of the term "going postal," which was a reference to postal workers going nuts and committing mass shootings at their places of work. In other words, the gun-free status didn't exactly stop people from bringing guns in to kill people, which is all the evidence you need that they don't work.
 
-What the regulation does, though, is make it harder for law-abiding people to carry guns during their day-to-day lives. 
+What the regulation does, though, is make it harder for law-abiding people to carry guns during their day-to-day lives.
 
 Even in this day and age, there are times you need to mail something. Folks have to go to the post office sooner or later, and when they do, they can't lawfully carry a firearm.
 

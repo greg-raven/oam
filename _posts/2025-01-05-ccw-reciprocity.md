@@ -3,7 +3,7 @@ title: "Hudson introduces National Concealed Carry Reciprocity"
 layout: post
 categories:
 - CCW
-tags: 
+tags:
 - AWR Hawkins
 ---
 

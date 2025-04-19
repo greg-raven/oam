@@ -3,7 +3,7 @@ title: "Arming the Taliban"
 layout: post
 categories:
 - information
-tags: 
+tags:
 - ProudArmyBrat
 ---
 

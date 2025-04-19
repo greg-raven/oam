@@ -3,7 +3,7 @@ title: "The 2nd Amendment is not a second-class right"
 layout: post
 categories:
 - other
-tags: 
+tags:
 - Dan Driscoll
 ---
 

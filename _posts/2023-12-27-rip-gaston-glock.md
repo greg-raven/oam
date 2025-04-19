@@ -1,7 +1,7 @@
 ---
 title: "In Memoriam: Gaston Glock"
 layout: post
-tags: 
+tags:
 - information
 ---
 

@@ -3,7 +3,7 @@ title: "Time For National Carry Reciprocity"
 layout: post
 categories:
 - information
-tags: 
+tags:
 - Bob Barr
 ---
 

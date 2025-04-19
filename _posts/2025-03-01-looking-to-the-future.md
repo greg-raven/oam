@@ -3,7 +3,7 @@ title: "Looking To The Future"
 layout: post
 categories:
 - information
-tags: 
+tags:
 - Bob Barr
 ---
 
