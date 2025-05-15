@@ -17,7 +17,7 @@ In response to the state's arguments about why it deemed so many places "sensiti
 
 In the press conference announcing this law, Governor Newsom made it absolutely clear how he views the Second Amendment.
 
-<video controls src="/assets/video/2023-12-20-Newsom-Right.mp4" poster="/assets/video/2023-12-20-Newsom-Right.jpg" style="width: 561px; height: 316px"></video>
+<video controls poster="/assets/video/2023-12-20-Newsom-Right.jpg" src="/assets/video/2023-12-20-Newsom-Right.mp4" style="width: 561px; height: 316px" type="video/mp4"></video>
 
 Seemingly in response to Newsom's dismissive attitude, Judge Carney's decision included this admonition: "(t)he Constitution, by design, recognizes that some rights are so important and sacrosanct that nothing short of a constitutional amendment may take them away. No one --- not a federal judge, not a state governor or legislator, not even the President of the United States --- is above the Constitution."
 
