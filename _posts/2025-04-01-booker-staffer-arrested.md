@@ -23,7 +23,7 @@ The incident is one of several instances where officers appear to not have follo
 
 Batts is listed as a "special assistant" to Sen. Cory Booker, D-N.J., on Legistorm, a research entity that routinely updates salaries and information about lawmakers and their staffs.
 
-In a statement to Fox News Digital, Booker spokesperson Jeff Giertz said, "Sen. Booker’s office employs a retired Newark police detective as a New Jersey-based driver who often accompanies him to events. We are working to better understand the circumstances around this."
+In a statement to Fox News Digital, Booker spokesperson Jeff Giertz said, "Sen. Booker's office employs a retired Newark police detective as a New Jersey-based driver who often accompanies him to events. We are working to better understand the circumstances around this."
 
 In 2016, Booker shared a video of Batts on social media, identifying Batts as a former detective in Newark. At the time, Batts said he had worked for either the city of Newark or Booker's office for 28 years.
 
@@ -33,7 +33,7 @@ In 2016, Booker shared a video of Batts on social media, identifying Batts as a 
 
 Booker also mentioned Batts in a 2017 commencement speech at the University of Pennsylvania.
 
-"And as I told my driver, an incredible officer named Kevin Batts, retired from the Newark Police Department, joined my staff because of our friendship and our bond, I said to him, "Kev, we’re almost home but do you mind? We have to swing through the drive-thru," he said.
+"And as I told my driver, an incredible officer named Kevin Batts, retired from the Newark Police Department, joined my staff because of our friendship and our bond, I said to him, "Kev, we're almost home but do you mind? We have to swing through the drive-thru," he said.
 
 [...]
 

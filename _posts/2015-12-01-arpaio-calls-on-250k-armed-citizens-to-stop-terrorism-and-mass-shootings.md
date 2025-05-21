@@ -35,7 +35,7 @@ Arpaio is not the first politician to call for more guns after a tragedy.
 
 Three years ago, Texas Rep. Louie Gohmert proposed arming more citizens after the Sandy Hook Elementary School shooting in Connecticut where 20 school children and six adult staff members were killed.
 
-At the time, Gohmert said: "I wish to God she had had an M-4 in her office," referring to the school’s principal.
+At the time, Gohmert said: "I wish to God she had had an M-4 in her office," referring to the school's principal.
 
 There have been some cases where an armed civilian stopped a mass killer.
 

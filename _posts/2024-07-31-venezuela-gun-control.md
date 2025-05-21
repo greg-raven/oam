@@ -15,7 +15,7 @@ But as Lee Williams wrote over at The Gun Writer, there's one major difference, 
 
 > Venezuela should be one of the wealthiest countries in the world. It is literally floating on a sea of oil. However, decades of government corruption have forced most of the population into poverty --- corruption that was enabled by disarming the people.
 >
-> Everyone except our Vice President seems to recognize that Maduro cheated --- by force of arms --- and will now serve another six-year term, his third. There is little the Venezuelan people can do to contest Monday’s election results. They have nothing to fight back with. All of their guns were confiscated and destroyed.
+> Everyone except our Vice President seems to recognize that Maduro cheated --- by force of arms --- and will now serve another six-year term, his third. There is little the Venezuelan people can do to contest Monday's election results. They have nothing to fight back with. All of their guns were confiscated and destroyed.
 >
 > Venezuela is the latest example of the need to protect and defend our Second Amendment rights. Rather than focusing solely on how they intend to disarm us, we should focus on why our politicians --- including Harris --- want a disarmed populace. It is certainly a question worthy of a response.
 

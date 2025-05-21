@@ -11,7 +11,7 @@ More than 200 charges have been made against 20 people as part of a joint Austra
 
 A total of 28 search warrants were executed during a week --- dubbed the "Week of Action" by Australian and New Zealand police --- between August 5 and 9.
 
-Police uncovered a synthetic drug laboratory in Auckland’s West Harbour and seized nearly 300kg of drugs.
+Police uncovered a synthetic drug laboratory in Auckland's West Harbour and seized nearly 300kg of drugs.
 
 More than $520,000 of cash and three firearms were also seized in the Waitematā, Auckland and Wellington region throughout the week.
 

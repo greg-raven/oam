@@ -9,7 +9,7 @@ tags:
 
 It turns out that bullets are an essential part of a gun, and limiting the number of rounds in a gun violates the Oregon constitution. A county judge in Oregon made that decision on Tuesday overturning Measure 114, a citizen-passed measure that outlawed what gun grabbers call "high capacity magazines" and required that Oregon serfs get a permit to be allowed to purchase a gun.
 
-I wrote in PJ Media shortly after its passage in November 2022 that "The passage of Measure 114 was a giant middle finger to real civil rights and to the Supreme Court’s recent decision in New York State Rifle and Pistol Association v. Bruen, which reaffirmed that Americans have the right to bear arms in public and to possess arms that are 'typically possessed by law-abiding citizens for lawful purposes.'"
+I wrote in PJ Media shortly after its passage in November 2022 that "The passage of Measure 114 was a giant middle finger to real civil rights and to the Supreme Court's recent decision in New York State Rifle and Pistol Association v. Bruen, which reaffirmed that Americans have the right to bear arms in public and to possess arms that are 'typically possessed by law-abiding citizens for lawful purposes.'"
 
 Judge Robert Raschio returned the insult with a considered legal opinion that tossed the entire measure into the dustbin, calling it unconstitutional and charging that it "does not enhance public safety to a degree necessary to burden the right to bear arms." He said the law undermines citizens' right to self-defense and conflicts with the state's concealed carry permitting process. He's given the state of Oregon until December 8 to appeal or his decision stands.
 

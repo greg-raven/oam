@@ -39,7 +39,7 @@ With the success of concealed carry in the states, what is left for Congress to 
 
 There are a few states that have stubbornly resisted recognizing the rights of their residents and visitors to carry handguns in public for self-protection. The list includes California, Hawaii, Maryland, Massachusetts, New Jersey and New York. None of these states recognize concealed licenses issued in other states, nor do the District of Columbia, Illinois, Oregon or Rhode Island. Yet most of these states have a thriving tourist economy and are happy to accept the money of out-of-state travelers.
 
-When those visitors bring their lawfully carried handguns, accepted by the vast majority of other U.S. states, they may be in for a rude awakening. The anti-gun, no-reciprocity states treat anyone carrying a firearm as a presumptive criminal, and the penalties are quite harsh—usually felonies with mandatory prison time.
+When those visitors bring their lawfully carried handguns, accepted by the vast majority of other U.S. states, they may be in for a rude awakening. The anti-gun, no-reciprocity states treat anyone carrying a firearm as a presumptive criminal, and the penalties are quite harsh --- usually felonies with mandatory prison time.
 
 Tourists who have innocently volunteered that they were carrying to a police officer have been arrested, have had their guns seized, and have been tossed into local jails. Sometimes, after they have been sufficiently terrorized and impoverished by missed work and legal fees, they are allowed to plead to a misdemeanor criminal charge. But they bear the unjustified stigma and collateral consequence of a criminal conviction ... all for constitutionally protected conduct.
 

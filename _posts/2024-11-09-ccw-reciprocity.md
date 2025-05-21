@@ -11,7 +11,7 @@ Trump announces full conceal carry reciprocity
 
 WHAT THIS MEANS:
 
-No matter which state you’re in, if you’ve got your concealed carry license, each state will still have to honor it --- for example, you have a Florida concealed carry permit - California would have to honor it.
+No matter which state you're in, if you've got your concealed carry license, each state will still have to honor it --- for example, you have a Florida concealed carry permit --- California would have to honor it.
 
 HUGE
 
