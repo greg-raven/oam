@@ -17,7 +17,7 @@ In fact, Youngkin has been a solid bet for Virginia gun rights activists.
 
 > Virginia Gov. Glenn Youngkin vetoed 30 gun control bills on Tuesday afternoon, using his perch as a Republican governor to restrain Democrats from taking the state in a leftward direction despite the party having taken full control of the legislature in November.
 >
-> “I swore an oath to defend the Constitution of the United States of America and the Constitution of Virginia, and that absolutely includes protecting the right of law-abiding Virginians to keep and bear arms,” Youngkin said in a statement.
+> "I swore an oath to defend the Constitution of the United States of America and the Constitution of Virginia, and that absolutely includes protecting the right of law-abiding Virginians to keep and bear arms," Youngkin said in a statement.
 
 [...]
 
