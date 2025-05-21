@@ -9,7 +9,7 @@ categories:
 
 More than 200 charges have been made against 20 people as part of a joint Australasian taskforce targeting motorcycle gangs.
 
-A total of 28 search warrants were executed during a week --- dubbed the “Week of Action” by Australian and New Zealand police --- between August 5 and 9.
+A total of 28 search warrants were executed during a week --- dubbed the "Week of Action" by Australian and New Zealand police --- between August 5 and 9.
 
 Police uncovered a synthetic drug laboratory in Auckland’s West Harbour and seized nearly 300kg of drugs.
 

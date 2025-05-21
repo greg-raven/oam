@@ -59,12 +59,12 @@ Although completely stupid, useless, and traitorous as a man, Biden's words and 
 
 2. Ibid.
 
-3. “Declaration of Independence,’’ https://avalon.law.yale.edu/18th_century/declare.asp
+3. "Declaration of Independence," https://avalon.law.yale.edu/18th_century/declare.asp
 
 4. https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/08/remarks-by-president-biden-on-gun-violence-prevention/
 
 5. Ibid.
 
-6. “A Declaration by the Representatives of the United Colonies of North-America, Now Met in Congress at Philadelphia, Setting Forth the Causes and Necessity of Their Taking Up Arms,” https://avalon.law.yale.edu/18th_century/declare.asp
+6. "A Declaration by the Representatives of the United Colonies of North-America, Now Met in Congress at Philadelphia, Setting Forth the Causes and Necessity of Their Taking Up Arms," https://avalon.law.yale.edu/18th_century/declare.asp
 
 Source: Michael Scheuer, non-intervention2.com/2021/04/18/resolved-keep-buying-guns-especially-ar-15s-and-like-weapons-ammunition-and-high-capacity-magazines/
