@@ -23,11 +23,11 @@ Instructors: Bob (Niez?), Chuck (Dotters?), Tracy Graham, Jenaraye Graham
 
 The [National Rifle Association](https://www.nrainstructors.org/CatalogInfo.aspx?cid=14) (AKA NRA) says this course teaches the basic knowledge, skills, and attitude essential to the safe and efficient use of a handgun for protection of self and family, and to provide information on the law-abiding individual's right to self-defense.
 
-This course is for law-abiding adult citizens and experienced shooters. Participants must demonstrate proficiency through certification or passing the pre-course assessment. Normally, the prerequisite for this class is the NRA Basics of Pistol Shooting class, but I was able to pass the pre-course assessment thanks to course instructor Edmund Swan. The eight-hour course covers firearms basics, basic home safety, the mental and physical aspects of violent confrontations, firearms law, and handgun selection. Students receive NRA materials and a completion certificate.
+This course is for law-abiding adult citizens and experienced shooters. Participants must demonstrate proficiency through certification or passing the pre-course assessment. Normally, the prerequisite for this class is the [NRA Basics of Pistol Shooting](https://basicpistol.nra.org) class, but I was able to pass the pre-course assessment thanks to course instructor Edmund Swan. The eight-hour course covers firearms basics, basic home safety, the mental and physical aspects of violent confrontations, firearms law, and handgun selection. Students receive NRA materials and a completion certificate.
 
 Signing up was a bit confusing, as first one registers for class on an NRA website, where you are asked to pay, but then you are advised to go to the registration page for the location of the class, where you are also asked to pay. As it turns out, while you do need to register with the NRA, they did not process my payment, so the fees went only to the Lion's Club (although they probably reimburse NRA in some way).
 
-My goal in taking this course was to obtain the prerequisite for future, more advanced courses. Sitting in a classroom for hours seems not as good a use of time as actually being on the range learning and practicing, but so far finding a stand-alone advanced class has proven unachievable.
+My goal in taking this course was to obtain the prerequisite for future, more advanced courses that I'm seeking. Sitting in a classroom for hours seems not as good a use of time as actually being on the range learning and practicing, but so far finding a stand-alone advanced class has proven unachievable.
 
 ![Lucerne Valley Lion's Club Shooting Range](/assets/img/lucerne-valley-lions-club-shooting-range.jpg "Lucerne Valley Lion's Club Shooting Range")
 
