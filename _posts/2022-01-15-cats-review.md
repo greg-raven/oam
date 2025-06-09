@@ -53,4 +53,4 @@ As you might expect in winter in California's high desert, the day was cold and 
 
 My takeaway is that because of the focus on weapon retention, this training seems better suited for law enforcement personnel than for civilians. Not that civilians don't need to concern themselves with weapon retention, but civilians can leave dangerous situations where cops are expected to confront them up close and personal.
 
-Greg Raven, Apple Valley, CA
+[Greg Raven](https://www.gregraven.online), Apple Valley, CA
