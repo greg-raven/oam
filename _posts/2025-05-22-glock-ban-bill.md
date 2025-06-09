@@ -7,7 +7,7 @@ tags:
 - L.A. Paredes
 ---
 
-Why has Assemblyman Jesse Gabriel (D/Encino), author of legislation to essentially ban the sale of Glock handguns in California --- kept such a low profile about a bill of such significance? Why is he not publicly pounding his chest that his AB 1127 would bust the door open for future gun bans?  Surely a bill of such consequence would pop up somewhere on his socials, but there is absolutely nothing. Is there no pride in something that is so distinctly punitive and politically biased?
+Why has Assemblyman Jesse Gabriel (D/Encino), author of legislation to essentially ban the sale of [Glock](https://us.glock.com/) handguns in California --- kept such a low profile about a bill of such significance? Why is he not publicly pounding his chest that his AB 1127 would bust the door open for future gun bans?  Surely a bill of such consequence would pop up somewhere on his socials, but there is absolutely nothing. Is there no pride in something that is so distinctly punitive and politically biased?
 
 In short, AB 1127 is a bad, bad bill.  It bans so-called "convertible pistols" and redefines semi-auto pistols as "convertible" simply because they could hypothetically be modified. No question about it --- such legislation sets up a dangerous precedent for other firearm prohibitions down the road.
 
@@ -31,6 +31,6 @@ AB 1127 has passed out of the Assembly's policy committees, and if passed by the
 
 "Every pro Second Amendment organization in the country finds this law to be egregious, a vile usurpation of the Second Amendment and everyone is planning on joining together to file a lawsuit of massive proportions against this bill," Paredes said.
 
-For an additional on-point analysis of AB 1127, [check out the story in Survival World HERE](https://www.survivalworld.com/preparedness/california-moves-forward-with-controversial-glock-ban/).
+For an additional on-point analysis of AB 1127, [check out the story in Survival World HERE]({% post_url 2025-04-24-glock-ban-moves-forward %}).
 
 Source: L.A. Paredes, gunownersca.com/2025/05/22/glock-ban-bill-all-politics-zero-safety/
