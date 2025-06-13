@@ -49,6 +49,8 @@ This classroom session also included the topics of shooting safety inside the ho
 
 One interesting tidbit was their instruction to grasp the slide, pull back, and then release it sharply to move the weapon out of slide-lock, rather than using the slide release control. Each method works, but sometimes it is faster to use the slide release control.
 
+Something not covered was the disorientation one can experience after hearing a gunshot in an enclosed space, such as a home. This may be extremely difficult to train without hearing damage, but it should be mentioned over and over because it really can be a shock to the system, at the worst possible time.
+
 ## Range lessons and practice
 
 After about three hours in the classroom, we moved out to the range, which by this time had been provisioned with water and targets. Each student had his own lane (no buddy system), although there were enough instructors to monitor students pretty well.
@@ -56,6 +58,8 @@ After about three hours in the classroom, we moved out to the range, which by th
 Students were told not to do anything unless directed to do so by an instructor. This seemed a good approach, but while it helped with line control, it was sometimes followed to an unhealthy extreme.
 
 Because students supposedly demonstrated some firearm proficiency as a prerequisite for class enrollment, there was little preliminary instruction on weapons handling, sight picture, sight alignment, grip, stance, etc. Unfortunately, many of the students seemed not to have incorporated their previous training into their repertoire, so there was a lot of poor gun handling and dismal marksmanship on display. None of the drills including presenting from the holster.
+
+Unlike many other classes, hats were not considered part of eye protection, so as long as students had on just about any type of glasses, they were allowed to shoot without a hat.
 
 One nice touch was that a majority of the shooting sessions involved two magazines loaded with six rounds, with two or three sessions demanding eight rounds. This might be a hold-over from the old revolver days (no one at this class was using a revolver, although one was using a 1911), but with some of the small "pocket" pistols having limited magazine capacity, it seemed to work well. Even so, we did a fair amount of shooting, and not as much time reloading.
 
