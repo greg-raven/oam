@@ -97,8 +97,10 @@ At the 4:30 break, I asked the instructor if we were really going to be done by 
 
 The test was three pages that mostly covered what had been presented in the class, with a couple of bizarre exceptions.
 
+![NRA class certificate](/assets/img/20250601-NRA-class-certificate.jpg "NRA class certificate")
+
 ## Takeaways
 
-As much as I liked the instructor and the treatment we received at the Lucerne Valley Lion's Club Shooting Range, this class seems as ossified as the NRA itself. There has to be a better way to teach and train shooters in self-defense.
+As much as I liked the instructor and the treatment we received at the Lucerne Valley Lion's Club Shooting Range, this class seems as ossified as the NRA itself. There has to be a better way to teach and train shooters in self-defense, as well as a better way to incorporate advanced shooters across programs.
 
 [Greg Raven](https://www.gregraven.online), Apple Valley, CA
