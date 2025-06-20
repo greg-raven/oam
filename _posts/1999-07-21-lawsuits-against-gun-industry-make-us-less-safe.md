@@ -1,10 +1,10 @@
 ---
 title: "Lawsuits against gun industry make us less safe"
-tags:
-- H. Sterling Burnett
 layout: post
 categories:
 - information
+tags:
+- H. Sterling Burnett
 ---
 
 Guns are used for self-defense somewhere between 800,000 and 3.6 million times per year ...
