@@ -11,6 +11,8 @@ An 18-year-old man learned the hard way that in Chicago, you never know who's ca
 
 According to Colion Noir, the suspect's short-lived crime spree ended in Westtown when he tried to rob a 36-year-old man who was unloading his car near Artesian Avenue. But this wasn't your average victim --- he was armed and trained.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YhYrIvikkXg?si=fboMjVSDX6E2Qxd3" title="Chicago concealed carrier ends crime spree" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 The suspect had allegedly stolen a 2025 Toyota Corolla earlier that afternoon on Chicago's West Side, then used it to pull up alongside two 27-year-old women and rob them at gunpoint, taking their phones, wallets, and purses.
 
 Just five minutes later, he made his final and fatal mistake.
