@@ -2,7 +2,7 @@
 title: "NRA basic home protection course (review)"
 layout: post
 categories:
-- other
+- review
 tags:
 - Greg Raven
 ---
