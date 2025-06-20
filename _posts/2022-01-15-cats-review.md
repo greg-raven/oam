@@ -2,7 +2,7 @@
 title: "Civilian Arms Training Source / IPDSystems Level 1 Defensive Tactical Pistol (review)"
 layout: post
 categories:
-- review
+- reviews
 tags:
 - Greg Raven
 ---
