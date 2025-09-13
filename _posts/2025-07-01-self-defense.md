@@ -3,6 +3,8 @@ title: "The Second Amendment & Self Defense"
 layout: post
 categories:
 - other
+tags:
+- Chuck Michel
 ---
 
 When things get ugly, no one is coming in time to help. You are responsible for your own safety and security. Our Forefathers knew this all too well, and they knew the critical role of self-defense in the face of civil unrest or societal collapse. So, they built protections of those natural rights into the Constitution.

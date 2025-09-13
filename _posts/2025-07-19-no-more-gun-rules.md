@@ -3,6 +3,8 @@ title: "Trump DOJ wants Supreme Court to bring down hammer on gun rules"
 layout: post
 categories:
 - information
+tags:
+- USA Today
 ---
 
 - During his 2024 campaign, President Donald Trump pledged fidelity to gun rights groups and the Second Amendment.

@@ -1,10 +1,10 @@
 ---
 title: "Two more states introduce constitutional carry measures"
-tags:
-- Chris Eger
 layout: post
 categories:
 - information
+tags:
+- Chris Eger
 ---
 
 Lawmakers in Nevada and Missouri are joining the push to bring lawful concealed handgun carry without a permit to their states.
