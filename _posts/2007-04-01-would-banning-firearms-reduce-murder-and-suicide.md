@@ -1,11 +1,11 @@
 ---
 title: "Would banning firearms reduce murder and suicide?"
-tags:
-- Don B. Kates
-- Gary Mauser
 layout: post
 categories:
 - information
+tags:
+- Don B. Kates
+- Gary Mauser
 ---
 
 - A Review of International and Some Domestic Evidence
