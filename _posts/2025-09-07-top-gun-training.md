@@ -1,10 +1,11 @@
 ---
 title: "Top Gun Training (review)"
-layout: draft
+layout: post
 categories:
-- review
+- reviews
 tags:
 - Greg Raven
+published: false
 ---
 
 Location: West End Gun Club, San Bernardino, CA
