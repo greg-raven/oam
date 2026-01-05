@@ -1,10 +1,10 @@
 ---
 title: "Right to Bear Arms"
 layout: post
-tags:
-- Charley Reese
 categories:
 - information
+tags:
+- Charley Reese
 ---
 
 More often than not Americans are propagandized rather than informed.

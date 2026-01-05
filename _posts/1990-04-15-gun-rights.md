@@ -1,10 +1,10 @@
 ---
 title: "Gun Rights"
 layout: post
-tags:
-- Don B. Kates
 categories:
 - information
+tags:
+- Don B. Kates
 ---
 
 - Hard evidence shows handguns are effective in defeating an unlawful life-threatening attack.
