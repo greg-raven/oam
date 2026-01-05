@@ -5,7 +5,6 @@ categories:
 - reviews
 tags:
 - Greg Raven
-published: false
 ---
 
 Location: West End Gun Club, San Bernardino, CA
