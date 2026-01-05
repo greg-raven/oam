@@ -1,7 +1,7 @@
 ---
 title: "Customers, staff fired back in gun store shooting; 3 dead"
 tags:
-- Associated Press
+- The Associated Press
 layout: post
 categories:
 - situations

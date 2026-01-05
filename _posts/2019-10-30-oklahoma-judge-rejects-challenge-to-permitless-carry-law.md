@@ -1,7 +1,7 @@
 ---
 title: "Oklahoma judge rejects challenge to 'permitless carry' law"
 tags:
-- Associated Press
+- The Associated Press
 layout: post
 categories:
 - CCW

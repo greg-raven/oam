@@ -1,7 +1,7 @@
 ---
 title: "Suspect in Philadelphia hospital shooting had history of gun arrests"
 tags:
-- Associated Press
+- The Associated Press
 layout: post
 categories:
 - situations

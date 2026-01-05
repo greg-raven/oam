@@ -4,7 +4,7 @@ layout: post
 categories:
 - CCW
 tags:
-- Associated Press
+- The Associated Press
 ---
 
 LOS ANGELES --- A new California law that bans people from carrying firearms in most public places was once again blocked from taking effect Saturday as a court case challenging it continues.

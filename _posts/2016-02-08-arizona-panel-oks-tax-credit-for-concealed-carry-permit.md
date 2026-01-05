@@ -1,7 +1,7 @@
 ---
 title: "Arizona panel OKs tax credit for concealed carry permit"
 tags:
-- Associated Press
+- The Associated Press
 layout: post
 categories:
 - CCW

@@ -4,7 +4,7 @@ layout: post
 categories:
 - information
 tags:
-- Associated Press
+- The Associated Press
 ---
 
 FRESNO (AP) --- A federal judge has rejected a request by the California attorney general to further delay his order overturning a 10-day waiting period for gun owners who want to buy more firearms.

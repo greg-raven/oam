@@ -1,11 +1,11 @@
 ---
 title: "Town tries to cope with school shooting"
-tags:
-- Associated Press
-- Lubbock Avalanche-Journal
 layout: post
 categories:
 - situations
+tags:
+- The Associated Press
+- Lubbock Avalanche-Journal
 ---
 
 PEARL, Miss. (AP) --- Stan Harrell swears he'll never fuss at his daughter, 16-year-old Kelly, for being late to school again. If she had been on time on Wednesday, Oct. 1, she would have been in the line of fire when the shooting started.

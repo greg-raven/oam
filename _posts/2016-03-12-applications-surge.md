@@ -4,7 +4,7 @@ layout: post
 categories:
 - CCW
 tags:
-- Associated Press
+- The Associated Press
 ---
 
 SAN FRANCISCO (AP) --- Californians have flooded several sheriff offices with applications and inquiries for permits to carry concealed guns.

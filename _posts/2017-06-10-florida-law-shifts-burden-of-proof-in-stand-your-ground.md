@@ -1,7 +1,7 @@
 ---
 title: "Florida law shifts burden of proof in 'stand your ground'"
 tags:
-- Associated Press
+- The Associated Press
 layout: post
 categories:
 - information

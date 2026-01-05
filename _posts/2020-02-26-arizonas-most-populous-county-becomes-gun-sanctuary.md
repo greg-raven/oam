@@ -1,7 +1,7 @@
 ---
 title: "Arizona's most populous county becomes gun 'sanctuary'"
 tags:
-- Associated Press
+- The Associated Press
 layout: post
 categories:
 - information

@@ -1,7 +1,7 @@
 ---
 title: "Kansas to allow carrying of concealed guns without permit"
 tags:
-- Associated Press
+- The Associated Press
 layout: post
 categories:
 - CCW
