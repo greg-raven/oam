@@ -25,4 +25,4 @@ State officials say Arizona has more than 250,000 registered carriers as of Janu
 
 © Copyright 2016 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.
 
-Source: [Newsmax.com](https://www.newsmax.com/US/US-XGR-Gun-Bills/2016/02/08/id/713345/)
+Source: Newsmax.com, newsmax.com/US/US-XGR-Gun-Bills/2016/02/08/id/713345/

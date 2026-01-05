@@ -19,4 +19,4 @@ Brownback said gun owners have shown they are responsible.
 
 But Democratic state Sen. Oletha Faust-Goudeau of Wichita said the state still should require some training.
 
-Source: Associated Press, apnews.com/3e924a671bee4f9c936321a34801e1f2/kansas-allow-carrying-concealed-guns-without-permit
+Source: The Associated Press, apnews.com/3e924a671bee4f9c936321a34801e1f2/kansas-allow-carrying-concealed-guns-without-permit

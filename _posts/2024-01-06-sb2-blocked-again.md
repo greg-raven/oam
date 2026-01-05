@@ -21,4 +21,4 @@ Newsom has positioned himself as a leader on gun control and says he will keep p
 
 The president of the California Rifle and Pistol Association, which sued to block the law, countered that "the politicians' ploy to get around the Second Amendment has been stopped for now."
 
-Source: Associated Press, via sbsun.com/2024/01/06/a-california-law-banning-the-carrying-of-firearms-in-most-public-places-is-blocked-again/
+Source: The Associated Press, via sbsun.com/2024/01/06/a-california-law-banning-the-carrying-of-firearms-in-most-public-places-is-blocked-again/

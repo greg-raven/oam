@@ -17,4 +17,4 @@ Senators had hoped to address Kasich's objections by stripping its so-called sta
 
 Kasich opposed language shifting the burden of proof in self-defense cases from defendants to prosecutors. He also criticized lawmakers for refusing to debate a "red flag" law allowing gun rights to be temporarily stripped from people who show warning signs of violence.
 
-Source: Associated Press (Fox8.com)
+Source: The Associated Press (Fox8.com)

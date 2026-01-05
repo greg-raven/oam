@@ -27,4 +27,4 @@ Gary Larson, a gun owner from Glendale, said he had never spoken at a public for
 
 [...]
 
-Source: Associated Press (H/T: [Newsmax](https://www.newsmax.com/newsfront/guns/2020/02/26/id/955919/))
+Source: The Associated Press (H/T: [Newsmax](https://www.newsmax.com/newsfront/guns/2020/02/26/id/955919/))

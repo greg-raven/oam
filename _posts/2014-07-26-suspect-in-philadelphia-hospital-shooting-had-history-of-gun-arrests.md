@@ -33,4 +33,4 @@ Silverman told police he was at his desk, behind a computer screen, when Plotts 
 
 Silverman was recuperating at home Friday. His wife said he did not want to discuss the shooting.
 
-Source: Associated Press (npr.com)
+Source: The Associated Press (npr.com)

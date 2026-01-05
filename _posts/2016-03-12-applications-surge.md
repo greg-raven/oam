@@ -37,4 +37,4 @@ Although Orange, Ventura and San Joaquin have loosened their policies by only re
 
 The ruling arises from a nationwide National Rifle Association legal campaign to scale back gun-control laws that was launched after the U.S. Supreme Court in 2008 struck down Washington D.C.'s handgun ban and ruled that every law-abiding citizen has the right to possess a handgun in the home.
 
-Source: Associated Press via cbsnews.com/losangeles/news/applications-for-concealed-gun-permits-surge-in-california/?intcid=CNM-00-10abd1h
+Source: The Associated Press via cbsnews.com/losangeles/news/applications-for-concealed-gun-permits-surge-in-california/?intcid=CNM-00-10abd1h
