@@ -28,4 +28,6 @@ For those who have had prior documented formal pistol training, including comple
 
 Students are required to bring their own firearms and ammunition as required to all classes.
 
+hat not consider part of eye protection
+
 [Greg Raven](https://www.gregraven.online), Apple Valley, CA
