@@ -1,7 +1,7 @@
 ---
 title: "Sign a petition to stop Oppose HR 5717/S. 3254 --- Federal Gunpocalypse"
 tags:
-- FPC
+- Firearms Policy Coalition
 layout: post
 categories:
 - information

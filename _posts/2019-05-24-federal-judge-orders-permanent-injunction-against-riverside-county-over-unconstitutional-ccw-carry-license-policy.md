@@ -1,7 +1,7 @@
 ---
 title: "Federal judge orders permanent injunction against Riverside County over unconstitutional 'CCW' carry license policy"
 tags:
-- FPC
+- Firearms Policy Coalition
 layout: post
 categories:
 - CCW
