@@ -13,7 +13,7 @@ BUFFALO, N.Y. --- Firearms Policy Coalition (FPC) today announced that the parti
 
 Now, as a result of the FPC lawsuit and the plaintiffs' settlement with the State of New York, the State now expressly holds the position that in-state residency or employment is not required for licensure and clearly posted this confirmation on its website, which is now obligated to state (in relevant part):
 
-> Is New York residency or employment required to apply for a firearm license?
+> **Is New York residency or employment required to apply for a firearm license?**
 >
 > No. New York law does not require residency or in-state employment to apply for a firearm license. While the Penal Law directs applicants who live or work in New York to file their firearm application in the county of residence or principal place of employment, this provision does not exclude nonresidents from applying. Licensing officers may accept applications from nonresidents, and residency is not among the eligibility criteria for being issued a firearm license. Applications from nonresidents who do not live or work in New York should be evaluated under the same standards as all others.
 
