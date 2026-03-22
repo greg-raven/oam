@@ -7,12 +7,6 @@ tags:
 - Firearms Policy Coalition
 ---
 
-February 5, 2026: The parties reached an agreement to successfully resolve FPC's federal lawsuit challenging the New York state and county defendants' laws, policies, and practices banning firearm carry by residents of other states, [_Shaffer v. Quattrone_](https://www.firearmspolicy.org/shaffer). FPC filed the case in November 2024, arguing that people "do not surrender their Second Amendment protected rights when they travel outside their home state."
-
-Source: Firearms Policy Coalition, firearmspolicy.org
-
----
-
 September 30, 2025: Federal District Court Judge Reed O'Connor issued an [opinion and order](https://assets.nationbuilder.com/firearmspolicycoalition/pages/7502/attachments/original/1759265414/35_summary_judgment_order.pdf?1759265414) siding with FPC and blocking enforcement of the federal laws preventing FPC's members from possessing and carrying firearms of ordinary United States Post Offices and surrounding Post Office properties.
 
 Source: Firearms Policy Coalition, firearmspolicy.org
