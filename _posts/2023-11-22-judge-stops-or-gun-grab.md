@@ -2,7 +2,7 @@
 title: "Judge obliterates Oregon's newest gun grab"
 layout: post
 categories:
-- information
+- litigation
 tags:
 - Victoria Taft
 ---

@@ -4,6 +4,7 @@ tags:
 - Johnathan Jones
 layout: post
 categories:
+- litigation
 - open carry
 ---
 

@@ -3,6 +3,7 @@ title: "Judge rules Illinois public transit firearms carry ban unconstitutional"
 layout: post
 categories:
 - CCW
+- litigation
 ---
 
 - The state 'failed to meet their burden to show an American tradition of firearm regulation at the time of the Founding,' he wrote.

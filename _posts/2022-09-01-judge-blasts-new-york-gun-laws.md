@@ -4,7 +4,7 @@ tags:
 - Glenn T. Suddaby
 layout: post
 categories:
-- information
+- litigation
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OlXpGOWIeug" title="Judge BLASTS New York's Gun Laws ..."></iframe>

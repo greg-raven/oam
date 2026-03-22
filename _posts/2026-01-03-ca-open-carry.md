@@ -3,6 +3,7 @@ title: "Appeals panel says California's ban on open carry of guns in more popula
 layout: post
 categories:
 - open carry
+- litigation
 tags:
 - The Associated Press
 - The San Bernardino Sun

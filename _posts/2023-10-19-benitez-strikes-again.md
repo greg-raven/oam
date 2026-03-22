@@ -2,7 +2,7 @@
 title: "Benitez strikes down California's 'assault weapons' ban ... again"
 layout: post
 categories:
-- information
+- litigation
 tags:
 - Dan Zimmerman
 ---

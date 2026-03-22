@@ -2,12 +2,12 @@
 title: "U.S. judge strikes down California ban on high-capacity gun magazines"
 layout: post
 categories:
-- information
+- litigation
 tags:
 - Jonathan Stempel
 ---
 
-(Reuters) - A federal judge in California on Friday declared that state's ban on magazines that hold more than 10 rounds of ammunition unconstitutional, saying it violated the Second Amendment rights of firearms owners.
+(Reuters) --- A federal judge in California on Friday declared that state's ban on magazines that hold more than 10 rounds of ammunition unconstitutional, saying it violated the Second Amendment rights of firearms owners.
 
 U.S. District Judge Roger Benitez in San Diego said California's "sweeping ban" went too far by preventing people from using magazines for lawful purposes, including self-defense.
 

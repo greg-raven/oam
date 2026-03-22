@@ -2,7 +2,7 @@
 title: "Federal judge strikes down decades-old California ban on assault weapons"
 layout: post
 categories:
-- information
+- litigation
 tags:
 - CNN
 - Taylor Romine

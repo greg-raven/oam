@@ -2,7 +2,7 @@
 title: "9th Circuit Panel Upholds Injunction in Junior Sports v. Bonta"
 layout: post
 categories:
-- information
+- litigation
 tags:
 - Second Amendment Foundation
 ---

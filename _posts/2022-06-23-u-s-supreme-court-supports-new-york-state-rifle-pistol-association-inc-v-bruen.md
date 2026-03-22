@@ -5,6 +5,7 @@ tags:
 layout: post
 categories:
 - CCW
+- litigation
 - open carry
 ---
 

@@ -3,6 +3,7 @@ title: "Federal judge strikes down SB2"
 layout: post
 categories:
 - CCW
+- litigation
 tags:
 - CRPA
 ---

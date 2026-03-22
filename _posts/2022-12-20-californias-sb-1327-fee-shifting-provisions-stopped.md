@@ -4,7 +4,7 @@ tags:
 - CRPA
 layout: post
 categories:
-- information
+- litigation
 ---
 
 In an order issued last night, [Judge Roger Benitez enjoined the fee shifting provisions of SB 1327](https://www.trigger-treat.com/20221219-south-bay-rod-and-gun-v-bonta/), a law Governor Newsom patterned after a Texas law banning abortion. This is a HUGE WIN for California's lawful gun owners as it stops the state's attempt to make its laws impervious to legal challenge.

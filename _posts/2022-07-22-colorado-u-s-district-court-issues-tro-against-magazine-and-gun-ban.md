@@ -4,7 +4,7 @@ tags:
 - David Kopel
 layout: post
 categories:
-- information
+- litigation
 ---
 
 - Ruling against town of Superior's law is the first post-[Bruen decision](https://www.trigger-treat.com/20220623-nysrpa-v-bruen/index.html) on arms bans

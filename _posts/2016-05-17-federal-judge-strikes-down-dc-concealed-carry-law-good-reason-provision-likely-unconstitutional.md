@@ -5,6 +5,7 @@ tags:
 layout: post
 categories:
 - CCW
+- litigation
 ---
 
 The fight over Second Amendment rights in the nation's capital has entered a new phase. A federal judge has ruled that the city's concealed carry law is likely unconstitutional, citing the "good reason provision" in the injunction order on Tuesday (via WaPo):

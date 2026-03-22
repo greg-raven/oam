@@ -4,7 +4,7 @@ tags:
 - Roger T. Benitez
 layout: post
 categories:
-- information
+- litigation
 ---
 
 [...] [a]s Heller explains, the Second Amendment takes certain policy choices and removes them beyond the realm of debate. Disarming California's law-abiding citizenry is not a constitutionally-permissible policy choice.

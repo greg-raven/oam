@@ -4,7 +4,7 @@ tags:
 - Gun Owners of California
 layout: post
 categories:
-- other
+- litigation
 ---
 
 On Monday, September 26, 2022, Judge Roger T. Benitez proved once again that he is ten steps ahead of the California government and its anti-gun leaders when he re-issued his ruling to protect "traditional" magazine owners from prosecution.

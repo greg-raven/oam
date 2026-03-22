@@ -3,6 +3,7 @@ title: "Second Circuit rules legal gun ownership not probable cause for warrantl
 layout: post
 categories:
 - CCW
+- litigation
 tags:
 - Cam Edwards
 ---

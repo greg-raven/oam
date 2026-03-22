@@ -3,11 +3,12 @@ title: "FPC prevails in New York non-resident carry ban lawsuit"
 layout: post
 categories:
 - CCW
+- litigation
 tags:
 - Firearms Policy Coalition
 ---
 
-- Encourages People to Apply for a License - Firearms Policy Coalition
+- Encourages People to Apply for a License --- Firearms Policy Coalition
 
 BUFFALO, N.Y. --- Firearms Policy Coalition (FPC) today announced that the parties have reached an agreement to successfully resolve the plaintiffs' federal lawsuit challenging the New York state and county defendants' laws, policies, and practices banning firearm carry by residents of other states, Shaffer v. Quattrone. FPC filed the case in November 2024, arguing that people "do not surrender their Second Amendment protected rights when they travel outside their home state."
 
@@ -27,6 +28,6 @@ Filings in Shaffer v. Quattrone can be viewed at firearmspolicy.org/shaffer. FPC
 
 **About Firearms Policy Coalition**
 
-Firearms Policy Coalition (FPC) is a nonprofit membership organization that exists to create a world of maximal individual liberty and eliminate unconstitutional gun control laws. FPC works—and wins—for the People through high-impact strategic litigation, groundbreaking research, legislative and regulatory advocacy, grassroots activism, education, and public engagement. FPC's legal division, FPC Law, is the nation's leading initiative dedicated to restoring the right to keep and bear arms across the United States. To learn more about how FPC is working—and winning—for the People, sign up for FPC news alerts at firearmspolicy.org and follow FPC on X, Instagram, and Facebook.
+Firearms Policy Coalition (FPC) is a nonprofit membership organization that exists to create a world of maximal individual liberty and eliminate unconstitutional gun control laws. FPC works --- and wins --- for the People through high-impact strategic litigation, groundbreaking research, legislative and regulatory advocacy, grassroots activism, education, and public engagement. FPC's legal division, FPC Law, is the nation's leading initiative dedicated to restoring the right to keep and bear arms across the United States. To learn more about how FPC is working --- and winning --- for the People, sign up for FPC news alerts at firearmspolicy.org and follow FPC on X, Instagram, and Facebook.
 
 Source: [FPC Prevails in New York Non-Resident Carry Ban Lawsuit, Encourages People to Apply for a License](https://www.firearmspolicy.org/fpc-prevails-in-new-york-non-resident-carry-ban-lawsuit-encourages-people-to-apply-for-a-license)

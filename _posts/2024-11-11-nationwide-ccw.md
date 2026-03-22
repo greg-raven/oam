@@ -17,7 +17,7 @@ Texas Gun Rights posted a video of Trump's reciprocity announcement to X:
 
 On September 18, 2015, just months after Trump launched his first presidential campaign, Breitbart News pointed to policy papers wherein he said:
 
-> The right of self-defense doesn't stop at the end of your driveway. That's why I have a concealed carry permit and why tens of millions of Americans do too. That permit should be valid in all 50 states. A driver's license works in every state, so it's common sense that a concealed carry permit should work in every state. If we can do that for driving – which is a privilege, not a right – then surely we can do that for concealed carry, which is a right, not a privilege.
+> The right of self-defense doesn't stop at the end of your driveway. That's why I have a concealed carry permit and why tens of millions of Americans do too. That permit should be valid in all 50 states. A driver's license works in every state, so it's common sense that a concealed carry permit should work in every state. If we can do that for driving --- which is a privilege, not a right --- then surely we can do that for concealed carry, which is a right, not a privilege.
 
 And during his 2020 presidential campaign Trump continued to support national reciprocity. During an interview with the NRA's First Freedom, Trump was asked, "Mr. President, each state's driver's license is honored across this great nation, yet a permit to carry a concealed gun --- which, in contrast, is a right specifically protected in the U.S. Bill of Rights --- is often not respected by other states. Will you support a national reciprocity act so that law-abiding gun owners can more easily travel with their freedom?"
 

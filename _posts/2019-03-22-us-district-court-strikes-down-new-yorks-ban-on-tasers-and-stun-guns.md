@@ -1,15 +1,15 @@
 ---
-title: "US District Court strikes down New York's ban on TASERs and stun guns"
+title: "U.S. District Court strikes down New York's ban on TASERs and stun guns"
 tags:
 - Dan Zimmerman
 layout: post
 categories:
-- information
+- litigation
 ---
 
 New York, being opposed to citizens having the ability to adequately defend themselves, either within our outside their homes, has had a longtime ban on the possession of electronic dart (TASER) and stun guns. Owning one is a misdemeanor and displaying or threatening to use one is a felony.
 
-But not any more. In a decision announced today, US District Court Judge David N. Hurd has struck down the state's ban under the Heller decision, ruling that the prohibition is a violation of the Second Amendment.
+But not any more. In a decision announced today, U.S. District Court Judge David N. Hurd has struck down the state's ban under the Heller decision, ruling that the prohibition is a violation of the Second Amendment.
 
 As Judge Hurd wrote ...
 

@@ -2,7 +2,7 @@
 title: "Federal judge clobbers California's silly ban on billy clubs in devastating ruling"
 layout: post
 categories:
-- information
+- litigation
 tags:
 - Jeff Charles
 ---

@@ -2,7 +2,7 @@
 title: "Benitez upholds Rhode v. Bonta"
 layout: post
 categories:
-- information
+- litigation
 tags:
 - CRPA
 ---

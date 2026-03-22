@@ -11,7 +11,7 @@ A three-judge panel from the United States Court of Appeals for the Ninth Circui
 
 The three judges on the panel were George W. Bush appointee Carlos T. Bea and Donald Trump appointees Daniel P. Collins and Kenneth K. Lee.
 
-The case, Teter v. Lopez, was brought by two law-abiding citizens–Andred Teter and James Grell --- who wanted to carry butterfly knives for self-defense.
+The case, Teter v. Lopez, was brought by two law-abiding citizens --- Andred Teter and James Grell --- who wanted to carry butterfly knives for self-defense.
 
 Judge Alan C. Kay, of the United States District Court for the District of Hawaii, ruled in favor of the prohibition against butterflies and the case was appealed to the Ninth Circuit.
 

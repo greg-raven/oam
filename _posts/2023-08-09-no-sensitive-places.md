@@ -13,11 +13,11 @@ A spot-on yet unexpected ruling from an Obama-appointed judge in Hawaii's Federa
 
 In the angry aftermath of last summer's Bruen decision, Left-leaning states immediately began pushing back against the pro-2A ruling by introducing legislation that declared vast areas to be "sensitive places," thus prohibiting lawful CCW holders from carrying a firearm.  Hawaii's SB 1230 did just that, and Wolford v. Lopez, was brought forth by the Hawaii Firearms Coalition to challenge the law from taking effect.
 
-[Gun Owners of California](https://www.gunownersca.com) (GOC), [Gun Owners of America](https://www.gunowners.org) (GOA), and [Gun Owners Foundation](https://foundation.gunowners.org) (GOF) – along with valued partners at the [Second Amendment Law Center](https://www.2alc.org) – jumped into the legal fray with a powerful amicus (friend of the court) brief – and got a big win yesterday.
+[Gun Owners of California](https://www.gunownersca.com) (GOC), [Gun Owners of America](https://www.gunowners.org) (GOA), and [Gun Owners Foundation](https://foundation.gunowners.org) (GOF) --- along with valued partners at the [Second Amendment Law Center](https://www.2alc.org) --- jumped into the legal fray with a powerful amicus (friend of the court) brief --- and got a big win yesterday.
 
 Judge Kobayashi quoted our brief in her 91-page decision, which was key in securing this ruling:
 
-> "According to the GOA [and others] Amicus Brief, the vast majority of individuals in the United States with concealed carry permits are law-abiding. See GOA Amicus Brief at 20–25 (discussing the statistics of people with concealed carry permits to support the proposition that people with concealed carry permits are significantly less likely to commit gun-related crimes) ..."
+> "According to the GOA [and others] Amicus Brief, the vast majority of individuals in the United States with concealed carry permits are law-abiding. See GOA Amicus Brief at 20--25 (discussing the statistics of people with concealed carry permits to support the proposition that people with concealed carry permits are significantly less likely to commit gun-related crimes) ..."
 
 It is important to note that the Hawaii court is within the 9th Circuit Court of Appeals, which has jurisdiction over the state of California, making this legal finding more significant than other similar federal judgments in states such as New Jersey and New York.
 

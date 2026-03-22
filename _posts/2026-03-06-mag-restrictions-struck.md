@@ -2,7 +2,7 @@
 title: "CCRKBA hails D.C. appeals court ruling striking district mag ban"
 layout: post
 categories:
-- information
+- litigation
 tags:
 - CCRKBA
 ---
@@ -21,4 +21,4 @@ The significance of the federal government's flip cannot be understated, Gottlie
 
 Judge Deahl was joined in his opinion by Judge Catherine Friend Easterly, a Barack Obama appointee. Writing a dissent was Chief Judge Anna Blackburne-Rigsby. There has been no announcement from the District about whether it will appeal.
 
-Copyright &copy; 1997-2024 Citizens Committee for the Right to Keep and Bear Arms. All Rights Reserved. ccrkba.org/2026/03/06/ccrkba-hails-d-c-appeals-court-ruling-striking-district-mag-ban/
+Source: The Citizens Committee for the Right to Keep and Bear Arms, ccrkba.org/2026/03/06/ccrkba-hails-d-c-appeals-court-ruling-striking-district-mag-ban/
