@@ -39,7 +39,7 @@ Inside the classroom, two nice ladies greeted me at the door, got me signed in, 
 
 Tables, chairs, and materials were lined up inside, facing the front of the room that had a display area and a large screen for the ceiling-mounted projector. Even nicer, the chairs each had wheels on them, so you could move them easily on the carpet.
 
-The materials included the 200-page *NRA Guide: Basics of Personal Protection Inside The Home* and the 60-page *[NRA MQP / Marksmanship Qualification Program](https://mqp.nra.org).* A fair portion of the contents of the *Guide* was covered in the classroom portions, while the *NRA MQP* was there for future reference. Each publication was printed on high-quality stock, and they were ours to take home. Doughnuts and fruit were available on serving tables.
+The materials included the 200-page *NRA Guide: Basics of Personal Protection Inside The Home* and the 60-page *[NRA MQP / Marksmanship Qualification Program](https://mqp.nra.org).* A fair portion of the contents of the *Guide* was covered in the classroom portions, while the *NRA MQP* was there for future reference. Each publication was printed on high-quality stock, and were ours to take home. Doughnuts and fruit were available on serving tables.
 
 ![NRA Guide: Basics of Personal Protection Inside The Home](/assets/img/nra-boppith.jpg "NRA Guide: Basics of Personal Protection Inside The Home")
 
