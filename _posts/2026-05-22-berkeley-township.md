@@ -1,5 +1,5 @@
 ---
-title: "Berkeley Township Becomes 23rd N.J. municipality to refund CCW fee"
+title: "Berkeley Township becomes 23rd N.J. municipality to refund CCW fee"
 layout: post
 categories:
 - CCW
