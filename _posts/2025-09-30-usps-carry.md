@@ -8,7 +8,7 @@ tags:
 - SAF
 ---
 
-BELLEVUE, Wash. --- Today, the U.S. District Court for the Northern District of Texas has ruled in favor of the Second Amendment Foundation (SAF) and its partners in a case challenging the ban on possessing and carrying firearms in United States Post Offices.
+The U.S. District Court for the Northern District of Texas has ruled in favor of the Second Amendment Foundation (SAF) and its partners in a case challenging the ban on possessing and carrying firearms in United States Post Offices.
 
 In granting summary judgment in favor of SAF, the court granted both declaratory and injunctive relief, declaring the ban unconstitutional and preventing its enforcement for the plaintiffs, including SAF members. Originally filed in June 2024, the lawsuit challenges the ban on firearms carry in U.S. Post Offices and on postal property. SAF is joined in the case, FPC v. Bondi, by the Firearms Policy Coalition and two private citizens.
 

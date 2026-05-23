@@ -7,7 +7,7 @@ tags:
 - CCRKBA
 ---
 
-BELLEVUE, WA --- A new "study" by Everytown for Gun Safety which claims that 298,000 lives could be saved if all states adopted strict gun control policies like California is "misleading at best," the Citizens Committee for the Right to Keep and Bear Arms said in reaction.
+A new "study" by Everytown for Gun Safety which claims that 298,000 lives could be saved if all states adopted strict gun control policies like California is "misleading at best," the Citizens Committee for the Right to Keep and Bear Arms said in reaction.
 
 "While Everytown says California is the top state for so-called 'gun safety policies,' the homicide body count tells a different story," said CCRKBA Chairman Alan Gottlieb. "Based on 2022 data, the most recent year for which statistics are available, California reported the most murders of any state in the nation. In second and third place for this year are New York and Illinois, which simply defies logic.
 

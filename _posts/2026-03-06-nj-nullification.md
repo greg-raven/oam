@@ -7,7 +7,7 @@ tags:
 - CCRKBA
 ---
 
-BELLEVUE, WA --- The Citizens Committee for the Right to Keep and Bear Arms is congratulating the community of West Milford, N.J. for becoming the 18th municipality in the Garden State to refund all or part of fees required to obtain a cerry permit under a project launched by CCRKBA, the National Rifle Association and New Jersey Firearm Owners Syndicate.
+The Citizens Committee for the Right to Keep and Bear Arms is congratulating the community of West Milford, N.J. for becoming the 18th municipality in the Garden State to refund all or part of fees required to obtain a cerry permit under a project launched by CCRKBA, the National Rifle Association and New Jersey Firearm Owners Syndicate.
 
 "Seeing this historic movement continue in my home state of New Jersey, an anti-liberty viper pit, shows that progress can be made anywhere," said CCRKBA Director John Petrolino. "The Committee having this opportunity to work alongside great organizations like the NRA-ILA and NJFOS in this shared initiative only further galvanizes these relationships for the better good of the Second Amendment at large. I certainly look forward to seeing these groups --- and others --- join us in future projects as we usher in a new era of firearms advocacy."
 

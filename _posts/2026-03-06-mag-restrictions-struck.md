@@ -7,7 +7,7 @@ tags:
 - CCRKBA
 ---
 
-BELLEVUE, WA &mdash; The Citizens Committee for the Right to Keep and Bear Arms (CCRKBA) today is celebrating a [2-1 ruling](https://www.dccourts.gov/sites/default/files/2026-03/Benson%20v%20US%20et%20al%2023-CV-0541%20FINAL.pdf) by the District of Columbia Court of Appeals which strikes down the ban on so-called "large-capacity magazines" in the District because it violates the Second Amendment.
+The Citizens Committee for the Right to Keep and Bear Arms (CCRKBA) today is celebrating a [2-1 ruling](https://www.dccourts.gov/sites/default/files/2026-03/Benson%20v%20US%20et%20al%2023-CV-0541%20FINAL.pdf) by the District of Columbia Court of Appeals which strikes down the ban on so-called "large-capacity magazines" in the District because it violates the Second Amendment.
 
 The case, known as *Benson v. U.S.,* could still have more hurdles, such as an appeal by the District, seeking an en banc review. In the meantime, however, CCRKBA Chairman Alan Gottlieb is hailing the ruling as a major step forward, simply because of the influence it might have. Such magazine bans exist in some states, and they are all in the legal crosshairs.
 

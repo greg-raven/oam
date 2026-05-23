@@ -3,6 +3,7 @@ title: "Victory in New York 'sensitive places' carry ban"
 layout: post
 categories:
 - CCW
+- litigation
 tags:
 - Second Amendment Foundation
 - Firearms Policy Coalition

@@ -8,7 +8,7 @@ tags:
 - SAF
 ---
 
-BELLEVUE, Wash. --- In a case that has far-reaching implications, a District Court Judge in Texas held in favor of the Second Amendment Foundation (SAF) and its partners, confirming that all current and future members are covered by the injunction granted in the case which prevents the enforcement of the post office carry ban at most ordinary locations.
+In a case that has far-reaching implications, a District Court Judge in Texas held in favor of the Second Amendment Foundation (SAF) and its partners, confirming that all current and future members are covered by the injunction granted in the case which prevents the enforcement of the post office carry ban at most ordinary locations.
 
 In September, the Northern District of Texas ruled in favor of SAF and declared the carry ban on post office property unconstitutional, enjoining its enforcement against the plaintiffs, including SAF and its members. In response to the ruling, the government filed a motion to limit the scope of the injunction to only the named individual plaintiffs and to members of SAF and its partner organizations who were members when the complaint was originally filed and who have been identified and verified.
 

@@ -7,7 +7,7 @@ tags:
 - Second Amendment Foundation
 ---
 
-BELLEVUE, WA --- July 7, 2025 --- A three-judge panel of the Ninth U.S. Circuit Court of Appeals has unanimously upheld an earlier preliminary injunction against a section of the California Business & Professional Code which had been used by the state to stifle gun-related advertising in Junior Sports magazine, in a case brought by the Second Amendment Foundation and others. The case is known as Junior Sports Magazines v. Bonta.
+A three-judge panel of the Ninth U.S. Circuit Court of Appeals has unanimously upheld an earlier preliminary injunction against a section of the California Business & Professional Code which had been used by the state to stifle gun-related advertising in Junior Sports magazine, in a case brought by the Second Amendment Foundation and others. The case is known as Junior Sports Magazines v. Bonta.
 
 "We are thrilled that the Ninth Circuit clarified today that its decision striking down California's Gun Advertising Ban applied to the law in its entirety," said Bill Sack, [Second Amendment Foundation](https://saf.org) (SAF) director of Legal Operations. "The First Amendment provides the protection to advertise constitutionally protected arms just as the Second Amendment codifies the protection to keep and bear them."
 
