@@ -31,3 +31,14 @@ Students are required to bring their own firearms and ammunition as required to 
 hat not consider part of eye protection
 
 [Greg Raven](https://www.gregraven.online), Apple Valley, CA
+
+how to pick up a gun
+
+how to switch hands
+
+how to shoot while moving
+
+accuracy first
+
+competitions
+
