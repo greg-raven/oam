@@ -71,27 +71,27 @@ layout: page
 
 ## My other sites
 
-- [Corax / family history](https://www.corax.org/)
+- [Corax / family history](https://www.corax.org)
 
-- [Department21 / Internet funnies](https://www.department21.org/)
+- [Department21 / Internet funnies](https://www.department21.org)
 
-- [Greg Raven INFO / All About me](https://www.gregraven.info/)
+- [Greg Raven INFO / All About me](https://www.gregraven.info)
 
-- [Greg Raven NET / The Other Side](https://www.gregraven.net/)
+- [Greg Raven NET / The Other Side](https://www.gregraven.net)
 
-- [Greg Raven ONLINE / Big links site](https://www.gregraven.online/)
+- [Greg Raven ONLINE / Big links site](https://www.gregraven.online)
 
-- [Greg Raven ORG / main site](https://www.gregraven.org/)
+- [Greg Raven ORG / main site](https://www.gregraven.org)
 
-- [Greg Raven US / Political correspondence and commentary blog](https://www.gregraven.us/)
+- [Greg Raven US / Political correspondence and commentary blog](https://www.gregraven.us)
 
-- [Greg Raven WEBSITE / Uncommon Sense](https://www.gregraven.website/)
+- [Greg Raven WEBSITE / Uncommon Sense](https://www.gregraven.website)
 
-- [Hate Facts about illegal immigration](https://www.hatefacts.com/)
+- [Hate Facts about illegal immigration](https://www.hatefacts.com)
 
-- [High Desert Cycling](https://www.hdcycling.org/)
+- [High Desert Cycling](https://www.hdcycling.org)
 
-- [High Desert Tennis](https://www.hdtennis.com/)
+- [High Desert Tennis](https://www.hdtennis.com)
 
 - [Monetary Realism](https://www.infogristle.com)
 
